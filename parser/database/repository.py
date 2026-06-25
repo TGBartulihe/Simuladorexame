@@ -1,14 +1,10 @@
 from __future__ import annotations
 
+import json
 import sqlite3
-from typing import Iterable, Optional
 
 from parser.database import Database
-from parser.models import (
-    Document,
-    Exam,
-    Question,
-)
+from parser.models import Question
 
 
 class Repository:
@@ -17,21 +13,21 @@ class Repository:
 
         self.db = Database()
 
-    # ============================================================
+    # ==========================================================
     # DOCUMENTS
-    # ============================================================
+    # ==========================================================
 
     def insert_document(
         self,
-        filename: str,
-        document_type: str,
-        extracted_text: str,
-        sha256: str | None = None,
-        subject: str | None = None,
-        year: int | None = None,
-        phase: str | None = None,
-        code: str | None = None,
-    ) -> int:
+        filename,
+        document_type,
+        extracted_text,
+        sha256=None,
+        subject=None,
+        year=None,
+        phase=None,
+        code=None,
+    ):
 
         cursor = self.db.execute(
             """
@@ -66,74 +62,66 @@ class Repository:
 
         return cursor.lastrowid
 
-    def get_document(
-        self,
-        document_id: int,
-    ) -> Optional[sqlite3.Row]:
+    def get_document(self, document_id):
 
         return self.db.execute(
             """
             SELECT *
+
             FROM documents
+
             WHERE id=?
             """,
             (document_id,),
         ).fetchone()
 
-    def get_document_by_filename(
-        self,
-        filename: str,
-    ) -> Optional[sqlite3.Row]:
+    def get_document_by_filename(self, filename):
 
         return self.db.execute(
             """
             SELECT *
+
             FROM documents
+
             WHERE filename=?
             """,
             (filename,),
         ).fetchone()
 
-    # ============================================================
+    # ==========================================================
     # EXAMS
-    # ============================================================
+    # ==========================================================
 
     def insert_exam(
 
         self,
 
-        exam_key: str,
+        exam_key,
 
-        subject: str,
+        subject,
 
-        code: str,
+        code,
 
-        year: int,
+        year,
 
-        phase: str,
+        phase,
 
-        exam_document_id: int,
+        exam_document_id,
 
-        criteria_document_id: int | None,
+        criteria_document_id,
 
-    ) -> int:
+    ):
 
         cursor = self.db.execute(
             """
             INSERT INTO exams(
 
                 exam_key,
-
                 subject,
-
                 code,
-
                 year,
-
                 phase,
-
                 exam_document_id,
-
                 criteria_document_id
 
             )
@@ -166,17 +154,12 @@ class Repository:
             ORDER BY
 
                 year DESC,
-
                 subject,
-
                 phase
             """
         ).fetchall()
 
-    def get_exam(
-        self,
-        exam_id: int,
-    ):
+    def get_exam(self, exam_id):
 
         return self.db.execute(
             """
@@ -189,21 +172,21 @@ class Repository:
             (exam_id,),
         ).fetchone()
 
-    # ============================================================
+    # ==========================================================
     # GROUPS
-    # ============================================================
+    # ==========================================================
 
     def insert_group(
 
         self,
 
-        exam_id: int,
+        exam_id,
 
-        group_name: str,
+        group_name,
 
-        display_order: int,
+        display_order,
 
-    ) -> int:
+    ):
 
         cursor = self.db.execute(
             """
@@ -230,21 +213,21 @@ class Repository:
 
         return cursor.lastrowid
 
-    # ============================================================
+    # ==========================================================
     # QUESTIONS
-    # ============================================================
+    # ==========================================================
 
     def insert_question(
 
         self,
 
-        exam_id: int,
+        exam_id,
 
-        group_id: int | None,
+        group_id,
 
         question: Question,
 
-    ) -> int:
+    ):
 
         cursor = self.db.execute(
             """
@@ -256,57 +239,171 @@ class Repository:
 
                 question_number,
 
-                statement
+                statement,
+
+                question_type,
+
+                difficulty,
+
+                bloom_level,
+
+                topic
 
             )
 
-            VALUES(?,?,?,?)
+            VALUES(?,?,?,?,?,?,?,?)
             """,
             (
                 exam_id,
                 group_id,
                 question.number,
                 question.statement,
+                question.metadata.get("question_type"),
+                question.metadata.get("difficulty"),
+                question.metadata.get("bloom"),
+                question.metadata.get("topic"),
             ),
         )
 
+        question_id = cursor.lastrowid
+
+        #
+        # alternativas
+        #
+
+        for choice in question.choices:
+
+            self.insert_choice(
+
+                question_id,
+
+                choice["letter"],
+
+                choice["text"],
+
+                choice.get("correct", False),
+
+            )
+
+        #
+        # critérios
+        #
+
+        if question.criteria:
+
+            self.save_criteria(
+
+                question_id,
+
+                question.criteria,
+
+            )
+
         self.db.commit()
 
-        return cursor.lastrowid
+        return question_id
+
+    # ==========================================================
+    # QUERY COMPLETA
+    # ==========================================================
 
     def list_questions(
+
         self,
-        exam_id: int,
+
+        exam_id,
+
     ):
 
-        return self.db.execute(
+        rows = self.db.execute(
             """
-            SELECT *
+            SELECT
 
-            FROM questions
+                q.id,
 
-            WHERE exam_id=?
+                q.exam_id,
 
-            ORDER BY id
+                q.group_id,
+
+                q.question_number,
+
+                q.statement,
+
+                q.question_type,
+
+                q.max_points,
+
+                q.difficulty,
+
+                q.bloom_level,
+
+                q.topic,
+
+                c.criteria_text
+
+            FROM questions q
+
+            LEFT JOIN criteria c
+
+                ON c.question_id=q.id
+
+            WHERE
+
+                q.exam_id=?
+
+            ORDER BY
+
+                q.question_number
             """,
             (exam_id,),
         ).fetchall()
 
-    # ============================================================
+        return rows
+
+    def get_question(
+
+        self,
+
+        question_id,
+
+    ):
+
+        return self.db.execute(
+            """
+            SELECT
+
+                q.*,
+
+                c.criteria_text
+
+            FROM questions q
+
+            LEFT JOIN criteria c
+
+                ON c.question_id=q.id
+
+            WHERE
+
+                q.id=?
+            """,
+            (question_id,),
+        ).fetchone()
+
+    # ==========================================================
     # CHOICES
-    # ============================================================
+    # ==========================================================
 
     def insert_choice(
 
         self,
 
-        question_id: int,
+        question_id,
 
-        letter: str,
+        letter,
 
-        text: str,
+        text,
 
-        correct: bool = False,
+        correct=False,
 
     ):
 
@@ -334,17 +431,38 @@ class Repository:
             ),
         )
 
-    # ============================================================
+    def list_choices(
+
+        self,
+
+        question_id,
+
+    ):
+
+        return self.db.execute(
+            """
+            SELECT *
+
+            FROM choices
+
+            WHERE question_id=?
+
+            ORDER BY letter
+            """,
+            (question_id,),
+        ).fetchall()
+
+    # ==========================================================
     # CRITERIA
-    # ============================================================
+    # ==========================================================
 
     def save_criteria(
 
         self,
 
-        question_id: int,
+        question_id,
 
-        criteria_text: str,
+        criteria_text,
 
     ):
 
@@ -364,7 +482,7 @@ class Repository:
 
             DO UPDATE SET
 
-            criteria_text=excluded.criteria_text
+                criteria_text=excluded.criteria_text
             """,
             (
                 question_id,
@@ -372,23 +490,21 @@ class Repository:
             ),
         )
 
-        self.db.commit()
-
-    # ============================================================
+    # ==========================================================
     # AI CACHE
-    # ============================================================
+    # ==========================================================
 
     def save_ai_cache(
 
         self,
 
-        question_id: int,
+        question_id,
 
-        model: str,
+        model,
 
-        prompt_hash: str,
+        prompt_hash,
 
-        json_result: str,
+        json_result,
 
     ):
 
@@ -429,8 +545,11 @@ class Repository:
         self.db.commit()
 
     def get_ai_cache(
+
         self,
-        question_id: int,
+
+        question_id,
+
     ):
 
         return self.db.execute(
@@ -444,7 +563,7 @@ class Repository:
             (question_id,),
         ).fetchone()
 
-    # ============================================================
+    # ==========================================================
 
     def close(self):
 
