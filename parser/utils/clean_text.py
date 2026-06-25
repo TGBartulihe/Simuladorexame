@@ -8,10 +8,27 @@ PAGE_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
+# CORREÇÃO — bug encontrado lendo o PDF original de um exame (Biologia e
+# Geologia, 2025, 1.ª fase): o padrão "IAVE.*" e "INSTITUTO.*", sem
+# ancoragem ao início da linha, removiam QUALQUER linha que contivesse
+# essas palavras em qualquer posição — não só o timbre institucional do
+# cabeçalho ("IAVE — INSTITUTO DE AVALIAÇÃO EDUCATIVA, I.P."), mas também
+# enunciados legítimos que mencionam outras instituições de passagem.
+# Caso real: a questão "4." do GRUPO III começava com "De acordo com o
+# Instituto Português do Mar e da Atmosfera (IPMA)..." — a palavra
+# "Instituto" ali é um substantivo comum dentro do enunciado, não o
+# timbre da prova, mas o padrão antigo a removia inteira, fazendo a
+# questão 4 inteira desaparecer silenciosamente (a linha com o "4."
+# inicial era exatamente a removida, então a questão nem era detectada
+# como existente pelo parser de questões mais adiante no pipeline).
+#
+# A correção ancora cada padrão ao INÍCIO da linha (^\s*) e usa o texto
+# específico do timbre real do IAVE, em vez de uma palavra genérica que
+# pode aparecer em qualquer enunciado.
 HEADER_PATTERNS = [
-    r"Prova\s+\d+.*?Página\s+\d+\s*/\s*\d+",
-    r"IAVE.*",
-    r"INSTITUTO.*",
+    r"^\s*Prova\s+\d+.*?Página\s+\d+\s*/\s*\d+",
+    r"^\s*IAVE(?:\s|$)",
+    r"^\s*INSTITUTO\s+DE\s+AVALIA[ÇC][ÃA]O\s+EDUCATIVA",
 ]
 
 HEADER_REGEX = [

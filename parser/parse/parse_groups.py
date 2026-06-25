@@ -3,6 +3,7 @@ from __future__ import annotations
 import re
 
 from parser.models import Group, Page
+from parser.utils.question_boundaries import truncate_at_exam_end
 
 
 GROUP_PATTERN = re.compile(
@@ -15,6 +16,16 @@ def parse_groups(
     pages: list[Page],
 ) -> list[Group]:
     full_text = "\n".join(page.text for page in pages)
+
+    # CORREÇÃO — bug encontrado lendo o PDF original de um exame (Biologia
+    # e Geologia, 2025, 1.ª fase): o IAVE imprime, depois da palavra "FIM",
+    # um anexo com a tabela de cotações de toda a prova. Esse anexo ficava
+    # colado ao final do ÚLTIMO grupo (normalmente o último grupo da
+    # prova, ex: GRUPO III), porque nada delimitava onde o grupo "termina"
+    # antes do anexo. truncate_at_exam_end() corta no marcador "FIM" (ou
+    # "COTAÇÕES" como fallback) ANTES de procurar os grupos, então o
+    # anexo nunca chega a fazer parte de grupo/questão nenhum.
+    full_text = truncate_at_exam_end(full_text)
 
     matches = list(GROUP_PATTERN.finditer(full_text))
 

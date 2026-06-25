@@ -1,25 +1,8 @@
 from __future__ import annotations
 
-import re
-
 from parser.models import Group, Question
 from parser.utils.extract_choices import extract_choices
-
-
-QUESTION_PATTERN = re.compile(
-    r"""
-    (?m)
-    ^
-    \s*
-    (
-        (?:[1-9][0-9]?)
-        (?:\.[1-9][0-9]?)?
-    )
-    \.
-    \s+
-    """,
-    re.VERBOSE,
-)
+from parser.utils.question_boundaries import find_question_starts
 
 
 MIN_SIZE = 120
@@ -48,9 +31,15 @@ class QuestionParser:
         exam_id: int,
         group: Group,
     ) -> list[Question]:
-        matches = list(
-            QUESTION_PATTERN.finditer(group.text)
-        )
+        # CORREÇÃO: antes usava QUESTION_PATTERN local, que casava
+        # qualquer linha "N. " — incluindo a tabela-resumo de cotações da
+        # prova ("1. 4. 6. 7. ... Cotação (em pontos) ..."), capturada
+        # erradamente como enunciado da questão 1 em 22 casos no banco
+        # atual. find_question_starts() já filtra isso (ver
+        # parser/utils/question_boundaries.py) e também unifica a regra
+        # com extract_contexts.py, que antes tinha seu próprio regex
+        # quase-idêntico (QUESTION_START) e podia divergir deste.
+        matches = find_question_starts(group.text)
 
         if not matches:
             return []

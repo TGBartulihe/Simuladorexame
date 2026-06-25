@@ -1,0 +1,76 @@
+GRUPO III
+No dia 6 de fevereiro de 2023, ocorreram dois grandes sismos com epicentros na Turquia, que 
+atingiram, sobretudo, a região entre a Turquia e a Síria. O enquadramento tectónico da região está 
+representado esquematicamente na Figura 5.
+O primeiro sismo, com magnitude 7,8, ocorreu a uma profundidade de 18 km e localizou-se na 
+região de intersecção entre a Falha do Mar Morto e a Falha Oriental da Anatólia (FOA). De acordo 
+com alguns investigadores, este sismo terá alterado as tensões existentes na região. Cerca de nove 
+horas depois, ocorreu um segundo sismo, também com magnitude elevada (7,5), com hipocentro a 
+10 km de profundidade, na Falha de Sürgü, localizada a norte do primeiro evento. Ambos os sismos 
+foram sentidos com uma intensidade máxima de grau IX e causaram, pelo menos, 8574 mortos na 
+Turquia e 2530 mortos na Síria.
+Mar Negro
+Mar Mediterrâneo
+Placa Eurasiática
+Falha Norte da Anatólia (FNA)
+Falha Oriental da 
+Anatólia (FOA)
+Falha do Mar Morto
+Placa Arábica
+Chipre
+Síria
+Microplaca da Anatólia
+Placa Africana
+Epicentro do 2.º sismo e
+Falha de Sürgü
+Epicentro do 1.º sismo
+Limites das placas tectónicas
+Limite convergente
+Movimento das placas tectónicas
+Movimento relativo nos limites
+das placas tectónicas
+200 km
+0
+Turquia
+N
+Figura 5
+Baseado em: M. Bezzeghoud, «Crise sísmica na Turquia 2023. O Bloco da Anatólia e a sequência sísmica 
+de fevereiro de 2023 na Kahramanmaras (MW 7.8 e MW 7.5), Turquia», Universidade de Évora, junho de 2023; 
+e em: www.ipma.pt/pt/media/noticias/news.detail (consultado em dezembro de 2024).
+1.  A Microplaca da Anatólia tem tendência a movimentar-se
+  (A)  para este, devido à existência de tensões de compressão com direção N-S.
+  (B)  para oeste, de acordo com o movimento que ocorre nas falhas FOA e FNA.
+  (C)  para este, devido ao movimento divergente entre as placas Arábica e Eurasiática.
+  (D)  para oeste, na sequência da subdução da placa Eurasiática sob a placa Africana.
+2.  Considerando as características de propagação das ondas sísmicas, será de esperar que
+  (A)  as primeiras ondas registadas nos sismogramas tenham provocado a vibração das partículas, 
+perpendicularmente à sua direção de propagação.
+  (B)  as segundas ondas registadas nos sismogramas tenham provocado a vibração das partículas, 
+paralelamente à sua direção de propagação.
+  (C)  as ondas sísmicas P, ao progredirem em profundidade, aumentem a sua velocidade quando 
+atravessam a descontinuidade de Mohorovicic.
+  (D)  as ondas sísmicas P e as ondas sísmicas S, ao atravessarem a astenosfera, aumentem a sua 
+velocidade de propagação.
+
+3.  Associe cada uma das descrições relativas às características das zonas internas da Terra, apresentadas 
+na Coluna I, à respetiva designação, que consta na Coluna II.
+A cada letra corresponde apenas um número.
+Escreva, na folha de respostas, cada uma das letras, seguida do número correspondente.
+COLUNA I
+COLUNA II
+(a) Zona constituída essencialmente por ferro e por níquel, que é 
+responsável pela existência do campo magnético terrestre.
+(b) Zona da geosfera com menor densidade, constituída essencialmente 
+por rochas de natureza granítica.
+(c) Zona constituída essencialmente por silicatos de ferro e de magnésio, 
+em cuja base se originam as plumas térmicas.
+(1) Crusta continental
+(2) Crusta oceânica
+(3) Manto
+(4) Núcleo externo
+(5) Núcleo interno
+4.  De acordo com o Instituto Português do Mar e da Atmosfera (IPMA), o segundo sismo, ocorrido também a 
+6 de fevereiro, não foi uma réplica do primeiro.
+Explique, utilizando as informações do texto, por que razão o segundo sismo registado na Turquia, no dia 
+6 de fevereiro de 2023, foi uma consequência do primeiro, mas poderá não ser considerado uma réplica 
+deste.
