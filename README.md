@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simuladorexame
 
 PoC privada para consolidar uma biblioteca local de exames nacionais do IAVE, extrair conteúdo para JSON e disponibilizar uma interface simples de simulação.
@@ -33,3 +34,6 @@ npm run dev
 ## Estado atual
 
 Esta é a base inicial do projeto. O crawler está preparado para ser evoluído com regras reais da estrutura IAVE. Por segurança, o projeto não versiona PDFs.
+=======
+# Simuladorexame
+>>>>>>> f1ecdf565426e86d1801be352ba06a177028303d
