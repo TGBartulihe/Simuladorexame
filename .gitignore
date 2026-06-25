@@ -18,3 +18,31 @@ storage/
 # OS
 .DS_Store
 Thumbs.db
+
+# Database
+database/*.db
+database/*.sqlite
+database/*.sqlite3
+
+# Logs
+logs/
+
+# Cache
+cache/
+
+# Temp
+temp/
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
