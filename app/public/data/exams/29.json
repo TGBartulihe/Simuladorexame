@@ -1,0 +1,437 @@
+{
+  "exam": {
+    "id": 29,
+    "exam_key": "2016-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2016,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 1818,
+      "number": "1",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "1. As autolisinas são proteínas que digerem mais facilmente a parede celular de bactérias _______, e que \nsão sintetizadas por _______.",
+      "choices": [
+        {
+          "id": 3354,
+          "letter": "A",
+          "text": "Gram-positivas … lisossomas",
+          "is_correct": 0
+        },
+        {
+          "id": 3355,
+          "letter": "B",
+          "text": "Gram-negativas … ribossomas",
+          "is_correct": 0
+        },
+        {
+          "id": 3356,
+          "letter": "C",
+          "text": "Gram-positivas … ribossomas",
+          "is_correct": 0
+        },
+        {
+          "id": 3357,
+          "letter": "D",
+          "text": "Gram-negativas … lisossomas",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1819,
+      "number": "2",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "2. As enzimas que permitiriam às bactérias resistir à teixobactina catalisariam a reação que envolve a quebra \ndas ligações químicas entre",
+      "choices": [
+        {
+          "id": 3358,
+          "letter": "A",
+          "text": "nucleótidos.",
+          "is_correct": 0
+        },
+        {
+          "id": 3359,
+          "letter": "B",
+          "text": "aminoácidos.",
+          "is_correct": 0
+        },
+        {
+          "id": 3360,
+          "letter": "C",
+          "text": "monossacarídeos.",
+          "is_correct": 0
+        },
+        {
+          "id": 3361,
+          "letter": "D",
+          "text": "ácidos gordos.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "2\nNa resposta, são apresentados dois dos tópicos com falhas em pelo menos um dos \naspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1820,
+      "number": "3",
+      "group": "GRUPO III",
+      "type": "multiple_choice",
+      "statement": "3. De acordo com os dados da Figura 3, à temperatura de 800 °C e à pressão de _______, há condições \npara a formação de _______.",
+      "choices": [
+        {
+          "id": 3334,
+          "letter": "A",
+          "text": "5 GPa … diamante numa zona de litosfera cratónica",
+          "is_correct": 0
+        },
+        {
+          "id": 3335,
+          "letter": "B",
+          "text": "3 GPa … grafite numa zona de litosfera cratónica",
+          "is_correct": 0
+        },
+        {
+          "id": 3336,
+          "letter": "C",
+          "text": "4 GPa … diamante numa zona de litosfera oceânica",
+          "is_correct": 0
+        },
+        {
+          "id": 3337,
+          "letter": "D",
+          "text": "2 GPa … grafite numa zona de litosfera oceânica",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 3",
+        "text": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+      },
+      "correction": {
+        "criteria": "3\nNa resposta, são apresentados os três tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1821,
+      "number": "4",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "4. Segundo o modelo do mosaico fluido, proposto por Singer e Nicholson em 1972, a membrana citoplasmática \napresenta",
+      "choices": [
+        {
+          "id": 3362,
+          "letter": "A",
+          "text": "moléculas lipídicas com grande mobilidade lateral.",
+          "is_correct": 0
+        },
+        {
+          "id": 3363,
+          "letter": "B",
+          "text": "uma distribuição homogénea das proteínas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3364,
+          "letter": "C",
+          "text": "proteínas transportadoras que ocupam posições fixas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3365,
+          "letter": "D",
+          "text": "glúcidos associados a lípidos na superfície interna.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "4\nNa resposta, são apresentados os três tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1822,
+      "number": "5",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "5. Nas células procarióticas, ao contrário do que acontece nas células eucarióticas,",
+      "choices": [
+        {
+          "id": 3366,
+          "letter": "A",
+          "text": "o processamento conduz à formação de RNA mensageiro.",
+          "is_correct": 0
+        },
+        {
+          "id": 3367,
+          "letter": "B",
+          "text": "a tradução ocorre em ribossomas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3368,
+          "letter": "C",
+          "text": "o alongamento conduz à formação de moléculas polipeptídicas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3369,
+          "letter": "D",
+          "text": "a transcrição ocorre no citoplasma.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "5 5 5 5 5 5 5 5 15 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1823,
+      "number": "6",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "6. Bactérias cultivadas durante várias gerações num meio de cultura contendo o isótopo do nitrogénio 15N \nforam transferidas para um meio contendo o isótopo 14N. Ao fim de duas gerações neste meio, o DNA \nbacteriano será constituído por",
+      "choices": [
+        {
+          "id": 3370,
+          "letter": "A",
+          "text": "25% de moléculas de DNA híbridas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3371,
+          "letter": "B",
+          "text": "50% de moléculas só com o isótopo 14N.",
+          "is_correct": 0
+        },
+        {
+          "id": 3372,
+          "letter": "C",
+          "text": "100% de moléculas só com o isótopo 14N.",
+          "is_correct": 0
+        },
+        {
+          "id": 3373,
+          "letter": "D",
+          "text": "75% de moléculas de DNA híbridas.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (D)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1824,
+      "number": "7",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "7. Numa perspetiva lamarckista, a resistência bacteriana aos antibióticos resultaria da",
+      "choices": [
+        {
+          "id": 3374,
+          "letter": "A",
+          "text": "adaptação individual das bactérias ao antibiótico.",
+          "is_correct": 0
+        },
+        {
+          "id": 3375,
+          "letter": "B",
+          "text": "competição entre bactérias sujeitas ao antibiótico.",
+          "is_correct": 0
+        },
+        {
+          "id": 3376,
+          "letter": "C",
+          "text": "ocorrência de mutações na população bacteriana.",
+          "is_correct": 0
+        },
+        {
+          "id": 3377,
+          "letter": "D",
+          "text": "existência de variabilidade na colónia bacteriana.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (C)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1825,
+      "number": "8",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "8. Considere as seguintes afirmações, referentes ao modo de nutrição e de obtenção de energia de bactérias \nquimio-heterotróficas.\nI. As bactérias quimio-heterotróficas utilizam carbono orgânico como principal fonte de carbono.\nII. As bactérias quimio-heterotróficas obtêm energia através da oxidação de substâncias inorgânicas.\nIII. As bactérias quimio-heterotróficas incorporam dióxido de carbono para a síntese de moléculas \norgânicas.",
+      "choices": [
+        {
+          "id": 3378,
+          "letter": "A",
+          "text": "III é verdadeira; I e II são falsas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3379,
+          "letter": "B",
+          "text": "I e II são verdadeiras; III é falsa.",
+          "is_correct": 0
+        },
+        {
+          "id": 3380,
+          "letter": "C",
+          "text": "II e III são verdadeiras; I é falsa.",
+          "is_correct": 0
+        },
+        {
+          "id": 3381,
+          "letter": "D",
+          "text": "I é verdadeira; II e III são falsas.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (D)\nVersão 2 – Opção (B)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1842,
+      "number": "9",
+      "group": "GRUPO IV",
+      "type": "essay",
+      "statement": "9. Explique, de acordo com a perspetiva darwinista, de que modo a produção de teixobactina contribui para \no sucesso evolutivo da bactéria que a produz.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 15 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 15 55\nTOTAL 200",
+      "choices": [],
+      "context": {
+        "title": "Figura 4",
+        "text": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      },
+      "correction": {
+        "criteria": "9. .................................................................................................................................................... 15 pontos\nTópicos de resposta:\n•  relação entre a produção do antibiótico e a maior adaptação ao ambiente das bactérias \nprodutoras do antibiótico (ou bactérias Gram-negativas), relativamente às bactérias sobre \nas quais o antibiótico atua (ou bactérias Gram-positivas);\nOU\nrelação entre a produção do antibiótico e a eliminação de bactérias competidoras;\n•  referência à sobrevivência diferencial (ou à seleção natural) das bactérias produtoras do \nantibiótico;\n•  referência à reprodução diferencial das bactérias produtoras do antibiótico.\nNíveis Descritores do nível de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

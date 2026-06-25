@@ -1,0 +1,387 @@
+{
+  "exam": {
+    "id": 90,
+    "exam_key": "2014-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2014,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 2338,
+      "number": "1",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "1. a 8.................................................. (8 × 5 pontos) ............................. 40 pontos\n40 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "1. a 8.................................................. (8 × 5 pontos) ............................. 40 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2339,
+      "number": "2",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "2. Considere todos os números naturais de dez algarismos que se podem escrever com os algarismos de \n1 a 9\nQuantos desses números têm exatamente seis algarismos 2 ?",
+      "choices": [
+        {
+          "id": 4359,
+          "letter": "A",
+          "text": "10C6 × 84",
+          "is_correct": 0
+        },
+        {
+          "id": 4360,
+          "letter": "B",
+          "text": "10C6 × 8A4",
+          "is_correct": 0
+        },
+        {
+          "id": 4361,
+          "letter": "C",
+          "text": "10A6 × 8A4",
+          "is_correct": 0
+        },
+        {
+          "id": 4362,
+          "letter": "D",
+          "text": "10A6 × 84",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "2. Se, na resposta, for apresentado um gráfico que não respeite o domínio da função, a pontuação a \natribuir nesta etapa deve ser desvalorizada em 1 ponto.\n\nCOTAÇÕES\nGRUPO I",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2340,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "3. ........................................................................................................... 15 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "3. ........................................................................................................... 15 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2341,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "4. ........................................................................................................... 15 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "4. ........................................................................................................... 15 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2342,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "5. Considere a função f , de domínio R, definida por \nln\nfx\nx\nex x\nee x\n4\n31 1 4\n24\nse\nse\nx\nx\n4\n4\n1\n$\n=\n−\n−+\n−\n−\n^\n^\nh\nh\nZ\n[\n\\\n]]\n]]\nResolva os itens seguintes, recorrendo a métodos analíticos, sem utilizar a calculadora.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "5\nNa resposta, são apresentados o valor de PA B;^h e apenas duas das três explicações, \ncom organização coerente dos conteúdos e linguagem científica adequada.\nOU\nNa resposta, apenas são apresentadas as três explicações, com falhas na organização \ndos conteúdos ou na utilização da linguagem científica.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2343,
+      "number": "6",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "6. Considere, num referencial o.n. Oxyz, o plano a, definido por 41 0xz−+ = \nSeja r uma reta perpendicular ao plano a\nQual das condições seguintes pode definir a reta r ?",
+      "choices": [
+        {
+          "id": 4375,
+          "letter": "A",
+          "text": "4 1x yz/== −",
+          "is_correct": 0
+        },
+        {
+          "id": 4376,
+          "letter": "B",
+          "text": "41xz /== −",
+          "is_correct": 0
+        },
+        {
+          "id": 4377,
+          "letter": "C",
+          "text": "x z y3 4 0/− ==",
+          "is_correct": 0
+        },
+        {
+          "id": 4378,
+          "letter": "D",
+          "text": "4 3 1x zy/− = − =",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "6\nNa resposta, são apresentados o valor de PA B;^h e as três explicações, com falhas \nna organização dos conteúdos ou na utilização da linguagem científica.\nOU\nNa resposta, apenas são apresentadas as três explicações, com organização coerente \ndos conteúdos e linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2344,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7. ........................................................................................................... 15 pontos\n160 pontos\n TOTAL .............................................. 200 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "7. ........................................................................................................... 15 pontos\n160 pontos\n TOTAL .............................................. 200 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2345,
+      "number": "8",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "8. Na Figura 2, está representado, no plano complexo, um polígono regular [ABCDEF ]\nC\nB\nA\nF\nE\nD\nO\nFigura 2\nRe(z)\nIm (z)\nOs vértices desse polígono são as imagens geométricas das n raízes de índice n de um número \ncomplexo z\nO vértice C tem coordenadas 22 22,-^h \nQual dos números complexos seguintes tem por imagem geométrica o vértice E ?",
+      "choices": [
+        {
+          "id": 4383,
+          "letter": "A",
+          "text": "22 12 13cis rcm",
+          "is_correct": 0
+        },
+        {
+          "id": 4384,
+          "letter": "B",
+          "text": "4 12 13cis rcm",
+          "is_correct": 0
+        },
+        {
+          "id": 4385,
+          "letter": "C",
+          "text": "22 12 17cis rcm",
+          "is_correct": 0
+        },
+        {
+          "id": 4386,
+          "letter": "D",
+          "text": "4 12 17cis rcm",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "8. Ocorrência de um erro ocasional num cálculo, na \nresolução de uma etapa.\nÉ subtraído um ponto à pontuação da etapa em que o erro \nocorre.\nAs etapas subsequentes são pontuadas de acordo com os \nefeitos do erro cometido (ver nota 2).",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2346,
+      "number": "1.1",
+      "group": "GRUPO II",
+      "type": "calculation",
+      "statement": "1.1. Considere z i\ni\n1\n13\n1 = −\n−+ 3^h e ,cisz 0,c om2 ! raa= 66\nDetermine os valores de a, de modo que zz ×12 2^h seja um número imaginário puro, sem utilizar \na calculadora.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "1.1. ................................................................................................... 15 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2347,
+      "number": "2.1",
+      "group": "GRUPO II",
+      "type": "calculation",
+      "statement": "2.1. Considere a experiência aleatória que consiste em retirar dessa caixa, simultaneamente e ao acaso, \ntrês bolas.\nDetermine a probabilidade de as bolas retiradas não terem todas a mesma cor.\nApresente o resultado na forma de fração irredutível.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "2.1. ................................................................................................... 15 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2348,
+      "number": "2.2",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "2.2. Considere a caixa com a sua composição inicial. \nConsidere agora a experiência aleatória que consiste em retirar dessa caixa uma bola de cada vez, \nao acaso e sem reposição, até ser retirada uma bola preta.\nSeja X a variável aleatória «número de bolas retiradas dessa caixa».\nConstrua a tabela de distribuição de probabilidades da variável X \nApresente as probabilidades na forma de fração.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "2.2. ................................................................................................... 15 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2352,
+      "number": "6.2",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "6.2. Estude o gráfico da função f , quanto ao sentido das concavidades e quanto à existência de pontos\nde inflexão em 24,rr- ;E , recorrendo a métodos analíticos, sem utilizar a calculadora.\nNa sua resposta, deve indicar o(s) intervalo(s) onde o gráfico da função f tem concavidade voltada \npara cima, o(s) intervalo(s) onde o gráfico da função f tem concavidade voltada para baixo e, caso \nexistam, as abcissas dos pontos de inflexão do gráfico da função f",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
+      },
+      "correction": {
+        "criteria": "6.2. ................................................................................................... 15 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

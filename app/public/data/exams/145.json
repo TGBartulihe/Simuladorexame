@@ -1,0 +1,244 @@
+{
+  "exam": {
+    "id": 145,
+    "exam_key": "2018-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2018,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 1585,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2018/).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o impacto do progresso técnico na qualidade de vida do ser \nhumano, no futuro.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "1 Escreve um texto com uma organização pouco satisfatória, recorrendo a insuficientes \nmecanismos de coesão ou mobilizando-os de forma inadequada. 2\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1586,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "3.\n No terceiro parágrafo do texto, os autores recorrem a um conjunto de exemplos para mostrar que\n \n(\na\n)\n os valores de natureza ético-moral desapareceram da sociedade atual.",
+      "choices": [
+        {
+          "id": 2741,
+          "letter": "B",
+          "text": "a sociedade atual conseguiu eliminar os graves problemas do passado.",
+          "is_correct": 0
+        },
+        {
+          "id": 2742,
+          "letter": "C",
+          "text": "a sociedade atual se rege por valores que dignificam a pessoa humana.",
+          "is_correct": 0
+        },
+        {
+          "id": 2743,
+          "letter": "D",
+          "text": "os homens da sociedade atual têm plena consciência da sua hipocrisia.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
+      },
+      "correction": {
+        "criteria": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1587,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "4.\n No excerto compreendido \nentre «Considera negativamente» (linha 22) e «de abuso» (linha 23), as formas \nverbais têm, respetivamente, um valor aspetual\n \n(\na\n)\n genérico e iterativo.",
+      "choices": [
+        {
+          "id": 2744,
+          "letter": "B",
+          "text": "perfetivo e iterativo.",
+          "is_correct": 0
+        },
+        {
+          "id": 2745,
+          "letter": "C",
+          "text": "imperfetivo e genérico.",
+          "is_correct": 0
+        },
+        {
+          "id": 2746,
+          "letter": "D",
+          "text": "genérico e perfetivo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
+      },
+      "correction": {
+        "criteria": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por três partes individualizadas (introdução, \ndesenvolvimento e conclusão), devidamente proporcionadas e articuladas entre si de \nmodo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1588,
+      "number": "6",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "6.\n Identifique as funções sintáticas desempenhadas pelas expressões:\na)\n «dos rendimentos» (linhas 14 e 15);\nb)\n «que estas coisas ainda existem» (linha 27).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 8 pontos\na) Complemento do nome; b) Sujeito.\nNíveis Descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1589,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7.\n Indique \no processo de coesão textual assegurado pelas expressões «No passado» (linha 1), «a pouco e \npouco» (linha 5), «Já» (linha 7), «Hoje, a pouco e pouco» (linha 24) e «ainda» (linha 27).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 8 pontos\n(Coesão) gramatical temporal OU (Coesão) temporal\nNíveis Descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1591,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n16 16 16 16 16 8 16 104\nII 1. 2. 3. 4. 5. 6. 7.\n8 8 8 8 8 8 8 56\nIII Item único 40\nt\nota\nL 200",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o impacto do progresso técnico na qualidade de vida do ser \nhumano, no futuro.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais \ndos aspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois \ndesses aspetos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1594,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "5.\n As frases «E não \nrestam dúvidas de que, em boa medida, as suas observações têm fundamento.» \n(linha 18) e «Talvez sejamos hipócritas» (linha 32) exprimem a modalidade epistémica\n \n(\na\n)\n com valor de probabilidade, no primeiro caso, e com valor de certeza, no segundo caso.",
+      "choices": [
+        {
+          "id": 2747,
+          "letter": "B",
+          "text": "com valor de probabilidade, em ambos os casos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2748,
+          "letter": "C",
+          "text": "com valor de certeza, em ambos os casos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2749,
+          "letter": "D",
+          "text": "com valor de certeza, no primeiro caso, e com valor de probabilidade, no segundo caso.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
+      },
+      "correction": {
+        "criteria": "5. .................................................................................................................................................... 16 pontos\nPara explicar a crítica que é feita aos homens, incluindo os membros do clero, a partir da linha 7, devem \nser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ os homens (à semelhança dos peixes) são criticados por se deixarem seduzir pelo vício da vaidade/por \nse deixarem atrair por «dois retalhos de pano» (linha 10), o que os conduz à morte/perdição;\n‒ os membros das ordens religiosas e militares (de Malta, de Avis, de Cristo e de Santiago) não ficam \nimunes à vaidade de ostentarem o hábito da respetiva ordem, o que acaba por os conduzir à morte.\n•  Aspetos de conteúdo (C) ... ................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

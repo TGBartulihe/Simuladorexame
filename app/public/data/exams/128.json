@@ -1,0 +1,512 @@
+{
+  "exam": {
+    "id": 128,
+    "exam_key": "2014-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2014,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 2381,
+      "number": "1",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2382,
+      "number": "2",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2383,
+      "number": "3",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2384,
+      "number": "5",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos\nGRUPO II",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2386,
+      "number": "1.1",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "1.1. No caso de Eça de Queirós, a expressão «triunfo de um ponto de vista» (linhas 1 e 2) corresponde a \numa síntese que exclui a",
+      "choices": [
+        {
+          "id": 4420,
+          "letter": "A",
+          "text": "natureza enigmática da sua personalidade.",
+          "is_correct": 0
+        },
+        {
+          "id": 4421,
+          "letter": "B",
+          "text": "interpretação idealista daquilo que o rodeia.",
+          "is_correct": 0
+        },
+        {
+          "id": 4422,
+          "letter": "C",
+          "text": "crítica mordaz sobre a sociedade do seu tempo.",
+          "is_correct": 0
+        },
+        {
+          "id": 4423,
+          "letter": "D",
+          "text": "influência de importantes autores do Romantismo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "1.1. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2387,
+      "number": "1.2",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "1.2. Desde as primeiras leituras realizadas na adolescência, a admiração da autora pela obra de Eça",
+      "choices": [
+        {
+          "id": 4424,
+          "letter": "A",
+          "text": "mudou consideravelmente.",
+          "is_correct": 0
+        },
+        {
+          "id": 4425,
+          "letter": "B",
+          "text": "tornou-se inultrapassável.",
+          "is_correct": 0
+        },
+        {
+          "id": 4426,
+          "letter": "C",
+          "text": "mantém-se inalterada.",
+          "is_correct": 0
+        },
+        {
+          "id": 4427,
+          "letter": "D",
+          "text": "cresceu significativamente.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "1.2. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2388,
+      "number": "1.3",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "1.3. Segundo a autora, depois de Eça, a literatura",
+      "choices": [
+        {
+          "id": 4428,
+          "letter": "A",
+          "text": "passou a integrar o real de forma mais complexa.",
+          "is_correct": 0
+        },
+        {
+          "id": 4429,
+          "letter": "B",
+          "text": "continuou a retratar os tipos e os ambientes queirosianos.",
+          "is_correct": 0
+        },
+        {
+          "id": 4430,
+          "letter": "C",
+          "text": "integrou, sem ruturas, a herança de correntes literárias anteriores.",
+          "is_correct": 0
+        },
+        {
+          "id": 4431,
+          "letter": "D",
+          "text": "começou a basear-se na ciência, espelhando a sociedade do século XX.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "1.3. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2389,
+      "number": "1.4",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "1.4. Para Lídia Jorge, a valorização da prosa de Eça nos nossos dias, ainda que legítima, resulta em \ngrande parte",
+      "choices": [
+        {
+          "id": 4432,
+          "letter": "A",
+          "text": "do facto de constituir o único grande testemunho literário do Realismo.",
+          "is_correct": 0
+        },
+        {
+          "id": 4433,
+          "letter": "B",
+          "text": "da sua integração no cânone literário do final do século XIX.",
+          "is_correct": 0
+        },
+        {
+          "id": 4434,
+          "letter": "C",
+          "text": "do seu afastamento total relativamente à corrente modernista.",
+          "is_correct": 0
+        },
+        {
+          "id": 4435,
+          "letter": "D",
+          "text": "da dificuldade dos leitores em entenderem a literatura subsequente.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "1.4. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2390,
+      "number": "1.5",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "1.5. Na expressão «deflagração extraordinária» (linha 18), a autora recorre a",
+      "choices": [
+        {
+          "id": 4436,
+          "letter": "A",
+          "text": "uma antítese.",
+          "is_correct": 0
+        },
+        {
+          "id": 4437,
+          "letter": "B",
+          "text": "um oxímoro.",
+          "is_correct": 0
+        },
+        {
+          "id": 4438,
+          "letter": "C",
+          "text": "uma metáfora.",
+          "is_correct": 0
+        },
+        {
+          "id": 4439,
+          "letter": "D",
+          "text": "um eufemismo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "1.5. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2391,
+      "number": "1.6",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "1.6. Na expressão «se deve reconhecer» (linha 26), apresenta-se uma",
+      "choices": [
+        {
+          "id": 4440,
+          "letter": "A",
+          "text": "obrigação.",
+          "is_correct": 0
+        },
+        {
+          "id": 4441,
+          "letter": "B",
+          "text": "permissão.",
+          "is_correct": 0
+        },
+        {
+          "id": 4442,
+          "letter": "C",
+          "text": "possibilidade.",
+          "is_correct": 0
+        },
+        {
+          "id": 4443,
+          "letter": "D",
+          "text": "probabilidade.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "1.6. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2392,
+      "number": "1.7",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "1.7. O último parágrafo do texto é predominantemente",
+      "choices": [
+        {
+          "id": 4444,
+          "letter": "A",
+          "text": "narrativo.",
+          "is_correct": 0
+        },
+        {
+          "id": 4445,
+          "letter": "B",
+          "text": "descritivo.",
+          "is_correct": 0
+        },
+        {
+          "id": 4446,
+          "letter": "C",
+          "text": "argumentativo.",
+          "is_correct": 0
+        },
+        {
+          "id": 4447,
+          "letter": "D",
+          "text": "expositivo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "1.7. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2398,
+      "number": "4",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2400,
+      "number": "2.3",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "2.3. .................................................................................................. 5 pontos\n50 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      },
+      "correction": {
+        "criteria": "2.3. .................................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

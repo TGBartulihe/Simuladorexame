@@ -1,0 +1,487 @@
+{
+  "exam": {
+    "id": 53,
+    "exam_key": "2015-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2015,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 2049,
+      "number": "1",
+      "group": "GRUPO V",
+      "type": "multiple_choice",
+      "statement": "1. Qual é o instrumento que deve ser utilizado para, de forma regular e controlada, adicionar ao titulado \npequenos volumes da solução padrão de NaOH?",
+      "choices": [
+        {
+          "id": 3854,
+          "letter": "A",
+          "text": "Bureta.",
+          "is_correct": 0
+        },
+        {
+          "id": 3855,
+          "letter": "B",
+          "text": "Pipeta.",
+          "is_correct": 0
+        },
+        {
+          "id": 3856,
+          "letter": "C",
+          "text": "Balão de erlenmeyer.",
+          "is_correct": 0
+        },
+        {
+          "id": 3857,
+          "letter": "D",
+          "text": "Proveta.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      },
+      "correction": {
+        "criteria": "1. ................................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2050,
+      "number": "2",
+      "group": "GRUPO V",
+      "type": "calculation",
+      "statement": "2. Calcule a concentração, em mol dm-3, da solução de HCl.\nComece por calcular a quantidade de NaOH adicionada até ao ponto final da titulação.\nApresente todas as etapas de resolução.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      },
+      "correction": {
+        "criteria": "2. ................................................... 10 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2051,
+      "number": "3",
+      "group": "GRUPO V",
+      "type": "open",
+      "statement": "3. Depois de terem realizado a titulação e determinado a concentração da solução de ácido clorídrico, o \nprofessor disse aos alunos que a solução de HCl que tinham utilizado era uma solução padrão.\nNa Figura 6, está representada a curva teórica da titulação de 50,00 cm3 dessa solução padrão de \nHCl com uma solução padrão de NaOH 1,00 # 10-1 mol dm-3.\nNa curva, está assinalada a zona de viragem do indicador de ácido-base verde de bromocresol.\nFigura 6\n0,00\nVolume de NaOH(aq) / cm3\npH\n5,00 10,00 15,00 20,00 25,00 30,00\n12,00\n10,00\n8,00\n6,00\n4,00\n2,00\nZona de viragem \ndo indicador verde\nde bromocresol",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      },
+      "correction": {
+        "criteria": "3. ................................................... 10 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2052,
+      "number": "4",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "4. A energia pode ser transferida como radiação.\nA taxa temporal de emissão de radiação pela superfície de um corpo é",
+      "choices": [
+        {
+          "id": 3806,
+          "letter": "A",
+          "text": "diretamente proporcional à temperatura absoluta da superfície desse corpo.",
+          "is_correct": 0
+        },
+        {
+          "id": 3807,
+          "letter": "B",
+          "text": "inversamente proporcional à temperatura absoluta da superfície desse corpo.",
+          "is_correct": 0
+        },
+        {
+          "id": 3808,
+          "letter": "C",
+          "text": "diretamente proporcional à quarta potência da temperatura absoluta da superfície desse corpo.",
+          "is_correct": 0
+        },
+        {
+          "id": 3809,
+          "letter": "D",
+          "text": "inversamente proporcional à quarta potência da temperatura absoluta da superfície desse corpo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nNem o calor nem o trabalho são formas de energia. O calor é a energia que se transfere entre corpos \nem contacto, como resultado de uma diferença de temperatura entre eles, fluindo a energia do corpo que se \nencontra a temperatura mais elevada para o corpo que se encontra a temperatura mais baixa. Antes dessa \ntransferência, não existe calor armazenado na fonte, nem passa a existir calor acumulado no recetor após a \ntransferência. Mas há energia armazenada na fonte antes da transferência, e a energia do recetor passa a ser \nmais elevada após a transferência – por exemplo, se o recetor for gelo, parte dele pode fundir-se.\nPeter Atkins, O Dedo de Galileu, 1.ª ed., Lisboa, \nGradiva, 2007, pp. 135-136 (adaptado)"
+      },
+      "correction": {
+        "criteria": "4. ................................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2054,
+      "number": "1.1",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "1.1. O cloro apresenta dois isótopos estáveis, o cloro-35 e o cloro-37.\nOs átomos destes isótopos têm",
+      "choices": [
+        {
+          "id": 3834,
+          "letter": "A",
+          "text": "número atómico diferente.",
+          "is_correct": 0
+        },
+        {
+          "id": 3835,
+          "letter": "B",
+          "text": "igual número de nucleões.",
+          "is_correct": 0
+        },
+        {
+          "id": 3836,
+          "letter": "C",
+          "text": "igual número de protões.",
+          "is_correct": 0
+        },
+        {
+          "id": 3837,
+          "letter": "D",
+          "text": "número de eletrões diferente.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "1.1. ........................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2055,
+      "number": "1.2",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "1.2. A orbital de valência menos energética de um átomo de cloro, no estado fundamental, pode ser \ncaracterizada pelo conjunto de números quânticos",
+      "choices": [
+        {
+          "id": 3838,
+          "letter": "A",
+          "text": "(3, 1, 0)",
+          "is_correct": 0
+        },
+        {
+          "id": 3839,
+          "letter": "B",
+          "text": "(3, 0, -1)",
+          "is_correct": 0
+        },
+        {
+          "id": 3840,
+          "letter": "C",
+          "text": "(3, 1, -1)",
+          "is_correct": 0
+        },
+        {
+          "id": 3841,
+          "letter": "D",
+          "text": "(3, 0, 0)",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "1.2. ........................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2057,
+      "number": "2.1",
+      "group": "GRUPO V",
+      "type": "calculation",
+      "statement": "2.1. Considere que, num reator com a capacidade de 1,00 L, foram inicialmente introduzidas \n2,56 # 10-3 mol de I2(g) e uma certa quantidade de H2(g). Considere ainda que, no início, não \nexistia HI(g) no reator.\nQuando, a 763 K, o sistema atingiu um estado de equilíbrio, a quantidade de I2(g) que existia no \nreator era 1,46 # 10-3 mol.\nCalcule a quantidade, em mol, de H2(g) que deverá existir no reator quando o sistema está em \nequilíbrio àquela temperatura.\nApresente todas as etapas de resolução.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      },
+      "correction": {
+        "criteria": "2.1. ........................................... 10 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2058,
+      "number": "2.2",
+      "group": "GRUPO V",
+      "type": "open",
+      "statement": "2.2. Compare a energia absorvida na quebra das ligações com a energia libertada no estabelecimento \ndas ligações, na reação química considerada. Fundamente a sua resposta com base na variação da \nconstante de equilíbrio da reação com a temperatura.\n\nGRUPO VI\nCom o objetivo de determinar a concentração de uma solução de ácido clorídrico, HCl(aq), um grupo de alunos \ntitulou 50,00 cm3 dessa solução com uma solução padrão de hidróxido de sódio, NaOH(aq), de concentração \n1,00 # 10-1 mol dm-3.\nA reação que ocorre pode ser traduzida por\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\nOs alunos gastaram 24,60 cm3 da solução padrão de NaOH até ao ponto final da titulação.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      },
+      "correction": {
+        "criteria": "2.2. ........................................... 10 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2059,
+      "number": "2.3",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "2.3. A soma dos trabalhos realizados pelas forças que atuam no conjunto CI, num deslocamento desse \nconjunto no intervalo de tempo considerado, é",
+      "choices": [
+        {
+          "id": 3822,
+          "letter": "A",
+          "text": "nula, uma vez que atuam no conjunto forças não conservativas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3823,
+          "letter": "B",
+          "text": "negativa, uma vez que a energia cinética do conjunto diminui.",
+          "is_correct": 0
+        },
+        {
+          "id": 3824,
+          "letter": "C",
+          "text": "nula, uma vez que a energia cinética do conjunto se mantém constante.",
+          "is_correct": 0
+        },
+        {
+          "id": 3825,
+          "letter": "D",
+          "text": "negativa, uma vez que atuam no conjunto forças não conservativas.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "2.3. ........................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2067,
+      "number": "1.3",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "1.3. Um átomo de flúor e um átomo de cloro, no estado fundamental, apresentam",
+      "choices": [
+        {
+          "id": 3842,
+          "letter": "A",
+          "text": "o mesmo número de orbitais p completamente preenchidas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3843,
+          "letter": "B",
+          "text": "ambos uma orbital p semipreenchida.",
+          "is_correct": 0
+        },
+        {
+          "id": 3844,
+          "letter": "C",
+          "text": "o mesmo número de orbitais s completamente preenchidas.",
+          "is_correct": 0
+        },
+        {
+          "id": 3845,
+          "letter": "D",
+          "text": "ambos uma orbital s semipreenchida.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "1.3. ........................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2068,
+      "number": "1.4",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "1.4. A energia de ionização do átomo de cloro, isolado e em fase gasosa, é a energia de remoção mínima \nnecessária para, a partir do átomo no estado fundamental, se formar um determinado ião.\nEscreva a fórmula química desse ião.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "1.4. ........................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2072,
+      "number": "3.2",
+      "group": "GRUPO V",
+      "type": "open",
+      "statement": "3.2. ........................................... 10 pontos\n30 pontos\nTOTAL ...................................... 200 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      },
+      "correction": {
+        "criteria": "3.2. ........................................... 10 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2080,
+      "number": "3.1",
+      "group": "GRUPO V",
+      "type": "open",
+      "statement": "3.1. Apresente uma expressão numérica que permita calcular o erro relativo, em percentagem, cometido \npelos alunos na medição do volume de titulante gasto até ao ponto final da titulação.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      },
+      "correction": {
+        "criteria": "3.1. ........................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

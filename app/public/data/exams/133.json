@@ -1,0 +1,244 @@
+{
+  "exam": {
+    "id": 133,
+    "exam_key": "2019-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2019,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 1383,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2019/).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nSe algumas pessoas consideram que o acesso rápido e livre à informação é uma mais-valia na sociedade \natual, outras defendem que esta facilidade pode ter um impacto negativo, tanto em termos pessoais como \nsociais.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a problemática apresentada.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "1 Escreve um texto com uma organização pouco satisfatória, recorrendo a insuficientes \nmecanismos de coesão ou mobilizando-os de forma inadequada. 2\n\nCotaçÕES\ngrupo item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1384,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "3.\n A\n pergunta «Porquê?» (linhas 23, 24 e 28) é fundamental, na medida em que\n \n(\na\n)\n conduz geralmente às respostas desejadas.",
+      "choices": [
+        {
+          "id": 2316,
+          "letter": "B",
+          "text": "relativiza a curiosidade que nos fica da infância.",
+          "is_correct": 0
+        },
+        {
+          "id": 2317,
+          "letter": "C",
+          "text": "alimenta um desejo insaciável de conhecimento.",
+          "is_correct": 0
+        },
+        {
+          "id": 2318,
+          "letter": "D",
+          "text": "valoriza o sucesso dos resultados alcançados.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
+      },
+      "correction": {
+        "criteria": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos indicados neste parâmetro.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1385,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "4.\n Ao \nrecorrer às expressões «cartografias mentais» (linha 6) e «para além do horizonte» (linha 29), o autor \nutiliza\n \n(\na\n)\n a metáfora para \nevidenciar o poder da imaginação enquanto meio de sobrevivência, no primeiro caso, \ne a hipérbole para enfatizar a força da imaginação enquanto geradora de frustração, no segundo caso.",
+      "choices": [
+        {
+          "id": 2319,
+          "letter": "B",
+          "text": "a hipérbole para enfatizar a força da imaginação enquanto geradora de frustração, no primeiro caso, e a metáfora para evidenciar o poder da imaginação enquanto meio de sobrevivência, no segundo caso.",
+          "is_correct": 0
+        },
+        {
+          "id": 2320,
+          "letter": "C",
+          "text": "a metáfora para evidenciar o poder da imaginação enquanto meio de sobrevivência, no primeiro caso, e enquanto motor da evolução, no segundo caso.",
+          "is_correct": 0
+        },
+        {
+          "id": 2321,
+          "letter": "D",
+          "text": "a hipérb ole para evidenciar o poder da imaginação enquanto meio de sobrevivência, no primeiro caso, e enquanto motor da evolução, no segundo caso.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
+      },
+      "correction": {
+        "criteria": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes parágrafos, corretamente marcados, \ndevidamente proporcionados e articulados entre si de modo consistente;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1386,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "5.\n As orações subordinadas iniciadas por «que» nas linhas 10 e 16 classificam-se como\n \n(\na\n)\n substantiva completiva, no primeiro caso, e adjetiva relativa explicativa, no segundo caso.",
+      "choices": [
+        {
+          "id": 2322,
+          "letter": "B",
+          "text": "adjetiva relativa restritiva, no primeiro caso, e substantiva completiva, no segundo caso.",
+          "is_correct": 0
+        },
+        {
+          "id": 2323,
+          "letter": "C",
+          "text": "substantiva completiva, no primeiro caso, e adjetiva relativa restritiva, no segundo caso.",
+          "is_correct": 0
+        },
+        {
+          "id": 2324,
+          "letter": "D",
+          "text": "adjetiva relativa explicativa, no primeiro caso, e substantiva completiva, no segundo caso.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
+      },
+      "correction": {
+        "criteria": "5. .................................................................................................................................................... 16 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ os exemplos apresentam situações do conhecimento geral, facilmente compreendidas, para fundamentar \no conselho do pregador (a distância face aos homens é o que garante a liberdade aos peixes);\n‒ os exemplos enfatizam a ideia de que os animais referidos, apesar de aparentemente viverem bem junto \ndo homem, estão, na realidade, privados da sua liberdade (e são por eles explorados).\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1387,
+      "number": "6",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "6.\n Identifique as funções sintáticas desempenhadas pelas expressões:\na)\n «de palavras, cores ou números» (linhas 17 e 18);\nb)\n «os momentos em que os nossos inspirados \nArquimedes gritam “Eureca!” no banho» (linhas 18 e 19).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 8 pontos\na) Complemento do nome; b) Complemento direto.\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1388,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7.\n Indique a modalidade e o valor modal expressos em «temos de ser capazes de reconhecer\n, imaginativamente, \nos erros e as incongruências» (linhas 15 e 16).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 8 pontos\n(modalidade) deôntica (com valor) de obrigação.\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1390,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n16 16 16 16 16 8 16 104\nII 1. 2. 3. 4. 5. 6. 7.\n8 8 8 8 8 8 8 56\nIII Item único 40\nt\nota\nL 200",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nSe algumas pessoas consideram que o acesso rápido e livre à informação é uma mais-valia na sociedade \natual, outras defendem que esta facilidade pode ter um impacto negativo, tanto em termos pessoais como \nsociais.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a problemática apresentada.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais \ndos aspetos indicados neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

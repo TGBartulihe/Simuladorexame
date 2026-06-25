@@ -1,0 +1,834 @@
+[
+  {
+    "id": 25,
+    "exam_key": "2025-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2025,
+    "phase": "F1"
+  },
+  {
+    "id": 38,
+    "exam_key": "2025-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2025,
+    "phase": "F2"
+  },
+  {
+    "id": 63,
+    "exam_key": "2025-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2025,
+    "phase": "F1"
+  },
+  {
+    "id": 76,
+    "exam_key": "2025-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2025,
+    "phase": "F2"
+  },
+  {
+    "id": 101,
+    "exam_key": "2025-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2025,
+    "phase": "F1"
+  },
+  {
+    "id": 114,
+    "exam_key": "2025-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2025,
+    "phase": "F2"
+  },
+  {
+    "id": 139,
+    "exam_key": "2025-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2025,
+    "phase": "F1"
+  },
+  {
+    "id": 152,
+    "exam_key": "2025-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2025,
+    "phase": "F2"
+  },
+  {
+    "id": 24,
+    "exam_key": "2024-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2024,
+    "phase": "F1"
+  },
+  {
+    "id": 37,
+    "exam_key": "2024-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2024,
+    "phase": "F2"
+  },
+  {
+    "id": 62,
+    "exam_key": "2024-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2024,
+    "phase": "F1"
+  },
+  {
+    "id": 75,
+    "exam_key": "2024-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2024,
+    "phase": "F2"
+  },
+  {
+    "id": 100,
+    "exam_key": "2024-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2024,
+    "phase": "F1"
+  },
+  {
+    "id": 113,
+    "exam_key": "2024-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2024,
+    "phase": "F2"
+  },
+  {
+    "id": 138,
+    "exam_key": "2024-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2024,
+    "phase": "F1"
+  },
+  {
+    "id": 151,
+    "exam_key": "2024-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2024,
+    "phase": "F2"
+  },
+  {
+    "id": 23,
+    "exam_key": "2023-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2023,
+    "phase": "F1"
+  },
+  {
+    "id": 36,
+    "exam_key": "2023-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2023,
+    "phase": "F2"
+  },
+  {
+    "id": 61,
+    "exam_key": "2023-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2023,
+    "phase": "F1"
+  },
+  {
+    "id": 74,
+    "exam_key": "2023-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2023,
+    "phase": "F2"
+  },
+  {
+    "id": 99,
+    "exam_key": "2023-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2023,
+    "phase": "F1"
+  },
+  {
+    "id": 112,
+    "exam_key": "2023-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2023,
+    "phase": "F2"
+  },
+  {
+    "id": 137,
+    "exam_key": "2023-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2023,
+    "phase": "F1"
+  },
+  {
+    "id": 150,
+    "exam_key": "2023-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2023,
+    "phase": "F2"
+  },
+  {
+    "id": 22,
+    "exam_key": "2022-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2022,
+    "phase": "F1"
+  },
+  {
+    "id": 35,
+    "exam_key": "2022-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2022,
+    "phase": "F2"
+  },
+  {
+    "id": 60,
+    "exam_key": "2022-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2022,
+    "phase": "F1"
+  },
+  {
+    "id": 73,
+    "exam_key": "2022-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2022,
+    "phase": "F2"
+  },
+  {
+    "id": 98,
+    "exam_key": "2022-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2022,
+    "phase": "F1"
+  },
+  {
+    "id": 111,
+    "exam_key": "2022-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2022,
+    "phase": "F2"
+  },
+  {
+    "id": 136,
+    "exam_key": "2022-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2022,
+    "phase": "F1"
+  },
+  {
+    "id": 149,
+    "exam_key": "2022-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2022,
+    "phase": "F2"
+  },
+  {
+    "id": 21,
+    "exam_key": "2021-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2021,
+    "phase": "F1"
+  },
+  {
+    "id": 34,
+    "exam_key": "2021-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2021,
+    "phase": "F2"
+  },
+  {
+    "id": 59,
+    "exam_key": "2021-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2021,
+    "phase": "F1"
+  },
+  {
+    "id": 72,
+    "exam_key": "2021-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2021,
+    "phase": "F2"
+  },
+  {
+    "id": 97,
+    "exam_key": "2021-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2021,
+    "phase": "F1"
+  },
+  {
+    "id": 110,
+    "exam_key": "2021-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2021,
+    "phase": "F2"
+  },
+  {
+    "id": 135,
+    "exam_key": "2021-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2021,
+    "phase": "F1"
+  },
+  {
+    "id": 148,
+    "exam_key": "2021-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2021,
+    "phase": "F2"
+  },
+  {
+    "id": 20,
+    "exam_key": "2020-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2020,
+    "phase": "F1"
+  },
+  {
+    "id": 33,
+    "exam_key": "2020-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2020,
+    "phase": "F2"
+  },
+  {
+    "id": 58,
+    "exam_key": "2020-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2020,
+    "phase": "F1"
+  },
+  {
+    "id": 71,
+    "exam_key": "2020-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2020,
+    "phase": "F2"
+  },
+  {
+    "id": 96,
+    "exam_key": "2020-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2020,
+    "phase": "F1"
+  },
+  {
+    "id": 109,
+    "exam_key": "2020-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2020,
+    "phase": "F2"
+  },
+  {
+    "id": 134,
+    "exam_key": "2020-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2020,
+    "phase": "F1"
+  },
+  {
+    "id": 147,
+    "exam_key": "2020-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2020,
+    "phase": "F2"
+  },
+  {
+    "id": 19,
+    "exam_key": "2019-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2019,
+    "phase": "F1"
+  },
+  {
+    "id": 32,
+    "exam_key": "2019-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2019,
+    "phase": "F2"
+  },
+  {
+    "id": 57,
+    "exam_key": "2019-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2019,
+    "phase": "F1"
+  },
+  {
+    "id": 70,
+    "exam_key": "2019-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2019,
+    "phase": "F2"
+  },
+  {
+    "id": 95,
+    "exam_key": "2019-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2019,
+    "phase": "F1"
+  },
+  {
+    "id": 108,
+    "exam_key": "2019-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2019,
+    "phase": "F2"
+  },
+  {
+    "id": 133,
+    "exam_key": "2019-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2019,
+    "phase": "F1"
+  },
+  {
+    "id": 146,
+    "exam_key": "2019-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2019,
+    "phase": "F2"
+  },
+  {
+    "id": 18,
+    "exam_key": "2018-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2018,
+    "phase": "F1"
+  },
+  {
+    "id": 31,
+    "exam_key": "2018-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2018,
+    "phase": "F2"
+  },
+  {
+    "id": 56,
+    "exam_key": "2018-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2018,
+    "phase": "F1"
+  },
+  {
+    "id": 69,
+    "exam_key": "2018-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2018,
+    "phase": "F2"
+  },
+  {
+    "id": 94,
+    "exam_key": "2018-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2018,
+    "phase": "F1"
+  },
+  {
+    "id": 107,
+    "exam_key": "2018-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2018,
+    "phase": "F2"
+  },
+  {
+    "id": 132,
+    "exam_key": "2018-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2018,
+    "phase": "F1"
+  },
+  {
+    "id": 145,
+    "exam_key": "2018-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2018,
+    "phase": "F2"
+  },
+  {
+    "id": 17,
+    "exam_key": "2017-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2017,
+    "phase": "F1"
+  },
+  {
+    "id": 30,
+    "exam_key": "2017-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2017,
+    "phase": "F2"
+  },
+  {
+    "id": 55,
+    "exam_key": "2017-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2017,
+    "phase": "F1"
+  },
+  {
+    "id": 68,
+    "exam_key": "2017-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2017,
+    "phase": "F2"
+  },
+  {
+    "id": 93,
+    "exam_key": "2017-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2017,
+    "phase": "F1"
+  },
+  {
+    "id": 106,
+    "exam_key": "2017-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2017,
+    "phase": "F2"
+  },
+  {
+    "id": 131,
+    "exam_key": "2017-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2017,
+    "phase": "F1"
+  },
+  {
+    "id": 144,
+    "exam_key": "2017-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2017,
+    "phase": "F2"
+  },
+  {
+    "id": 16,
+    "exam_key": "2016-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2016,
+    "phase": "F1"
+  },
+  {
+    "id": 29,
+    "exam_key": "2016-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2016,
+    "phase": "F2"
+  },
+  {
+    "id": 54,
+    "exam_key": "2016-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2016,
+    "phase": "F1"
+  },
+  {
+    "id": 67,
+    "exam_key": "2016-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2016,
+    "phase": "F2"
+  },
+  {
+    "id": 92,
+    "exam_key": "2016-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2016,
+    "phase": "F1"
+  },
+  {
+    "id": 105,
+    "exam_key": "2016-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2016,
+    "phase": "F2"
+  },
+  {
+    "id": 130,
+    "exam_key": "2016-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2016,
+    "phase": "F1"
+  },
+  {
+    "id": 143,
+    "exam_key": "2016-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2016,
+    "phase": "F2"
+  },
+  {
+    "id": 15,
+    "exam_key": "2015-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2015,
+    "phase": "F1"
+  },
+  {
+    "id": 28,
+    "exam_key": "2015-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2015,
+    "phase": "F2"
+  },
+  {
+    "id": 53,
+    "exam_key": "2015-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2015,
+    "phase": "F1"
+  },
+  {
+    "id": 66,
+    "exam_key": "2015-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2015,
+    "phase": "F2"
+  },
+  {
+    "id": 91,
+    "exam_key": "2015-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2015,
+    "phase": "F1"
+  },
+  {
+    "id": 104,
+    "exam_key": "2015-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2015,
+    "phase": "F2"
+  },
+  {
+    "id": 129,
+    "exam_key": "2015-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2015,
+    "phase": "F1"
+  },
+  {
+    "id": 142,
+    "exam_key": "2015-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2015,
+    "phase": "F2"
+  },
+  {
+    "id": 14,
+    "exam_key": "2014-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2014,
+    "phase": "F1"
+  },
+  {
+    "id": 27,
+    "exam_key": "2014-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2014,
+    "phase": "F2"
+  },
+  {
+    "id": 52,
+    "exam_key": "2014-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2014,
+    "phase": "F1"
+  },
+  {
+    "id": 65,
+    "exam_key": "2014-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2014,
+    "phase": "F2"
+  },
+  {
+    "id": 90,
+    "exam_key": "2014-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2014,
+    "phase": "F1"
+  },
+  {
+    "id": 103,
+    "exam_key": "2014-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2014,
+    "phase": "F2"
+  },
+  {
+    "id": 128,
+    "exam_key": "2014-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2014,
+    "phase": "F1"
+  },
+  {
+    "id": 141,
+    "exam_key": "2014-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2014,
+    "phase": "F2"
+  },
+  {
+    "id": 13,
+    "exam_key": "2012-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2012,
+    "phase": "F1"
+  },
+  {
+    "id": 26,
+    "exam_key": "2012-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2012,
+    "phase": "F2"
+  },
+  {
+    "id": 51,
+    "exam_key": "2012-715-F1",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2012,
+    "phase": "F1"
+  },
+  {
+    "id": 64,
+    "exam_key": "2012-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2012,
+    "phase": "F2"
+  },
+  {
+    "id": 89,
+    "exam_key": "2012-635-F1",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2012,
+    "phase": "F1"
+  },
+  {
+    "id": 102,
+    "exam_key": "2012-635-F2",
+    "subject": "Matemática A",
+    "code": "635",
+    "year": 2012,
+    "phase": "F2"
+  },
+  {
+    "id": 127,
+    "exam_key": "2012-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2012,
+    "phase": "F1"
+  },
+  {
+    "id": 140,
+    "exam_key": "2012-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2012,
+    "phase": "F2"
+  }
+]

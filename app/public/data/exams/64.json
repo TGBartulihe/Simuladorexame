@@ -1,0 +1,562 @@
+{
+  "exam": {
+    "id": 64,
+    "exam_key": "2012-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2012,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 2537,
+      "number": "1",
+      "group": "GRUPO V",
+      "type": "open",
+      "statement": "1. ........................................................................................................... 10 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "1 A resolução apresenta apenas uma das etapas consideradas. 5\nA classificação a atribuir à resposta resulta da pontuação decorrente do enquadramento num dos níveis de \ndesempenho atrás descritos, à qual podem ser subtraídos pontos, de acordo com o enquadramento nos \nníveis de desempenho relacionados com o tipo de erros cometidos*.\n* Descritores e desvalorizações apresentados no primeiro quadro da página C/4 dos Critérios Gerais de Classificação.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2538,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "4. ........................................................................................................... 15 pontos\n40 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nA composição do gás natural depende, entre outros fatores, da localização do reservatório subterrâneo a \npartir do qual se faz a sua extração. No entanto, o gás natural é sempre maioritariamente constituído por \nmetano, \nCH4(g), embora possa conter outros gases, como, por exemplo, metilbutano, dióxido de carbono, \nvapor de água e sulfureto de hidrogénio."
+      },
+      "correction": {
+        "criteria": "4\nA resposta apresenta:\n • os dois tópicos de referência;\n • organização coerente dos conteúdos;\n • linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2539,
+      "number": "5",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "5. ........................................................................................................... 5 pontos\n25 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nQualquer que seja a temperatura a que se encontre, um corpo emite sempre radiação eletromagnética, \ndevido aos movimentos de agitação térmica das partículas que o constituem.\nO espectro da radiação térmica emitida por um corpo é um espectro contínuo em que o comprimento \nde onda da radiação de máxima intensidade emitida depende da temperatura a que o corpo se encontra: \nà medida que a temperatura, \nT, do corpo aumenta, o comprimento de onda ao qual ocorre a emissão de \nradiação de máxima intensidade, lmáxima, diminui proporcionalmente.\nA taxa temporal de emissão de energia de um corpo, sob a forma de radiação térmica, a partir da sua \nsuperfície, é proporcional à quarta potência da temperatura absoluta da superfície do corpo, dependendo \ntambém da sua área superficial e de uma constante chamada emissividade.\nAo mesmo tempo que emite, um corpo também absorve radiação eletromagnética da sua vizinhança. \nQuando um corpo está em equilíbrio com a sua vizinhança, emite e absorve energia, como radiação, à \nmesma taxa temporal.\nR. A. Serway, J. W. Jewett, Jr., Princípios de Física, vol. II, \nPioneira Thomson Learning, 2004 (adaptado)"
+      },
+      "correction": {
+        "criteria": "5\nA resposta apresenta:\n • os três tópicos de referência;\n • organização coerente dos conteúdos;\n • linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2541,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. ........................................................................................................... 5 pontos\n15 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nO ácido sulfídrico, H2S(aq), é um ácido diprótico muito fraco, cuja ionização global em água ocorre em duas \netapas sucessivas. \nA primeira etapa da ionização ocorre em muito maior extensão do que a segunda e pode ser traduzida por\nH2S(aq) + H2O(l) ? HS-(aq) + H3O+(aq)\nA constante de acidez do H2S(aq), definida para a reação anterior, é 1,32 × 10-7, a 25 ºC."
+      },
+      "correction": {
+        "criteria": "2 A resolução apresenta as duas etapas consideradas. 10",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2546,
+      "number": "1.1",
+      "group": "GRUPO V",
+      "type": "multiple_choice",
+      "statement": "1.1. Qual é o esboço do gráfico que pode representar a distância percorrida pelo objeto de papel durante \no intervalo de tempo em que os dados foram registados?\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida",
+      "choices": [
+        {
+          "id": 4752,
+          "letter": "A",
+          "text": "",
+          "is_correct": 0
+        },
+        {
+          "id": 4754,
+          "letter": "B",
+          "text": "",
+          "is_correct": 0
+        },
+        {
+          "id": 4753,
+          "letter": "C",
+          "text": "",
+          "is_correct": 0
+        },
+        {
+          "id": 4755,
+          "letter": "D",
+          "text": "0 0 0 0",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "1.1. Versão 1 – (B); Versão 2 – (C) .............................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2547,
+      "number": "1.2",
+      "group": "GRUPO V",
+      "type": "multiple_choice",
+      "statement": "1.2. Em qual dos esquemas seguintes estão corretamente representadas, para o intervalo de tempo \n[0,90; 1,30] s, as forças que atuam no objeto de papel?\n+",
+      "choices": [
+        {
+          "id": 4756,
+          "letter": "A",
+          "text": "+",
+          "is_correct": 0
+        },
+        {
+          "id": 4757,
+          "letter": "B",
+          "text": "+",
+          "is_correct": 0
+        },
+        {
+          "id": 4758,
+          "letter": "C",
+          "text": "+",
+          "is_correct": 0
+        },
+        {
+          "id": 4759,
+          "letter": "D",
+          "text": "F → gravíticaF → gravítica F → gravítica F = 0 → → resistência do arF → resistência do arF → resistência do ar gravíticaF → F → resistência do ar",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "1.2. Versão 1 – (C); Versão 2 – (B) .............................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2549,
+      "number": "3",
+      "group": "GRUPO V",
+      "type": "open",
+      "statement": "3. ........................................................................................................... 10 pontos\n30 pontos\n TOTAL ......................................... 200 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "3. .................................................................................................................................................... 10 pontos\nA resolução deve apresentar as seguintes etapas:\nA) Cálculo do valor experimental da velocidade de propagação do som no ar (v = 324,0 m s-1).\nB) Cálculo do erro relativo, em percentagem, do valor experimental da velocidade de \npropagação do som no ar (5,35%).\nA resposta a este item deve ser enquadrada num dos níveis de desempenho relacionados com a consecução \ndas etapas, de acordo com a tabela seguinte.\nNíveis Descritores do nível de desempenho relacionados com a consecução das etapas Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2550,
+      "number": "4.1",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "4.1. Num átomo de cloro, no estado fundamental, existem, no total,",
+      "choices": [
+        {
+          "id": 4744,
+          "letter": "A",
+          "text": "cinco eletrões de valência distribuídos por três orbitais.",
+          "is_correct": 0
+        },
+        {
+          "id": 4745,
+          "letter": "B",
+          "text": "cinco eletrões de valência distribuídos por duas orbitais.",
+          "is_correct": 0
+        },
+        {
+          "id": 4746,
+          "letter": "C",
+          "text": "sete eletrões de valência distribuídos por duas orbitais.",
+          "is_correct": 0
+        },
+        {
+          "id": 4747,
+          "letter": "D",
+          "text": "sete eletrões de valência distribuídos por quatro orbitais.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "4.1. Versão 1 – (d); Versão 2 – (C) .............................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2551,
+      "number": "4.2",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "4.2. Uma das orbitais de valência mais energéticas de um átomo de cloro, no estado fundamental, pode \nser caracterizada pelo conjunto de números quânticos",
+      "choices": [
+        {
+          "id": 4748,
+          "letter": "A",
+          "text": "(3, 1, 0)",
+          "is_correct": 0
+        },
+        {
+          "id": 4749,
+          "letter": "B",
+          "text": "(3, 0, 1)",
+          "is_correct": 0
+        },
+        {
+          "id": 4750,
+          "letter": "C",
+          "text": "(3, 0, 0)",
+          "is_correct": 0
+        },
+        {
+          "id": 4751,
+          "letter": "D",
+          "text": "(3, 1, 2)",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "4.2. Versão 1 – (A); Versão 2 – (C) .............................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2552,
+      "number": "4.3",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "4.3. .................................................................................................. 5 pontos\n45 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": null
+      },
+      "correction": {
+        "criteria": "4.3. ................................................................................................................................................. 5 pontos\nEnergia de ionização [de um átomo de cloro].\n\nProva 715/2.ª F. • Página C/11/ 13\nGRUPO V",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2556,
+      "number": "1.3",
+      "group": "GRUPO V",
+      "type": "calculation",
+      "statement": "1.3. Admita que a massa do objeto de papel é 0,23 g.\nCalcule a energia dissipada pelo sistema objeto de papel + Terra no intervalo de tempo [0,90; 1,30] s.\nApresente todas as etapas de resolução.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "1.3. ................................................................................................................................................. 15 pontos\nA resolução deve apresentar as seguintes etapas:\nA) Determinação da variação da energia cinética do objeto de papel no intervalo de tempo \nconsiderado (DEc = 0).\nOU\nA) Determinação do trabalho realizado pela força gravítica, que atua no objeto de papel, no \nintervalo de tempo considerado (W F\n→\ngravítica = 1,29 × 10-3 J).\nB) Determinação da variação da energia potencial gravítica do sistema objeto de papel + \n+ Terra no intervalo de tempo considerado (DEp = -1,29 × 10-3 J).\nOU\nA) Determinação do trabalho realizado pela força de resistência do ar, que atua no objeto \nde papel, no intervalo de tempo considerado (W F\n→\nresistência do ar = -1,29 × 10-3 J).\nC) Determinação da energia dissipada pelo sistema objeto de papel + Terra no intervalo de \ntempo considerado (Ed = 1,3 × 10-3 J).\nA resposta a este item deve ser enquadrada num dos níveis de desempenho relacionados com a consecução \ndas etapas, de acordo com a tabela seguinte.\nNíveis Descritores do nível de desempenho relacionados com a consecução das etapas Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2558,
+      "number": "2.1",
+      "group": "GRUPO V",
+      "type": "multiple_choice",
+      "statement": "2.1. Os sinais registados no ecrã do osciloscópio apresentam",
+      "choices": [
+        {
+          "id": 4772,
+          "letter": "A",
+          "text": "igual amplitude e igual frequência.",
+          "is_correct": 0
+        },
+        {
+          "id": 4773,
+          "letter": "B",
+          "text": "igual amplitude e diferente frequência.",
+          "is_correct": 0
+        },
+        {
+          "id": 4774,
+          "letter": "C",
+          "text": "diferente amplitude e diferente frequência.",
+          "is_correct": 0
+        },
+        {
+          "id": 4775,
+          "letter": "D",
+          "text": "diferente amplitude e igual frequência.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "2.1. Versão 1 – (d); Versão 2 – (C) .............................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2559,
+      "number": "2.2",
+      "group": "GRUPO V",
+      "type": "multiple_choice",
+      "statement": "2.2. Quanto tempo demorou o sinal sonoro a percorrer a distância entre o altifalante e o microfone?",
+      "choices": [
+        {
+          "id": 4776,
+          "letter": "A",
+          "text": "10 ms",
+          "is_correct": 0
+        },
+        {
+          "id": 4777,
+          "letter": "B",
+          "text": "2 ms",
+          "is_correct": 0
+        },
+        {
+          "id": 4778,
+          "letter": "C",
+          "text": "1 ms",
+          "is_correct": 0
+        },
+        {
+          "id": 4779,
+          "letter": "D",
+          "text": "0,5 ms",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "2.2. Versão 1 – (d); Versão 2 – (A) .............................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2560,
+      "number": "2.3",
+      "group": "GRUPO V",
+      "type": "multiple_choice",
+      "statement": "2.3. Qual das expressões seguintes permite calcular o tempo, em segundos ( s), que o objeto de papel \ndemorará a chegar ao solo se a altura da qual é abandonado se reduzir a metade?",
+      "choices": [
+        {
+          "id": 4764,
+          "letter": "A",
+          "text": ", g 21 20#",
+          "is_correct": 0
+        },
+        {
+          "id": 4765,
+          "letter": "B",
+          "text": ", g2 12 0",
+          "is_correct": 0
+        },
+        {
+          "id": 4766,
+          "letter": "C",
+          "text": ", g 2 12 0",
+          "is_correct": 0
+        },
+        {
+          "id": 4767,
+          "letter": "D",
+          "text": ", g 12 0",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "2.3. Versão 1 – (d); Versão 2 – (B) .............................................................................................. 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2561,
+      "number": "2.4",
+      "group": "GRUPO V",
+      "type": "open",
+      "statement": "2.4. .................................................................................................. 5 pontos\n45 pontos\nGRUPO VI",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      },
+      "correction": {
+        "criteria": "2.4. Versão 1 – (A); Versão 2 – (d) .............................................................................................. 5 pontos\nGRUPO VI",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

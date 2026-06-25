@@ -1,0 +1,387 @@
+{
+  "exam": {
+    "id": 26,
+    "exam_key": "2012-702-F2",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2012,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 2460,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "multiple_choice",
+      "statement": "1. Por cristalização fracionada e diferenciação gravítica, o magma parental do granito de Monsanto foi-se \ntornando progressivamente",
+      "choices": [
+        {
+          "id": 4616,
+          "letter": "A",
+          "text": "mais denso e mais rico em sílica.",
+          "is_correct": 0
+        },
+        {
+          "id": 4617,
+          "letter": "B",
+          "text": "mais denso e mais pobre em sílica.",
+          "is_correct": 0
+        },
+        {
+          "id": 4618,
+          "letter": "C",
+          "text": "menos denso e mais rico em sílica.",
+          "is_correct": 0
+        },
+        {
+          "id": 4619,
+          "letter": "D",
+          "text": "menos denso e mais pobre em sílica.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nGeologia e geomorfologia do concelho de Idanha-a-Nova\nA região de Idanha-a-Nova é dominada pela ocorrência de rochas metamórficas, magmáticas \ne sedimentares, estas últimas representadas pelos depósitos de cobertura, como se mostra na \nFigura 3A. Os depósitos de cobertura, de idade cenozoica, são constituídos por dois grupos de \nunidades. O grupo inferior corresponde a antigos depósitos fluviais resultantes da alteração e do \ndesmantelamento de rochas preexistentes. O conjunto superior é consequência das sucessivas \nfases de soerguimento da Cordilheira Central Portuguesa, e é formado por depósitos localizados na \nbase de blocos abatidos por falhas.\nOs terrenos da região formam geralmente uma superfície aplanada, se excetuarmos as cristas \nquartzíticas do sinclinal de Penha Garcia e os maciços graníticos, de que é exemplo o inselberg \n(monte-ilha) de Monsanto.\nO sinclinal de Penha Garcia, cujo corte transversal está representado na Figura 3B, apresenta \numa direção NO-SE e desenvolve-se em rochas do Ordovícico (488 a 444 milhões de anos). Esta \nestrutura, que se prolonga para Espanha, destaca-se da planície que a cerca.\nToda a sequência é rica em icnofósseis, interpretados como pistas de locomoção e de alimentação \nde trilobites, que obteriam matéria orgânica escavando e revolvendo os sedimentos, deixando as \nimpressões dos seus apêndices locomotores marcadas no substrato.\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em Sequeira, A. J. D. e Serejo Proença, J. M., «O património geológico \ne geomorfológico no concelho de Idanha-a-Nova», Geonovas, n.º 18, 2004\nFigura 3B baseada em Thadeu, D., «Geologia e jazigos de chumbo e zinco \nda Beira Baixa», Boletim da Sociedade Geológica de Portugal, 1951\n\nNa resposta a cada um dos itens de 1. a 7., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "1\nA resposta apresenta:\n • um dos tópicos de referência;\n • falhas na aplicação da linguagem científica.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2461,
+      "number": "2",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "2. A variável independente, na situação experimental descrita, é",
+      "choices": [
+        {
+          "id": 4644,
+          "letter": "A",
+          "text": "o diâmetro das colónias.",
+          "is_correct": 0
+        },
+        {
+          "id": 4645,
+          "letter": "B",
+          "text": "o tempo de exposição à luz.",
+          "is_correct": 0
+        },
+        {
+          "id": 4646,
+          "letter": "C",
+          "text": "o meio de origem do fungo.",
+          "is_correct": 0
+        },
+        {
+          "id": 4647,
+          "letter": "D",
+          "text": "a taxa de crescimento.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "TABELA 1",
+        "text": "GRUPO IV\nContaminação por urânio nas drenagens de minas\nNa região Centro de Portugal, todas as minas de rádio e de urânio estão encerradas, embora \nainda existam resíduos a céu aberto, responsáveis pela contaminação das águas próximas.\nPara explicar a presença de duas espécies de fungos pluricelulares aquáticos (da classe dos \nAscomycetes) em águas contaminadas com metais pesados, os investigadores colocaram duas \nhipóteses:\nHipótese 1: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado ocorre devido à tolerância ao aumento da concentração de metais, então espera-se \nque estirpes das duas espécies obtidas, quer de águas não contaminadas, quer de águas \ncontaminadas, se comportem igualmente bem quer em meios de cultura preparados com água \ncontaminada, quer em meios de cultura preparados com água não contaminada.\nHipótese 2: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado é explicada por adaptações genéticas aos contaminantes, então espera-se que \nestirpes das duas espécies obtidas de águas contaminadas se comportem melhor num meio de \ncultura preparado com água contaminada do que num meio de cultura preparado com água não \ncontaminada.\nCom o objetivo de testarem as suas hipóteses, os investigadores realizaram a experiência \nseguinte:\nMétodo:\n1 – Foram isoladas estirpes de duas espécies de fungos pluricelulares aquáticos através da \nrecolha de folhas submersas com esporos de Tricladium splendens e de Varicosporium \nelodeae numa ribeira de referência e numa ribeira contaminada com metais pesados.\n2 – Amostras das duas espécies de fungos colhidas no curso de água de referência foram \ndeixadas crescer em meio de agar com extrato de malte (MEA), preparado com água do \ncurso de água de referência. Amostras das duas espécies de fungos colhidas no curso de \nágua contaminado foram deixadas crescer em MEA, preparado com água do curso de água \ncontaminado. Todas as amostras foram deixadas crescer durante 15 dias, sob o fotoperíodo \ndo mês de abril, à temperatura de 20 ºC.\n3 – Após 15 dias de incubação, cortaram-se fragmentos de 3 mm de diâmetro da periferia de \ncada uma das quatro colónias em crescimento. Foram inoculados fragmentos em meio MEA \npreparado com água de um curso contaminado e com água de um curso de referência, de \nacordo com a Tabela 1. Realizaram-se três repetições por tratamento.\n4 – O diâmetro das colónias foi medido em duas direções perpendiculares, até a colónia se \nencontrar a 1 cm da periferia da caixa.\nResultados: Os resultados das observações efetuadas encontram-se registados na Tabela 1.\n\nTABELA 1\nENSAIO ESPéCIES RIBEIRA DE ORIGEM MEIO DE CULTURA CRESCIMENTO DAS \nESTIRPES (mm/dia)\n1\nT. splendens\nReferência Referência 2,361\n2 Referência Contaminado 2,449\n3 Contaminada Referência 1,910\n4 Contaminada Contaminado 2,417\n1\nV. elodeae\nReferência Referência 3,050\n2 Referência Contaminado 3,112\n3 Contaminada Referência 2,276\n4 Contaminada Contaminado 2,514\nNota – Tabela e valores adaptados.\nBaseado em Ferreira, V., Gonçalves, A. L., Pratas, J. e Canhoto, C., «Contamination by uranium mine drainages \naffects fungal growth and interactions between fungal species and strains», Micology, 102, 2010\nNa resposta aos itens de 1. a 4., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "2\nA resposta apresenta:\n • um dos tópicos de referência;\n • linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2462,
+      "number": "3",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "3. De acordo com os dados obtidos na experiência, é correto afirmar que, para ambas as espécies, o meio \npreparado com água",
+      "choices": [
+        {
+          "id": 4648,
+          "letter": "A",
+          "text": "contaminada é limitante para as estirpes obtidas na ribeira de referência.",
+          "is_correct": 0
+        },
+        {
+          "id": 4649,
+          "letter": "B",
+          "text": "de referência é limitante para as estirpes obtidas na ribeira contaminada.",
+          "is_correct": 0
+        },
+        {
+          "id": 4650,
+          "letter": "C",
+          "text": "contaminada é limitante para as estirpes obtidas na ribeira contaminada.",
+          "is_correct": 0
+        },
+        {
+          "id": 4651,
+          "letter": "D",
+          "text": "de referência é limitante para as estirpes obtidas na ribeira de referência.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "TABELA 1",
+        "text": "GRUPO IV\nContaminação por urânio nas drenagens de minas\nNa região Centro de Portugal, todas as minas de rádio e de urânio estão encerradas, embora \nainda existam resíduos a céu aberto, responsáveis pela contaminação das águas próximas.\nPara explicar a presença de duas espécies de fungos pluricelulares aquáticos (da classe dos \nAscomycetes) em águas contaminadas com metais pesados, os investigadores colocaram duas \nhipóteses:\nHipótese 1: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado ocorre devido à tolerância ao aumento da concentração de metais, então espera-se \nque estirpes das duas espécies obtidas, quer de águas não contaminadas, quer de águas \ncontaminadas, se comportem igualmente bem quer em meios de cultura preparados com água \ncontaminada, quer em meios de cultura preparados com água não contaminada.\nHipótese 2: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado é explicada por adaptações genéticas aos contaminantes, então espera-se que \nestirpes das duas espécies obtidas de águas contaminadas se comportem melhor num meio de \ncultura preparado com água contaminada do que num meio de cultura preparado com água não \ncontaminada.\nCom o objetivo de testarem as suas hipóteses, os investigadores realizaram a experiência \nseguinte:\nMétodo:\n1 – Foram isoladas estirpes de duas espécies de fungos pluricelulares aquáticos através da \nrecolha de folhas submersas com esporos de Tricladium splendens e de Varicosporium \nelodeae numa ribeira de referência e numa ribeira contaminada com metais pesados.\n2 – Amostras das duas espécies de fungos colhidas no curso de água de referência foram \ndeixadas crescer em meio de agar com extrato de malte (MEA), preparado com água do \ncurso de água de referência. Amostras das duas espécies de fungos colhidas no curso de \nágua contaminado foram deixadas crescer em MEA, preparado com água do curso de água \ncontaminado. Todas as amostras foram deixadas crescer durante 15 dias, sob o fotoperíodo \ndo mês de abril, à temperatura de 20 ºC.\n3 – Após 15 dias de incubação, cortaram-se fragmentos de 3 mm de diâmetro da periferia de \ncada uma das quatro colónias em crescimento. Foram inoculados fragmentos em meio MEA \npreparado com água de um curso contaminado e com água de um curso de referência, de \nacordo com a Tabela 1. Realizaram-se três repetições por tratamento.\n4 – O diâmetro das colónias foi medido em duas direções perpendiculares, até a colónia se \nencontrar a 1 cm da periferia da caixa.\nResultados: Os resultados das observações efetuadas encontram-se registados na Tabela 1.\n\nTABELA 1\nENSAIO ESPéCIES RIBEIRA DE ORIGEM MEIO DE CULTURA CRESCIMENTO DAS \nESTIRPES (mm/dia)\n1\nT. splendens\nReferência Referência 2,361\n2 Referência Contaminado 2,449\n3 Contaminada Referência 1,910\n4 Contaminada Contaminado 2,417\n1\nV. elodeae\nReferência Referência 3,050\n2 Referência Contaminado 3,112\n3 Contaminada Referência 2,276\n4 Contaminada Contaminado 2,514\nNota – Tabela e valores adaptados.\nBaseado em Ferreira, V., Gonçalves, A. L., Pratas, J. e Canhoto, C., «Contamination by uranium mine drainages \naffects fungal growth and interactions between fungal species and strains», Micology, 102, 2010\nNa resposta aos itens de 1. a 4., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "3\nA resposta apresenta:\n • os dois tópicos de referência;\n • falhas de coerência na organização dos conteúdos e / ou falhas na aplicação da \nlinguagem científica.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2463,
+      "number": "4",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "4. A diminuição da biodiversidade das comunidades aquáticas contaminadas por metais pesados pode \ndever-se à diminuição da reposição, nos ecossistemas, de matéria",
+      "choices": [
+        {
+          "id": 4652,
+          "letter": "A",
+          "text": "orgânica por parte dos macroconsumidores.",
+          "is_correct": 0
+        },
+        {
+          "id": 4653,
+          "letter": "B",
+          "text": "inorgânica por parte dos macroconsumidores.",
+          "is_correct": 0
+        },
+        {
+          "id": 4654,
+          "letter": "C",
+          "text": "orgânica por parte dos microconsumidores.",
+          "is_correct": 0
+        },
+        {
+          "id": 4655,
+          "letter": "D",
+          "text": "inorgânica por parte dos microconsumidores.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "TABELA 1",
+        "text": "GRUPO IV\nContaminação por urânio nas drenagens de minas\nNa região Centro de Portugal, todas as minas de rádio e de urânio estão encerradas, embora \nainda existam resíduos a céu aberto, responsáveis pela contaminação das águas próximas.\nPara explicar a presença de duas espécies de fungos pluricelulares aquáticos (da classe dos \nAscomycetes) em águas contaminadas com metais pesados, os investigadores colocaram duas \nhipóteses:\nHipótese 1: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado ocorre devido à tolerância ao aumento da concentração de metais, então espera-se \nque estirpes das duas espécies obtidas, quer de águas não contaminadas, quer de águas \ncontaminadas, se comportem igualmente bem quer em meios de cultura preparados com água \ncontaminada, quer em meios de cultura preparados com água não contaminada.\nHipótese 2: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado é explicada por adaptações genéticas aos contaminantes, então espera-se que \nestirpes das duas espécies obtidas de águas contaminadas se comportem melhor num meio de \ncultura preparado com água contaminada do que num meio de cultura preparado com água não \ncontaminada.\nCom o objetivo de testarem as suas hipóteses, os investigadores realizaram a experiência \nseguinte:\nMétodo:\n1 – Foram isoladas estirpes de duas espécies de fungos pluricelulares aquáticos através da \nrecolha de folhas submersas com esporos de Tricladium splendens e de Varicosporium \nelodeae numa ribeira de referência e numa ribeira contaminada com metais pesados.\n2 – Amostras das duas espécies de fungos colhidas no curso de água de referência foram \ndeixadas crescer em meio de agar com extrato de malte (MEA), preparado com água do \ncurso de água de referência. Amostras das duas espécies de fungos colhidas no curso de \nágua contaminado foram deixadas crescer em MEA, preparado com água do curso de água \ncontaminado. Todas as amostras foram deixadas crescer durante 15 dias, sob o fotoperíodo \ndo mês de abril, à temperatura de 20 ºC.\n3 – Após 15 dias de incubação, cortaram-se fragmentos de 3 mm de diâmetro da periferia de \ncada uma das quatro colónias em crescimento. Foram inoculados fragmentos em meio MEA \npreparado com água de um curso contaminado e com água de um curso de referência, de \nacordo com a Tabela 1. Realizaram-se três repetições por tratamento.\n4 – O diâmetro das colónias foi medido em duas direções perpendiculares, até a colónia se \nencontrar a 1 cm da periferia da caixa.\nResultados: Os resultados das observações efetuadas encontram-se registados na Tabela 1.\n\nTABELA 1\nENSAIO ESPéCIES RIBEIRA DE ORIGEM MEIO DE CULTURA CRESCIMENTO DAS \nESTIRPES (mm/dia)\n1\nT. splendens\nReferência Referência 2,361\n2 Referência Contaminado 2,449\n3 Contaminada Referência 1,910\n4 Contaminada Contaminado 2,417\n1\nV. elodeae\nReferência Referência 3,050\n2 Referência Contaminado 3,112\n3 Contaminada Referência 2,276\n4 Contaminada Contaminado 2,514\nNota – Tabela e valores adaptados.\nBaseado em Ferreira, V., Gonçalves, A. L., Pratas, J. e Canhoto, C., «Contamination by uranium mine drainages \naffects fungal growth and interactions between fungal species and strains», Micology, 102, 2010\nNa resposta aos itens de 1. a 4., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "4\nA resposta apresenta:\n • os dois tópicos de referência;\n • organização coerente dos conteúdos;\n • linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2464,
+      "number": "5",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "5. ........................................................................................................... 10 pontos",
+      "choices": [],
+      "context": {
+        "title": "TABELA 1",
+        "text": "GRUPO IV\nContaminação por urânio nas drenagens de minas\nNa região Centro de Portugal, todas as minas de rádio e de urânio estão encerradas, embora \nainda existam resíduos a céu aberto, responsáveis pela contaminação das águas próximas.\nPara explicar a presença de duas espécies de fungos pluricelulares aquáticos (da classe dos \nAscomycetes) em águas contaminadas com metais pesados, os investigadores colocaram duas \nhipóteses:\nHipótese 1: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado ocorre devido à tolerância ao aumento da concentração de metais, então espera-se \nque estirpes das duas espécies obtidas, quer de águas não contaminadas, quer de águas \ncontaminadas, se comportem igualmente bem quer em meios de cultura preparados com água \ncontaminada, quer em meios de cultura preparados com água não contaminada.\nHipótese 2: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado é explicada por adaptações genéticas aos contaminantes, então espera-se que \nestirpes das duas espécies obtidas de águas contaminadas se comportem melhor num meio de \ncultura preparado com água contaminada do que num meio de cultura preparado com água não \ncontaminada.\nCom o objetivo de testarem as suas hipóteses, os investigadores realizaram a experiência \nseguinte:\nMétodo:\n1 – Foram isoladas estirpes de duas espécies de fungos pluricelulares aquáticos através da \nrecolha de folhas submersas com esporos de Tricladium splendens e de Varicosporium \nelodeae numa ribeira de referência e numa ribeira contaminada com metais pesados.\n2 – Amostras das duas espécies de fungos colhidas no curso de água de referência foram \ndeixadas crescer em meio de agar com extrato de malte (MEA), preparado com água do \ncurso de água de referência. Amostras das duas espécies de fungos colhidas no curso de \nágua contaminado foram deixadas crescer em MEA, preparado com água do curso de água \ncontaminado. Todas as amostras foram deixadas crescer durante 15 dias, sob o fotoperíodo \ndo mês de abril, à temperatura de 20 ºC.\n3 – Após 15 dias de incubação, cortaram-se fragmentos de 3 mm de diâmetro da periferia de \ncada uma das quatro colónias em crescimento. Foram inoculados fragmentos em meio MEA \npreparado com água de um curso contaminado e com água de um curso de referência, de \nacordo com a Tabela 1. Realizaram-se três repetições por tratamento.\n4 – O diâmetro das colónias foi medido em duas direções perpendiculares, até a colónia se \nencontrar a 1 cm da periferia da caixa.\nResultados: Os resultados das observações efetuadas encontram-se registados na Tabela 1.\n\nTABELA 1\nENSAIO ESPéCIES RIBEIRA DE ORIGEM MEIO DE CULTURA CRESCIMENTO DAS \nESTIRPES (mm/dia)\n1\nT. splendens\nReferência Referência 2,361\n2 Referência Contaminado 2,449\n3 Contaminada Referência 1,910\n4 Contaminada Contaminado 2,417\n1\nV. elodeae\nReferência Referência 3,050\n2 Referência Contaminado 3,112\n3 Contaminada Referência 2,276\n4 Contaminada Contaminado 2,514\nNota – Tabela e valores adaptados.\nBaseado em Ferreira, V., Gonçalves, A. L., Pratas, J. e Canhoto, C., «Contamination by uranium mine drainages \naffects fungal growth and interactions between fungal species and strains», Micology, 102, 2010\nNa resposta aos itens de 1. a 4., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "5. .................................................................................................................................................... 10 pontos\nA resposta deve apresentar os seguintes tópicos:\n•  referência ao facto de os ensaios 3 e 4 mostrarem que as estirpes isoladas de ribeiras \ncontaminadas se comportam melhor no meio preparado com água contaminada;\n•  relação entre a maior taxa de crescimento da estirpe / o melhor comportamento da estirpe \nno meio preparado com água contaminada e as adaptações genéticas da espécie aos \ncontaminantes, o que permite apoiar a hipótese 2.\nNíveis Descritores do nível de desempenho no domínio específico da disciplina Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2465,
+      "number": "6",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "6. ........................................................................................................... 10 pontos",
+      "choices": [],
+      "context": {
+        "title": "TABELA 1",
+        "text": "GRUPO IV\nContaminação por urânio nas drenagens de minas\nNa região Centro de Portugal, todas as minas de rádio e de urânio estão encerradas, embora \nainda existam resíduos a céu aberto, responsáveis pela contaminação das águas próximas.\nPara explicar a presença de duas espécies de fungos pluricelulares aquáticos (da classe dos \nAscomycetes) em águas contaminadas com metais pesados, os investigadores colocaram duas \nhipóteses:\nHipótese 1: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado ocorre devido à tolerância ao aumento da concentração de metais, então espera-se \nque estirpes das duas espécies obtidas, quer de águas não contaminadas, quer de águas \ncontaminadas, se comportem igualmente bem quer em meios de cultura preparados com água \ncontaminada, quer em meios de cultura preparados com água não contaminada.\nHipótese 2: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado é explicada por adaptações genéticas aos contaminantes, então espera-se que \nestirpes das duas espécies obtidas de águas contaminadas se comportem melhor num meio de \ncultura preparado com água contaminada do que num meio de cultura preparado com água não \ncontaminada.\nCom o objetivo de testarem as suas hipóteses, os investigadores realizaram a experiência \nseguinte:\nMétodo:\n1 – Foram isoladas estirpes de duas espécies de fungos pluricelulares aquáticos através da \nrecolha de folhas submersas com esporos de Tricladium splendens e de Varicosporium \nelodeae numa ribeira de referência e numa ribeira contaminada com metais pesados.\n2 – Amostras das duas espécies de fungos colhidas no curso de água de referência foram \ndeixadas crescer em meio de agar com extrato de malte (MEA), preparado com água do \ncurso de água de referência. Amostras das duas espécies de fungos colhidas no curso de \nágua contaminado foram deixadas crescer em MEA, preparado com água do curso de água \ncontaminado. Todas as amostras foram deixadas crescer durante 15 dias, sob o fotoperíodo \ndo mês de abril, à temperatura de 20 ºC.\n3 – Após 15 dias de incubação, cortaram-se fragmentos de 3 mm de diâmetro da periferia de \ncada uma das quatro colónias em crescimento. Foram inoculados fragmentos em meio MEA \npreparado com água de um curso contaminado e com água de um curso de referência, de \nacordo com a Tabela 1. Realizaram-se três repetições por tratamento.\n4 – O diâmetro das colónias foi medido em duas direções perpendiculares, até a colónia se \nencontrar a 1 cm da periferia da caixa.\nResultados: Os resultados das observações efetuadas encontram-se registados na Tabela 1.\n\nTABELA 1\nENSAIO ESPéCIES RIBEIRA DE ORIGEM MEIO DE CULTURA CRESCIMENTO DAS \nESTIRPES (mm/dia)\n1\nT. splendens\nReferência Referência 2,361\n2 Referência Contaminado 2,449\n3 Contaminada Referência 1,910\n4 Contaminada Contaminado 2,417\n1\nV. elodeae\nReferência Referência 3,050\n2 Referência Contaminado 3,112\n3 Contaminada Referência 2,276\n4 Contaminada Contaminado 2,514\nNota – Tabela e valores adaptados.\nBaseado em Ferreira, V., Gonçalves, A. L., Pratas, J. e Canhoto, C., «Contamination by uranium mine drainages \naffects fungal growth and interactions between fungal species and strains», Micology, 102, 2010\nNa resposta aos itens de 1. a 4., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 10 pontos\nVersão 1 – B, E, d, A, C\nVersão 2 – A, d, B, C, E",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2466,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7. ........................................................................................................... 15 pontos\n50 pontos",
+      "choices": [],
+      "context": {
+        "title": "Figura 2",
+        "text": "GRUPO II\nA renovação dos antibióticos\nDescobriu-se recentemente que bactérias e fungos podem sintetizar antibióticos de natureza \npeptídica com forte proporção de aminoácidos não convencionais que os ribossomas são incapazes \nde incorporar nas proteínas.\nA descoberta deste mecanismo ocorreu quando cientistas que trabalhavam na biossíntese \nde um antibiótico, a gramicidina S, observaram que os extratos celulares da bactéria que produz \neste antibiótico continuam a sintetizá-lo mesmo que se adicione uma enzima que destrói o RNA \nou uma substância que impede a síntese proteica ao nível dos ribossomas. Descobriram que na \nsíntese destes antibióticos estavam envolvidas enzimas de grandes dimensões, que designaram \npor sintetases de péptidos não ribossomais (NRPS). \nNo cromossoma bacteriano, são vários os genes que estão implicados na codificação de uma \nNRPS. Esta enzima é composta por vários módulos (em geral, uma dezena) ligados uns aos \noutros. Cada módulo é responsável pela incorporação específica de um dado aminoácido na cadeia \npolipeptídica em crescimento. Uma NRPS só catalisa a síntese de uma molécula bem definida, \nsendo a sucessão dos diferentes módulos o que determina a composição do produto, como se \nevidencia na Figura 2.\nEm 1995, conseguiu-se trocar a ordem das sequências de DNA que codificam módulos inteiros \nde uma NRPS. Esta manipulação conduziu à síntese de uma nova enzima, que produziu péptidos \ninéditos. Também já foi possível transferir genes responsáveis pela síntese de NRPS da bactéria \nStreptomyces lasaliensis para a bactéria Escherichia coli. Esta última bactéria é a mais conhecida, a \nque se sabe manipular melhor e a que se utiliza para produzir moléculas em quantidades industriais. \nEm 2002, quando pela primeira vez foi sequenciado o genoma de uma bactéria produtora de \nantibióticos, Streptomyces coelicor, descobriram-se vários genes correspondentes a NRPS, mas \nque não se exprimiam, isto é, fontes potenciais de NRPS responsáveis pela síntese de novos \npéptidos. Surge assim o desafio de tentar obter novas NRPS e de selecionar, do ponto de vista \nfarmacológico, as mais interessantes.\nFigura 2\nBaseado em Marahiel, M., «Le renouveau des antibiotiques», Les dossiers de la recherche, n.º 41, novembro de 2010\n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (d)\n\nProva 702/2.ª F. • Página C/10/ 12",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2467,
+      "number": "8",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "8. ........................................................................................................... 15 pontos\n50 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nGeologia e geomorfologia do concelho de Idanha-a-Nova\nA região de Idanha-a-Nova é dominada pela ocorrência de rochas metamórficas, magmáticas \ne sedimentares, estas últimas representadas pelos depósitos de cobertura, como se mostra na \nFigura 3A. Os depósitos de cobertura, de idade cenozoica, são constituídos por dois grupos de \nunidades. O grupo inferior corresponde a antigos depósitos fluviais resultantes da alteração e do \ndesmantelamento de rochas preexistentes. O conjunto superior é consequência das sucessivas \nfases de soerguimento da Cordilheira Central Portuguesa, e é formado por depósitos localizados na \nbase de blocos abatidos por falhas.\nOs terrenos da região formam geralmente uma superfície aplanada, se excetuarmos as cristas \nquartzíticas do sinclinal de Penha Garcia e os maciços graníticos, de que é exemplo o inselberg \n(monte-ilha) de Monsanto.\nO sinclinal de Penha Garcia, cujo corte transversal está representado na Figura 3B, apresenta \numa direção NO-SE e desenvolve-se em rochas do Ordovícico (488 a 444 milhões de anos). Esta \nestrutura, que se prolonga para Espanha, destaca-se da planície que a cerca.\nToda a sequência é rica em icnofósseis, interpretados como pistas de locomoção e de alimentação \nde trilobites, que obteriam matéria orgânica escavando e revolvendo os sedimentos, deixando as \nimpressões dos seus apêndices locomotores marcadas no substrato.\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em Sequeira, A. J. D. e Serejo Proença, J. M., «O património geológico \ne geomorfológico no concelho de Idanha-a-Nova», Geonovas, n.º 18, 2004\nFigura 3B baseada em Thadeu, D., «Geologia e jazigos de chumbo e zinco \nda Beira Baixa», Boletim da Sociedade Geológica de Portugal, 1951\n\nNa resposta a cada um dos itens de 1. a 7., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "8. .................................................................................................................................................... 15 pontos\nA resposta deve apresentar os seguintes tópicos:\n•  referência à intensa meteorização química característica de climas tropicais húmidos;\n•  referência à existência de rochas com diferente resistência à meteorização química;\n•  relação entre a existência de episódios de precipitação muito concentrada e a elevada \ntaxa de erosão dos materiais não consolidados / remoção intensa dos materiais não \nconsolidados.\nDescritores do nível de desempenho no domínio\nda comunicação escrita em língua portuguesa\nDescritores do nível de desempenho\nno domínio específico da disciplina\nNíveis*",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2489,
+      "number": "7.1",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "7.1. O ciclo de vida representado é",
+      "choices": [
+        {
+          "id": 4656,
+          "letter": "A",
+          "text": "haplonte com meiose pós-zigótica, sendo o micélio uma entidade haploide.",
+          "is_correct": 0
+        },
+        {
+          "id": 4657,
+          "letter": "B",
+          "text": "haplonte com meiose pré-espórica, sendo o micélio uma entidade haploide.",
+          "is_correct": 0
+        },
+        {
+          "id": 4658,
+          "letter": "C",
+          "text": "haplodiplonte com meiose pós-zigótica, sendo o micélio uma entidade diploide.",
+          "is_correct": 0
+        },
+        {
+          "id": 4659,
+          "letter": "D",
+          "text": "haplodiplonte com meiose pré-espórica, sendo o micélio uma entidade diploide.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "TABELA 1",
+        "text": "GRUPO IV\nContaminação por urânio nas drenagens de minas\nNa região Centro de Portugal, todas as minas de rádio e de urânio estão encerradas, embora \nainda existam resíduos a céu aberto, responsáveis pela contaminação das águas próximas.\nPara explicar a presença de duas espécies de fungos pluricelulares aquáticos (da classe dos \nAscomycetes) em águas contaminadas com metais pesados, os investigadores colocaram duas \nhipóteses:\nHipótese 1: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado ocorre devido à tolerância ao aumento da concentração de metais, então espera-se \nque estirpes das duas espécies obtidas, quer de águas não contaminadas, quer de águas \ncontaminadas, se comportem igualmente bem quer em meios de cultura preparados com água \ncontaminada, quer em meios de cultura preparados com água não contaminada.\nHipótese 2: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado é explicada por adaptações genéticas aos contaminantes, então espera-se que \nestirpes das duas espécies obtidas de águas contaminadas se comportem melhor num meio de \ncultura preparado com água contaminada do que num meio de cultura preparado com água não \ncontaminada.\nCom o objetivo de testarem as suas hipóteses, os investigadores realizaram a experiência \nseguinte:\nMétodo:\n1 – Foram isoladas estirpes de duas espécies de fungos pluricelulares aquáticos através da \nrecolha de folhas submersas com esporos de Tricladium splendens e de Varicosporium \nelodeae numa ribeira de referência e numa ribeira contaminada com metais pesados.\n2 – Amostras das duas espécies de fungos colhidas no curso de água de referência foram \ndeixadas crescer em meio de agar com extrato de malte (MEA), preparado com água do \ncurso de água de referência. Amostras das duas espécies de fungos colhidas no curso de \nágua contaminado foram deixadas crescer em MEA, preparado com água do curso de água \ncontaminado. Todas as amostras foram deixadas crescer durante 15 dias, sob o fotoperíodo \ndo mês de abril, à temperatura de 20 ºC.\n3 – Após 15 dias de incubação, cortaram-se fragmentos de 3 mm de diâmetro da periferia de \ncada uma das quatro colónias em crescimento. Foram inoculados fragmentos em meio MEA \npreparado com água de um curso contaminado e com água de um curso de referência, de \nacordo com a Tabela 1. Realizaram-se três repetições por tratamento.\n4 – O diâmetro das colónias foi medido em duas direções perpendiculares, até a colónia se \nencontrar a 1 cm da periferia da caixa.\nResultados: Os resultados das observações efetuadas encontram-se registados na Tabela 1.\n\nTABELA 1\nENSAIO ESPéCIES RIBEIRA DE ORIGEM MEIO DE CULTURA CRESCIMENTO DAS \nESTIRPES (mm/dia)\n1\nT. splendens\nReferência Referência 2,361\n2 Referência Contaminado 2,449\n3 Contaminada Referência 1,910\n4 Contaminada Contaminado 2,417\n1\nV. elodeae\nReferência Referência 3,050\n2 Referência Contaminado 3,112\n3 Contaminada Referência 2,276\n4 Contaminada Contaminado 2,514\nNota – Tabela e valores adaptados.\nBaseado em Ferreira, V., Gonçalves, A. L., Pratas, J. e Canhoto, C., «Contamination by uranium mine drainages \naffects fungal growth and interactions between fungal species and strains», Micology, 102, 2010\nNa resposta aos itens de 1. a 4., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "7.1. ................................................................................................................................................. 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (B)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2490,
+      "number": "7.2",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "7.2. .................................................................................................... 5 pontos\n50 pontos\n TOTAL ......................................... 200 pontos",
+      "choices": [],
+      "context": {
+        "title": "TABELA 1",
+        "text": "GRUPO IV\nContaminação por urânio nas drenagens de minas\nNa região Centro de Portugal, todas as minas de rádio e de urânio estão encerradas, embora \nainda existam resíduos a céu aberto, responsáveis pela contaminação das águas próximas.\nPara explicar a presença de duas espécies de fungos pluricelulares aquáticos (da classe dos \nAscomycetes) em águas contaminadas com metais pesados, os investigadores colocaram duas \nhipóteses:\nHipótese 1: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado ocorre devido à tolerância ao aumento da concentração de metais, então espera-se \nque estirpes das duas espécies obtidas, quer de águas não contaminadas, quer de águas \ncontaminadas, se comportem igualmente bem quer em meios de cultura preparados com água \ncontaminada, quer em meios de cultura preparados com água não contaminada.\nHipótese 2: Se a presença das espécies de fungos pluricelulares aquáticos no curso de água \ncontaminado é explicada por adaptações genéticas aos contaminantes, então espera-se que \nestirpes das duas espécies obtidas de águas contaminadas se comportem melhor num meio de \ncultura preparado com água contaminada do que num meio de cultura preparado com água não \ncontaminada.\nCom o objetivo de testarem as suas hipóteses, os investigadores realizaram a experiência \nseguinte:\nMétodo:\n1 – Foram isoladas estirpes de duas espécies de fungos pluricelulares aquáticos através da \nrecolha de folhas submersas com esporos de Tricladium splendens e de Varicosporium \nelodeae numa ribeira de referência e numa ribeira contaminada com metais pesados.\n2 – Amostras das duas espécies de fungos colhidas no curso de água de referência foram \ndeixadas crescer em meio de agar com extrato de malte (MEA), preparado com água do \ncurso de água de referência. Amostras das duas espécies de fungos colhidas no curso de \nágua contaminado foram deixadas crescer em MEA, preparado com água do curso de água \ncontaminado. Todas as amostras foram deixadas crescer durante 15 dias, sob o fotoperíodo \ndo mês de abril, à temperatura de 20 ºC.\n3 – Após 15 dias de incubação, cortaram-se fragmentos de 3 mm de diâmetro da periferia de \ncada uma das quatro colónias em crescimento. Foram inoculados fragmentos em meio MEA \npreparado com água de um curso contaminado e com água de um curso de referência, de \nacordo com a Tabela 1. Realizaram-se três repetições por tratamento.\n4 – O diâmetro das colónias foi medido em duas direções perpendiculares, até a colónia se \nencontrar a 1 cm da periferia da caixa.\nResultados: Os resultados das observações efetuadas encontram-se registados na Tabela 1.\n\nTABELA 1\nENSAIO ESPéCIES RIBEIRA DE ORIGEM MEIO DE CULTURA CRESCIMENTO DAS \nESTIRPES (mm/dia)\n1\nT. splendens\nReferência Referência 2,361\n2 Referência Contaminado 2,449\n3 Contaminada Referência 1,910\n4 Contaminada Contaminado 2,417\n1\nV. elodeae\nReferência Referência 3,050\n2 Referência Contaminado 3,112\n3 Contaminada Referência 2,276\n4 Contaminada Contaminado 2,514\nNota – Tabela e valores adaptados.\nBaseado em Ferreira, V., Gonçalves, A. L., Pratas, J. e Canhoto, C., «Contamination by uranium mine drainages \naffects fungal growth and interactions between fungal species and strains», Micology, 102, 2010\nNa resposta aos itens de 1. a 4., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+      },
+      "correction": {
+        "criteria": "7.2. ................................................................................................................................................. 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (C)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

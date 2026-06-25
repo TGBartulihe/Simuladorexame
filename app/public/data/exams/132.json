@@ -1,0 +1,244 @@
+{
+  "exam": {
+    "id": 132,
+    "exam_key": "2018-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2018,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 1573,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "4.\n As \nexpressões «Quer dizer» (linha 17) e «Dito de outro modo» (linha 21), seguidas de dois pontos, \nintroduzem, respetivamente, sequências textuais em que o autor\n \n(\na\n)\n apresenta um argumento novo e reforça as ideias anteriormente apresentadas.",
+      "choices": [
+        {
+          "id": 2729,
+          "letter": "B",
+          "text": "sintetiza o conteúdo do parágrafo e explica a ideia anteriormente expressa.",
+          "is_correct": 0
+        },
+        {
+          "id": 2730,
+          "letter": "C",
+          "text": "fundamenta o seu ponto de vista e introduz novos argumentos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2731,
+          "letter": "D",
+          "text": "problematiza a ideia apresentada anteriormente e exemplifica o seu ponto de vista.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+      },
+      "correction": {
+        "criteria": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por três partes individualizadas (introdução, \ndesenvolvimento e conclusão), devidamente proporcionadas e articuladas entre si de \nmodo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1574,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "5.\n As \nformas verbais presentes em «A intraduzibilidade de um termo é normal.» (linha 1) e em «Assim, o \ntermo ganhou uma extensão invulgar» (linha 20) têm, respetivamente, um valor aspetual\n \n(\na\n)\n genérico e perfetivo.",
+      "choices": [
+        {
+          "id": 2732,
+          "letter": "B",
+          "text": "iterativo e perfetivo.",
+          "is_correct": 0
+        },
+        {
+          "id": 2733,
+          "letter": "C",
+          "text": "genérico e imperfetivo.",
+          "is_correct": 0
+        },
+        {
+          "id": 2734,
+          "letter": "D",
+          "text": "iterativo e imperfetivo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+      },
+      "correction": {
+        "criteria": "5. .................................................................................................................................................... 16 pontos\nPara explicar em que medida a afirmação proferida por Madalena pode constituir um presságio de tragédia, \ndevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ a preocupação de Madalena relativamente à instabilidade do tempo (alterações atmosféricas que \npoderão dificultar o regresso da família a casa, apesar de, até ao momento, o dia estar sereno) indicia, \nsimbolicamente, o receio de que também a sua vida (até então feliz) possa mudar;\n‒ a afirmação revela a intuição de uma desgraça iminente (possibilidade de D. João de Portugal regressar) \nque viria pôr fim à harmonia familiar.\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1575,
+      "number": "6",
+      "group": "GRUPO I",
+      "type": "essay",
+      "statement": "6.\n Ao longo do excerto, Madalena repete oito vezes a palavra «hoje».\nJustifique \nos sentimentos manifestados por Madalena na sua última fala e relacione-os com a repetição \ndessa palavra.\n\nPart E C",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\n20\nScrevo meu livro à beira-mágoa.\nMeu coração não tem que ter.\nTenho meus olhos quentes de água.\nSó tu, Senhor, me dás viver.\nSó te sentir e te pensar\nMeus dias vácuos enche e doura.\nMas quando quererás voltar?\nQuando é o Rei? Quando é a Hora?\nQuando virás a ser o Cristo\nDe a quem morreu o falso Deus,\nE a despertar do mal que existo\nA Nova Terra e os Novos Céus?\nQuando virás, ó Encoberto,\nSonho das eras português,\nTornar-me mais que o sopro incerto\nDe um grande anseio que Deus fez?\nAh, quando quererás, voltando,\nFazer minha esperança amor?\nDa névoa e da saudade quando?\nQuando, meu Sonho e meu Senhor?\nFernando Pessoa, Mensagem, edição de Fernando Cabral Martins, \nLisboa, Assírio & Alvim, 1997, pp. 81-82."
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 8 pontos\na) Complemento direto; b) sujeito.\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1576,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7.\n Classifique a oração sublinha\nda em «Ora, em semântica, é regra fundamental que o significado é o uso.» \n(linha 21).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 8 pontos\n(Oração) subordinada substantiva completiva\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1577,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2018/).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\n«Há palavras que nos beijam\nComo se tivessem boca.»\nAlexandre O’Neill, Poesias Completas, 4.ª ed., Lisboa, \nAssírio & Alvim, 2005, p. 64.\n«São como um cristal,\nas palavras.\nAlgumas, um punhal,\num incêndio.»\nEugénio de Andrade, Antologia Breve, 6.ª ed., Porto, \nFundação Eugénio de Andrade, 1994, p. 35.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o poder das palavras nas relações humanas.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "1 Escreve um texto com uma organização pouco satisfatória, recorrendo a insuficientes \nmecanismos de coesão ou mobilizando-os de forma inadequada. 2\n\nCotaçÕES\ngrupo item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1578,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\ngrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n16 16 16 8 16 16 16 104\nII 1. 2. 3. 4. 5. 6. 7.\n8 8 8 8 8 8 8 56\nIII Item único 40\nt\nota\nL 200",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\n«Há palavras que nos beijam\nComo se tivessem boca.»\nAlexandre O’Neill, Poesias Completas, 4.ª ed., Lisboa, \nAssírio & Alvim, 2005, p. 64.\n«São como um cristal,\nas palavras.\nAlgumas, um punhal,\num incêndio.»\nEugénio de Andrade, Antologia Breve, 6.ª ed., Porto, \nFundação Eugénio de Andrade, 1994, p. 35.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o poder das palavras nas relações humanas.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais \ndos aspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois \ndesses aspetos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1579,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "3.\n Ao utilizar a expressão «polissemia desbragada» (linha 27), o autor pretende evidenciar\n \n(\na\n)\n a amplitude do campo semântico da palavra «saudade».",
+      "choices": [
+        {
+          "id": 2726,
+          "letter": "B",
+          "text": "a longa tradição poética sobre a temática da «saudade».",
+          "is_correct": 0
+        },
+        {
+          "id": 2727,
+          "letter": "C",
+          "text": "o sentimentalismo excessivo do povo português.",
+          "is_correct": 0
+        },
+        {
+          "id": 2728,
+          "letter": "D",
+          "text": "o saudosismo característico da língua portuguesa.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+      },
+      "correction": {
+        "criteria": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

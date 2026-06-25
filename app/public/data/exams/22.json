@@ -1,0 +1,787 @@
+{
+  "exam": {
+    "id": 22,
+    "exam_key": "2022-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2022,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 572,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "multiple_choice",
+      "statement": "1. Considerando os processos de divisão celular que têm lugar no ciclo de vida representado, pode referir-se \nque ocorre",
+      "choices": [
+        {
+          "id": 951,
+          "letter": "A",
+          "text": "diferente ploidia entre gâmetas e gametócitos.",
+          "is_correct": 0
+        },
+        {
+          "id": 952,
+          "letter": "B",
+          "text": "recombinação genética, no interior das hemácias.",
+          "is_correct": 0
+        },
+        {
+          "id": 953,
+          "letter": "C",
+          "text": "mitose dos merozoítos, nos hepatócitos.",
+          "is_correct": 0
+        },
+        {
+          "id": 954,
+          "letter": "D",
+          "text": "meiose para a formação de esporozoítos.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Figura 5",
+        "text": "GRUPO III\nA malária, causada por protistas parasitas intracelulares obrigatórios do género Plasmodium, é \numa doença infecciosa que atinge anualmente mais de 200 milhões de pessoas. Estes parasitas \ntêm um ciclo de vida complexo que inclui dois hospedeiros, o homem e os mosquitos do género \nAnopheles, como se representa na Figura 5.\nApós a transmissão por picada de um mosquito infetado, os esporozoítos alojam-se no fígado \ne infetam as células deste órgão, chamadas hepatócitos, onde se reproduzem. \nem Lisboa, têm tentado conhecer as várias estratégias usadas pelo parasita para invadir as células \nhumanas. Recentemente, verificaram que os esporozoítos segregam uma proteína, a EXP2, capaz \nde criar poros na membrana dos hepatócitos, tornando-a permeável à entrada de Ca\n2+ e à saída \nde K +, mas não à entrada dos esporozoítos. Este fluxo de iões desencadeia, nos hepatócitos, \na exocitose de uma enzima lisossomal, a esfingomielinase ácida, envolvida no processo de \nreparação da membrana celular. O processo de reparação ativa a endocitose, processo através \ndo qual os esporozoítos entram nos hepatócitos.\nEstas e outras descobertas abrem novas perspetivas no combate à malária, através do bloqueio \nou da diminuição da infeção.\nGametócitos – células ingeridas pelo mosquito, onde ocorre a maturação dos gâmetas. Resultam da diferenciação\ndos merozoítos.\nEsporozoítos – células haploides formadas no sistema digestivo do mosquito, resultantes da divisão do zigoto, que\nse reproduzem assexuadamente no fígado, originando merozoítos. \nMerozoítos – células libertadas para a corrente sanguínea, que se reproduzem assexuadamente dentro das hemácias.\nesporozoítos nas \nglândulas salivares\nesporozoítos\nmerozoítos\nglóbulos \nvermelhos\ngametócitos \ngametócitos \nzigoto\nFigura 5\nBaseado em: J. Mello-Vieira et al., «Plasmodium translocon component EXP2 facilitates hepatocyte invasion», in Nature \nCommunications, 11 (5654), 2020; e em: https://mundoeducacao.uol.com.br/doencas/malaria.htm (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "1.\nCotação (em pontos) 5 x 8 pontos 40\nTOTAL 200",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 573,
+      "number": "2",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "2. 3. 4.\nCotação (em pontos) 20 x 8 pontos 160\nDestes 10 itens, contribuem \npara a classificação final da \nprova os 5 itens cujas respostas \nobtenham melhor pontuação.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "2. 3. 4.\nCotação (em pontos) 20 x 8 pontos 160\nDestes 10 itens, contribuem \npara a classificação final da \nprova os 5 itens cujas respostas \nobtenham melhor pontuação.\nGrupo I\nSubtotal",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 574,
+      "number": "3",
+      "group": "GRUPO III",
+      "type": "matching",
+      "statement": "3.\n Associe, \nconsiderando o sistema de classificação de Whittaker modificado, cada uma das descrições \nrelativas às características dos seres vivos, expressas na Coluna I, ao reino correspondente, que consta \nna Coluna II.\nEscreva na folha de respostas cada letra da Coluna I, seguida do número correspondente. A cada letra \ncorresponde apenas um número.\nCOLUNA I COLUNA II\n(a) Organismo s unicelulares, heterotróficos por absorção, sem organelos \nmembranares.\n(b)\n Organismos \nexclusivamente multicelulares, sem cloroplastos, heterotróficos \npor ingestão.\n(c)\n Organismo\ns eucariontes, autotróficos, com elevada diferenciação.\n(1)\n Reino \nAnimalia\n(2)\n Reino Fungi\n(3)\n Reino Mon\nera\n(4)\n Reino Plan\ntae\n(5)\n Reino Protista",
+      "choices": [],
+      "context": {
+        "title": "Figura 5",
+        "text": "GRUPO III\nA malária, causada por protistas parasitas intracelulares obrigatórios do género Plasmodium, é \numa doença infecciosa que atinge anualmente mais de 200 milhões de pessoas. Estes parasitas \ntêm um ciclo de vida complexo que inclui dois hospedeiros, o homem e os mosquitos do género \nAnopheles, como se representa na Figura 5.\nApós a transmissão por picada de um mosquito infetado, os esporozoítos alojam-se no fígado \ne infetam as células deste órgão, chamadas hepatócitos, onde se reproduzem. \nem Lisboa, têm tentado conhecer as várias estratégias usadas pelo parasita para invadir as células \nhumanas. Recentemente, verificaram que os esporozoítos segregam uma proteína, a EXP2, capaz \nde criar poros na membrana dos hepatócitos, tornando-a permeável à entrada de Ca\n2+ e à saída \nde K +, mas não à entrada dos esporozoítos. Este fluxo de iões desencadeia, nos hepatócitos, \na exocitose de uma enzima lisossomal, a esfingomielinase ácida, envolvida no processo de \nreparação da membrana celular. O processo de reparação ativa a endocitose, processo através \ndo qual os esporozoítos entram nos hepatócitos.\nEstas e outras descobertas abrem novas perspetivas no combate à malária, através do bloqueio \nou da diminuição da infeção.\nGametócitos – células ingeridas pelo mosquito, onde ocorre a maturação dos gâmetas. Resultam da diferenciação\ndos merozoítos.\nEsporozoítos – células haploides formadas no sistema digestivo do mosquito, resultantes da divisão do zigoto, que\nse reproduzem assexuadamente no fígado, originando merozoítos. \nMerozoítos – células libertadas para a corrente sanguínea, que se reproduzem assexuadamente dentro das hemácias.\nesporozoítos nas \nglândulas salivares\nesporozoítos\nmerozoítos\nglóbulos \nvermelhos\ngametócitos \ngametócitos \nzigoto\nFigura 5\nBaseado em: J. Mello-Vieira et al., «Plasmodium translocon component EXP2 facilitates hepatocyte invasion», in Nature \nCommunications, 11 (5654), 2020; e em: https://mundoeducacao.uol.com.br/doencas/malaria.htm (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "3\nPrevê, com rigor científico, as consequências da substituição de uma base nitrogenada \nno gene EXP2 na capacidade infecciosa do Plasmodium. Apresenta apenas dois \ndos elementos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 575,
+      "number": "4",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "4. A sequência de nucleótidos 3' TACTTTCACTCGATATAA... 5' corresponde ao fragmento inicial do gene \nEXP2. O diagrama da Figura 6 representa o código genético.\nU\nU\nU\nU\nU\nUU\nU\nU\nU\nU\nU\nU\nU\nU\nU\nU\nU\nU\nU\nU\nAA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA\nA A\nA\nA\nA\nA\nA\nA\nC C\nC\nCC\nC\nC\nC\nC\nC\nC\nC C\nC\nC\nC\nC\nC\nC\nC\nC\nG\nG\nG\nG\nG\nG G\nG\nG\nG\nG\nG\nG\nGG\nG\nG\nG\nG\nG\nG\nÁc. glutâmico\nIsoleucina\nMetionina\nTreonina\nAsparagina\nLisina\nSerina\nArginina\nValina\nAlanina\nÁc. aspártico\nGlicina\nLeucina\nSerina\nTirosina\nCisteína\nTriptofano\nLeucina\nProlina\nHistidina\nGlutamina\nArginina\nFenilalanina\nStop\n5’3’ 3’\n3’\n3’\nFigura 6\nConsidere que, no décimo quinto desoxirribonucleótido do fragmento do gene EXP2, a base nitrogenada \nfoi substituída por uma citosina.\nPreveja as consequências dessa substituição na capacidade infecciosa do parasita Plasmodium. \nFIM\n\nCOTAÇÕES\nAs pontuações obtidas \nnas respostas a estes \n20 itens da prova contribuem \nobrigatoriamente para \na classificação final.",
+      "choices": [],
+      "context": {
+        "title": "Figura 5",
+        "text": "GRUPO III\nA malária, causada por protistas parasitas intracelulares obrigatórios do género Plasmodium, é \numa doença infecciosa que atinge anualmente mais de 200 milhões de pessoas. Estes parasitas \ntêm um ciclo de vida complexo que inclui dois hospedeiros, o homem e os mosquitos do género \nAnopheles, como se representa na Figura 5.\nApós a transmissão por picada de um mosquito infetado, os esporozoítos alojam-se no fígado \ne infetam as células deste órgão, chamadas hepatócitos, onde se reproduzem. \nem Lisboa, têm tentado conhecer as várias estratégias usadas pelo parasita para invadir as células \nhumanas. Recentemente, verificaram que os esporozoítos segregam uma proteína, a EXP2, capaz \nde criar poros na membrana dos hepatócitos, tornando-a permeável à entrada de Ca\n2+ e à saída \nde K +, mas não à entrada dos esporozoítos. Este fluxo de iões desencadeia, nos hepatócitos, \na exocitose de uma enzima lisossomal, a esfingomielinase ácida, envolvida no processo de \nreparação da membrana celular. O processo de reparação ativa a endocitose, processo através \ndo qual os esporozoítos entram nos hepatócitos.\nEstas e outras descobertas abrem novas perspetivas no combate à malária, através do bloqueio \nou da diminuição da infeção.\nGametócitos – células ingeridas pelo mosquito, onde ocorre a maturação dos gâmetas. Resultam da diferenciação\ndos merozoítos.\nEsporozoítos – células haploides formadas no sistema digestivo do mosquito, resultantes da divisão do zigoto, que\nse reproduzem assexuadamente no fígado, originando merozoítos. \nMerozoítos – células libertadas para a corrente sanguínea, que se reproduzem assexuadamente dentro das hemácias.\nesporozoítos nas \nglândulas salivares\nesporozoítos\nmerozoítos\nglóbulos \nvermelhos\ngametócitos \ngametócitos \nzigoto\nFigura 5\nBaseado em: J. Mello-Vieira et al., «Plasmodium translocon component EXP2 facilitates hepatocyte invasion», in Nature \nCommunications, 11 (5654), 2020; e em: https://mundoeducacao.uol.com.br/doencas/malaria.htm (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "4\nPrevê, com falhas no rigor científico, as consequências da substituição de uma base nitrogenada \nno gene EXP2 na capacidade infecciosa do Plasmodium. Apresenta os três elementos \n(A, B, C).",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 576,
+      "number": "5",
+      "group": "GRUPO I",
+      "type": "ordering",
+      "statement": "5. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência correta \nde acontecimentos relacionados com a evolução geológica da região do Algarve.\nA.\n Formação do supercontinente Pangeia.\nB.\n Deposição de sedimentos nos mares paleozoicos.\nC.\n Formação da unidade geológica \nArgilas de S. Bartolomeu de Messines.\nD.\n Fecho do Mar de \nTétis.\nE.   Ocorrência do vulcanismo da CAMP.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "5\nPrevê, com rigor científico, as consequências da substituição de uma base nitrogenada \nno gene EXP2 na capacidade infecciosa do Plasmodium. Apresenta os três elementos \n(A, B, C).",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 577,
+      "number": "6",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "6.\n A\n sondagem «Corvina», realizada no mar, a sul do Algarve, permitiu identificar, desde o fundo do mar \naté aos - 1015 metros, rochas sedimentares recentes, com idades até ao Oligocénico (~34 Ma). Entre \nos - 1015 e os - 2020 metros, foram encontradas rochas sedimentares atribuídas ao Cretácico inferior \n(com mais de 100 Ma).\nDe acordo com a interpretação dos dados, esta sondagem permitiu",
+      "choices": [
+        {
+          "id": 907,
+          "letter": "A",
+          "text": "estudar a crosta oceânica superficial, usando um método indireto.",
+          "is_correct": 0
+        },
+        {
+          "id": 908,
+          "letter": "B",
+          "text": "recolher rochas da zona de transição entre a crosta e o manto.",
+          "is_correct": 0
+        },
+        {
+          "id": 909,
+          "letter": "C",
+          "text": "verificar , através de um método direto, que não houve sedimentação no Cenozoico.",
+          "is_correct": 0
+        },
+        {
+          "id": 910,
+          "letter": "D",
+          "text": "constatar que, naquele local, não existem rochas do final do Mesozoico.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "6. a 9. ............................................................... (4 × 8 pontos) ....................................................... 32 pontos\nItens 6. 7. 8. 9.\nVersão 1 D B C A\nVersão 2 C A D B",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 578,
+      "number": "7",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "7.\n A\n crosta oceânica, comparativamente com a crosta continental, apresenta rochas com",
+      "choices": [
+        {
+          "id": 911,
+          "letter": "A",
+          "text": "menor densidade e maior percentagem de ferro e de níqu el.",
+          "is_correct": 0
+        },
+        {
+          "id": 912,
+          "letter": "B",
+          "text": "maior densidade e maior percentagem de minerais ferromagnesianos.",
+          "is_correct": 0
+        },
+        {
+          "id": 913,
+          "letter": "C",
+          "text": "menor densidade e maior percentagem de plagióclases ricas em cálcio.",
+          "is_correct": 0
+        },
+        {
+          "id": 914,
+          "letter": "D",
+          "text": "maior densidade e maior percentagem de sílica e de alumínio.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 579,
+      "number": "8",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "8.\n Durante \na fase distensiva que afetou a Bacia do Algarve, identificaram-se três episódios de inversões \ntectónicas de curta duração (com 1 a 5 milhões de anos). Durante estes episódios compressivos, terá havido",
+      "choices": [
+        {
+          "id": 915,
+          "letter": "A",
+          "text": "formação de falhas normais que levaram à redução da coluna de água.",
+          "is_correct": 0
+        },
+        {
+          "id": 916,
+          "letter": "B",
+          "text": "formação de falhas inversas que levaram ao aumento da coluna de água.",
+          "is_correct": 0
+        },
+        {
+          "id": 917,
+          "letter": "C",
+          "text": "levantamento de algumas zonas da bacia, o que dificultou a migração das espécies boreais e tetisianas.",
+          "is_correct": 0
+        },
+        {
+          "id": 918,
+          "letter": "D",
+          "text": "abatimento de algumas zonas da bacia, o que intensificou a migração das espécies boreais e tetisianas.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 580,
+      "number": "9",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "9. No litoral algarvio, a sobre-extração das águas dos aquíferos poderá ter como consequência",
+      "choices": [
+        {
+          "id": 919,
+          "letter": "A",
+          "text": "a descida dos níveis freáticos.",
+          "is_correct": 0
+        },
+        {
+          "id": 920,
+          "letter": "B",
+          "text": "o desaparecimento de zonas de recarga.",
+          "is_correct": 0
+        },
+        {
+          "id": 921,
+          "letter": "C",
+          "text": "a diminuição das zonas de aeração.",
+          "is_correct": 0
+        },
+        {
+          "id": 922,
+          "letter": "D",
+          "text": "o aumento das zonas de saturação.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 581,
+      "number": "10",
+      "group": "GRUPO I",
+      "type": "essay",
+      "statement": "10.\n Explique \nde que modo os contextos tectónico e climático contribuíram para a formação do sal-gema \nexplorado na região de Loulé.\n\nTexto 2\nO Parque Natural da Ria Formosa, no Algarve, corresponde a uma zona litoral constituída \npor praias, dunas, zonas de sapal, canais fluviais e canais de maré. O sistema lagunar da ria, \nlimitado a sul por um conjunto de ilhas-barreira arenosas que o separam do oceano, apresenta \numa profundidade média de 10 metros e é alimentado, quase exclusivamente, por água do mar. \nA pequena profundidade, a boa penetração da luz e as águas calmas favorecem a desova, a \nalimentação e o refúgio de muitas espécies que ali passam os estádios larvares e juvenis, algumas \ndas quais migram depois para o mar, onde completam o seu ciclo biológico.\nNa Ria Formosa, a maior área nacional de pradaria marinha, podem ser encontradas ervas \nmarinhas nativas, como a Zostera marina, plantas vasculares que vivem submersas e que \napresentam folhas, geralmente finas, em forma de fita. Possuem rizomas bastante desenvolvidos, \nque se fixam em substratos essencialmente arenosos. \nNas pradarias marinhas, encontram-se as duas únicas espécies europeias de cavalos-marinhos: \no cavalo-marinho-de-focinho-comprido (Hippocampus guttulatus) e o cavalo-marinho-de-focinho-curto \n(Hippocampus hippocampus). Estes peixes alimentam-se de pequenos crustáceos e fixam-se com \na sua cauda preênsil à cobertura vegetal. Entre as suas peculiaridades, está o facto de ocorrer \na transferência dos óvulos da fêmea para o macho, sendo então fecundados na bolsa incubadora \ndeste. \nEstudos genéticos recentes identificaram as semelhanças existentes entre as várias espécies \nde cavalos-marinhos atuais, demonstrando uma relação entre os dados moleculares e a sua \ndistribuição geográfica. \nA Figura 2 representa um excerto da árvore filogenética do género Hippocampus, relativo a quatro \nespécies existentes no oceano Atlântico.\n5 01015\nH. guttulatus\nH. zosterae\nH. erectus\nH. hippocampus\nTempo (Ma)\nQuaternárioNeogénico\nFigura 2\nBaseado em: P. Teske et al., «Signatures of seaway closures and founder dispersal in the phylogeny of a circumglobally \ndistributed seahorse lineage», in BMC Evolutionary Biology, 7 (138), 2007; em: www.ocean-alive.org/pradarias-marinhas \n(consultado em outubro de 2021); e em: www.ualg.pt/ualg-hippocampus (consultado em outubro de 2021).",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "10. .................................................................................................................................................. 8 pontos\nExplica qual o contributo, para a formação do sal-gema explorado na região de Loulé, do contexto \ntectónico (A) e do contexto climático (B).\n(A) A fragmentação da Pangeia levou à formação da Bacia do Algarve, cujo afundimento permitiu a \nentrada da água do mar (OU favoreceu a progressão do Mar de Tétis para oeste).\n(B) Um clima quente e seco promoveu a evaporação da água do mar e a precipitação do cloreto de sódio \ndissolvido, formando o sal-gema.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 582,
+      "number": "11",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "11. A propagação vegetativa de Zostera permite e contribui para .",
+      "choices": [
+        {
+          "id": 923,
+          "letter": "A",
+          "text": "aumentar a variabilidade genética da espécie ... a estabilização da linha de costa",
+          "is_correct": 0
+        },
+        {
+          "id": 924,
+          "letter": "B",
+          "text": "compensar os efeitos provocados pela herbivoria ... o aumento da erosão marinha",
+          "is_correct": 0
+        },
+        {
+          "id": 925,
+          "letter": "C",
+          "text": "um crescimento rápido da população ... uma maior fixação de sedimentos",
+          "is_correct": 0
+        },
+        {
+          "id": 926,
+          "letter": "D",
+          "text": "uma melhor adaptação a novos ambientes ... o aumento da sedimentação",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "11. a 13. ........................................................... (3 × 8 pontos) ....................................................... 24 pontos\nItens 11. 12. 13.\nVersão 1 C C D\nVersão 2 A B A",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 583,
+      "number": "12",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "12. O sistema cardiorrespiratório dos cavalos-marinhos apresenta",
+      "choices": [
+        {
+          "id": 927,
+          "letter": "A",
+          "text": "um coração dividido em duas cavidades e percorrido por sangue oxigenado.",
+          "is_correct": 0
+        },
+        {
+          "id": 928,
+          "letter": "B",
+          "text": "um coração dividido em três cavidades e circulação dupla incompleta.",
+          "is_correct": 0
+        },
+        {
+          "id": 929,
+          "letter": "C",
+          "text": "uma superfície respiratória muito vascularizada e difusão indireta.",
+          "is_correct": 0
+        },
+        {
+          "id": 930,
+          "letter": "D",
+          "text": "uma superfície respiratória interna, onde ocorre difusão direta.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 584,
+      "number": "13",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "13.\n Em \ncomparação com os gâmetas já formados, as células embrionárias dos cavalos-marinhos, durante \na prófase, apresentam",
+      "choices": [
+        {
+          "id": 931,
+          "letter": "A",
+          "text": "metade da quantidade de DNA.",
+          "is_correct": 0
+        },
+        {
+          "id": 932,
+          "letter": "B",
+          "text": "igual quantidade de DNA.",
+          "is_correct": 0
+        },
+        {
+          "id": 933,
+          "letter": "C",
+          "text": "o dobro da quantidade de DNA.",
+          "is_correct": 0
+        },
+        {
+          "id": 934,
+          "letter": "D",
+          "text": "o quádruplo da quantidade de DNA.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 585,
+      "number": "14",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "14.\n Selecione, \nde entre as afirmações relativas à análise e interpretação da árvore filogenética da Figura 2, \nas três afirmações corretas.\nTranscreva para a folha de respostas os números selecionados.\nI.\n H. guttulatus\n é a espécie mais antiga, porque divergiu há mais tempo de um ancestral comum.\nII.\n \nA árvore filogenética ilustra um sistema de classificação racional e horizontal.\nIII.\n H. erectus\n e H. hippocampus resultaram de fenómenos de divergência ocorridos durante o Neogénico.\nIV.\n H. zosterae\n e H. erectus podem cruzar-se entre si e originar descendentes férteis.\nV. H. hippocampus tem mais semelhanças com H. zosterae\n do que com H. guttulatus.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "14. .................................................................................................................................................. 8 pontos\nVersão 1 – I, III e V.\nVersão 2 – I, II e IV.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 586,
+      "number": "15",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "15.\n Durante \no processo de produção de matéria orgânica em células de Zostera, na fase fotoquímica, ocorre",
+      "choices": [
+        {
+          "id": 935,
+          "letter": "A",
+          "text": "fosforilação de moléculas de ATP.",
+          "is_correct": 0
+        },
+        {
+          "id": 936,
+          "letter": "B",
+          "text": "libertação de oxigénio com origem nas moléculas de H2O.",
+          "is_correct": 0
+        },
+        {
+          "id": 937,
+          "letter": "C",
+          "text": "oxidação de moléculas de NADP+.",
+          "is_correct": 0
+        },
+        {
+          "id": 938,
+          "letter": "D",
+          "text": "fixação de carbono com produção de compostos orgânicos.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "15. Versão 1 – (B); Versão 2 – (D) ............................................................................................... 8 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 587,
+      "number": "16",
+      "group": "GRUPO I",
+      "type": "essay",
+      "statement": "16.\n Um \nrelatório publicado no dia 17/09/2021 mostra que a Terra caminha para um aquecimento de 2,7 oC até \nao fim do século, longe do objetivo definido no Acordo de Paris, isto é, 1,5 oC acima dos valores médios \nda era pré-industrial.\nExplique de que modo o aumento da temperatura global poderá diminuir o efeito protetor das ilhas-barreira, \nalterar o hidrodinamismo do sistema lagunar da Ria Formosa e comprometer a atividade piscatória \nna região do Algarve.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "16. .................................................................................................................................................. 8 pontos\nExplica de que modo o aumento da temperatura global levará à diminuição do efeito protetor das ilhas- \n-barreira (A), à alteração do hidrodinamismo do sistema lagunar da Ria Formosa (B) e ao comprometimento \nda atividade piscatória na região do Algarve (C).\n(A) O aumento da temperatura leva à subida do nível do mar, o que irá conduzir ao desaparecimento \n(OU irá intensificar a erosão) das ilhas-barreira, reduzindo o seu efeito protetor.\n(B) O hidrodinamismo do sistema lagunar da Ria Formosa aumenta.\n(C) Os estádios iniciais de desenvolvimento das espécies ficam comprometidos, conduzindo à diminuição \ndas populações (ou do número de espécies), afetando a atividade piscatória.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 588,
+      "number": "17",
+      "group": "GRUPO I",
+      "type": "essay",
+      "statement": "17.\n Muitas \nespécies de aves aquáticas migratórias fazem da Ria Formosa um ponto de paragem, repouso \ne alimentação.\nExplique de que forma a penetração da luz no sistema lagunar contribui para a diversidade de relações \ntróficas existentes na Ria Formosa, fazendo desta um importante ponto de paragem para as aves \nmigratórias, antes de retomarem os seus longos trajetos.\n\nTexto 3\nNos últimos 20 anos, tem-se registado uma drástica diminuição na densidade populacional \nde Hippocampus guttulatus e de Hippocampus hippocampus na Ria Formosa, reveladora do forte \nimpacto exercido pela ação humana neste ecossistema.\nSendo a Ria Formosa um local com interesse económico e turístico, onde as atividades náuticas \nsão frequentes, foi desenvolvido um estudo com o objetivo de testar os efeitos da poluição sonora \nsubaquática nas reações fisiológicas de H. guttulatus.\nUsando o procedimento representado na Figura 3A, foram testadas, em locais da ria \npreviamente selecionados, duas condições acústicas diferentes, com recurso a um barco com \no motor em funcionamento, durante 3 minutos. Nos primeiro e segundo minutos, o barco esteve \nem movimento, descrevendo a trajetória X (intensidade sonora variável). Durante o terceiro minuto, \no barco esteve parado, na posição Y (intensidade sonora constante). Foi contado o número de \nmovimentos operculares por minuto (MOPM) de 46 indivíduos da espécie H. guttulatus (29 machos \ne 17 fêmeas), observados entre os 4 e os 10 metros de profundidade, e foram registados os valores \nda temperatura da água.\nOs dados foram recolhidos durante a maré alta, altura em que as correntes se reduzem e em que \na visibilidade debaixo de água é maior.\nForam também realizadas observações em outros dois locais: num dos canais com maior tráfego \n(canal de Olhão), de modo a registar a reação do cavalo-marinho ao ruído normal do movimento dos \nbarcos, e na Estação Experimental do Ramalhete (EER), do Centro de Ciências do Mar (CCMAR), \nna ausência de estímulos sonoros.\nO comportamento dos cavalos-marinhos, gravado em vídeo, foi analisado.\nO gráfico da Figura 3B representa os valores médios dos MOPM em ambiente controlado, \nem condições normais de tráfego e ao fim dos primeiro, segundo e terceiro minutos dos ensaios \nexperimentais. As diferenças entre as médias dos MOPM nas várias situações experimentais foram \nsignificativas.\n3A 3B\n80 m\nY – Posição do barco no 3.º minuto\nC – Câmara de vídeo presa a uma boia\nX – Trajeto do barco nos primeiros dois minutos\nX XY\n0 \n20\n1.º min 2.º min 3.º min\n40\n60\n80\nMachos\nFêmeas\nValor médio de MOPM (n.º)\nRamalhete\nEER\nCanal\nde Olhão\nC\nX Y\nFigura 3\nBaseado em: J. Palma et al., «Effects of anthropogenic noise as a source of acoustic stress in wild populations \nof Hippocampus guttulatus in the Ria Formosa, south Portugal», in Aquatic Conserv: Mar Freshw Ecosyst, 2019.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "17. .................................................................................................................................................. 8 pontos\nExplica que a penetração da luz no sistema lagunar contribui para que a Ria Formosa seja um importante \nponto de paragem pois favorece o desenvolvimento de produtores (A), os quais sustentam uma \ncomunidade diversificada que possibilita às aves migratórias retomarem os seus longos trajetos (B).\n(A) A boa penetração da luz no sistema lagunar favorece o desenvolvimento de produtores (OU favorece \na produtividade primária). \n(B) A abundância de produtores permite o estabelecimento de uma comunidade diversificada de organismos \nmarinhos que servem de alimento às aves migratórias, antes de estas retomarem os seus longos \ntrajetos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 589,
+      "number": "18",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "18. Selecione, de entre as afirmações relativas à investigação descrita, as três afirmações corretas.\nT\nranscreva para a folha de respostas os números selecionados.\nI.\n Nos ensaios efetuados na Ria Formosa, foi possível controlar a temperatura.\nII.\n \nA hipótese testada foi: «O aumento da poluição sonora é letal para os cavalos-marinhos.»\nIII.\n Uma das variáveis dependentes é o número de movimentos operculares por minuto. \nIV\n.\n O ruído produzido pelo motor dos barcos é uma das variáveis independentes.\nV. No canal de Olhão, nos machos, registaram-se valores de MOPM superiores e inferiores a 50.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "18. .................................................................................................................................................. 8 pontos\nVersão 1 – III, IV e V.\nVersão 2 – I, II e IV.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 590,
+      "number": "19",
+      "group": "GRUPO I",
+      "type": "multiple_choice",
+      "statement": "19.\n A\n partir da análise dos resultados da experiência, podemos concluir que:",
+      "choices": [
+        {
+          "id": 939,
+          "letter": "A",
+          "text": "Em comparação com o ambiente controlado, o ruído produzido nas condições normais de tráfego afeta mais as fêmeas do que os machos.",
+          "is_correct": 0
+        },
+        {
+          "id": 940,
+          "letter": "B",
+          "text": "Os sons do barco em movimento (trajeto X) provocam, nos cavalos-marinhos, a resposta fisiológica mais acentuada.",
+          "is_correct": 0
+        },
+        {
+          "id": 941,
+          "letter": "C",
+          "text": "O movimento habitual de barcos não induz alterações na frequência respiratória dos cavalos-marinhos.",
+          "is_correct": 0
+        },
+        {
+          "id": 942,
+          "letter": "D",
+          "text": "Nos machos, o maior número de MOPM registou-se ao fim do 2.º minuto dos ensaios experimentais.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "19. Versão 1 – (A); Versão 2 – (C) ............................................................................................... 8 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 591,
+      "number": "20",
+      "group": "GRUPO I",
+      "type": "matching",
+      "statement": "20.\n Associe \na cada uma das etapas da respiração aeróbia, apresentadas na Coluna I, as características \nda Coluna II que lhe correspondem.\nCada um dos números deve ser associado apenas a uma letra, e todos os números devem ser utilizados.\nEscreva na folha de respostas cada letra da Coluna I, seguida do número ou dos números (de 1 a 7) \ncorrespondente(s).\nCOLUNA I COLUNA II\n(a) Cadeia res piratória\n(b)\n Ciclo de Krebs\n(c)\n Glicólise\n(1)\n É uma etapa comum à fermentação.\n(2)\n Há formação de água ap\nós redução do oxigénio.\n(3) Ocorre na matriz mitocondrial.\n(4)\n Apresenta um balanço e\nnergético de 2 ATP.\n(5)\n Há oxidação de NADH e\n de FADH2 .\n(6)\n V\nerificam-se reações de descarboxilação.\n(7)\n Forma-se ácido pirúvico.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "20 itens da prova contribuem \nobrigatoriamente para \na classificação final.\nGrupo I\nSubtotal",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 592,
+      "number": "21",
+      "group": "GRUPO I",
+      "type": "matching",
+      "statement": "21.\n Além \nda variação dos MOPM, observou-se que, no habitat natural, cerca de 37,5% dos cavalos-marinhos \nfugiram dos locais de observação.\nRelacione os resultados obtidos no estudo, relativos à frequência dos movimentos operculares, com \numa maior capacidade de fuga.",
+      "choices": [],
+      "context": {
+        "title": "Texto 1",
+        "text": "GRUPO I\nTexto 1\nDurante o Paleozoico, ocorreu na região algarvia sedimentação marinha, que terminou há cerca \nde 299 milhões de anos (Ma) ‒ final do Carbonífero. Mais tarde, no final do Paleozoico, devido à \ncolisão dos continentes Gondwana e Laurásia, que deu origem à formação do supercontinente \nPangeia, os sedimentos sofreram dobramento, fraturação e metamorfismo. \nDurante o Mesozoico (252 a 66 Ma), a fragmentação generalizada do supercontinente levou \nà formação da Bacia Lusitaniana (na zona oeste de Portugal), à formação da Bacia do Algarve, \ncuja área emersa se estende, atualmente, desde o Cabo de S. Vicente até ao rio Guadiana, \ne à progressão do Mar de Tétis para oeste. Por vezes, estabeleceu-se uma continuidade geográfica \nentre estas bacias de sedimentação, em especial durante o Jurássico (201 a 145 Ma), permitindo \nque a fauna marinha vinda do norte (boreal) e a fauna do Mar de Tétis (tetisiana) se misturassem. \nAo longo do Mesozoico, depositaram-se na Bacia do Algarve sedimentos essencialmente \nmarinhos, que assentaram sobre rochas do Paleozoico. A unidade geológica mais antiga da \nbacia, designada como Argilas de S. Bartolomeu de Messines, é constituída sobretudo por argilas \nvermelhas, depositadas em ambientes fluviais ou lacustres. O afundimento de algumas zonas da \nregião favoreceu a progressão do Mar de Tétis para oeste e possibilitou, há cerca de 200 Ma, \na formação de gesso e do sal-gema explorado em Loulé.\nDurante uma fase de rifting intracontinental, ocorreu ascensão de magma que deu origem ao \nComplexo Vulcano-Sedimentar, que aflora entre Sagres e Vila Real de Sto. António. Este complexo, \nformado por lavas essencialmente basálticas, cinzas vulcânicas, piroclastos e fragmentos da rocha \nencaixante, está incluído na chamada Central Atlantic Magmatic Province (CAMP). Apresenta uma \nidade de aproximadamente 200 Ma e aflora em quatro continentes: América do Norte, América do \nSul, Noroeste de África e Sudoeste da Europa.\nHá cerca de 92 Ma, a movimentação da África levou à subdução da litosfera oceânica sob \na Eurásia, que culminou com o fecho do Mar de Tétis. Este processo causou as deformações \nalpinas na Eurásia, que se propagaram de este para oeste, vindo a afetar os depósitos de sal-gema \nde Loulé.\nA Figura 1 representa a evolução paleogeográfica dos continentes durante o Mesozoico.\n225 Ma 65 Ma 200 Ma \nEquador Equador \nIBÉRIA \nEquador MAR DE\n TÉTIS\nE\nI\nG\nN\nA\nA\nP\nFigura 1\nBaseado em: P. Teixeira, «O Diapiro de Loulé, Estudo Geofísico do Sal-gema da Mina Campina de Cima», \nDissertação de Mestrado em Geologia, Faculdade de Ciências da Universidade do Porto, 2017; em: P. Terrinha et al., \n«A Bacia do Algarve: Estratigrafia, Paleogeografia e Tectónica», Geologia de Portugal, Vol. 2, Escolar Editora, 2013; \ne em: https://pubs.usgs.gov/gip/dynamic/historical.html (consultado em outubro de 2021)."
+      },
+      "correction": {
+        "criteria": "21. .................................................................................................................................................. 8 pontos\nRelaciona a frequência dos movimentos operculares com a oxigenação do sangue (A) e com a capacidade \nde fuga dos cavalos-marinhos (B).\n(A) O aumento dos movimentos operculares conduz a uma maior oxigenação do sangue.\n(B) A maior quantidade de oxigénio que chega às células permite produzir maior quantidade de energia \n(durante a respiração celular), o que facilita a fuga.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

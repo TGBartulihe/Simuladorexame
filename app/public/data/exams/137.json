@@ -1,0 +1,187 @@
+{
+  "exam": {
+    "id": 137,
+    "exam_key": "2023-639-F1",
+    "subject": "Português",
+    "code": "639",
+    "year": 2023,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 540,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2023/).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo III\nItem único \n........................................................................................................... 44 pontos\n SUB tota L ..................................................... 161 pontos\nDos restantes 5 itens, contribuem para a classificação final da prova os 3 itens cujas respostas obtenham melhor \npontuação (3 x 13 pontos)."
+      },
+      "correction": {
+        "criteria": "1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 541,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCotaÇÕES\nAs pontuações obtidas nas respostas aos 10 itens seguintes contribuem obrigatoriamente para a classificação final da \nprova.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo III\nItem único \n........................................................................................................... 44 pontos\n SUB tota L ..................................................... 161 pontos\nDos restantes 5 itens, contribuem para a classificação final da prova os 3 itens cujas respostas obtenham melhor \npontuação (3 x 13 pontos)."
+      },
+      "correction": {
+        "criteria": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 542,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "3.\n De acordo com o autor do texto, os estudos levados a cabo sobre o Universo permitiram\n \na)\n trazer a esperança de que os seres humanos possam vir a tornar-se eternos.\n \nb)\n evidenciar um elevado número de dúvidas sobre a importância da nossa origem. \n \nc)\n mostrar a desproporção entre a imensidão do Universo e a pequenez do ser humano.\n \nd)\n constatar a importância do ser humano no Universo e levar à exacerbação de egos.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 4. e 7.\n SUBtotaL ....................................................... 39 pontos\n t\nota\nL\n \n............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 543,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "4.\n A\n fim de pôr em destaque a intrínseca e inquebrável relação do homem com o Universo, o autor recorre a\n \na)\n uma metáfora, presente em «manto escuro» (linha 2).\n \nb)\n uma metáfora, presente em «nossa própria casa celeste» (linhas 6 e 7).\n \nc)\n uma hipérbole, presente em «manto escuro» (linha 2).\n \nd)\n uma hipérbole, presente em «nossa própria casa celeste» (linhas 6 e 7).\n\nItem obrigatório",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 4. e 7.\n SUBtotaL ....................................................... 39 pontos\n t\nota\nL\n \n............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 544,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "5.\n O \npronome pessoal «nos» desempenha a função sintática de complemento direto em todas as expressões \nabaixo apresentadas, exceto em\n \na)\n «nos compõe» (linha 1\n1).\n \nb)\n «nos tornam» (linha 16).\n \nc)\n «nos manter» (linha 26).\n \nd)\n «nos dizem» (linha 24).\nItem obrigatório",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 4. e 7.\n SUBtotaL ....................................................... 39 pontos\n t\nota\nL\n \n............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "5. 6. 2. 4. 7.\nCotação (em pontos) 3 × 13 pontos 39\nTOTAL 200",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 545,
+      "number": "6",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "6.\n T\nal como em «que não somos nem estamos de todo no centro do mundo, do Universo» (linhas 19 e 20), está \npresente uma oração subordinada substantiva completiva em\n \na)\n «de onde vimos» (linha 9).\n \nb)\n «ainda que faltem milhares de milhões de anos» (linhas 1\n1 e 12).\n \nc)\n «que operamos com as nossas mãos» (linha 15).\n \nd)\n «que, afinal, somos mesmo muito importantes» (linha 24).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 4. e 7.\n SUBtotaL ....................................................... 39 pontos\n t\nota\nL\n \n............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "6. Versão 1: (A); Versão 2: (C) ..................................................................................................... 13 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 546,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7.\n A\n única expressão em que estão presentes exemplos dos três tipos de dêixis (temporal, espacial e pessoal) é\n \na)\n «leva-nos \nhoje à ideia mais nítida de sempre sobre de onde vimos, como chegámos aqui» (linhas 8 e 9).\n \nb)\n «Olhar o céu é apontar em direção às nossas origens cósmicas» (linhas 12 e 13).\n \nc)\n «A\n nossa viagem em busca das nossas origens, olhando ou não o céu, parece ter começado muito, \nmuito cedo» (linhas 18 e 19).\n \nd)\n «somos total e completamente insignificantes, espacial e temporalmente» (linhas 20 e 21).\n\nItem obrigatório",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 4. e 7.\n SUBtotaL ....................................................... 39 pontos\n t\nota\nL\n \n............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

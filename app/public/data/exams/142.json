@@ -1,0 +1,287 @@
+{
+  "exam": {
+    "id": 142,
+    "exam_key": "2015-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2015,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 2185,
+      "number": "3",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2186,
+      "number": "1",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2187,
+      "number": "2",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2189,
+      "number": "4",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2190,
+      "number": "5",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      },
+      "correction": {
+        "criteria": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos\nGRUPO II",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2191,
+      "number": "6",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "6. No contexto em que ocorre, a expressão «grosso volume do romance de Eça de Queirós» (linha 4) constitui \num exemplo de",
+      "choices": [
+        {
+          "id": 4038,
+          "letter": "A",
+          "text": "perífrase.",
+          "is_correct": 0
+        },
+        {
+          "id": 4039,
+          "letter": "B",
+          "text": "hipálage.",
+          "is_correct": 0
+        },
+        {
+          "id": 4040,
+          "letter": "C",
+          "text": "eufemismo.",
+          "is_correct": 0
+        },
+        {
+          "id": 4041,
+          "letter": "D",
+          "text": "paradoxo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2192,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "7. Ao recorrer à expressão «sem dúvida» (linha 34), veicula-se uma ideia de",
+      "choices": [
+        {
+          "id": 4042,
+          "letter": "A",
+          "text": "permissão.",
+          "is_correct": 0
+        },
+        {
+          "id": 4043,
+          "letter": "B",
+          "text": "certeza.",
+          "is_correct": 0
+        },
+        {
+          "id": 4044,
+          "letter": "C",
+          "text": "possibilidade.",
+          "is_correct": 0
+        },
+        {
+          "id": 4045,
+          "letter": "D",
+          "text": "obrigação.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2193,
+      "number": "8",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "8. Transcreva a palavra que constitui uma catáfora da expressão «os trajes (num figurino rigoroso), os \ncenários, as próprias vozes dos atores» (linha 16).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 2201,
+      "number": "10",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "10. .......................................................................................................... 5 pontos\n50 pontos",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
+      },
+      "correction": {
+        "criteria": "10. .......................................................................................................... 5 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "exam": {
+    "id": 19,
+    "exam_key": "2019-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2019,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 1226,
+      "number": "1",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "1. De acordo com o texto, o nutriente obtido pelas plantas, através do carnivorismo, entra na constituição",
+      "choices": [
+        {
+          "id": 2030,
+          "letter": "A",
+          "text": "da celulose.",
+          "is_correct": 0
+        },
+        {
+          "id": 2031,
+          "letter": "B",
+          "text": "dos ácidos nucleicos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2032,
+          "letter": "C",
+          "text": "do amido.",
+          "is_correct": 0
+        },
+        {
+          "id": 2033,
+          "letter": "D",
+          "text": "dos ácidos gordos.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nGrupo i tem\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1227,
+      "number": "2",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "2.\n Nas plantas carnívoras, a digestão é",
+      "choices": [
+        {
+          "id": 2034,
+          "letter": "A",
+          "text": "intracorporal e extracelular .",
+          "is_correct": 0
+        },
+        {
+          "id": 2035,
+          "letter": "B",
+          "text": "semelhante à digestão que ocorre na hidra.",
+          "is_correct": 0
+        },
+        {
+          "id": 2036,
+          "letter": "C",
+          "text": "extracorporal e extracelular .",
+          "is_correct": 0
+        },
+        {
+          "id": 2037,
+          "letter": "D",
+          "text": "semelhante à digestão que ocorre na planária.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "2 Explica, com falhas no rigor científico, a evolução das proteínas digestivas, apresentando \napenas dois dos elementos. 4",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1228,
+      "number": "3",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "3. As folhas carnívoras e as folhas não carnívoras de Cephalotus follicularis constituem",
+      "choices": [
+        {
+          "id": 2038,
+          "letter": "A",
+          "text": "estruturas homólogas, em que foram transcritos diferentes genes.",
+          "is_correct": 0
+        },
+        {
+          "id": 2039,
+          "letter": "B",
+          "text": "estruturas análogas, em que foram transcritos os mesmos genes.",
+          "is_correct": 0
+        },
+        {
+          "id": 2040,
+          "letter": "C",
+          "text": "estruturas análogas, em que foram transcritos diferentes genes.",
+          "is_correct": 0
+        },
+        {
+          "id": 2041,
+          "letter": "D",
+          "text": "estruturas homólogas, em que foram transcritos os mesmos genes.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "3 Explica, com rigor científico, a evolução das proteínas digestivas, apresentando apenas \ndois dos elementos. 6",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1229,
+      "number": "4",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "4.\n Em relação às folhas de Cephalotus follicularis, podemos afirmar que",
+      "choices": [
+        {
+          "id": 2042,
+          "letter": "A",
+          "text": "o desenvolvimento dos dois tipos de folhas é independente de fatores externos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2043,
+          "letter": "B",
+          "text": "a formação de folhas carnívoras implica a utilização de um código genético diferente.",
+          "is_correct": 0
+        },
+        {
+          "id": 2044,
+          "letter": "C",
+          "text": "as folhas planas têm menor quantidade de clorofila do que as folhas em forma de jarro.",
+          "is_correct": 0
+        },
+        {
+          "id": 2045,
+          "letter": "D",
+          "text": "nas folhas carnívoras, os processos digestivos exigem uma intensa síntese proteica.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "4 Explica, com falhas no rigor científico, a evolução das proteínas digestivas, apresentando \nos três elementos (A, B, C). 8",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1230,
+      "number": "5",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "5.\n A\n quitinase atua facilitando a quebra de",
+      "choices": [
+        {
+          "id": 2046,
+          "letter": "A",
+          "text": "ligações peptídicas entre monossacarídeos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2047,
+          "letter": "B",
+          "text": "ligações peptídicas entre aminoácidos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2048,
+          "letter": "C",
+          "text": "ligações glucosídicas entre monossacarídeos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2049,
+          "letter": "D",
+          "text": "ligações glucosídicas entre aminoácidos.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "5 5 5 5 5 5 5 5 5 10 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1231,
+      "number": "6",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "6.\n De acordo com \nos dados do texto, a evolução das proteínas digestivas nas plantas carnívoras dos vários \ncontinentes constitui um caso de evolução",
+      "choices": [
+        {
+          "id": 2050,
+          "letter": "A",
+          "text": "convergente, provocada por distintas pressões seletivas.",
+          "is_correct": 0
+        },
+        {
+          "id": 2051,
+          "letter": "B",
+          "text": "condicionada pela existência de insetos ricos em nitrogénio.",
+          "is_correct": 0
+        },
+        {
+          "id": 2052,
+          "letter": "C",
+          "text": "divergente, relacionada com a ocorrência de mutações.",
+          "is_correct": 0
+        },
+        {
+          "id": 2053,
+          "letter": "D",
+          "text": "condicionada pela ocorrência de solos pobres em nutrientes.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 5 pontos\nV\nersão 1 – B, \na\n, \nd\n, E, C\nVersão 2 – \nd\n, E, \na\n, B, C",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1232,
+      "number": "7",
+      "group": "GRUPO IV",
+      "type": "ordering",
+      "statement": "7.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência correta dos \nacontecimentos relacionados com o carnivorismo em Cephalotus follicularis. Considere as relações de \ncausa e efeito entre os acontecimentos.\nA.\n Fusão de vesículas exocíticas com a membrana celular\n.\nB.\n Maturação de proteínas no complexo de Golgi.\nC.\n Absorção de nutrientes.\nD.\n Degradação de substâncias complexas.\nE. \n Transcrição do DNA associado à síntese de enzimas digestivas.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 5 pontos\nV\nersão 1 – E, B, \na\n, \nd\n, C\nVersão 2 – \na\n, C, \nd\n, E, B",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1233,
+      "number": "8",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "8. Faça corresponder cada uma das descrições relativas à síntese de proteínas digestivas, expressas na \ncoluna A, à respetiva molécula, que consta na coluna B.\nCOLUNA A COLUNA B\n(a) Enzima que participa na transcrição da informação genética.\n(b)\n Polímero de ribonucleótidos \ncontendo informação para a \nsíntese de um péptido.\n(c)\n Monómero\n que entra na constituição de péptidos.\n(1)\n \nAminoácido\n(2) DNA polimerase\n(3)\n \nGene\n(4)\n RNA\n mensageiro\n(5)\n RNA\n polimerase",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "8. .................................................................................................................................................... 5 pontos\nV\nersão 1 – (a) – (5); (b) – (4); (c) – (1)\nVersão 2 – (a) – (4); (b) – (1); (c) – (5)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1250,
+      "number": "9",
+      "group": "GRUPO IV",
+      "type": "essay",
+      "statement": "9.\n Explique, \nsegundo a perspetiva neodarwinista, a evolução das proteínas digestivas presentes nas plantas \ncarnívoras a partir de proteínas vegetais existentes em plantas não carnívoras.\nFIM\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 10 10 50\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.\n5 5 5 5 5 5 5 5 5 10 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 10 50\nTOTAL 200",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
+      },
+      "correction": {
+        "criteria": "9. .................................................................................................................................................... 10 pontos\nExplica, \nde acordo com o neodarwinismo, a evolução das proteínas digestivas, referindo a fonte de \nvariabilidade (\na\n), a função do ambiente na seleção natural (B) e a relação entre a reprodução diferencial \ne a alteração das características da população (C).\n(\na\n)\n O \nDNA sofreu mutações que conduziram à produção de proteínas com capacidade digestiva (OU à \nprodução de proteínas distintas).\nOU\nAs recombinações génicas conduziram à produção de proteínas com capacidade digestiva (OU à \nprodução de proteínas distintas).\n(B)\n O \nambiente (OU as pressões seletivas, OU a carência de nitrogénio) conduziu à seleção natural de \nplantas portadoras da nova característica.\nOU\nO ambiente (OU as pressões seletivas, OU a carência de nitrogénio) conduziu à sobrevivência \ndiferencial de plantas portadoras da nova característica.\n(C)\n A\n reprodução diferencial conduziu ao aumento da frequência dos genes responsáveis pela síntese de \nproteínas digestivas na população.\nOU\nA reprodução diferencial provocou a alteração do fundo genético da população.\nOU\nA reprodução diferencial provocou o aumento do número de plantas com estas características na \npopulação.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1251,
+      "number": "10",
+      "group": "GRUPO III",
+      "type": "essay",
+      "statement": "10.\n Explique \na possível proveniência das piroxenas que constituem as amostras de sedimentos recolhidas \nno local A.\nNa sua resposta, refira a possível fonte principal daquele mineral, considerando os minerais predominantes \nnas rochas atravessadas pelo rio Guadiana e as características morfológicas dos grãos de piroxenas.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+      },
+      "correction": {
+        "criteria": "10. .................................................................................................................................................. 10 pontos\nExplica \na proveniência das piroxenas, relacionando a forma dos clastos com a proximidade do seu local \nde origem (\na\n) e identificando os gabros e/ou os ofiolitos como a fonte daqueles minerais (B).\n(\na\n)\n Os \nclastos (OU os grãos) de piroxenas apresentam-se angulosos ou subangulosos, logo o local de \ncolheita está próximo da fonte (OU a sedimentação ocorreu próximo da fonte, OU os clastos foram \nsujeitos a um curto transporte).\n(B)\n Antes \nde atingir o local de colheita, o rio atravessa gabros, rochas que apresentam piroxenas na sua \ncomposição (OU antes de atingir o local de colheita, o rio atravessa ofiolitos, rochas que apresentam \npiroxenas na sua composição).\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

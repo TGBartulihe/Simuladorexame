@@ -1,0 +1,244 @@
+{
+  "exam": {
+    "id": 147,
+    "exam_key": "2020-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2020,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 1207,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "1. 2. 3. 4.\nCotação (em pontos) 13 13 13 13 44 96\nDestes 10 itens, contribuem para a classificação final \nda prova os 8 itens cujas respostas obtenham melhor \npontuação.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, faça a apreciação crítica do cartoon abaixo apresentado, da autoria de Predrag Srbljanin.\nO seu texto deve incluir:\n– a descrição da imagem apresentada, destacando elementos significativos da sua composição;\n– um comentário crítico, fundamentando devidamente a sua apreciação e utilizando um discurso \nvalorativo;\n– uma conclusão adequada aos pontos de vista desenvolvidos.\nobservações:"
+      },
+      "correction": {
+        "criteria": "1. 2. 3. 4.\nCotação (em pontos) 13 13 13 13 44 96\nDestes 10 itens, contribuem para a classificação final \nda prova os 8 itens cujas respostas obtenham melhor \npontuação.\ngrupo I\nSubtotal",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1208,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto \nproduzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nAs pontuações obtidas nas respostas a estes \n5 itens da prova contribuem obrigatoriamente \npara a classificação final.\nGrupo\nSubtotalII III",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, faça a apreciação crítica do cartoon abaixo apresentado, da autoria de Predrag Srbljanin.\nO seu texto deve incluir:\n– a descrição da imagem apresentada, destacando elementos significativos da sua composição;\n– um comentário crítico, fundamentando devidamente a sua apreciação e utilizando um discurso \nvalorativo;\n– uma conclusão adequada aos pontos de vista desenvolvidos.\nobservações:"
+      },
+      "correction": {
+        "criteria": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1209,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "3. Contrapondo as cartas que Eça de Queirós escreveu a Emília de Resende às que Almeida Garrett \nescreveu à Viscondessa da Luz, a autora destaca\n (a) o calculismo de Eça versus o altruísmo de Garrett.",
+      "choices": [
+        {
+          "id": 1941,
+          "letter": "B",
+          "text": "o pragmatismo de Eça versus o idealismo de Garrett.",
+          "is_correct": 0
+        },
+        {
+          "id": 1942,
+          "letter": "C",
+          "text": "o fingimento de Eça versus a honestidade de Garrett.",
+          "is_correct": 0
+        },
+        {
+          "id": 1943,
+          "letter": "D",
+          "text": "o fervor de Eça versus o desapego de Garrett.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nFernando Pessoa, ou Álvaro de Campos, sabia do que falava. Todas as cartas de amor \nsão ridículas. O poema é a mais acertada descrição do género. A epistolografia\n1 amorosa \nquase sempre se revela embaraçosa para grandes autores, sejam eles Dostoievski ou James \nJoyce, Beethoven ou Napoleão. A carta de amor estipula uma intimidade que, no papel – e as \ngrandes cartas de amor foram todas concebidas em papel ou não as teríamos hoje disponíveis \npara a curiosidade ou emulação\n2 –, raramente traduz a beleza encriptada da poesia ou a \ngrandiosidade sociológica da ficção. Quer isto dizer que as melhores cartas de amor foram as \ninventadas ou sugeridas nos grandes romances e nos grandes poemas de amor. [...]\nUm autor, um artista, devia a si próprio e à sua biografia umas cartas de amor. As damas \nainda precisavam da sedução epistolar antes de sucumbirem à sedução fatal. [...]\nNão estranhemos que um realista lúcido como Eça escreva uma carta de amor a Emília de \nResende, a mulher com quem se casou, ou que um intelectual como Fernando Pessoa comece \numa carta a Ofélia assim: «Meu Bebé, meu Bebezinho querido». […] Adiante, na dita carta, \nPessoa queixa-se do desinteresse de Ofélia pelas suas doenças, acha que ela se aborrece, \ne acusa-a de, por estar bem de saúde, se estar ralando para\n3 o que os outros sofrem. A peça \nquase se torna cómica na perseguição de uma relação consigo mesmo, a única relação séria \nque Pessoa teve. O poeta despede-se: «Adeus amorzinho, faz o possível por gostares de mim \na valer, por sentires os meus sofrimentos, por desejares o meu bem-estar; faz, ao menos, por \no fingires bem». As Ofélias têm triste sorte na literatura. É, de qualquer modo, uma carta onde \nPessoa pôs quanto era neste mínimo que fez, como apregoava Ricardo Reis. […]\nE o Eça, o nosso Queirós? Brevemente, diga-se que as cartas eram para a legítima e \ntraduziam um sentimento não muito diferente do realismo anterior ao casamento, quando em \nNewcastle ansiava pelo contrato com uma mulher que lhe serrotasse\n4 numa manjedoura uma \npalha honesta. A Emília, escreve: «Cada dia que passa, agora, me aproxima de si (…). Eu \ntambém não realizo bem a situação. Ela não deixa de ser ligeiramente romântica. Separamo-nos \namigos, reencontramo-nos noivos». Passava-se isto em 1885, e menos romântico não se \npode ser naquele advérbio, «ligeiramente». Eça, como Pessoa, nunca se desmentiu.\nSe quisermos uma carta de amor a preceito na nossa língua, uma carta de romântico em \npleno Romantismo e espigada por um grande escritor romântico, temos de recorrer a Garrett, \nJoão Baptista de Almeida Garrett, visconde. E às Cartas de Amor à Viscondessa da Luz, \nde seu nome Rosa Montufar Barreiros, casada com um oficial do Exército da confiança de \nD. Maria II e feito Visconde de Nossa Senhora da Luz. […] Garrett jura que não existe para ele \nnenhuma outra mulher, embora tentasse, o espírito rebelava-se e o coração ficava indiferente.\nE remata, romanticamente, amorosamente, galhardamente: «Eu a ninguém amei, a ninguém \nhei de amar senão a ti». Isto, senhoras e senhores, é uma carta de amor. Não foi apenas \nà viscondessa da Luz que Garrett as escreveu. Houve outras, não menos apaixonadas. O \nhomem era sincero em todas.\nClara Ferreira Alves, «Todas as cartas de amor são ridículas e outras nem chegam a sê-lo», \nin E – A Revista do Expresso, 19 de janeiro de 2019, pp. 22-23. \nNotaS\n1 epistolografia – arte de escrever epístolas ou cartas.\n2 emulação – imitação.\n3 se estar ralando para – não se preocupar com.\n4 serrotasse – cortasse com um serrote."
+      },
+      "correction": {
+        "criteria": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1213,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "4. No contexto em que ocorre, a frase «Isto, senhoras e senhores, é uma carta de amor.» (linha 35) \nconstitui um exemplo de ironia, porque Garrett\n (a) é incapaz de exprimir o sentimento amoroso, apesar de ser um escritor romântico.",
+      "choices": [
+        {
+          "id": 1944,
+          "letter": "B",
+          "text": "se dirige a uma dama casada, procurando viver um amor clandestino.",
+          "is_correct": 0
+        },
+        {
+          "id": 1945,
+          "letter": "C",
+          "text": "exprime um amor exacerbado que nada nem ninguém poderá apagar.",
+          "is_correct": 0
+        },
+        {
+          "id": 1946,
+          "letter": "D",
+          "text": "faz uma jura de amor único a Rosa Montufar Barreiros, que, de facto, não cumpre.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nFernando Pessoa, ou Álvaro de Campos, sabia do que falava. Todas as cartas de amor \nsão ridículas. O poema é a mais acertada descrição do género. A epistolografia\n1 amorosa \nquase sempre se revela embaraçosa para grandes autores, sejam eles Dostoievski ou James \nJoyce, Beethoven ou Napoleão. A carta de amor estipula uma intimidade que, no papel – e as \ngrandes cartas de amor foram todas concebidas em papel ou não as teríamos hoje disponíveis \npara a curiosidade ou emulação\n2 –, raramente traduz a beleza encriptada da poesia ou a \ngrandiosidade sociológica da ficção. Quer isto dizer que as melhores cartas de amor foram as \ninventadas ou sugeridas nos grandes romances e nos grandes poemas de amor. [...]\nUm autor, um artista, devia a si próprio e à sua biografia umas cartas de amor. As damas \nainda precisavam da sedução epistolar antes de sucumbirem à sedução fatal. [...]\nNão estranhemos que um realista lúcido como Eça escreva uma carta de amor a Emília de \nResende, a mulher com quem se casou, ou que um intelectual como Fernando Pessoa comece \numa carta a Ofélia assim: «Meu Bebé, meu Bebezinho querido». […] Adiante, na dita carta, \nPessoa queixa-se do desinteresse de Ofélia pelas suas doenças, acha que ela se aborrece, \ne acusa-a de, por estar bem de saúde, se estar ralando para\n3 o que os outros sofrem. A peça \nquase se torna cómica na perseguição de uma relação consigo mesmo, a única relação séria \nque Pessoa teve. O poeta despede-se: «Adeus amorzinho, faz o possível por gostares de mim \na valer, por sentires os meus sofrimentos, por desejares o meu bem-estar; faz, ao menos, por \no fingires bem». As Ofélias têm triste sorte na literatura. É, de qualquer modo, uma carta onde \nPessoa pôs quanto era neste mínimo que fez, como apregoava Ricardo Reis. […]\nE o Eça, o nosso Queirós? Brevemente, diga-se que as cartas eram para a legítima e \ntraduziam um sentimento não muito diferente do realismo anterior ao casamento, quando em \nNewcastle ansiava pelo contrato com uma mulher que lhe serrotasse\n4 numa manjedoura uma \npalha honesta. A Emília, escreve: «Cada dia que passa, agora, me aproxima de si (…). Eu \ntambém não realizo bem a situação. Ela não deixa de ser ligeiramente romântica. Separamo-nos \namigos, reencontramo-nos noivos». Passava-se isto em 1885, e menos romântico não se \npode ser naquele advérbio, «ligeiramente». Eça, como Pessoa, nunca se desmentiu.\nSe quisermos uma carta de amor a preceito na nossa língua, uma carta de romântico em \npleno Romantismo e espigada por um grande escritor romântico, temos de recorrer a Garrett, \nJoão Baptista de Almeida Garrett, visconde. E às Cartas de Amor à Viscondessa da Luz, \nde seu nome Rosa Montufar Barreiros, casada com um oficial do Exército da confiança de \nD. Maria II e feito Visconde de Nossa Senhora da Luz. […] Garrett jura que não existe para ele \nnenhuma outra mulher, embora tentasse, o espírito rebelava-se e o coração ficava indiferente.\nE remata, romanticamente, amorosamente, galhardamente: «Eu a ninguém amei, a ninguém \nhei de amar senão a ti». Isto, senhoras e senhores, é uma carta de amor. Não foi apenas \nà viscondessa da Luz que Garrett as escreveu. Houve outras, não menos apaixonadas. O \nhomem era sincero em todas.\nClara Ferreira Alves, «Todas as cartas de amor são ridículas e outras nem chegam a sê-lo», \nin E – A Revista do Expresso, 19 de janeiro de 2019, pp. 22-23. \nNotaS\n1 epistolografia – arte de escrever epístolas ou cartas.\n2 emulação – imitação.\n3 se estar ralando para – não se preocupar com.\n4 serrotasse – cortasse com um serrote."
+      },
+      "correction": {
+        "criteria": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1214,
+      "number": "6",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "6. Identifique a função sintática desempenhada pelas expressões:\na) «a mulher com quem se casou» (linha 12);\nb) «que» (linha 17).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nFernando Pessoa, ou Álvaro de Campos, sabia do que falava. Todas as cartas de amor \nsão ridículas. O poema é a mais acertada descrição do género. A epistolografia\n1 amorosa \nquase sempre se revela embaraçosa para grandes autores, sejam eles Dostoievski ou James \nJoyce, Beethoven ou Napoleão. A carta de amor estipula uma intimidade que, no papel – e as \ngrandes cartas de amor foram todas concebidas em papel ou não as teríamos hoje disponíveis \npara a curiosidade ou emulação\n2 –, raramente traduz a beleza encriptada da poesia ou a \ngrandiosidade sociológica da ficção. Quer isto dizer que as melhores cartas de amor foram as \ninventadas ou sugeridas nos grandes romances e nos grandes poemas de amor. [...]\nUm autor, um artista, devia a si próprio e à sua biografia umas cartas de amor. As damas \nainda precisavam da sedução epistolar antes de sucumbirem à sedução fatal. [...]\nNão estranhemos que um realista lúcido como Eça escreva uma carta de amor a Emília de \nResende, a mulher com quem se casou, ou que um intelectual como Fernando Pessoa comece \numa carta a Ofélia assim: «Meu Bebé, meu Bebezinho querido». […] Adiante, na dita carta, \nPessoa queixa-se do desinteresse de Ofélia pelas suas doenças, acha que ela se aborrece, \ne acusa-a de, por estar bem de saúde, se estar ralando para\n3 o que os outros sofrem. A peça \nquase se torna cómica na perseguição de uma relação consigo mesmo, a única relação séria \nque Pessoa teve. O poeta despede-se: «Adeus amorzinho, faz o possível por gostares de mim \na valer, por sentires os meus sofrimentos, por desejares o meu bem-estar; faz, ao menos, por \no fingires bem». As Ofélias têm triste sorte na literatura. É, de qualquer modo, uma carta onde \nPessoa pôs quanto era neste mínimo que fez, como apregoava Ricardo Reis. […]\nE o Eça, o nosso Queirós? Brevemente, diga-se que as cartas eram para a legítima e \ntraduziam um sentimento não muito diferente do realismo anterior ao casamento, quando em \nNewcastle ansiava pelo contrato com uma mulher que lhe serrotasse\n4 numa manjedoura uma \npalha honesta. A Emília, escreve: «Cada dia que passa, agora, me aproxima de si (…). Eu \ntambém não realizo bem a situação. Ela não deixa de ser ligeiramente romântica. Separamo-nos \namigos, reencontramo-nos noivos». Passava-se isto em 1885, e menos romântico não se \npode ser naquele advérbio, «ligeiramente». Eça, como Pessoa, nunca se desmentiu.\nSe quisermos uma carta de amor a preceito na nossa língua, uma carta de romântico em \npleno Romantismo e espigada por um grande escritor romântico, temos de recorrer a Garrett, \nJoão Baptista de Almeida Garrett, visconde. E às Cartas de Amor à Viscondessa da Luz, \nde seu nome Rosa Montufar Barreiros, casada com um oficial do Exército da confiança de \nD. Maria II e feito Visconde de Nossa Senhora da Luz. […] Garrett jura que não existe para ele \nnenhuma outra mulher, embora tentasse, o espírito rebelava-se e o coração ficava indiferente.\nE remata, romanticamente, amorosamente, galhardamente: «Eu a ninguém amei, a ninguém \nhei de amar senão a ti». Isto, senhoras e senhores, é uma carta de amor. Não foi apenas \nà viscondessa da Luz que Garrett as escreveu. Houve outras, não menos apaixonadas. O \nhomem era sincero em todas.\nClara Ferreira Alves, «Todas as cartas de amor são ridículas e outras nem chegam a sê-lo», \nin E – A Revista do Expresso, 19 de janeiro de 2019, pp. 22-23. \nNotaS\n1 epistolografia – arte de escrever epístolas ou cartas.\n2 emulação – imitação.\n3 se estar ralando para – não se preocupar com.\n4 serrotasse – cortasse com um serrote."
+      },
+      "correction": {
+        "criteria": "6\nNota – A ocorrência de erros ortográficos não implica a desvalorização da resposta.\n\nGRUPO III\n•  Estruturação temática e discursiva (ETD)16 ........................................................ 24 pontos\n•  Correção linguística (CL)27 .................................................................................. 20 pontos\nParâmetro a: Género/Formato Textual\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1216,
+      "number": "7",
+      "group": "GRUPO I",
+      "type": "open",
+      "statement": "7. Escreva uma breve exposição sobre a representação da amada na poesia lírica de Luís de Camões.\nA sua exposição deve respeitar as orientações seguintes:\n•  uma introdução ao tema;\n•  um desenvolvimento no qual explicite duas características da amada representada na lírica camoniana, \nfundamentando cada uma delas com referência a poemas lidos;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPartE a\nLeia os dois textos e as notas. Na resposta aos itens de 1. a 3., tenha em consideração ambos os textos. \n5\n10\n15\n20\nOuviu passos no corredor, ressoaram discretamente uns nós de dedos na porta, Entre, \npalavra que foi rogo, não ordem, e quando a criada abriu, mal a olhando, disse, A janela \nestava aberta, não dei por que a chuva entrasse, está o chão todo molhado, e calou-se \nrepentinamente ao notar que formara, de enfiada, três versos de sete sílabas, redondilha \nmaior, ele, Ricardo Reis, autor de odes 1 ditas sáficas ou alcaicas, afinal saiu-nos poeta \npopular, por pouco não rematou a quadra, quebrando-lhe o pé por necessidade da métrica, \ne a gramática, assim, Agradecia limpasse, porém o entendeu sem mais poesia a criada, que \nsaiu e voltou com esfregão e balde, e posta de joelhos, serpeando o corpo ao movimento dos \nbraços, restituiu quanto possível a secura que às madeiras enceradas convém, amanhã lhes \ndeitará uma pouca de cera, Deseja mais alguma coisa, senhor doutor, Não, muito obrigado, e \nambos se olharam de frente, a chuva batia fortíssima nas vidraças, acelerara-se o ritmo, agora \nrufava como um tambor, em sobressalto os adormecidos acordavam, Como se chama, e ela \nrespondeu, Lídia, senhor doutor, e acrescentou, Às ordens do senhor doutor, poderia ter dito \ndoutra maneira, por exemplo, e bem mais alto, Eis-me aqui, a este extremo autorizada pela \nrecomendação do gerente, Olha lá, ó Lídia, dá tu atenção ao hóspede do duzentos e um, ao \ndoutor Reis, e ela lha estava dando, mas ele não respondeu, apenas pareceu que repetira o \nnome, Lídia, num sussurro, quem sabe se para não o esquecer quando precisasse de voltar \na chamá-la, há pessoas assim, repetem as palavras que ouvem, as pessoas, em verdade, \nsão papagaios umas das outras, nem há outro modo de aprendizagem, acaso esta reflexão \nveio fora de propósito porque não a fez Lídia, que é o outro interlocutor, deixemo-la sair então, \nse já tem nome, levar dali o balde e o esfregão, vejamos como ficou Ricardo Reis a sorrir \nironicamente, é um jeito de lábios que não engana, quando quem inventou a ironia inventou a \nironia, teve também de inventar o sorriso que lhe declarasse a intenção, alcançamento muito \nmais trabalhoso, Lídia, diz, e sorri.\nJosé Saramago, O Ano da Morte de Ricardo Reis, 16.ª ed., \nLisboa, Caminho, 2003, pp. 45-46.\n25\n30\nPor uma hora ficaram os dois sentados, sem falar. Apenas uma vez Baltasar se levantou \npara pôr alguma lenha na fogueira que esmorecia, e uma vez Blimunda espevitou o morrão \nda candeia que estava comendo a luz e então, sendo tanta a claridade, pôde Sete-Sóis2 dizer, \nPor que foi que perguntaste o meu nome, e Blimunda respondeu, Porque minha mãe o quis \nsaber e queria que eu o soubesse, Como sabes, se com ela não pudeste falar, Sei que sei, não \nsei como sei, não faças perguntas a que não posso responder, faze como fizeste, vieste e não \nperguntaste porquê, E agora, Se não tens onde viver melhor, fica aqui, Hei de ir para Mafra, \ntenho lá família, Mulher\n3, Pais e uma irmã, Fica, enquanto não fores, será sempre tempo de \npartires, Por que queres tu que eu fique, Porque é preciso, Não é razão que me convença, Se\n\n35\nnão quiseres ficar, vai-te embora, não te posso obrigar, Não tenho forças que me levem daqui, \ndeitaste-me um encanto, Não deitei tal, não disse uma palavra, não te toquei, Olhaste-me por \ndentro, Juro que nunca te olharei por dentro, Juras que não o farás e já o fizeste, Não sabes \nde que estás a falar, não te olhei por dentro, Se eu ficar, onde durmo, Comigo.\nJosé Saramago, Memorial do Convento, 27.ª ed., \nLisboa, Caminho, 1998, p. 56.\nNotaS\n1 Ricardo Reis, autor de odes – referência ao heterónimo de Fernando Pessoa, autor de odes, algumas das quais \ndedicadas a Lídia.\n2 Sete-Sóis – Baltasar.\n3 Mulher – pergunta dirigida por Blimunda a Baltasar."
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 13 pontos\n(Oração) subordinada substantiva completiva.\nNíveis descritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1221,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "5. A forma verbal «estipula» (linha 4) exprime um valor aspetual genérico, tal como a forma verbal\n (a) «queixa-se» (linha 14).",
+      "choices": [
+        {
+          "id": 1947,
+          "letter": "B",
+          "text": "«têm» (linha 19).",
+          "is_correct": 0
+        },
+        {
+          "id": 1948,
+          "letter": "C",
+          "text": "«escreve» (linha 24).",
+          "is_correct": 0
+        },
+        {
+          "id": 1949,
+          "letter": "D",
+          "text": "«reencontramo-nos» (linha 26).",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nFernando Pessoa, ou Álvaro de Campos, sabia do que falava. Todas as cartas de amor \nsão ridículas. O poema é a mais acertada descrição do género. A epistolografia\n1 amorosa \nquase sempre se revela embaraçosa para grandes autores, sejam eles Dostoievski ou James \nJoyce, Beethoven ou Napoleão. A carta de amor estipula uma intimidade que, no papel – e as \ngrandes cartas de amor foram todas concebidas em papel ou não as teríamos hoje disponíveis \npara a curiosidade ou emulação\n2 –, raramente traduz a beleza encriptada da poesia ou a \ngrandiosidade sociológica da ficção. Quer isto dizer que as melhores cartas de amor foram as \ninventadas ou sugeridas nos grandes romances e nos grandes poemas de amor. [...]\nUm autor, um artista, devia a si próprio e à sua biografia umas cartas de amor. As damas \nainda precisavam da sedução epistolar antes de sucumbirem à sedução fatal. [...]\nNão estranhemos que um realista lúcido como Eça escreva uma carta de amor a Emília de \nResende, a mulher com quem se casou, ou que um intelectual como Fernando Pessoa comece \numa carta a Ofélia assim: «Meu Bebé, meu Bebezinho querido». […] Adiante, na dita carta, \nPessoa queixa-se do desinteresse de Ofélia pelas suas doenças, acha que ela se aborrece, \ne acusa-a de, por estar bem de saúde, se estar ralando para\n3 o que os outros sofrem. A peça \nquase se torna cómica na perseguição de uma relação consigo mesmo, a única relação séria \nque Pessoa teve. O poeta despede-se: «Adeus amorzinho, faz o possível por gostares de mim \na valer, por sentires os meus sofrimentos, por desejares o meu bem-estar; faz, ao menos, por \no fingires bem». As Ofélias têm triste sorte na literatura. É, de qualquer modo, uma carta onde \nPessoa pôs quanto era neste mínimo que fez, como apregoava Ricardo Reis. […]\nE o Eça, o nosso Queirós? Brevemente, diga-se que as cartas eram para a legítima e \ntraduziam um sentimento não muito diferente do realismo anterior ao casamento, quando em \nNewcastle ansiava pelo contrato com uma mulher que lhe serrotasse\n4 numa manjedoura uma \npalha honesta. A Emília, escreve: «Cada dia que passa, agora, me aproxima de si (…). Eu \ntambém não realizo bem a situação. Ela não deixa de ser ligeiramente romântica. Separamo-nos \namigos, reencontramo-nos noivos». Passava-se isto em 1885, e menos romântico não se \npode ser naquele advérbio, «ligeiramente». Eça, como Pessoa, nunca se desmentiu.\nSe quisermos uma carta de amor a preceito na nossa língua, uma carta de romântico em \npleno Romantismo e espigada por um grande escritor romântico, temos de recorrer a Garrett, \nJoão Baptista de Almeida Garrett, visconde. E às Cartas de Amor à Viscondessa da Luz, \nde seu nome Rosa Montufar Barreiros, casada com um oficial do Exército da confiança de \nD. Maria II e feito Visconde de Nossa Senhora da Luz. […] Garrett jura que não existe para ele \nnenhuma outra mulher, embora tentasse, o espírito rebelava-se e o coração ficava indiferente.\nE remata, romanticamente, amorosamente, galhardamente: «Eu a ninguém amei, a ninguém \nhei de amar senão a ti». Isto, senhoras e senhores, é uma carta de amor. Não foi apenas \nà viscondessa da Luz que Garrett as escreveu. Houve outras, não menos apaixonadas. O \nhomem era sincero em todas.\nClara Ferreira Alves, «Todas as cartas de amor são ridículas e outras nem chegam a sê-lo», \nin E – A Revista do Expresso, 19 de janeiro de 2019, pp. 22-23. \nNotaS\n1 epistolografia – arte de escrever epístolas ou cartas.\n2 emulação – imitação.\n3 se estar ralando para – não se preocupar com.\n4 serrotasse – cortasse com um serrote."
+      },
+      "correction": {
+        "criteria": "5. 6. 7.\nCotação (em pontos) 8 x 13 pontos 104\ntotal 200",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

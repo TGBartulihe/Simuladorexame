@@ -1,0 +1,244 @@
+{
+  "exam": {
+    "id": 146,
+    "exam_key": "2019-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2019,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 1398,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2019/).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nTradicionalmente, a casa era o espaço de domínio feminino; por seu lado, o homem movia-se \npredominantemente num espaço exterior, fora de casa.\nSerá que, na atualidade, esta visão do mundo está já ultrapassada?\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a questão apresentada.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "1 Escreve um texto com uma organização pouco satisfatória, recorrendo a insuficientes \nmecanismos de coesão ou mobilizando-os de forma inadequada. 2\n\nCotaçÕES\ngrupo i tem\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1399,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n16 16 16 16 16 8 16 104\nII 1. 2. 3. 4. 5. 6. 7.\n8 8 8 8 8 8 8 56\nIII Item único 40\nt\nota\nL 200",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nTradicionalmente, a casa era o espaço de domínio feminino; por seu lado, o homem movia-se \npredominantemente num espaço exterior, fora de casa.\nSerá que, na atualidade, esta visão do mundo está já ultrapassada?\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a questão apresentada.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      },
+      "correction": {
+        "criteria": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais \ndos aspetos indicados neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1400,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "3.\n O advérbio «lá», utilizado na linha 35, apresenta uma ideia de\n \n(\na\n)\n desaprovação.",
+      "choices": [
+        {
+          "id": 2331,
+          "letter": "B",
+          "text": "indecisão.",
+          "is_correct": 0
+        },
+        {
+          "id": 2332,
+          "letter": "C",
+          "text": "negação.",
+          "is_correct": 0
+        },
+        {
+          "id": 2333,
+          "letter": "D",
+          "text": "indignação.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\n40\n45\nQuando me sinto desinfeliz vem-me sempre à cabeça o poema de Carlos Queiroz chamado \n«E no Seu Nome esperarão as gentes», que é uma citação de São Mateus. Isto dura desde os \ntreze ou catorze anos, quando li o livro de poemas «Desaparecido» que descobri na biblioteca \ndo meu pai. E no meio da desinfelicidade aparece-me logo a primeira quadra\nNo ar azul da madrugada\nvirias logo se eu chamasse?\nEncostarias Tua face\nà minha face enregelada?\nPorque é que isto sempre me comoveu e ajudou tanto? Porque volto a ser logo o menino \nque fui e que o poema torna mais forte no meio da grande solidão que todos temos às vezes:\nSe Te contasse o meu desgosto\nde quando a angústia me vem ver\nter de expulsá-la pra viver\nafagarias o meu rosto?\nEsta é uma pergunta minha também. O meu desejo. E aqui, sentado a esta mesa cheia \nde papéis, escrevo isto comovidamente. Estes versos acompanham-me sempre no ar azul da \nmadrugada, quando tudo me parece irremediável, sem qualquer solução. O que farei de mim, \no que farei comigo? E depois, felizmente, voltam a paz e a esperança. Por que carga de água \ntudo me toca, uma voz, um olhar, um sorriso às vezes, uma senhora de idade a afastar-se de \nmim a remar com a bengala porque o passeio se transformou numa espécie de mar? Quando \neu era pequeno tinha a Gija, uma camponesa galega que me deu tanto amor. Ajudava-me a \ndespir, vestia-me o pijama, ficava ao pé de mim até eu adormecer. Desapareceu da minha vida \nde repente, não sei porquê, e durante anos e anos não a vi. Quatro meses antes de embarcar \npara a guerra casei-me, havia pessoas no adro da igreja a olharem, eu não via a Gija\n(chamava-se Alice, eu não sabia dizer Alice) \nnão via a Gija desde os cinco anos, portanto há cerca de vinte e de súbito ela estava ali, no \nmeio das tais pessoas a olharem, gorda, de cabelos brancos e\n(como se explica isto?)\nsoube logo que aquela pessoa era ela. Larguei a noiva, corri para aquela senhora e abracei-a \nde uma maneira como nunca abracei ninguém. Tinha o mesmo cheiro, a mesma forma de me tocar\n(posso estar a ser injusto mas acho que nunca ninguém me tocou como ela)\nos mesmos olhos transbordantes de ternura. E ali ficámos, agarrados, comigo de novo tão \npequeno, tão feliz. Gija. Gija Gija Gija. Os convidados do casamento espantados, as pessoas \nque olhavam espantadas e eu, muito maior do que ela, de repente pequeno, ao seu colo. Ao \nseu colo. Tinha um senhor ao lado, que era o marido que eu não conhecia, mas eu queria lá \nsaber do marido. Éramos um do outro, Gija, e voltei a ser o menino de alguém. Voltei, com \ntanta força, a ser o menino de alguém. A ternura dela era a mesma, o amor por mim era o \nmesmo, só que estava cheia de lágrimas. Lembro-me tão bem de dizer-lhe\n– Gija nunca deixei de ser o teu menino\ne depois voltei para o casamento, para Tomar onde tinha sido colocado antes de ir para \nAngola, para longe de ti, eu que nunca devia ter saído do teu colo, tu que me amaste sempre \nincondicionalmente, com tanta pureza, tanta simplicidade, tanta, meu Deus, alegria. E eu que \ncontinuo a amar-te de uma paixão tão linda, eu que sempre, ao acontecer-me um desses \nproblemas gravíssimos da infância, uma queda, a perda de um brinquedo, dizia logo\n– Quero a Gija\ne tudo se compunha outra vez.\nAntónio Lobo Antunes, «E no Seu Nome esperarão as gentes», Visão, 6/9 a 12/9/2018, p. 7."
+      },
+      "correction": {
+        "criteria": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos indicados neste parâmetro.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1401,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "4.\n A\n partir da linha 41, o autor usa a segunda pessoa, quando se refere a Gija, para\n \n(\na\n)\n reproduzir\n, no seu discurso, as palavras que lhe dirigiu no dia do casamento.",
+      "choices": [
+        {
+          "id": 2334,
+          "letter": "B",
+          "text": "renovar os laços de união que foram perdidos após ter sido colocado em Angola.",
+          "is_correct": 0
+        },
+        {
+          "id": 2335,
+          "letter": "C",
+          "text": "exprimir a convivência que com ela manteve de forma regular ao longo da vida.",
+          "is_correct": 0
+        },
+        {
+          "id": 2336,
+          "letter": "D",
+          "text": "expressar a profunda comunhão com alguém que continua vivo na sua memória.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\n40\n45\nQuando me sinto desinfeliz vem-me sempre à cabeça o poema de Carlos Queiroz chamado \n«E no Seu Nome esperarão as gentes», que é uma citação de São Mateus. Isto dura desde os \ntreze ou catorze anos, quando li o livro de poemas «Desaparecido» que descobri na biblioteca \ndo meu pai. E no meio da desinfelicidade aparece-me logo a primeira quadra\nNo ar azul da madrugada\nvirias logo se eu chamasse?\nEncostarias Tua face\nà minha face enregelada?\nPorque é que isto sempre me comoveu e ajudou tanto? Porque volto a ser logo o menino \nque fui e que o poema torna mais forte no meio da grande solidão que todos temos às vezes:\nSe Te contasse o meu desgosto\nde quando a angústia me vem ver\nter de expulsá-la pra viver\nafagarias o meu rosto?\nEsta é uma pergunta minha também. O meu desejo. E aqui, sentado a esta mesa cheia \nde papéis, escrevo isto comovidamente. Estes versos acompanham-me sempre no ar azul da \nmadrugada, quando tudo me parece irremediável, sem qualquer solução. O que farei de mim, \no que farei comigo? E depois, felizmente, voltam a paz e a esperança. Por que carga de água \ntudo me toca, uma voz, um olhar, um sorriso às vezes, uma senhora de idade a afastar-se de \nmim a remar com a bengala porque o passeio se transformou numa espécie de mar? Quando \neu era pequeno tinha a Gija, uma camponesa galega que me deu tanto amor. Ajudava-me a \ndespir, vestia-me o pijama, ficava ao pé de mim até eu adormecer. Desapareceu da minha vida \nde repente, não sei porquê, e durante anos e anos não a vi. Quatro meses antes de embarcar \npara a guerra casei-me, havia pessoas no adro da igreja a olharem, eu não via a Gija\n(chamava-se Alice, eu não sabia dizer Alice) \nnão via a Gija desde os cinco anos, portanto há cerca de vinte e de súbito ela estava ali, no \nmeio das tais pessoas a olharem, gorda, de cabelos brancos e\n(como se explica isto?)\nsoube logo que aquela pessoa era ela. Larguei a noiva, corri para aquela senhora e abracei-a \nde uma maneira como nunca abracei ninguém. Tinha o mesmo cheiro, a mesma forma de me tocar\n(posso estar a ser injusto mas acho que nunca ninguém me tocou como ela)\nos mesmos olhos transbordantes de ternura. E ali ficámos, agarrados, comigo de novo tão \npequeno, tão feliz. Gija. Gija Gija Gija. Os convidados do casamento espantados, as pessoas \nque olhavam espantadas e eu, muito maior do que ela, de repente pequeno, ao seu colo. Ao \nseu colo. Tinha um senhor ao lado, que era o marido que eu não conhecia, mas eu queria lá \nsaber do marido. Éramos um do outro, Gija, e voltei a ser o menino de alguém. Voltei, com \ntanta força, a ser o menino de alguém. A ternura dela era a mesma, o amor por mim era o \nmesmo, só que estava cheia de lágrimas. Lembro-me tão bem de dizer-lhe\n– Gija nunca deixei de ser o teu menino\ne depois voltei para o casamento, para Tomar onde tinha sido colocado antes de ir para \nAngola, para longe de ti, eu que nunca devia ter saído do teu colo, tu que me amaste sempre \nincondicionalmente, com tanta pureza, tanta simplicidade, tanta, meu Deus, alegria. E eu que \ncontinuo a amar-te de uma paixão tão linda, eu que sempre, ao acontecer-me um desses \nproblemas gravíssimos da infância, uma queda, a perda de um brinquedo, dizia logo\n– Quero a Gija\ne tudo se compunha outra vez.\nAntónio Lobo Antunes, «E no Seu Nome esperarão as gentes», Visão, 6/9 a 12/9/2018, p. 7."
+      },
+      "correction": {
+        "criteria": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n•\n apresenta \num texto constituído por diferentes parágrafos, corretamente marcados, \ndevidamente proporcionados e articulados entre si de modo consistente;\n•\n utiliza, adequadamente, mecanismos de articulação interfrásica;\n•\n mantém, \nde forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n•\n estabelece \nconexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1402,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "multiple_choice",
+      "statement": "5.\n Nas orações «\nque nunca ninguém me tocou como ela» (linha 31) e «que eu não conhecia» (linha 35), as \npalavras sublinhadas são\n \n(\na\n)\n um pronome, no primeiro caso, e uma conjunção, no segundo caso.",
+      "choices": [
+        {
+          "id": 2337,
+          "letter": "B",
+          "text": "uma conjunção, no primeiro caso, e um pronome, no segundo caso.",
+          "is_correct": 0
+        },
+        {
+          "id": 2338,
+          "letter": "C",
+          "text": "pronomes em ambos os casos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2339,
+          "letter": "D",
+          "text": "conjunções em ambos os casos.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\n40\n45\nQuando me sinto desinfeliz vem-me sempre à cabeça o poema de Carlos Queiroz chamado \n«E no Seu Nome esperarão as gentes», que é uma citação de São Mateus. Isto dura desde os \ntreze ou catorze anos, quando li o livro de poemas «Desaparecido» que descobri na biblioteca \ndo meu pai. E no meio da desinfelicidade aparece-me logo a primeira quadra\nNo ar azul da madrugada\nvirias logo se eu chamasse?\nEncostarias Tua face\nà minha face enregelada?\nPorque é que isto sempre me comoveu e ajudou tanto? Porque volto a ser logo o menino \nque fui e que o poema torna mais forte no meio da grande solidão que todos temos às vezes:\nSe Te contasse o meu desgosto\nde quando a angústia me vem ver\nter de expulsá-la pra viver\nafagarias o meu rosto?\nEsta é uma pergunta minha também. O meu desejo. E aqui, sentado a esta mesa cheia \nde papéis, escrevo isto comovidamente. Estes versos acompanham-me sempre no ar azul da \nmadrugada, quando tudo me parece irremediável, sem qualquer solução. O que farei de mim, \no que farei comigo? E depois, felizmente, voltam a paz e a esperança. Por que carga de água \ntudo me toca, uma voz, um olhar, um sorriso às vezes, uma senhora de idade a afastar-se de \nmim a remar com a bengala porque o passeio se transformou numa espécie de mar? Quando \neu era pequeno tinha a Gija, uma camponesa galega que me deu tanto amor. Ajudava-me a \ndespir, vestia-me o pijama, ficava ao pé de mim até eu adormecer. Desapareceu da minha vida \nde repente, não sei porquê, e durante anos e anos não a vi. Quatro meses antes de embarcar \npara a guerra casei-me, havia pessoas no adro da igreja a olharem, eu não via a Gija\n(chamava-se Alice, eu não sabia dizer Alice) \nnão via a Gija desde os cinco anos, portanto há cerca de vinte e de súbito ela estava ali, no \nmeio das tais pessoas a olharem, gorda, de cabelos brancos e\n(como se explica isto?)\nsoube logo que aquela pessoa era ela. Larguei a noiva, corri para aquela senhora e abracei-a \nde uma maneira como nunca abracei ninguém. Tinha o mesmo cheiro, a mesma forma de me tocar\n(posso estar a ser injusto mas acho que nunca ninguém me tocou como ela)\nos mesmos olhos transbordantes de ternura. E ali ficámos, agarrados, comigo de novo tão \npequeno, tão feliz. Gija. Gija Gija Gija. Os convidados do casamento espantados, as pessoas \nque olhavam espantadas e eu, muito maior do que ela, de repente pequeno, ao seu colo. Ao \nseu colo. Tinha um senhor ao lado, que era o marido que eu não conhecia, mas eu queria lá \nsaber do marido. Éramos um do outro, Gija, e voltei a ser o menino de alguém. Voltei, com \ntanta força, a ser o menino de alguém. A ternura dela era a mesma, o amor por mim era o \nmesmo, só que estava cheia de lágrimas. Lembro-me tão bem de dizer-lhe\n– Gija nunca deixei de ser o teu menino\ne depois voltei para o casamento, para Tomar onde tinha sido colocado antes de ir para \nAngola, para longe de ti, eu que nunca devia ter saído do teu colo, tu que me amaste sempre \nincondicionalmente, com tanta pureza, tanta simplicidade, tanta, meu Deus, alegria. E eu que \ncontinuo a amar-te de uma paixão tão linda, eu que sempre, ao acontecer-me um desses \nproblemas gravíssimos da infância, uma queda, a perda de um brinquedo, dizia logo\n– Quero a Gija\ne tudo se compunha outra vez.\nAntónio Lobo Antunes, «E no Seu Nome esperarão as gentes», Visão, 6/9 a 12/9/2018, p. 7."
+      },
+      "correction": {
+        "criteria": "5. .................................................................................................................................................... 16 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒\n a \nvalorização da coragem/do atrevimento dos Portugueses, capazes de desafiar os deuses – «Vistes \nque, com grandíssima ousadia, / Foram já cometer o Céu supremo» (vv. 25-26);\n‒\n a \nvalorização da capacidade de superar a condição humana, patente no facto de os Portugueses se \naventurarem pelo mar desconhecido – «Vistes aquela insana fantasia / De tentarem o mar com vela e \nremo» (vv. 27-28);\n‒\n o \nreconhecimento da superioridade dos Portugueses em relação aos outros homens, patente no receio \nde Baco de que estes se convertam em Deuses e os Deuses em humanos – «temo / Que do Mar e do \nCéu, em poucos anos, / Venham Deuses a ser, e nós, humanos» (vv. 30-32).\n•  Aspetos de conteúdo (C) \n ...\n................................................................................. 10 pontos\nNíveis d escritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1403,
+      "number": "6",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "6.\n Identifique as funções sintáticas desempenhadas pelas expressões:\na)\n «de papéis» (linha 16);\nb)\n «que aquela pessoa era ela» (linha 29).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\n40\n45\nQuando me sinto desinfeliz vem-me sempre à cabeça o poema de Carlos Queiroz chamado \n«E no Seu Nome esperarão as gentes», que é uma citação de São Mateus. Isto dura desde os \ntreze ou catorze anos, quando li o livro de poemas «Desaparecido» que descobri na biblioteca \ndo meu pai. E no meio da desinfelicidade aparece-me logo a primeira quadra\nNo ar azul da madrugada\nvirias logo se eu chamasse?\nEncostarias Tua face\nà minha face enregelada?\nPorque é que isto sempre me comoveu e ajudou tanto? Porque volto a ser logo o menino \nque fui e que o poema torna mais forte no meio da grande solidão que todos temos às vezes:\nSe Te contasse o meu desgosto\nde quando a angústia me vem ver\nter de expulsá-la pra viver\nafagarias o meu rosto?\nEsta é uma pergunta minha também. O meu desejo. E aqui, sentado a esta mesa cheia \nde papéis, escrevo isto comovidamente. Estes versos acompanham-me sempre no ar azul da \nmadrugada, quando tudo me parece irremediável, sem qualquer solução. O que farei de mim, \no que farei comigo? E depois, felizmente, voltam a paz e a esperança. Por que carga de água \ntudo me toca, uma voz, um olhar, um sorriso às vezes, uma senhora de idade a afastar-se de \nmim a remar com a bengala porque o passeio se transformou numa espécie de mar? Quando \neu era pequeno tinha a Gija, uma camponesa galega que me deu tanto amor. Ajudava-me a \ndespir, vestia-me o pijama, ficava ao pé de mim até eu adormecer. Desapareceu da minha vida \nde repente, não sei porquê, e durante anos e anos não a vi. Quatro meses antes de embarcar \npara a guerra casei-me, havia pessoas no adro da igreja a olharem, eu não via a Gija\n(chamava-se Alice, eu não sabia dizer Alice) \nnão via a Gija desde os cinco anos, portanto há cerca de vinte e de súbito ela estava ali, no \nmeio das tais pessoas a olharem, gorda, de cabelos brancos e\n(como se explica isto?)\nsoube logo que aquela pessoa era ela. Larguei a noiva, corri para aquela senhora e abracei-a \nde uma maneira como nunca abracei ninguém. Tinha o mesmo cheiro, a mesma forma de me tocar\n(posso estar a ser injusto mas acho que nunca ninguém me tocou como ela)\nos mesmos olhos transbordantes de ternura. E ali ficámos, agarrados, comigo de novo tão \npequeno, tão feliz. Gija. Gija Gija Gija. Os convidados do casamento espantados, as pessoas \nque olhavam espantadas e eu, muito maior do que ela, de repente pequeno, ao seu colo. Ao \nseu colo. Tinha um senhor ao lado, que era o marido que eu não conhecia, mas eu queria lá \nsaber do marido. Éramos um do outro, Gija, e voltei a ser o menino de alguém. Voltei, com \ntanta força, a ser o menino de alguém. A ternura dela era a mesma, o amor por mim era o \nmesmo, só que estava cheia de lágrimas. Lembro-me tão bem de dizer-lhe\n– Gija nunca deixei de ser o teu menino\ne depois voltei para o casamento, para Tomar onde tinha sido colocado antes de ir para \nAngola, para longe de ti, eu que nunca devia ter saído do teu colo, tu que me amaste sempre \nincondicionalmente, com tanta pureza, tanta simplicidade, tanta, meu Deus, alegria. E eu que \ncontinuo a amar-te de uma paixão tão linda, eu que sempre, ao acontecer-me um desses \nproblemas gravíssimos da infância, uma queda, a perda de um brinquedo, dizia logo\n– Quero a Gija\ne tudo se compunha outra vez.\nAntónio Lobo Antunes, «E no Seu Nome esperarão as gentes», Visão, 6/9 a 12/9/2018, p. 7."
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 8 pontos\na) Complemento do adjetivo;\nb) Complemento direto.\nNíveis d escritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1404,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7.\n Indique o valor aspetual veiculado por cada uma das expressões seguintes:\na)\n «Quando eu era pequeno tinha a Gija» (linhas 20 e 21);\nb)\n «Desapareceu da minha vida de repente» (linhas 22 e 23).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\n40\n45\nQuando me sinto desinfeliz vem-me sempre à cabeça o poema de Carlos Queiroz chamado \n«E no Seu Nome esperarão as gentes», que é uma citação de São Mateus. Isto dura desde os \ntreze ou catorze anos, quando li o livro de poemas «Desaparecido» que descobri na biblioteca \ndo meu pai. E no meio da desinfelicidade aparece-me logo a primeira quadra\nNo ar azul da madrugada\nvirias logo se eu chamasse?\nEncostarias Tua face\nà minha face enregelada?\nPorque é que isto sempre me comoveu e ajudou tanto? Porque volto a ser logo o menino \nque fui e que o poema torna mais forte no meio da grande solidão que todos temos às vezes:\nSe Te contasse o meu desgosto\nde quando a angústia me vem ver\nter de expulsá-la pra viver\nafagarias o meu rosto?\nEsta é uma pergunta minha também. O meu desejo. E aqui, sentado a esta mesa cheia \nde papéis, escrevo isto comovidamente. Estes versos acompanham-me sempre no ar azul da \nmadrugada, quando tudo me parece irremediável, sem qualquer solução. O que farei de mim, \no que farei comigo? E depois, felizmente, voltam a paz e a esperança. Por que carga de água \ntudo me toca, uma voz, um olhar, um sorriso às vezes, uma senhora de idade a afastar-se de \nmim a remar com a bengala porque o passeio se transformou numa espécie de mar? Quando \neu era pequeno tinha a Gija, uma camponesa galega que me deu tanto amor. Ajudava-me a \ndespir, vestia-me o pijama, ficava ao pé de mim até eu adormecer. Desapareceu da minha vida \nde repente, não sei porquê, e durante anos e anos não a vi. Quatro meses antes de embarcar \npara a guerra casei-me, havia pessoas no adro da igreja a olharem, eu não via a Gija\n(chamava-se Alice, eu não sabia dizer Alice) \nnão via a Gija desde os cinco anos, portanto há cerca de vinte e de súbito ela estava ali, no \nmeio das tais pessoas a olharem, gorda, de cabelos brancos e\n(como se explica isto?)\nsoube logo que aquela pessoa era ela. Larguei a noiva, corri para aquela senhora e abracei-a \nde uma maneira como nunca abracei ninguém. Tinha o mesmo cheiro, a mesma forma de me tocar\n(posso estar a ser injusto mas acho que nunca ninguém me tocou como ela)\nos mesmos olhos transbordantes de ternura. E ali ficámos, agarrados, comigo de novo tão \npequeno, tão feliz. Gija. Gija Gija Gija. Os convidados do casamento espantados, as pessoas \nque olhavam espantadas e eu, muito maior do que ela, de repente pequeno, ao seu colo. Ao \nseu colo. Tinha um senhor ao lado, que era o marido que eu não conhecia, mas eu queria lá \nsaber do marido. Éramos um do outro, Gija, e voltei a ser o menino de alguém. Voltei, com \ntanta força, a ser o menino de alguém. A ternura dela era a mesma, o amor por mim era o \nmesmo, só que estava cheia de lágrimas. Lembro-me tão bem de dizer-lhe\n– Gija nunca deixei de ser o teu menino\ne depois voltei para o casamento, para Tomar onde tinha sido colocado antes de ir para \nAngola, para longe de ti, eu que nunca devia ter saído do teu colo, tu que me amaste sempre \nincondicionalmente, com tanta pureza, tanta simplicidade, tanta, meu Deus, alegria. E eu que \ncontinuo a amar-te de uma paixão tão linda, eu que sempre, ao acontecer-me um desses \nproblemas gravíssimos da infância, uma queda, a perda de um brinquedo, dizia logo\n– Quero a Gija\ne tudo se compunha outra vez.\nAntónio Lobo Antunes, «E no Seu Nome esperarão as gentes», Visão, 6/9 a 12/9/2018, p. 7."
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 8 pontos\na) (valor aspetual) imperfetivo; \nb) (valor aspetual) perfetivo.\nNíveis d escritores de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

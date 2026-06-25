@@ -1,0 +1,187 @@
+{
+  "exam": {
+    "id": 150,
+    "exam_key": "2023-639-F2",
+    "subject": "Português",
+    "code": "639",
+    "year": 2023,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 556,
+      "number": "1",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2023/).",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo III\nItem único ........................................................................................................... 44 pontos\n SUBtOtaL ..................................................... 161 pontos\nDos restantes 5 itens, contribuem para a classificação final da prova os 3 itens cujas respostas obtenham melhor \npontuação (3 x 13 pontos)."
+      },
+      "correction": {
+        "criteria": "1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 557,
+      "number": "2",
+      "group": "GRUPO III",
+      "type": "open",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOtaÇÕES\nAs pontuações obtidas nas respostas aos 10 itens seguintes contribuem obrigatoriamente para a classificação final da \nprova.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo III\nItem único ........................................................................................................... 44 pontos\n SUBtOtaL ..................................................... 161 pontos\nDos restantes 5 itens, contribuem para a classificação final da prova os 3 itens cujas respostas obtenham melhor \npontuação (3 x 13 pontos)."
+      },
+      "correction": {
+        "criteria": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 558,
+      "number": "3",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "3. No segundo parágrafo do texto, através do recurso à figura de Gulliver e ao uso da interrogação retórica, \no autor pretende \n a) retomar uma ideia anteriormente referida sobre a importância da disseminação do livro e da leitura.\n b) reforçar a ideia de que as bibliotecas e os livros aí existentes estão ao serviço de um bem comum.\n c) explicitar a ideia de que, atualmente, a disseminação do livro não torna os leitores mais proficientes.\n d) estabelecer um contraste entre o que foi a realidade do passado e o que é a realidade do presente.\n\nItem obrigatório",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 3. e 5.\n SUBtOtaL ....................................................... 39 pontos\n tOtaL ............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "3. 6. 2 . 3. 5.\nCotação (em pontos) 3 × 13 pontos 39\nTOTAL 200",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 559,
+      "number": "4",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "4. O autor evoca as revoltas estudantis no final da década de 1960 para confirmar a sua tese de que é \nimportante\n a) o elogio do novo e do moderno em detrimento do antigo, para promover o espírito crítico.\n b) o diálogo entre o passado e o presente, propiciador da reflexão na qual o ser humano se revê.\n c) promover a leitura lúdica que, ainda assim, pode contribuir para conservar a memória do passado.\n d) estimular o pensamento original e único, fruto da constante evolução das ideias e do progresso.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 3. e 5.\n SUBtOtaL ....................................................... 39 pontos\n tOtaL ............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n•\n apresenta \num texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n•\n marca, corretamente, os parágrafos;\n•\n utiliza, adequadamente, mecanismos de articulação interfrásica;\n•\n mantém, \nde forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n•\n estabelece \nconexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 560,
+      "number": "5",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "5. No segundo parágrafo, o autor recorre predominantemente a formas verbais no modo condicional para \n a) exprimir a incerteza em relação a ações que prevê virem a acontecer.\n b) referir ações reais posteriores ao momento em que escreve.\n c) exprimir a dúvida sobre ações que acontecerão mediante certas condições.\n d) referir ações hipotéticas que não se realizaram nem se realizarão.\nItem obrigatório",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 3. e 5.\n SUBtOtaL ....................................................... 39 pontos\n tOtaL ............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "5\nJustifica o sentimento evidenciado pelo pregador nas linhas finais do excerto, bem como \no recurso à ironia, abordando, adequadamente, os dois tópicos de resposta. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 561,
+      "number": "6",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "6. No contexto em que ocorrem, «repositório» (linha 23) e «biblioteca» (linha 24) contribuem para a coesão \nlexical por substituição, tal como acontece na relação estabelecida entre as expressões\n a) «livros» (linha 11) e «consumo» (linha 13).\n b) «edifícios» (linha 12) e «categorias» (linha 12).\n c) «visitante» (linha 9) e «Gulliver» (linha 10).\n d) «viajante» (linha 15) e «metro» (linha 17).\nItem obrigatório",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 3. e 5.\n SUBtOtaL ....................................................... 39 pontos\n tOtaL ............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "6. Versão 1: (B); Versão 2: (A) ..................................................................................................... 13 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 562,
+      "number": "7",
+      "group": "GRUPO II",
+      "type": "open",
+      "statement": "7. O único caso em que a expressão iniciada por «para» desempenha a função sintática de complemento \noblíquo é o da expressão\n a) «para o livro» (linha 19).\n b) «para consumo orientado dos fiéis» (linha 13).\n c) «para quem ler livros é essencial» (linha 5).\n d) «para dar contexto ao presente» (linha 29).\n\nItem obrigatório",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Grupo II\nItens 2., 3. e 5.\n SUBtOtaL ....................................................... 39 pontos\n tOtaL ............................................................. 200 pontos"
+      },
+      "correction": {
+        "criteria": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotal\nI II III",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

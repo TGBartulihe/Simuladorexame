@@ -1,0 +1,22 @@
+[
+  {
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "exams": 26
+  },
+  {
+    "subject": "Física e Química A",
+    "code": "715",
+    "exams": 26
+  },
+  {
+    "subject": "Matemática A",
+    "code": "635",
+    "exams": 26
+  },
+  {
+    "subject": "Português",
+    "code": "639",
+    "exams": 26
+  }
+]

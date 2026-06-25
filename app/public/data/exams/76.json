@@ -1,0 +1,862 @@
+{
+  "exam": {
+    "id": 76,
+    "exam_key": "2025-715-F2",
+    "subject": "Física e Química A",
+    "code": "715",
+    "year": 2025,
+    "phase": "F2"
+  },
+  "questions": [
+    {
+      "id": 95,
+      "number": "1",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "1. A síntese de Haber-Bosch é um processo industrial de produção de amoníaco, NH3 ( g ), a partir de \ndinitrogénio, N2 ( g ), e di-hidrogénio, H2 ( g ). \nEsta reação pode ser traduzida por\nN2 ( g ) + 3 H2 ( g ) ? 2 NH3 ( g )",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "1\nA resposta:\n • apresenta apenas um dos dois primeiros elementos;\n • é bem estruturada e apresenta linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 96,
+      "number": "1.1",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "1.1. Com o objetivo de maximizar a produção de NH3 ( g ), a reação foi estudada em diferentes condições \nde pressão e de temperatura.\nA tabela apresenta a fração molar do NH3 ( g ), em equilíbrio, em determinadas condições de pressão \ne de temperatura.\nPressão / atm\nTemperatura / oC\n10 100 1000\n400 0,04 0,25 0,80\n500 0,01 0,11 0,57\n600 0,005 0,05 0,31\n1.1.1. A quantidade de NH3 ( g ), em equilíbrio, é maximizada quando se utiliza",
+      "choices": [
+        {
+          "id": 173,
+          "letter": "A",
+          "text": "maior pressão e maior temperatura.",
+          "is_correct": 0
+        },
+        {
+          "id": 174,
+          "letter": "B",
+          "text": "maior pressão e menor temperatura.",
+          "is_correct": 0
+        },
+        {
+          "id": 175,
+          "letter": "C",
+          "text": "menor pressão e menor temperatura.",
+          "is_correct": 0
+        },
+        {
+          "id": 176,
+          "letter": "D",
+          "text": "menor pressão e maior temperatura. 1.1.2. Num reator indeformável, no qual se criou previamente o vácuo, colocaram-se 0,880 mol de cada um dos reagentes. Quando o equilíbrio foi atingido, existiam no reator 0,616 mol de H2 ( g ). Conclua, considerando os dados da tabela, quais as condições de pressão e de temperatura em que foi realizada a experiência. Apresente todos os cálculos efetuados.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "1.1.1. 1.2. 2.3. 2.6. 3.1.2. 4.1. 5.1.1. 5.1.2. Subtotal\nCotação (em pontos) 4 x 10 pontos 40\nTOTAL 200",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 97,
+      "number": "1.2",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "1.2.\n A\n molécula de NH3 é estruturalmente semelhante à molécula de fosfina, PH3. \nA elevada temperatura de ebulição do amoníaco, comparativamente à da fosfina, deve-se ao facto de \no amoníaco apresentar, como dominantes, ligações",
+      "choices": [
+        {
+          "id": 177,
+          "letter": "A",
+          "text": "intramoleculares polares.",
+          "is_correct": 0
+        },
+        {
+          "id": 178,
+          "letter": "B",
+          "text": "de V an der Waals.",
+          "is_correct": 0
+        },
+        {
+          "id": 179,
+          "letter": "C",
+          "text": "de hidrogénio.",
+          "is_correct": 0
+        },
+        {
+          "id": 180,
+          "letter": "D",
+          "text": "covalentes entre os átomos.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "1.2. ................................................................................................................................................ 10 pontos\nVersão 1 – (C); Versão 2 – (D)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 98,
+      "number": "2",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "2. O di-hidrogénio, necessário para a produção de amoníaco, pode ser produzido por eletrólise da água. \nA\n eletrólise da água, H2O ( l ), é uma reação de oxidação-redução provocada pela passagem de corrente \nelétrica contínua entre dois elétrodos mergulhados na água, formando di-hidrogénio, H2 ( g ), e dioxigénio, \nO2 ( g ), como se representa esquematicamente na Figura 1. Obtém-se «hidrogénio verde» quando, para a \neletrólise da água, se recorre a energia elétrica proveniente de fontes renováveis.\nH2 O2\n−\nelétrodo\nH2O H2O\n elétrodo\n+\nelétrodo\naltifalante\npainel fotovoltaico\nFigura 1\nInvestigações recentes mostram que a eficiência da produção de H2 ( g ) aumenta quando se submetem \nos elétrodos a ultrassons, uma vez que os gases formados são mais rapidamente removidos da superfície \ndos elétrodos. \nNo destaque lateral da Figura 1, representam-se as zonas de compressão e de rarefação da água, junto \nao elétrodo positivo, formadas devido à propagação dos ultrassons emitidos pelo altifalante.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "2\nA resposta:\n • apresenta apenas os dois primeiros elementos;\n • apresenta falhas de estrutura e/ou na linguagem científica.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 99,
+      "number": "2.1",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "2.1.\n A\n eletrólise da água pode ser traduzida por\n2 H2O ( l ) \" 2 H2 ( g ) + O2 ( g )\nNesta reação, o hidrogénio",
+      "choices": [
+        {
+          "id": 181,
+          "letter": "A",
+          "text": "reduz-se, pois o seu número de oxidação aumenta.",
+          "is_correct": 0
+        },
+        {
+          "id": 182,
+          "letter": "B",
+          "text": "oxida-se, pois o seu número de oxidação aumenta.",
+          "is_correct": 0
+        },
+        {
+          "id": 183,
+          "letter": "C",
+          "text": "reduz-se, pois o seu número de oxidação diminui.",
+          "is_correct": 0
+        },
+        {
+          "id": 184,
+          "letter": "D",
+          "text": "oxida-se, pois o seu número de oxidação diminui.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "2.1. ................................................................................................................................................ 10 pontos\nVersão 1 – (C); Versão 2 – (B)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 100,
+      "number": "2.2",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "2.2.\n Durante \na eletrólise da água, estabelece-se um campo elétrico entre os dois elétrodos, cujas linhas \nde campo",
+      "choices": [
+        {
+          "id": 185,
+          "letter": "A",
+          "text": "nunca se cruzam e têm sentido do elétrodo positivo para o negativo.",
+          "is_correct": 0
+        },
+        {
+          "id": 186,
+          "letter": "B",
+          "text": "nunca se cruzam e têm sentido do elétrodo negativo para o positivo.",
+          "is_correct": 0
+        },
+        {
+          "id": 187,
+          "letter": "C",
+          "text": "se cruzam e têm sentido do elétrodo positivo para o negativo.",
+          "is_correct": 0
+        },
+        {
+          "id": 188,
+          "letter": "D",
+          "text": "se cruzam e têm sentido do elétrodo negativo para o positivo.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "2.2. ................................................................................................................................................ 10 pontos\nVersão 1 – (A); Versão 2 – (C)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 101,
+      "number": "2.3",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "2.3. A Figura 2 apresenta, numa dada escala, e num instante t, o destaque lateral da Figura 1. \nelétrodo\nFigura 2\nQual das opções pode representar as zonas de compressão e de rarefação, na mesma região e na \nmesma escala, meio período depois do instante t ?",
+      "choices": [
+        {
+          "id": 191,
+          "letter": "A",
+          "text": "",
+          "is_correct": 0
+        },
+        {
+          "id": 190,
+          "letter": "B",
+          "text": "",
+          "is_correct": 0
+        },
+        {
+          "id": 192,
+          "letter": "C",
+          "text": "elétrodo elétrodo elétrodo elétrodo",
+          "is_correct": 0
+        },
+        {
+          "id": 189,
+          "letter": "D",
+          "text": "",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "2.3. ................................................................................................................................................ 10 pontos\nVersão 1 – (B); Versão 2 – (C)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 102,
+      "number": "2.4",
+      "group": "SEM GRUPO",
+      "type": "calculation",
+      "statement": "2.4. A eficiência da eletrólise também pode aumentar com a utilização de um agitador magnético. Este \naparelho inclui uma barra magnética que gira dentro da solução, agitando-a.\nA Figura 3 representa um agitador com a barra magnética, de comprimento l, mergulhada na solução.\ngobelé\nbarra\nmagnética\n\nP\nFigura 3\nConsidere que a barra magnética gira a 600 rotações por minuto e que o ponto P, situado na \nextremidade da barra, tem velocidade de módulo 0,628 m s-1 e descreve uma trajetória circular de\nraio l\n2 .\nCalcule o comprimento da barra magnética.\nApresente todos os cálculos efetuados.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "2.4. ................................................................................................................................................. 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Calcula o período de rotação da barra magnética (0,1000 s)\nOU\n Calcula a frequência de rotação da barra magnética (10,00 Hz) .................... 3 pontos\n• Calcula a velocidade angular da barra magnética (62,83 rad s-1) ................... 3 pontos\n• Calcula o comprimento da barra magnética ( ,m20 01 0 2# - ) ...... ..................... 4 pontos\n\nVERSÃO DE TRABALHO",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 103,
+      "number": "2.5",
+      "group": "SEM GRUPO",
+      "type": "calculation",
+      "statement": "2.5. A passagem de corrente elétrica através da água pode ser facilitada adicionando-se, por exemplo, \nhidróxido de potássio, KOH (M = 56,11 g mol-1), uma base forte muito solúvel em água.\nO pH da solução pode ser medido com um aparelho medidor de pH. Este possui dois elétrodos, entre \nos quais se estabelece uma diferença de potencial, U, que é função do pH da solução. \nA Figura 4 apresenta o gráfico do módulo da diferença de potencial, U , em função do pH da solução \nem análise, a 25 oC.\n0\n50\n100\n150\n200\n7,0 8,0 9,0 10,0 11,0 12,0 13,0 14,0 15,0\n / mV\npH \n250\n300\n350\n400\n450\nU\nFigura 4\nAdmita que, ao medir o pH de uma solução de KOH, se estabelece uma diferença de potencial aos \nterminais dos elétrodos idêntica à que se obteria aos terminais de uma resistência de ,20 10 6# X \npercorrida por uma corrente de ,A17 51 0 7# - .\nDetermine a massa de KOH necessária para preparar 500 cm3 dessa solução.\nApresente todos os cálculos efetuados.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "2.5. ................................................................................................................................................. 12 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Calcula a diferença de potencial aos terminais dos elétrodos (0,350 V) ......... 4 pontos\n• Obtém, por leitura do gráfico, o pH da solução aquosa de KOH (13,0) .......... 2 pontos\n• Calcula a concentração de OH- em solução ( ,m ol dm10 11 0 13# -- ) .............. 3 pontos\n• Calcula a massa de KOH que se dissolveu (2,8 g) ..... .................................... 3 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 104,
+      "number": "2.6",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "2.6.\n \nAo dissolver KOH ( s ) em água, verifica-se um aumento da temperatura da solução. \nA dissolução do KOH ( s ) em água ocorre por",
+      "choices": [
+        {
+          "id": 193,
+          "letter": "A",
+          "text": "ionização e apresenta H 02D .",
+          "is_correct": 0
+        },
+        {
+          "id": 194,
+          "letter": "B",
+          "text": "ionização e apresenta H 01D .",
+          "is_correct": 0
+        },
+        {
+          "id": 195,
+          "letter": "C",
+          "text": "dissociação e apresenta H 02D .",
+          "is_correct": 0
+        },
+        {
+          "id": 196,
+          "letter": "D",
+          "text": "dissociação e apresenta H 01D .",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "2.6. ................................................................................................................................................ 10 pontos\nVersão 1 – (D); Versão 2 – (A)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 105,
+      "number": "3",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "3. Para estudar alguns efeitos que afetam o rendimento de um painel fotovoltaico, montou-se um circuito \nelétrico constituído por um reóstato, um interruptor e um painel fotovoltaico iluminado por uma lâmpada \nde incandescência. Neste circuito, utilizaram-se ainda um voltímetro e um amperímetro.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "3\nA resposta:\n • apresenta apenas os dois primeiros elementos;\n • é bem estruturada e apresenta linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 106,
+      "number": "3.1",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "3.1.\n Mantendo-se fixa a distância entre o painel fotovoltaico e a lâmpada, fez-se variar a resistência do\n \nreóstato, obtendo-se valores da diferença de potencial, U, em função da corrente elétrica, I.\n3.1.1.\n Considere o visor do voltímetro esquematizado \nna Figura 5.\nAtendendo \nà incerteza associada à medição, \na diferença de potencial deve ser apresentada \nna forma",
+      "choices": [
+        {
+          "id": 197,
+          "letter": "A",
+          "text": "superior , e a resistência do circuito é superior.",
+          "is_correct": 0
+        },
+        {
+          "id": 198,
+          "letter": "B",
+          "text": "superior , e a resistência do circuito é inferior.",
+          "is_correct": 0
+        },
+        {
+          "id": 199,
+          "letter": "C",
+          "text": "inferior , e a resistência do circuito é superior.",
+          "is_correct": 0
+        },
+        {
+          "id": 200,
+          "letter": "D",
+          "text": "inferior , e a resistência do circuito é inferior. Figura 5 0 1 2 3 4 5 Volts 3.1.3. Complete o texto seguinte, selecionando a opção correta para cada espaço. Escreva, na folha de respostas, cada uma das letras seguida do número que corresponde à opção selecionada. Acerca da potência fornecida pelo painel fotovoltaico, sensível a toda a radiação visível, podemos afirmar que: – a potência é máxima se o ângulo dos raios luminosos com a normal à superfície do painel for a) ; – ao colocar um filtro vermelho entre a lâmpada e o painel, a potência b) ; – ao duplicar a área do painel, a potência c) . a) b) c)",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "3.1.3. .............................................................................................................................................. 10 pontos\nVersão 1 – (a) – (3); (b) – (1); (c) – (2).\nVersão 2 – (a) – (1); (b) – (2); (c) – (3).\nNível Descritor de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 107,
+      "number": "3.2",
+      "group": "SEM GRUPO",
+      "type": "calculation",
+      "statement": "3.2.\n Num laboratório, realizou-se \numa experiência para investigar a relação entre a irradiância (potência \nda radiação que chega a uma superfície, por unidade de área), Er , num painel fotovoltaico e a \ndistância, r, do painel a uma lâmpada de incandescência.\nAdmita que a luz emitida pela lâmpada se espalha por uma superfície esférica, cuja área pode ser \ncalculada por 4 r r 2.\nA tabela apresenta os dados de Er e de r medidos e, ainda, a área da superfície esférica de raio r e \no seu inverso.\nEr / W m-2 r / m 4 r r 2/ m2\nr4\n1\n2r / m-2\n3,7 0,500 3,14 0,318\n9,8 0,320 1,29 0,778\n20,3 0,220 0,608 1,64\n67,5 0,120 0,181 5,53\nDetermine a potência da radiação emitida pela lâmpada.\nNa sua resposta, comece por apresentar a equação da reta de ajuste a um gráfico adequado.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "3.2. ................................................................................................................................................. 10 pontos\nElementos de resposta:\n• a equação da reta de ajuste ao gráfico de Er em função de \nr4",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 108,
+      "number": "4",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "4. Os dirigíveis, utilizados como meio de transporte, sobretudo no início do século XX, usavam di-hidrogénio \ncomo gás de sustentação, que, por questões de segurança, foi sendo substituído por hélio.\nConsidere uma amostra de átomos de hidrogénio em que os eletrões mais energéticos da amostra se \nencontram no 3.º estado excitado.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "4\nCOTAÇÕES\nAs pontuações obtidas \nnas respostas a estes",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 109,
+      "number": "4.2",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "4.2. Qual das espé cies seguintes apresenta o mesmo número de eletrões que a espécie H1\n3 ?",
+      "choices": [
+        {
+          "id": 205,
+          "letter": "A",
+          "text": "He2 3",
+          "is_correct": 0
+        },
+        {
+          "id": 206,
+          "letter": "B",
+          "text": "He2 3 +",
+          "is_correct": 0
+        },
+        {
+          "id": 207,
+          "letter": "C",
+          "text": "He24",
+          "is_correct": 0
+        },
+        {
+          "id": 208,
+          "letter": "D",
+          "text": "He2 4 2 +",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "4.2. ................................................................................................................................................ 10 pontos\nVersão 1 – (B); Versão 2 – (D)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 110,
+      "number": "5",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "5. A Figura 7 apresenta um esquema simplificado de um dirigível, cheio de hélio, no seu movimento de \nsubida e de descida. Para o fazer subir ou descer, é bombeado ar atmosférico, mais denso que o hélio, \npara fora ou para dentro de bolsas que se encontram no seu interior. Desta forma, varia a massa total do \ndirigível, mas, como o seu volume se mantém constante, a força de ascensão que nele atua, designada \npor impulsão, \nI , permanece constante durante todo o movimento.\nsaída\nde ar\nsaída\nde ar\nentrada\nde ar\nentrada\nde ar\nbolsas\nbolsas\nFigura 7\nConsidere que o dirigível pode ser representado pelo seu centro de massa (modelo da partícula material) \ne que a resistência do ar é desprezável.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "5\nA resposta:\n • apresenta os três elementos;\n • é bem estruturada e apresenta linguagem científica adequada.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 111,
+      "number": "5.1",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "5.1. Considere que o dirigível, inicialmente em repouso a 10 m do solo, sobe verticalmente até aos 210 m \nem 40,4 s, com aceleração constante. \n5.1.1.\n Qual das opções seguintes \npode representar equações do movimento do dirigível expressas \nem unidades do SI?",
+      "choices": [
+        {
+          "id": 209,
+          "letter": "A",
+          "text": "negativo e simétrico da variação da energia potencial gravítica do sistema dirigível + Terra.",
+          "is_correct": 0
+        },
+        {
+          "id": 210,
+          "letter": "B",
+          "text": "positivo e simétrico da variação da energia potencial gravítica do sistema dirigível + Terra.",
+          "is_correct": 0
+        },
+        {
+          "id": 211,
+          "letter": "C",
+          "text": "negativo e igual à variação da energia potencial gravítica do sistema dirigível + Terra.",
+          "is_correct": 0
+        },
+        {
+          "id": 212,
+          "letter": "D",
+          "text": "positivo e igual à variação da energia potencial gravítica do sistema dirigível + Terra.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "5.1.2. ............................................................................................................................................. 10 pontos\nVersão 1 – (A); Versão 2 – (C)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 112,
+      "number": "5.2",
+      "group": "SEM GRUPO",
+      "type": "calculation",
+      "statement": "5.2.\n Numa \noutra situação, o dirigível sobe na vertical, com aceleração de módulo 0,10 m s-2 e massa m \nconstante.\nDetermine a massa de ar atmosférico, mar , em função da massa do dirigível, m, que é preciso introduzir \nnas bolsas do dirigível para que este passe a descer com uma aceleração de módulo 0,10 m s-2.\nApresente todos os cálculos efetuados.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "5.2. ................................................................................................................................................. 12 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Obtém as expressões que relacionam I, P e FR , na subida e na descida\n (FR = I - P e FR = P - I, respetivamente) ..................................................... 4 pontos\n• Obtém a expressão (ma mg mm gm maar ar/g14 /g32/g14/g16 /g14^^ hh ) ............................. 4 pontos\n• Determina a massa de ar atmosférico, mar , em função da massa m do \n dirigível ( ,mm 0 021ar = ) ...... .............................................................................. 4 pontos\n\nVERSÃO DE TRABALHO",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 113,
+      "number": "5.3",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "5.3.\n Considere \numa parte do percurso descendente do dirigível em que este tem um movimento vertical, \nretilíneo e uniforme, sem alteração da sua massa. \nConclua se há, ou não, conservação da energia mecânica do sistema dirigível + Terra nessa parte \ndo percurso.\nApresente, sem efetuar cálculos, a fundamentação que lhe permite obter a sua conclusão, redigindo \num texto bem estruturado e utilizando linguagem científica adequada.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "5.3. ................................................................................................................................................. 12 pontos\nElementos de resposta:\n• a energia cinética do dirigível mantém-se constante, uma vez que a velocidade do \ndirigível se mantém constante (ou equivalente);\n• a energia potencial [gravítica] do sistema [ dirigível + Terra] diminui, uma vez que a altura \na que o dirigível se encontra está a diminuir (ou equivalente);\n• sendo a energia mecânica a soma das energias cinética e potencial [gravítica], conclui-se \nque não há conservação da energia mecânica do sistema (ou equivalente).\nNível Descritor de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 114,
+      "number": "6",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "6. A utilização do «hidrogénio verde» na produção de amoníaco, NH3 ( g ), tem incentivado a exploração do \nNH3 ( g ) como combustível ambientalmente mais sustentável do que os combustíveis fósseis.\nA combustão do NH3 ( g ) pode ser traduzida por\n4 NH3 ( g ) + 3 O2 ( g ) \" 2 N2 ( g ) + 6 H2O ( g )",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "6. Utilização de expressões ou de equações incorretas. As etapas em que essas expressões ou essas equações \nforem utilizadas são pontuadas com zero pontos.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 115,
+      "number": "6.1",
+      "group": "SEM GRUPO",
+      "type": "matching",
+      "statement": "6.1. Associe cada uma das moléculas, indicadas na Coluna I, à geometria molecular correspondente, \napresentada na Coluna II.\nEscreva, na folha de respostas, cada letra da Coluna I seguida do número correspondente da Coluna II.\nA cada letra corresponde apenas um número.\nCOLUNA I COLUNA II\n(a) NH3\n(b) O2\n(c) H2O\n(1) Linear\n(2)\n \nAngular\n(3)\n T\nriangular plana\n(4)\n Piramidal \ntrigonal \n(5)\n \nTetraédrica",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "6.1. ................................................................................................................................................. 10 pontos\nVersão 1 – (a) – (4); (b) – (1); (c) – (2).\nVersão 2 – (a) – (2); (b) – (4); (c) – (5).",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 116,
+      "number": "6.2",
+      "group": "SEM GRUPO",
+      "type": "multiple_choice",
+      "statement": "6.2.\n A\n configuração eletrónica do átomo de oxigénio no estado fundamental pode ser representada por",
+      "choices": [
+        {
+          "id": 217,
+          "letter": "A",
+          "text": "sspp1222 xy22 22",
+          "is_correct": 0
+        },
+        {
+          "id": 218,
+          "letter": "B",
+          "text": "sspp p12 22 2xy z22 21 1",
+          "is_correct": 0
+        },
+        {
+          "id": 219,
+          "letter": "C",
+          "text": "sspp ps12 22 23xy z22 11 11",
+          "is_correct": 0
+        },
+        {
+          "id": 220,
+          "letter": "D",
+          "text": "ss ps122322 22",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "6.2. ................................................................................................................................................ 10 pontos\nVersão 1 – (B); Versão 2 – (C)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 117,
+      "number": "6.3",
+      "group": "SEM GRUPO",
+      "type": "calculation",
+      "statement": "6.3. Para estudar a reação de combustão do NH3 ( g ), colocaram-se, num motor de teste, 2,3 mol de \nNH3 ( g ), com excesso de O2 ( g ). \nConsidere que, nas condições em que se realizou a combustão, o volume molar é 24,1 dm3 mol-1 \ne o rendimento da reação é 30%. \nDetermine o volume de N2 ( g ) formado na combustão.\nApresente todos os cálculos efetuados.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "6.3. ................................................................................................................................................. 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Calcula a quantidade de N2 ( g ) formado de acordo com a estequiometria da \n reação (1,15 mol) ... .......................................................................................... 4 pontos\n• Calcula a quantidade de N2 ( g ) formado de acordo com o rendimento da \n reação (0,345 mol) ........................................................................................... 3 pontos\n• Calcula o volume de N2 ( g ) formado (8,3 dm3) ................................................ 3 pontos",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 118,
+      "number": "6.4",
+      "group": "SEM GRUPO",
+      "type": "open",
+      "statement": "6.4. A Figura 8 apresenta o gráfico da energia potencial, E, em função da distância internuclear, r, para as \nmoléculas de dioxigénio, O2 , e de dinitrogénio, N2 . \n0\nE\n1\n2\nr\nFigura 8\nIdentifique, justificando, qual das curvas, 1 ou 2, corresponde à molécula de N2 . \nBaseie a sua argumentação na comparação das energias de ligação e dos comprimentos de ligação.\nComece por apresentar as fórmulas de estrutura de Lewis das moléculas de O2 e de N2 .\nApresente um texto bem estruturado e utilize linguagem científica adequada.\nFIM\n\nCOTAÇÕES\nAs pontuações obtidas \nnas respostas a estes \n15 itens da prova \ncontribuem \nobrigatoriamente para \na classificação final.\n1.1.2. 2.1. 2.2. 2.4. 2.5. 3.1.1. 3.1.3. 3.2. 4.2. 5.2. 5.3. 6.1. 6.2. 6.3. 6.4. Subtotal\nCotação (em pontos) 12 10 10 10 12 10 10 10 10 12 12 10 10 10 12 160\nDestes 8 itens, \ncontribuem para a \nclassificação final da \nprova os 4 itens cujas \nrespostas obtenham \nmelhor pontuação.\n1.1.1. 1.2. 2.3. 2.6. 3.1.2. 4.1. 5.1.1. 5.1.2. Subtotal\nCotação (em pontos) 4 x 10 pontos 40\nTOTAL 200\n\nESTA PÁGINA NÃO ESTÁ IMPRESSA PROPOSITADAMENTE\n\nProva 715\n2.ª Fase\nVERSÃO 1",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "Exame Final Nacional de Física e Química A \nProva 715 | 2.ª Fase | Ensino Secundário | 2025\n11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nDuração da Prova: 120 minutos. | Tolerância: 30 minutos. 14 Páginas\nIndique de forma legível a versão da prova.\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui uma tabela de constantes, um formulário e uma tabela periódica.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, \no número do item e a letra que identifica a opção escolhida.\nUtilize os valores numéricos fornecidos no enunciado dos itens.\nVERSÃO 1\nA prova inclui 15 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 8 itens da prova, apenas contribuem para \na classificação final os 4 itens cujas respostas obtenham melhor pontuação.\n\nTABELA DE CONSTANTES\nCapacidade térmica mássica da água líquida ,J kg Kc 41 81 031 1#/g32 /g16/g16\nConstante de Avogadro ,m olN 60 21 0A 23 1#/g32 /g16\nConstante de gravitação universal ,N mk gG 66 71 0 11 22#/g32 /g16/g16\nÍndice de refração do ar n = 1,000\nMódulo da aceleração gravítica de um corpo junto \nà superfície da Terra g = 9,80 m s-2\nMódulo da velocidade de propagação da luz no vácuo ,m sc 30 01 081#/g32 /g16\nProduto iónico da água (a 25 oC) ,K 1 012 10w 14#/g32 /g16\nVolume molar de um gás (PTN) ,d mm olV 22 4m 31/g32 /g16\nFORMULÁRIO\n • Quantidade, massa e volume\nn N\nN\nA\n= M n\nm= V n\nV\nm = V\nmt =\n • Soluções\nc V\nn= x n\nn\nA\ntotal\nA= pH = –log [H3O+],\ncom [H3O+] expresso em mol dm–3\n • Energia\nEc = 1—\n2 m v2 Epg = m g h Em = Ec + Ep P t\nE\nD=\ncosWF dF a= \nR\nWE cF D= pgFg\nD\nUR I= PU I= Ur If/g32/g16\nE = mcDT D U = W + Q E A\nP\nr =\n • Mecânica\nxx vt at2\n1\n00 2/g32/g14/g14 v = v0 + at\na r\nv\nc\n2\n= T\n2r~ = v = w r\nR m= a F FG r\nmm\ng 2\n12=\n • Ondas e eletromagnetismo\nf\nvm = cosBAm aU /g32 ti\nmf D\nDU=\nn v\nc= n1 sin a1 = n2 sin a2\n\nTABELA PERIÓDICA DOS ELEMENTOS QUÍMICOS\n55\nCs\n132,91\n56\nBa\n137,33\n57-71\nLantanídeos\n72\nHf\n178,49\n73\nTa\n180,95\n74\nW\n183,84\n75\nRe\n186,21\n76\nOs\n190,23\n77\nIr\n192,22\n78\nPt\n195,08\n79\nAu\n196,97\n80\nHg\n200,59\n81\nTl \n204,38\n82\nPb\n207,2\n83\nBi\n208,98\n84\nPo\n85\nAt\n86\nRn\n37\nRb\n85,47\n38\nSr\n87,62\n39\nY\n88,91\n40\nZr\n91,22\n41\nNb\n92,91\n42\nMo\n95,95\n43\nTc\n44\nRu\n101,07\n45\nRh\n102,91\n46\nPd\n106,42\n47\nAg\n107,87\n48\nCd\n112,41\n49\nIn\n114,82\n50\nSn\n118,71\n51\nSb\n121,76\n52\nTe\n127,60\n53\nI\n126,90\n54\nXe\n131,29\n19\nK\n39,10\n20\nCa\n40,08\n21\nSc\n44,96\n22\nTi\n47,87\n23\nV\n50,94\n24\nCr\n52,00\n25\nMn\n54,94\n26\nFe\n55,85\n27\nCo\n58,93\n28\nNi\n58,69\n29\nCu\n63,55\n30\nZn\n65,38\n31\nGa\n69,72\n32\nGe\n72,63\n33\nAs\n74,92\n34\nSe\n78,97\n35\nBr\n79,90\n36\nKr\n83,80\n11\nNa\n22,99\n12\nMg\n24,31\n13\nAl\n26,98\n14\nSi\n28,09\n15\nP\n30,97\n16\nS\n32,06\n17\nCl\n35,45\n18\nAr\n39,95\n3\nLi\n6,94\n4\nBe\n9,01\n5\nB\n10,81\n6\nC\n12,01\n7\nN\n14,01\n8\nO\n16,00\n9\nF\n19,00\n10\nNe\n20,18\n1\nH\n1,01\n2\nHe\n4,00\n90\nTh\n232,04\n91\nPa\n231,04\n92\nU\n238,03\n93\nNp\n94\nPu\n95\nAm\n96\nCm\n97\nBk\n98\nCf\n99\nEs\n100\nFm\n101\nMd\n102\nNo\n103\nLr\n58\nCe\n140,12\n59\nPr\n140,91\n60\nNd\n144,24\n61\nPm\n62\nSm\n150,36\n63\nEu\n151,96\n64\nGd\n157,25\n65\nTb\n158,93\n66\nDy\n162,50\n67\nHo\n164,93\n68\nEr\n167,26\n69\nTm\n168,93\n70\nYb\n173,05\n71\nLu\n174,97\n87\nFr\n88\nRa\n89-103\nActinídeos\n105\nDb\n104\nRf\n107\nBh\n108\nHs\n109\nMt\nNúmero atómico\nElemento\nMassa atómica relativa\n110\nDs\n111\nRg\n89\nAc\n57\nLa\n138,91\n106\nSg\n112\nCn\n114\nFl\n115\nMc\n116\nLv\n117\nTs\n118\nOg\n113\nNh\n1\n2\n3 4 5 6 7 8 9 10 11 12\n13 14 15 16 17\n18"
+      },
+      "correction": {
+        "criteria": "6.4. ................................................................................................................................................. 12 pontos\nElementos de resposta:\n• as fórmulas de estrutura de Lewis das moléculas de O2 e de N2 são, respetivamente, \nO O e N N (ou equivalente);\n• [como a ligação entre os átomos de nitrogénio é covalente tripla,] o N2 apresenta maior \nenergia de ligação e menor comprimento de ligação (ou equivalente);\n• a curva correspondente à molécula de N2 é a curva 1 [,pois é a que apresenta um menor \ncomprimento de ligação para um mínimo de energia potencial] (ou equivalente).\nNível Descritor de desempenho Pontuação",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}

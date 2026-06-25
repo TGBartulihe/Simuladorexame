@@ -1,0 +1,362 @@
+{
+  "exam": {
+    "id": 18,
+    "exam_key": "2018-702-F1",
+    "subject": "Biologia e Geologia",
+    "code": "702",
+    "year": 2018,
+    "phase": "F1"
+  },
+  "questions": [
+    {
+      "id": 1414,
+      "number": "1",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "1. O modo de atuação da TTX pode estar relacionado com",
+      "choices": [
+        {
+          "id": 2424,
+          "letter": "A",
+          "text": "o bloqueio de proteínas membranares intrínsecas.",
+          "is_correct": 0
+        },
+        {
+          "id": 2425,
+          "letter": "B",
+          "text": "a degradação de alguns neurotransmissores.",
+          "is_correct": 0
+        },
+        {
+          "id": 2426,
+          "letter": "C",
+          "text": "o bloqueio de proteínas membranares extrínsecas.",
+          "is_correct": 0
+        },
+        {
+          "id": 2427,
+          "letter": "D",
+          "text": "a produção de neurotransmissores disfuncionais.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": "1\nNota – O parâmetro Rigor científico só é avaliado nos tópicos do parâmetro Conteúdo que tenham sido validados na \nresposta.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1415,
+      "number": "2",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "2.\n De acordo com a informação fornecida, a \nTTX é capaz de causar a morte a um ser humano, porque",
+      "choices": [
+        {
+          "id": 2428,
+          "letter": "A",
+          "text": "os gases respiratórios reagem com a toxina.",
+          "is_correct": 0
+        },
+        {
+          "id": 2429,
+          "letter": "B",
+          "text": "as superfícies respiratórias impedem a difusão de O2.",
+          "is_correct": 0
+        },
+        {
+          "id": 2430,
+          "letter": "C",
+          "text": "os músculos respiratórios deixam de funcionar .",
+          "is_correct": 0
+        },
+        {
+          "id": 2431,
+          "letter": "D",
+          "text": "as vias respiratórias inflamam, obstruindo a entrada de ar .",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": "2 Não apresenta falhas no plano do rigor científico, designadamente, no uso de \ntermos, conceitos e/ou processos. 2",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1416,
+      "number": "3",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "3.\n Quando, durante \no processo de expansão do peixe-balão, após a entrada de água na boca, ocorre a \ncompressão da cavidade bucal, será de prever que a válvula da boca esteja _______ e que as fendas \noperculares estejam _______.",
+      "choices": [
+        {
+          "id": 2432,
+          "letter": "A",
+          "text": "aberta … fechadas",
+          "is_correct": 0
+        },
+        {
+          "id": 2433,
+          "letter": "B",
+          "text": "fechada … fechadas",
+          "is_correct": 0
+        },
+        {
+          "id": 2434,
+          "letter": "C",
+          "text": "fechada … abertas",
+          "is_correct": 0
+        },
+        {
+          "id": 2435,
+          "letter": "D",
+          "text": "aberta … abertas",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1417,
+      "number": "4",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "4. Os peixes da espécie Arothron hispidus",
+      "choices": [
+        {
+          "id": 2436,
+          "letter": "A",
+          "text": "têm um meio interno hipertónico em relação ao meio externo.",
+          "is_correct": 0
+        },
+        {
+          "id": 2437,
+          "letter": "B",
+          "text": "transportam ativamente sais minerais para o seu meio interno.",
+          "is_correct": 0
+        },
+        {
+          "id": 2438,
+          "letter": "C",
+          "text": "eliminam o excesso de sais através de difusão.",
+          "is_correct": 0
+        },
+        {
+          "id": 2439,
+          "letter": "D",
+          "text": "reduzem a filtração nos glomérulos, retendo água.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": null,
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1418,
+      "number": "5",
+      "group": "GRUPO IV",
+      "type": "multiple_choice",
+      "statement": "5.\n Ao contrário do que acontece na síntese proteica bacteriana, nos peixes",
+      "choices": [
+        {
+          "id": 2440,
+          "letter": "A",
+          "text": "verifica-se a transcrição do DNA.",
+          "is_correct": 0
+        },
+        {
+          "id": 2441,
+          "letter": "B",
+          "text": "ocorre processamento do RNA.",
+          "is_correct": 0
+        },
+        {
+          "id": 2442,
+          "letter": "C",
+          "text": "o tRNA liga-se aos aminoácidos.",
+          "is_correct": 0
+        },
+        {
+          "id": 2443,
+          "letter": "D",
+          "text": "a tradução ocorre nos ribossomas.",
+          "is_correct": 0
+        }
+      ],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": "5 5 5 5 5 5 5 5 10 50\nIV 1. 2. 3. 4. 5. 6. 7. 8.",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1419,
+      "number": "6",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "6.\n Faça corresponder \ncada uma das descrições de moléculas que intervêm na síntese de toxinas proteicas \nexpressas na coluna A à respetiva designação, que consta na coluna B.\nCOLUNA A COLUNA B\n(a) Molécula polirribonucleotídica que contém informação para a \nsíntese de um péptido.\n(b)\n Molécula \nque contém um local específico de ligação a um \ndeterminado aminoácido.\n(c)\n Molécula \nque intervém na transcrição do ácido \ndesoxirribonucleico.\n(1) DNA polimerase\n(2)\n \nDNA\n(3)\n RNA\n mensageiro\n(4)\n RNA\n polimerase\n(5)\n RNA\n de transferência",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – (a) – (3); (b) – (5); (c) – (4)\nVersão 2 – (a) – (5); (b) – (4); (c) – (3)",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1420,
+      "number": "7",
+      "group": "GRUPO IV",
+      "type": "essay",
+      "statement": "7.\n Explique, tendo em conta os \ndados apresentados, de que modo a morte de tecidos no ser humano poderá \nser devida aos efeitos da TTX sobre o sistema respiratório.",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": "7. .................................................................................................................................................... 10 pontos\nTópicos de resposta:\n•  a deficiente renovação do ar que está nos pulmões dificultará a difusão dos gases \nrespiratórios (ou a hematose pulmonar, ou a oxigenação do sangue);\n•  a diminuição da quantidade de oxigénio que chega às células poderá comprometer a \nrespiração celular (ou diminuir a taxa de respiração celular);\n•  a morte dos tecidos (ou a morte celular) ocorrerá devido à falta de ATP/energia.\nParâmetro Nível Descritores de desempenho Pontuação\nConteúdo",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1421,
+      "number": "8",
+      "group": "GRUPO IV",
+      "type": "open",
+      "statement": "8.\n Mencione \ntrês diferenças entre os peixes e as bactérias endossimbióticas referidas no texto, tendo em \nconta os critérios do sistema de classificação de Whittaker modificado.\nNa sua resposta, indique o critério que está a considerar e as respetivas características dos seres \nmencionados.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 10 50\nII 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 10 50\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 10 50\nIV 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 10 10 50\nTOTAL 200",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO IV\nOs peixes-balão pertencem a um grupo com mais de 100 espécies que inclui a espécie marinha \nArothron hispidus. Estes peixes, quando em perigo, expandem o corpo através da ingestão de água, \nque bombeiam para o estômago. Esta capacidade está dependente da compressão da cavidade \nbucal, da abertura e do fecho das fendas operculares e do funcionamento de uma válvula que está \nlocalizada imediatamente atrás das mandíbulas e que impede a saída de água.\nDiversas espécies de peixes-balão apresentam em alguns órgãos, como a pele, o fígado e \nas glândulas sexuais, uma das toxinas mais letais que se conhecem – a tetrodotoxina (TTX) –, \nque, mesmo em pequenas doses, é capaz de matar um ser humano adulto. Esta substância é \nproduzida por bactérias endossimbióticas que se alimentam dos nutrientes existentes no peixe. No \nser humano, a TTX condiciona o movimento de iões sódio através da membrana celular, dificultando \na propagação elétrica do impulso nervoso. Este processo começa por causar dormência da região \noral, podendo conduzir a paralisia total e a insuficiência respiratória, por deficiente ventilação \npulmonar, capaz de provocar a morte.\nBaseado em A. Gomes, et al., «Emprego terapêutico da tetrodotoxina em \norganismos animais», Acta Veterinaria Brasilica, Vol. 5, n.º 4, 2011 \ne em http://querosaber.com.pt (consultado em setembro de 2017)."
+      },
+      "correction": {
+        "criteria": "8. .................................................................................................................................................... 10 pontos\nTópicos de resposta:\n•  tipo de células/nível de organização celular: as bactérias são procariontes e os peixes são \neucariontes;\n•  número de células/nível de organização celular: as bactérias são unicelulares e os peixes \nsão multicelulares;\n•  tipo de nutrição: as bactérias endossimbióticas alimentam-se por absorção e os peixes \nalimentam-se por ingestão;\n•  interação nos ecossistemas: as bactérias endossimbióticas são microconsumidores e os \npeixes são macroconsumidores.\nParâmetro Nível Descritores de desempenho Pontuação\nConteúdo",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    },
+    {
+      "id": 1422,
+      "number": "9",
+      "group": "GRUPO III",
+      "type": "essay",
+      "statement": "9.\n Explique \nde que modo o procedimento utilizado na mina de Germunde, no século XX, contribuiu para \nminimizar o risco geológico associado à destruição de bens materiais, decorrente da exploração mineira.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "choices": [],
+      "context": {
+        "title": null,
+        "text": "GRUPO III\nDurante os últimos estádios da génese da cadeia montanhosa Varisca, no final do Paleozoico, \nformou-se uma bacia sedimentar intramontanhosa – a Bacia Carbonífera do Douro –, na qual foi \nexplorado carvão até ao final do século passado. Esta bacia, onde se desenvolveu um sistema \nfluvial, foi sendo alimentada, essencialmente, por sedimentos provenientes de relevos próximos e \npela matéria vegetal que conduziu à formação de carvão. Para a génese deste carvão contribuíram \nfenómenos de afundimento.\nAtualmente, a zona onde se situa a Bacia Carbonífera do Douro, no noroeste de Portugal \ncontinental, apresenta uma morfologia acidentada, na qual se destacam relevos de rochas \nquartzíticas formados por erosão diferencial – cristas quartzíticas. Estas cristas apresentam fraturas \ntransversais à sua orientação.\nA exploração da mina de carvão de Germunde, que decorreu entre 1795 e 1994, deu origem \na fraturas que causaram danos nas habitações e nas condutas de água e de saneamento. No \nséculo XX, nesta mina, os materiais rejeitados foram usados no preenchimento das cavidades \nresultantes da extração do carvão.\nA Figura 3 representa parte da coluna estratigráfica do afloramento de Germunde, cujas unidades \nestratigráficas estão representadas pelas letras A, B, C e D.\nCarbonífero\nCarvão\nXisto\nArenito\nConglomerado\nBrecha de base\n20 m\n(359 Ma – 299 Ma)A\nB\nC\nD\nNota – A unidade C apresenta estratificação entrecruzada, característica de situações em que o agente de transporte dos \nsedimentos tem uma direção variável.\nFigura 3 – Coluna estratigráfica parcial do afloramento de Germunde\nBaseado em A. Jesus, «Evolução sedimentar e tectónica da Bacia Carbonífera do Douro (Estefaniano C \ninferior, NW de Portugal)», Cadernos Lab. Xeolóxico de Laxe, Vol. 28, 2003 \ne em www.lneg.pt (consultado em outubro de 2017)."
+      },
+      "correction": {
+        "criteria": "9. .................................................................................................................................................... 10 pontos\nTópicos de resposta:\n•  o enchimento das cavidades resultantes da exploração permite evitar a fraturação das \ncamadas superiores (ou do terreno);\n•  a estabilidade (ou o não abatimento, ou a não existência de deformações) do terreno \nminimiza os danos nas habitações (ou nas condutas de água e de saneamento).\nParâmetro Nível Descritores de desempenho Pontuação\nConteúdo",
+        "official_answer": null,
+        "max_points": null,
+        "ai": null
+      },
+      "learning": {
+        "topic": null,
+        "subtopic": null,
+        "difficulty": null,
+        "bloom": null,
+        "estimated_minutes": null
+      }
+    }
+  ]
+}
