@@ -10,6 +10,10 @@ app/dist/
 
 # Local IAVE assets - do not commit PDFs
 storage/
+    downloads/
+    extracted/
+    cache/
+    temp/
 
 # Env
 .env
