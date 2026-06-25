@@ -5,7 +5,12 @@
 // onde os dados vivem fisicamente — se um dia isto virar uma API real em
 // vez de arquivos estáticos, só este arquivo muda.
 
-const DATA_BASE = '/data'
+// import.meta.env.BASE_URL reflete o `base` configurado em vite.config.js.
+// Em dev é '/'; em build para GitHub Pages é '/Simuladorexame/' (ou o que
+// for definido via VITE_BASE_PATH). Sem isso, os fetches funcionariam em
+// `npm run dev` mas quebrariam silenciosamente assim que publicado num
+// repo que não é <user>.github.io — ver nota em vite.config.js.
+const DATA_BASE = `${import.meta.env.BASE_URL}data`.replace(/\/+/g, '/')
 
 async function fetchJson(path) {
   const res = await fetch(`${DATA_BASE}/${path}`)

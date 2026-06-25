@@ -4,6 +4,29 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Simulador de Exame Nacional</title>
+    <meta name="description" content="Simula exames nacionais portugueses com correção real e progresso por tópico — funciona sem internet depois de instalado." />
+
+    <!--
+      %BASE_URL% é uma substituição NATIVA do Vite (não precisa de plugin),
+      processada em todo o index.html antes do build. Usamos isso em vez de
+      caminhos absolutos ("/manifest.json") porque o Vite reescreve
+      automaticamente <script src>/<img src>, mas NÃO reescreve <link href>
+      — um caminho absoluto aqui apontaria para a raiz do domínio
+      (github.io/manifest.json) em vez do subpath do repo
+      (github.io/Simuladorexame/manifest.json). %BASE_URL% resolve para o
+      valor de `base` em vite.config.js, então funciona em dev ('/') e em
+      build para GitHub Pages ('/Simuladorexame/') sem precisar tocar aqui.
+    -->
+    <link rel="manifest" href="%BASE_URL%manifest.json" />
+    <meta name="theme-color" content="#0b1b33" />
+
+    <!-- iOS não segue totalmente o spec de manifest.json; precisa destas tags próprias -->
+    <link rel="apple-touch-icon" href="%BASE_URL%icons/icon-192.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Sim. Exame" />
+
+    <link rel="icon" type="image/png" sizes="192x192" href="%BASE_URL%icons/icon-192.png" />
   </head>
   <body>
     <div id="root"></div>

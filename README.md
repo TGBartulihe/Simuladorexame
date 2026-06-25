@@ -147,7 +147,77 @@ deliberadamente o schema de `student_attempts` / `student_answers` /
 para o SQLite (multi-dispositivo, visão do professor sobre a turma), o
 formato já está pronto, sem transformação.
 
-## 5. O que eu NÃO consegui testar
+## 5. PWA — instalável e funciona offline
+
+Decisão tomada em conversa: baixar **todos** os dados (5.7MB hoje) na
+instalação, em vez de cache progressivo por exame acessado. O aluno
+instala uma vez (com internet) e depois usa qualquer exame sem rede.
+
+### O que foi adicionado
+- `public/manifest.json` — nome, ícones, cores, `display: standalone`
+- `public/sw.js` — Service Worker: cacheia o app shell + todos os
+  `data/*.json` na instalação; serve do cache primeiro depois disso
+- `public/icons/` — 4 PNGs gerados por `scripts/generate_icons.py`
+  (reaproveitando a paleta de `styles.css`; rode de novo se mudar a paleta)
+- registo do Service Worker em `src/main.jsx` (só ativo em build de
+  produção, não em `npm run dev`)
+
+### ⚠️ Importante: o repositório não é `<user>.github.io`
+
+Como `Simuladorexame` é um repo nomeado (não o repo especial
+`tgbartulihe.github.io`), o GitHub Pages serve o site em
+`https://tgbartulihe.github.io/Simuladorexame/` — um **subpath**, não a
+raiz do domínio. Isso afeta onde o app busca seus próprios arquivos
+(JS, CSS, manifest, ícones, e os JSON de dados).
+
+Isso já está configurado em `vite.config.js` (`base: '/Simuladorexame/'`).
+**Se o nome do repositório for outro**, edite o valor de `REPO_NAME` em
+dois lugares — não há como evitar essa duplicação, porque
+`manifest.json` é servido como arquivo estático puro, sem passar pelo
+processamento de variáveis do Vite:
+1. `app/vite.config.js` → `const REPO_NAME = 'Simuladorexame'`
+2. `app/public/manifest.json` → `start_url`, `scope`, e cada `icons[].src`
+
+`index.html` e `sw.js` **não** precisam de edição: o primeiro usa
+`%BASE_URL%` (substituição nativa do Vite, funciona em qualquer tag,
+diferente de um caminho absoluto que o Vite não reescreve em `<link>`);
+o segundo deriva o caminho a partir de `self.location` em runtime.
+
+### Testando localmente
+
+Com `base` configurado como subpath absoluto, o dev server também serve
+nesse subpath — **acesse `http://localhost:5173/Simuladorexame/`**, não
+a raiz, ou vai parecer que o app não carregou nada.
+
+```bash
+cd app
+npm install
+npm run dev
+# abra http://localhost:5173/Simuladorexame/
+```
+
+Para testar o comportamento de PWA de fato (instalação, offline), é
+preciso um build de produção servido por HTTP (Service Workers não
+funcionam em `npm run dev` por design, e exigem HTTPS ou localhost):
+
+```bash
+npm run build
+npm run preview
+# abra o endereço que o preview indicar, com o subpath /Simuladorexame/
+```
+
+No Chrome/Edge desktop: DevTools → Application → Manifest, para
+confirmar que o navegador reconheceu o manifest e oferece "Instalar". Em
+Application → Service Workers, confirme que o `sw.js` está `activated`
+e veja em Cache Storage se `exame-data-v1` tem os ~152 arquivos.
+
+Para forçar os PWAs já instalados a buscar uma nova versão dos dados
+depois de você rodar os scripts 01/02/03 de novo, troque
+`CACHE_VERSION` em `public/sw.js` (ex: `'v1'` → `'v2'`) antes de publicar
+— isso invalida o cache antigo e dispara um novo download completo na
+próxima visita de cada aluno.
+
+## 6. O que eu NÃO consegui testar
 
 Não tenho Node/npm com acesso à internet neste ambiente, então não rodei
 um `npm run dev` de verdade num navegador. Testei o que pude sem rede:
@@ -163,3 +233,10 @@ O que ainda vale verificar na sua máquina, num navegador de verdade:
   seu ambiente de build).
 - O fluxo completo de clique (seleção de alternativa, submissão, etc.) —
   testei a lógica isoladamente, não a interação real do DOM.
+- **A instalação real do PWA e o funcionamento offline.** Validei a
+  sintaxe do `sw.js` e a lógica de caminhos (base path, `%BASE_URL%`,
+  `self.location` no Service Worker) contra a documentação oficial do
+  Vite, mas não tenho como abrir um Chrome real aqui, instalar o app, e
+  testar offline de fato. Isso é o item de maior risco residual desta
+  entrega — confirme com os passos da seção 5 antes de considerar o PWA
+  pronto.

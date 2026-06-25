@@ -227,7 +227,6 @@ def process_missing_answers(conn: sqlite3.Connection, limit: int | None) -> None
 
     print(f"\n--- Gabaritos pendentes via LLM: {len(rows)} questões ---")
     resolved = 0
-    low_confidence = 0
     unresolved = 0
 
     for i, row in enumerate(rows, 1):
@@ -237,6 +236,7 @@ def process_missing_answers(conn: sqlite3.Connection, limit: int | None) -> None
 
         cached = cache_get(cur, qid, PROMPT_VERSION)
         if cached is None:
+            print(f"  [{i}/{len(rows)}] qid={qid}: a consultar o modelo...", flush=True)
             cur.execute("SELECT letter, text FROM choices WHERE question_id = ?", (qid,))
             choices = [{"letter": r[0], "text": r[1]} for r in cur.fetchall()]
             prompt = build_answer_prompt(statement, choices, criteria_text)
@@ -259,14 +259,23 @@ def process_missing_answers(conn: sqlite3.Connection, limit: int | None) -> None
         letras = parsed.get("letras_corretas") or []
         confianca = parsed.get("confianca", "baixa")
 
-        if not letras:
+        # BUG corrigido aqui (achado ao revisar uma amostra real: qid=174
+        # devolveu confianca='baixa' com a própria justificativa dizendo
+        # "é difícil afirmar com certeza qual é a resposta correta", e
+        # ainda assim a versão anterior deste script gravava a letra como
+        # gabarito). confianca='baixa' significa o modelo está adivinhando
+        # — isso é estritamente peor que não ter gabarito, porque corrige o
+        # aluno com uma resposta que pode estar errada sem ele saber.
+        # Tratamos como não-resolvido, igual ao caso de letras_corretas
+        # vazio, e cai para revisão manual.
+        if not letras or confianca == "baixa":
             unresolved += 1
+            motivo = parsed.get("observacao", "sem detalhes")
+            if confianca == "baixa" and letras:
+                print(f"    -> descartado (confiança baixa, letra sugerida {letras} não gravada): {motivo}", flush=True)
+            else:
+                print(f"    -> sem resposta confiável ({motivo})", flush=True)
             continue
-
-        if confianca == "baixa":
-            low_confidence += 1
-            # marca mesmo assim, mas fica registado em ai_cache para revisão manual
-            # (a UI pode sinalizar perguntas com confianca=baixa para conferência humana)
 
         for letra in letras:
             cur.execute(
@@ -274,12 +283,10 @@ def process_missing_answers(conn: sqlite3.Connection, limit: int | None) -> None
                 (qid, letra.upper()),
             )
         resolved += 1
-
-        if i % 20 == 0:
-            print(f"  [{i}/{len(rows)}] processadas...")
+        print(f"    -> resposta: {','.join(letras)} (confiança: {confianca})", flush=True)
 
     conn.commit()
-    print(f"Resolvidas: {resolved} | confiança baixa (revisar): {low_confidence} | sem resposta: {unresolved}")
+    print(f"Resolvidas: {resolved} | descartadas por confiança baixa ou sem resposta: {unresolved}")
 
 
 # ---------------------------------------------------------------------------
@@ -320,13 +327,16 @@ def process_points(conn: sqlite3.Connection, limit: int | None) -> None:
 
         parsed = cache_get(cur, qid, "points-v1")
         if parsed is None:
+            print(f"  [{i}/{len(rows)}] qid={qid}: a consultar o modelo...", flush=True)
             prompt = build_points_prompt(criteria_text)
             raw = call_ollama(prompt)
             if raw is None:
+                print("    -> falha de conexão com Ollama, a saltar", flush=True)
                 continue
             try:
                 parsed = json.loads(raw)
             except json.JSONDecodeError:
+                print("    -> resposta não é JSON válido, a saltar", flush=True)
                 continue
             cache_set(cur, qid, "points-v1", prompt, parsed)
             conn.commit()
@@ -336,9 +346,9 @@ def process_points(conn: sqlite3.Connection, limit: int | None) -> None:
             cur.execute("UPDATE questions SET max_points = ? WHERE id = ?", (pontos, qid))
             cur.execute("UPDATE criteria SET max_points = ? WHERE question_id = ?", (pontos, qid))
             resolved += 1
-
-        if i % 50 == 0:
-            print(f"  [{i}/{len(rows)}] processadas...")
+            print(f"    -> {pontos} pontos", flush=True)
+        else:
+            print("    -> não encontrado no texto", flush=True)
 
     conn.commit()
     print(f"Resolvidos: {resolved}/{len(rows)}")
@@ -390,13 +400,16 @@ def process_topics(conn: sqlite3.Connection, limit: int | None) -> None:
 
         parsed = cache_get(cur, qid, "topics-v1")
         if parsed is None:
+            print(f"  [{i}/{len(rows)}] qid={qid} ({subject}): a consultar o modelo...", flush=True)
             prompt = build_topic_prompt(subject, statement, topics)
             raw = call_ollama(prompt)
             if raw is None:
+                print("    -> falha de conexão com Ollama, a saltar", flush=True)
                 continue
             try:
                 parsed = json.loads(raw)
             except json.JSONDecodeError:
+                print("    -> resposta não é JSON válido, a saltar", flush=True)
                 continue
             cache_set(cur, qid, "topics-v1", prompt, parsed)
             conn.commit()
@@ -408,6 +421,7 @@ def process_topics(conn: sqlite3.Connection, limit: int | None) -> None:
         # inventar uma categoria nova que quebraria a consistência da UI
         if topico not in topics:
             rejected_not_in_list += 1
+            print(f"    -> rejeitado: '{topico}' não está na lista fechada de {subject}", flush=True)
             continue
 
         cur.execute(
@@ -415,9 +429,7 @@ def process_topics(conn: sqlite3.Connection, limit: int | None) -> None:
             (topico, subtopico, qid),
         )
         resolved += 1
-
-        if i % 50 == 0:
-            print(f"  [{i}/{len(rows)}] processadas...")
+        print(f"    -> {topico} / {subtopico}", flush=True)
 
     conn.commit()
     print(f"Resolvidos: {resolved}/{len(rows)} | rejeitados (tópico fora da lista): {rejected_not_in_list}")
