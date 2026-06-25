@@ -1,0 +1,1352 @@
+{
+  "subjects": [
+    {
+      "subject": "Matemática A",
+      "slug": "matematica-a",
+      "years": [
+        {
+          "year": 2025,
+          "exams": [
+            {
+              "examId": 88,
+              "examKey": "2025-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 101,
+              "examKey": "2025-635-F1",
+              "phase": "F1",
+              "totalQuestions": 19,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 114,
+              "examKey": "2025-635-F2",
+              "phase": "F2",
+              "totalQuestions": 17,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "exams": [
+            {
+              "examId": 87,
+              "examKey": "2024-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 100,
+              "examKey": "2024-635-F1",
+              "phase": "F1",
+              "totalQuestions": 19,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 113,
+              "examKey": "2024-635-F2",
+              "phase": "F2",
+              "totalQuestions": 20,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "exams": [
+            {
+              "examId": 86,
+              "examKey": "2023-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 99,
+              "examKey": "2023-635-F1",
+              "phase": "F1",
+              "totalQuestions": 18,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 112,
+              "examKey": "2023-635-F2",
+              "phase": "F2",
+              "totalQuestions": 18,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "exams": [
+            {
+              "examId": 85,
+              "examKey": "2022-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 98,
+              "examKey": "2022-635-F1",
+              "phase": "F1",
+              "totalQuestions": 19,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 111,
+              "examKey": "2022-635-F2",
+              "phase": "F2",
+              "totalQuestions": 20,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "exams": [
+            {
+              "examId": 84,
+              "examKey": "2021-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 97,
+              "examKey": "2021-635-F1",
+              "phase": "F1",
+              "totalQuestions": 20,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 110,
+              "examKey": "2021-635-F2",
+              "phase": "F2",
+              "totalQuestions": 20,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "exams": [
+            {
+              "examId": 83,
+              "examKey": "2020-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 96,
+              "examKey": "2020-635-F1",
+              "phase": "F1",
+              "totalQuestions": 20,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 109,
+              "examKey": "2020-635-F2",
+              "phase": "F2",
+              "totalQuestions": 17,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "exams": [
+            {
+              "examId": 82,
+              "examKey": "2019-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 95,
+              "examKey": "2019-635-F1",
+              "phase": "F1",
+              "totalQuestions": 14,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 108,
+              "examKey": "2019-635-F2",
+              "phase": "F2",
+              "totalQuestions": 12,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "exams": [
+            {
+              "examId": 81,
+              "examKey": "2018-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 94,
+              "examKey": "2018-635-F1",
+              "phase": "F1",
+              "totalQuestions": 12,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 107,
+              "examKey": "2018-635-F2",
+              "phase": "F2",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "exams": [
+            {
+              "examId": 80,
+              "examKey": "2017-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 93,
+              "examKey": "2017-635-F1",
+              "phase": "F1",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 106,
+              "examKey": "2017-635-F2",
+              "phase": "F2",
+              "totalQuestions": 15,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "exams": [
+            {
+              "examId": 79,
+              "examKey": "2016-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 92,
+              "examKey": "2016-635-F1",
+              "phase": "F1",
+              "totalQuestions": 16,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 105,
+              "examKey": "2016-635-F2",
+              "phase": "F2",
+              "totalQuestions": 14,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "exams": [
+            {
+              "examId": 78,
+              "examKey": "2015-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 91,
+              "examKey": "2015-635-F1",
+              "phase": "F1",
+              "totalQuestions": 16,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 104,
+              "examKey": "2015-635-F2",
+              "phase": "F2",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "exams": [
+            {
+              "examId": 90,
+              "examKey": "2014-635-F1",
+              "phase": "F1",
+              "totalQuestions": 12,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 103,
+              "examKey": "2014-635-F2",
+              "phase": "F2",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "exams": [
+            {
+              "examId": 77,
+              "examKey": "2012-635-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 89,
+              "examKey": "2012-635-F1",
+              "phase": "F1",
+              "totalQuestions": 14,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 102,
+              "examKey": "2012-635-F2",
+              "phase": "F2",
+              "totalQuestions": 14,
+              "completeness": "incompleto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Português",
+      "slug": "portugues",
+      "years": [
+        {
+          "year": 2025,
+          "exams": [
+            {
+              "examId": 126,
+              "examKey": "2025-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 139,
+              "examKey": "2025-639-F1",
+              "phase": "F1",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 152,
+              "examKey": "2025-639-F2",
+              "phase": "F2",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "exams": [
+            {
+              "examId": 125,
+              "examKey": "2024-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 138,
+              "examKey": "2024-639-F1",
+              "phase": "F1",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 151,
+              "examKey": "2024-639-F2",
+              "phase": "F2",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "exams": [
+            {
+              "examId": 124,
+              "examKey": "2023-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 137,
+              "examKey": "2023-639-F1",
+              "phase": "F1",
+              "totalQuestions": 7,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 150,
+              "examKey": "2023-639-F2",
+              "phase": "F2",
+              "totalQuestions": 7,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "exams": [
+            {
+              "examId": 123,
+              "examKey": "2022-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 136,
+              "examKey": "2022-639-F1",
+              "phase": "F1",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 149,
+              "examKey": "2022-639-F2",
+              "phase": "F2",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "exams": [
+            {
+              "examId": 122,
+              "examKey": "2021-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 135,
+              "examKey": "2021-639-F1",
+              "phase": "F1",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 148,
+              "examKey": "2021-639-F2",
+              "phase": "F2",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "exams": [
+            {
+              "examId": 121,
+              "examKey": "2020-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 134,
+              "examKey": "2020-639-F1",
+              "phase": "F1",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 147,
+              "examKey": "2020-639-F2",
+              "phase": "F2",
+              "totalQuestions": 6,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "exams": [
+            {
+              "examId": 120,
+              "examKey": "2019-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 133,
+              "examKey": "2019-639-F1",
+              "phase": "F1",
+              "totalQuestions": 7,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 146,
+              "examKey": "2019-639-F2",
+              "phase": "F2",
+              "totalQuestions": 7,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "exams": [
+            {
+              "examId": 119,
+              "examKey": "2018-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 132,
+              "examKey": "2018-639-F1",
+              "phase": "F1",
+              "totalQuestions": 7,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 145,
+              "examKey": "2018-639-F2",
+              "phase": "F2",
+              "totalQuestions": 7,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "exams": [
+            {
+              "examId": 118,
+              "examKey": "2017-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 131,
+              "examKey": "2017-639-F1",
+              "phase": "F1",
+              "totalQuestions": 7,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 144,
+              "examKey": "2017-639-F2",
+              "phase": "F2",
+              "totalQuestions": 7,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "exams": [
+            {
+              "examId": 117,
+              "examKey": "2016-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 130,
+              "examKey": "2016-639-F1",
+              "phase": "F1",
+              "totalQuestions": 8,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 143,
+              "examKey": "2016-639-F2",
+              "phase": "F2",
+              "totalQuestions": 7,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "exams": [
+            {
+              "examId": 116,
+              "examKey": "2015-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 129,
+              "examKey": "2015-639-F1",
+              "phase": "F1",
+              "totalQuestions": 10,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 142,
+              "examKey": "2015-639-F2",
+              "phase": "F2",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "exams": [
+            {
+              "examId": 128,
+              "examKey": "2014-639-F1",
+              "phase": "F1",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 141,
+              "examKey": "2014-639-F2",
+              "phase": "F2",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "exams": [
+            {
+              "examId": 115,
+              "examKey": "2012-639-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 127,
+              "examKey": "2012-639-F1",
+              "phase": "F1",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 140,
+              "examKey": "2012-639-F2",
+              "phase": "F2",
+              "totalQuestions": 12,
+              "completeness": "incompleto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Biologia e Geologia",
+      "slug": "biologia-e-geologia",
+      "years": [
+        {
+          "year": 2025,
+          "exams": [
+            {
+              "examId": 12,
+              "examKey": "2025-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 25,
+              "examKey": "2025-702-F1",
+              "phase": "F1",
+              "totalQuestions": 21,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 38,
+              "examKey": "2025-702-F2",
+              "phase": "F2",
+              "totalQuestions": 20,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "exams": [
+            {
+              "examId": 11,
+              "examKey": "2024-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 24,
+              "examKey": "2024-702-F1",
+              "phase": "F1",
+              "totalQuestions": 20,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 37,
+              "examKey": "2024-702-F2",
+              "phase": "F2",
+              "totalQuestions": 18,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "exams": [
+            {
+              "examId": 10,
+              "examKey": "2023-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 23,
+              "examKey": "2023-702-F1",
+              "phase": "F1",
+              "totalQuestions": 14,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 36,
+              "examKey": "2023-702-F2",
+              "phase": "F2",
+              "totalQuestions": 21,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "exams": [
+            {
+              "examId": 9,
+              "examKey": "2022-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 22,
+              "examKey": "2022-702-F1",
+              "phase": "F1",
+              "totalQuestions": 20,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 35,
+              "examKey": "2022-702-F2",
+              "phase": "F2",
+              "totalQuestions": 18,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "exams": [
+            {
+              "examId": 8,
+              "examKey": "2021-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 21,
+              "examKey": "2021-702-F1",
+              "phase": "F1",
+              "totalQuestions": 21,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 34,
+              "examKey": "2021-702-F2",
+              "phase": "F2",
+              "totalQuestions": 20,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "exams": [
+            {
+              "examId": 7,
+              "examKey": "2020-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 20,
+              "examKey": "2020-702-F1",
+              "phase": "F1",
+              "totalQuestions": 25,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 33,
+              "examKey": "2020-702-F2",
+              "phase": "F2",
+              "totalQuestions": 21,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "exams": [
+            {
+              "examId": 6,
+              "examKey": "2019-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 19,
+              "examKey": "2019-702-F1",
+              "phase": "F1",
+              "totalQuestions": 10,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 32,
+              "examKey": "2019-702-F2",
+              "phase": "F2",
+              "totalQuestions": 10,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "exams": [
+            {
+              "examId": 5,
+              "examKey": "2018-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 18,
+              "examKey": "2018-702-F1",
+              "phase": "F1",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 31,
+              "examKey": "2018-702-F2",
+              "phase": "F2",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "exams": [
+            {
+              "examId": 4,
+              "examKey": "2017-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 17,
+              "examKey": "2017-702-F1",
+              "phase": "F1",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 30,
+              "examKey": "2017-702-F2",
+              "phase": "F2",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "exams": [
+            {
+              "examId": 3,
+              "examKey": "2016-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 16,
+              "examKey": "2016-702-F1",
+              "phase": "F1",
+              "totalQuestions": 10,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 29,
+              "examKey": "2016-702-F2",
+              "phase": "F2",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "exams": [
+            {
+              "examId": 2,
+              "examKey": "2015-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 15,
+              "examKey": "2015-702-F1",
+              "phase": "F1",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 28,
+              "examKey": "2015-702-F2",
+              "phase": "F2",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "exams": [
+            {
+              "examId": 14,
+              "examKey": "2014-702-F1",
+              "phase": "F1",
+              "totalQuestions": 8,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 27,
+              "examKey": "2014-702-F2",
+              "phase": "F2",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "exams": [
+            {
+              "examId": 1,
+              "examKey": "2012-702-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 13,
+              "examKey": "2012-702-F1",
+              "phase": "F1",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 26,
+              "examKey": "2012-702-F2",
+              "phase": "F2",
+              "totalQuestions": 10,
+              "completeness": "incompleto"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subject": "Física e Química A",
+      "slug": "fisica-e-quimica-a",
+      "years": [
+        {
+          "year": 2025,
+          "exams": [
+            {
+              "examId": 50,
+              "examKey": "2025-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 63,
+              "examKey": "2025-715-F1",
+              "phase": "F1",
+              "totalQuestions": 26,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 76,
+              "examKey": "2025-715-F2",
+              "phase": "F2",
+              "totalQuestions": 24,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "exams": [
+            {
+              "examId": 49,
+              "examKey": "2024-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 62,
+              "examKey": "2024-715-F1",
+              "phase": "F1",
+              "totalQuestions": 28,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 75,
+              "examKey": "2024-715-F2",
+              "phase": "F2",
+              "totalQuestions": 26,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2023,
+          "exams": [
+            {
+              "examId": 48,
+              "examKey": "2023-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 61,
+              "examKey": "2023-715-F1",
+              "phase": "F1",
+              "totalQuestions": 27,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 74,
+              "examKey": "2023-715-F2",
+              "phase": "F2",
+              "totalQuestions": 28,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2022,
+          "exams": [
+            {
+              "examId": 47,
+              "examKey": "2022-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 60,
+              "examKey": "2022-715-F1",
+              "phase": "F1",
+              "totalQuestions": 27,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 73,
+              "examKey": "2022-715-F2",
+              "phase": "F2",
+              "totalQuestions": 29,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2021,
+          "exams": [
+            {
+              "examId": 46,
+              "examKey": "2021-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 59,
+              "examKey": "2021-715-F1",
+              "phase": "F1",
+              "totalQuestions": 28,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 72,
+              "examKey": "2021-715-F2",
+              "phase": "F2",
+              "totalQuestions": 26,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2020,
+          "exams": [
+            {
+              "examId": 45,
+              "examKey": "2020-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 58,
+              "examKey": "2020-715-F1",
+              "phase": "F1",
+              "totalQuestions": 14,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 71,
+              "examKey": "2020-715-F2",
+              "phase": "F2",
+              "totalQuestions": 14,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2019,
+          "exams": [
+            {
+              "examId": 44,
+              "examKey": "2019-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 57,
+              "examKey": "2019-715-F1",
+              "phase": "F1",
+              "totalQuestions": 14,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 70,
+              "examKey": "2019-715-F2",
+              "phase": "F2",
+              "totalQuestions": 12,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2018,
+          "exams": [
+            {
+              "examId": 43,
+              "examKey": "2018-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 56,
+              "examKey": "2018-715-F1",
+              "phase": "F1",
+              "totalQuestions": 12,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 69,
+              "examKey": "2018-715-F2",
+              "phase": "F2",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2017,
+          "exams": [
+            {
+              "examId": 42,
+              "examKey": "2017-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 55,
+              "examKey": "2017-715-F1",
+              "phase": "F1",
+              "totalQuestions": 9,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 68,
+              "examKey": "2017-715-F2",
+              "phase": "F2",
+              "totalQuestions": 9,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2016,
+          "exams": [
+            {
+              "examId": 41,
+              "examKey": "2016-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 54,
+              "examKey": "2016-715-F1",
+              "phase": "F1",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 67,
+              "examKey": "2016-715-F2",
+              "phase": "F2",
+              "totalQuestions": 15,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        },
+        {
+          "year": 2015,
+          "exams": [
+            {
+              "examId": 40,
+              "examKey": "2015-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 53,
+              "examKey": "2015-715-F1",
+              "phase": "F1",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 66,
+              "examKey": "2015-715-F2",
+              "phase": "F2",
+              "totalQuestions": 13,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2014,
+          "exams": [
+            {
+              "examId": 52,
+              "examKey": "2014-715-F1",
+              "phase": "F1",
+              "totalQuestions": 12,
+              "completeness": "incompleto"
+            },
+            {
+              "examId": 65,
+              "examKey": "2014-715-F2",
+              "phase": "F2",
+              "totalQuestions": 12,
+              "completeness": "incompleto"
+            }
+          ]
+        },
+        {
+          "year": 2012,
+          "exams": [
+            {
+              "examId": 39,
+              "examKey": "2012-715-EE",
+              "phase": "EE",
+              "totalQuestions": 0,
+              "completeness": "sem_questoes_extraidas"
+            },
+            {
+              "examId": 51,
+              "examKey": "2012-715-F1",
+              "phase": "F1",
+              "totalQuestions": 11,
+              "completeness": "pontuacao_parcial"
+            },
+            {
+              "examId": 64,
+              "examKey": "2012-715-F2",
+              "phase": "F2",
+              "totalQuestions": 15,
+              "completeness": "pontuacao_parcial"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

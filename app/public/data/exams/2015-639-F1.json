@@ -1,0 +1,301 @@
+{
+  "examId": 129,
+  "examKey": "2015-639-F1",
+  "subject": "Português",
+  "year": 2015,
+  "phase": "F1",
+  "groups": [
+    {
+      "id": 317,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 318,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 319,
+      "name": "GRUPO III",
+      "order": 2
+    },
+    {
+      "id": 320,
+      "name": "GRUPO I",
+      "order": 3
+    },
+    {
+      "id": 321,
+      "name": "GRUPO II",
+      "order": 4
+    },
+    {
+      "id": 322,
+      "name": "GRUPO III",
+      "order": 5
+    }
+  ],
+  "questions": [
+    {
+      "id": 2163,
+      "question_number": "1",
+      "statement": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+    },
+    {
+      "id": 2164,
+      "question_number": "2",
+      "statement": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+    },
+    {
+      "id": 2165,
+      "question_number": "3",
+      "statement": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+    },
+    {
+      "id": 2166,
+      "question_number": "4",
+      "statement": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+    },
+    {
+      "id": 2167,
+      "question_number": "5",
+      "statement": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+    },
+    {
+      "id": 2173,
+      "question_number": "6",
+      "statement": "6. Na expressão «paisagens olfativas» (linha 27), o autor utiliza",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4010,
+          "letter": "A",
+          "text": "uma metonímia.",
+          "isCorrect": false
+        },
+        {
+          "id": 4011,
+          "letter": "B",
+          "text": "um eufemismo.",
+          "isCorrect": false
+        },
+        {
+          "id": 4012,
+          "letter": "C",
+          "text": "um paradoxo.",
+          "isCorrect": false
+        },
+        {
+          "id": 4013,
+          "letter": "D",
+          "text": "uma sinestesia.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 2174,
+      "question_number": "7",
+      "statement": "7. No contexto em que ocorre, a palavra «Dessas» (linha 15) contribui para a coesão",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4014,
+          "letter": "A",
+          "text": "temporal.",
+          "isCorrect": false
+        },
+        {
+          "id": 4015,
+          "letter": "B",
+          "text": "referencial.",
+          "isCorrect": false
+        },
+        {
+          "id": 4016,
+          "letter": "C",
+          "text": "frásica.",
+          "isCorrect": false
+        },
+        {
+          "id": 4017,
+          "letter": "D",
+          "text": "interfrásica.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 2175,
+      "question_number": "8",
+      "statement": "8. Identifique o antecedente do pronome pessoal presente na expressão «há cerca de duzentos e cinquenta \ntermos a ela relativos» (linha 17).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. (a) sabedoria dos odores (ver nota) 5",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 2176,
+      "question_number": "9",
+      "statement": "9. Identifique a função sintática desempenhada pela oração subordinada presente na frase «E diz que o \nolfato perdeu importância em favor da visão» (linha 21).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 2184,
+      "question_number": "10",
+      "statement": "10. .......................................................................................................... 5 pontos\n50 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "10. .......................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    }
+  ]
+}

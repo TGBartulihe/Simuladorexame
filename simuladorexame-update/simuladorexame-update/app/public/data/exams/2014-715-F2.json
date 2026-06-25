@@ -1,0 +1,513 @@
+{
+  "examId": 65,
+  "examKey": "2014-715-F2",
+  "subject": "Física e Química A",
+  "year": 2014,
+  "phase": "F2",
+  "groups": [
+    {
+      "id": 355,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 356,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 357,
+      "name": "GRUPO III",
+      "order": 2
+    },
+    {
+      "id": 358,
+      "name": "GRUPO IV",
+      "order": 3
+    },
+    {
+      "id": 359,
+      "name": "GRUPO V",
+      "order": 4
+    },
+    {
+      "id": 360,
+      "name": "GRUPO I",
+      "order": 5
+    },
+    {
+      "id": 361,
+      "name": "GRUPO II",
+      "order": 6
+    },
+    {
+      "id": 362,
+      "name": "GRUPO III",
+      "order": 7
+    },
+    {
+      "id": 363,
+      "name": "GRUPO IV",
+      "order": 8
+    },
+    {
+      "id": 364,
+      "name": "GRUPO V",
+      "order": 9
+    }
+  ],
+  "questions": [
+    {
+      "id": 2306,
+      "question_number": "1",
+      "statement": "1. «Por oposição a estado fundamental, que é o estado natural dos átomos, existem estados que correspondem \nà excitação dos átomos por fornecimento de energia.»\nJ. L. da Silva, P. F. da Silva, A Importância de Ser Eletrão, Lisboa, Gradiva, p. 99, 2009",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. ................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2307,
+      "question_number": "2",
+      "statement": "2. «Existem vários átomos cujas configurações eletrónicas de valência são semelhantes, diferindo apenas \nno facto de envolverem diferentes números quânticos principais.»\nJ. L. da Silva, P. F. da Silva, A Importância de Ser Eletrão, Lisboa, Gradiva, p. 101, 2009\nEsta afirmação refere-se a átomos de elementos de um mesmo _______________ da tabela periódica, \nque apresentam um número _______________ de eletrões de valência.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4350,
+          "letter": "A",
+          "text": "período … igual",
+          "isCorrect": false
+        },
+        {
+          "id": 4351,
+          "letter": "B",
+          "text": "grupo … diferente",
+          "isCorrect": false
+        },
+        {
+          "id": 4352,
+          "letter": "C",
+          "text": "período … diferente",
+          "isCorrect": false
+        },
+        {
+          "id": 4353,
+          "letter": "D",
+          "text": "grupo … igual",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. ................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2308,
+      "question_number": "3",
+      "statement": "3. ................................................... 10 pontos\n30 pontos\nTOTAL ...................................... 200 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. ................................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2309,
+      "question_number": "4",
+      "statement": "4. As soluções aquosas de ácido acético a partir das quais se obteve a curva de calibração representada na \nFigura 2 foram preparadas a partir de uma solução inicial de concentração 4,50 mol dm-3.\nQual é o fator de diluição a considerar na preparação da solução de ácido acético de concentração \n0,50 mol dm-3 ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4314,
+          "letter": "A",
+          "text": "9",
+          "isCorrect": false
+        },
+        {
+          "id": 4315,
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "id": 4316,
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 4317,
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. ................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO IV\nA medição do índice de refração de soluções aquosas pode ser usada na determinação da concentração \ndo soluto. Esta técnica de análise quantitativa requer o traçado de curvas de calibração, que relacionam os \níndices de refração, \nn, de soluções desse soluto com as respetivas concentrações, c.\nA Figura 2 representa uma curva de calibração, obtida a partir de várias soluções aquosas de ácido \nacético de diferentes concentrações. Os índices de refração das soluções, para uma determinada radiação \nmonocromática, foram medidos à temperatura de \n20 ºC.\nFigura 2\nn\nc / mol dm−3\n0,00\n1,3500\n1,3520\n1,3480\n1,3460\n1,3440\n1,3420\n1,3400\n1,3380\n1,3360\n1,3340\n1,3320\n0,50 1,00 1,50 2,00 2,50 3,00 3,50 4,00 4,50"
+    },
+    {
+      "id": 2321,
+      "question_number": "5",
+      "statement": "5. A densidade de uma solução de ácido acético de concentração 0,50 mol dm-3 é 1,0025 × 103 g dm-3, \na 20 ºC.\nQual das expressões seguintes permite calcular a quantidade de ácido acético que existe em 100 g da \nsolução?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4318,
+          "letter": "A",
+          "text": ",× ,× 1 0025 10 05 0 100 mol3cm",
+          "isCorrect": false
+        },
+        {
+          "id": 4319,
+          "letter": "B",
+          "text": ",× ,×05 01 0025 10 100 mol3cm",
+          "isCorrect": false
+        },
+        {
+          "id": 4320,
+          "letter": "C",
+          "text": ",× ,× 05 0 100 1 0025 10 mol 3 cm",
+          "isCorrect": false
+        },
+        {
+          "id": 4321,
+          "letter": "D",
+          "text": ",× ,× 100 05 01 0025 10 mol 3 cm 40,0º Figura 3 )",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. ................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO IV\nA medição do índice de refração de soluções aquosas pode ser usada na determinação da concentração \ndo soluto. Esta técnica de análise quantitativa requer o traçado de curvas de calibração, que relacionam os \níndices de refração, \nn, de soluções desse soluto com as respetivas concentrações, c.\nA Figura 2 representa uma curva de calibração, obtida a partir de várias soluções aquosas de ácido \nacético de diferentes concentrações. Os índices de refração das soluções, para uma determinada radiação \nmonocromática, foram medidos à temperatura de \n20 ºC.\nFigura 2\nn\nc / mol dm−3\n0,00\n1,3500\n1,3520\n1,3480\n1,3460\n1,3440\n1,3420\n1,3400\n1,3380\n1,3360\n1,3340\n1,3320\n0,50 1,00 1,50 2,00 2,50 3,00 3,50 4,00 4,50"
+    },
+    {
+      "id": 2327,
+      "question_number": "1.1",
+      "statement": "1.1. Na reação considerada, o número de oxidação do manganês (Mn)",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4326,
+          "letter": "A",
+          "text": "aumenta, atuando o ião permanganato (MnO4 - ) como redutor.",
+          "isCorrect": false
+        },
+        {
+          "id": 4327,
+          "letter": "B",
+          "text": "aumenta, atuando o ião permanganato (MnO4 - ) como oxidante.",
+          "isCorrect": false
+        },
+        {
+          "id": 4328,
+          "letter": "C",
+          "text": "diminui, atuando o ião permanganato (MnO4 - ) como redutor.",
+          "isCorrect": false
+        },
+        {
+          "id": 4329,
+          "letter": "D",
+          "text": "diminui, atuando o ião permanganato (MnO4 - ) como oxidante.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.1. ........................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2328,
+      "question_number": "1.2",
+      "statement": "1.2. Considere um átomo do elemento que pertence ao 2.º período e ao grupo 15 da tabela periódica.\nQuantos valores diferenciados de energia apresentam os eletrões de valência desse átomo no estado \nfundamental?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4342,
+          "letter": "A",
+          "text": "Dois.",
+          "isCorrect": false
+        },
+        {
+          "id": 4343,
+          "letter": "B",
+          "text": "Três.",
+          "isCorrect": false
+        },
+        {
+          "id": 4344,
+          "letter": "C",
+          "text": "Quatro.",
+          "isCorrect": false
+        },
+        {
+          "id": 4345,
+          "letter": "D",
+          "text": "Cinco.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.2. ........................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2329,
+      "question_number": "1.3",
+      "statement": "1.3. Considere um átomo do elemento cujo número atómico é 8.\nQual das configurações eletrónicas seguintes pode corresponder a esse átomo num estado excitado?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4346,
+          "letter": "A",
+          "text": "1s2 2s1 2px 3 2py 1 2pz 1",
+          "isCorrect": false
+        },
+        {
+          "id": 4347,
+          "letter": "B",
+          "text": "1s2 2s1 2px 2 2py 2 2pz 1",
+          "isCorrect": false
+        },
+        {
+          "id": 4348,
+          "letter": "C",
+          "text": "1s2 2s2 2px 1 2py 2 2pz 1",
+          "isCorrect": false
+        },
+        {
+          "id": 4349,
+          "letter": "D",
+          "text": "1s1 2s3 2px 2 2py 1 2pz 1",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.3. ........................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2312,
+      "question_number": "2.1",
+      "statement": "2.1. Considere um referencial unidimensional Oy, vertical, com origem no solo e sentido positivo de baixo \npara cima.\nQual é o esboço do gráfico que pode representar a componente escalar da velocidade da bola, vy, em \nrelação ao referencial considerado, em função do tempo, t, desde o instante em que é abandonada \naté chegar ao solo?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4294,
+          "letter": "A",
+          "text": "vy t",
+          "isCorrect": false
+        },
+        {
+          "id": 4295,
+          "letter": "B",
+          "text": "vy t",
+          "isCorrect": false
+        },
+        {
+          "id": 4296,
+          "letter": "C",
+          "text": "vy t",
+          "isCorrect": false
+        },
+        {
+          "id": 4297,
+          "letter": "D",
+          "text": "vy t 0 0 0 0",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2.1. ........................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 2313,
+      "question_number": "2.2",
+      "statement": "2.2. Quando o volume total de NaOH(aq) adicionado é 40,00 cm3, verifica-se que a concentração \nhidrogeniónica, em relação ao valor inicial, diminui cerca de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4322,
+          "letter": "A",
+          "text": "duas vezes.",
+          "isCorrect": false
+        },
+        {
+          "id": 4323,
+          "letter": "B",
+          "text": "três vezes.",
+          "isCorrect": false
+        },
+        {
+          "id": 4324,
+          "letter": "C",
+          "text": "trezentas vezes.",
+          "isCorrect": false
+        },
+        {
+          "id": 4325,
+          "letter": "D",
+          "text": "mil vezes.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2.2. ........................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2325,
+      "question_number": "2.3",
+      "statement": "2.3. O ácido acético é um ácido fraco e, assim, a sua ionização em água ocorrerá em pequena extensão.\nConclua, justificando com base no Princípio de Le Châtelier, se a ionização deste ácido em água é \nfavorecida pela adição de NaOH(aq).\n\nGRUPO VI",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2.3. ........................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+    },
+    {
+      "id": 2316,
+      "question_number": "3.2",
+      "statement": "3.2. Os alunos calcularam a energia recebida pelo gelo, desde que este foi adicionado à água líquida até \ntoda a mistura ter ficado à mesma temperatura de 11,0 ºC, tendo obtido 1,140 × 104 J.\nCalcularam também a energia cedida pela água líquida, inicialmente a 20,0 ºC, no mesmo intervalo de \ntempo. Com base nos resultados obtidos, concluíram que, naquele intervalo de tempo, tinha ocorrido \ntransferência de energia entre o sistema considerado e o exterior.\nConclua, justificando, em que sentido terá ocorrido aquela transferência de energia.\nApresente todas as etapas de resolução.\n\n–––—––––––––––—–——–—— Página em branco ––––––––—–—–—–————–-––",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3.2. ........................................... 15 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nCom o objetivo de estabelecer o balanço energético de um sistema gelo + água líquida, um grupo de alunos \nrealizou uma experiência, na qual adicionou 30,0 g de gelo fragmentado, à temperatura de 0,0 ºC, a 260,0 g \nde água líquida, a 20,0 ºC.\nOs alunos consultaram tabelas de constantes físicas e registaram os seguintes valores:\ncágua líquida (capacidade térmica mássica da água líquida) = 4,18 × 103 J kg-1 ºC-1\nΔHfusão gelo (variação de entalpia (ou calor) de fusão do gelo) = 3,34 × 105 J kg-1"
+    }
+  ]
+}

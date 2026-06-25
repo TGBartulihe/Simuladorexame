@@ -1,0 +1,268 @@
+{
+  "examId": 135,
+  "examKey": "2021-639-F1",
+  "subject": "Português",
+  "year": 2021,
+  "phase": "F1",
+  "groups": [
+    {
+      "id": 119,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 120,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 121,
+      "name": "GRUPO III",
+      "order": 2
+    }
+  ],
+  "questions": [
+    {
+      "id": 995,
+      "question_number": "1",
+      "statement": "1. 3. 4. 5. 7. 1. 3. 4. 6.\nCotação (em pontos) 13 13 13 13 13 13 13 13 13 44 161\nDestes 5 itens, contribuem para a \nclassificação final da prova os 3 itens cujas \nrespostas obtenham melhor pontuação.\nI II\nSubtotal",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1 Vide Tipologia de erros no âmbito da correção linguística (p. 3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": true,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nQuando se pensa no futuro da humanidade, a primeira ideia que ocorre a muitas pessoas é a importância \ndo progresso científico e tecnológico.\nMas não será que o progresso implica também a valorização das artes, enquanto dimensão fundamental \nde uma formação de base humanista?\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a questão apresentada.\nNo seu texto:\n–\n explicite, \nde forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+    },
+    {
+      "id": 988,
+      "question_number": "2",
+      "statement": "2. \n Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. 6. 2. 5. 7.\nCotação (em pontos) 3 x 13 pontos 39\nTOTAL 200",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nQuando se pensa no futuro da humanidade, a primeira ideia que ocorre a muitas pessoas é a importância \ndo progresso científico e tecnológico.\nMas não será que o progresso implica também a valorização das artes, enquanto dimensão fundamental \nde uma formação de base humanista?\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a questão apresentada.\nNo seu texto:\n–\n explicite, \nde forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+    },
+    {
+      "id": 989,
+      "question_number": "3",
+      "statement": "3.\n No terceiro parágrafo, o autor do texto pretende\n \n(\na\n)\n comprovar a ausência de fronteiras entre as diferentes manifestações artísticas de \nAlmada.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 1530,
+          "letter": "B",
+          "text": "explicar a origem de algumas das obras artísticas de Almada.",
+          "isCorrect": false
+        },
+        {
+          "id": 1531,
+          "letter": "C",
+          "text": "estabelecer um confronto entre a obra poética e a obra plástica de Almada.",
+          "isCorrect": false
+        },
+        {
+          "id": 1532,
+          "letter": "D",
+          "text": "apresentar um comentário pessoal sobre os materiais usados nas diferentes obras de Almada.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
+    },
+    {
+      "id": 991,
+      "question_number": "4",
+      "statement": "4.\n De acordo com o quarto parágrafo, a conceção de Poesia defendida por \nAlmada Negreiros\n \n(\na\n)\n valoriza a perpetuação de formas poéticas tradicionais.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 1533,
+          "letter": "B",
+          "text": "desconstrói a definição clássica de produção poética.",
+          "isCorrect": false
+        },
+        {
+          "id": 1534,
+          "letter": "C",
+          "text": "perspetiva certas manifestações artísticas como superiores a outras.",
+          "isCorrect": false
+        },
+        {
+          "id": 1535,
+          "letter": "D",
+          "text": "preconiza uma sistemática associação entre a palavra escrita e a imagem.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
+    },
+    {
+      "id": 992,
+      "question_number": "5",
+      "statement": "5.\n T\nodas as orações abaixo transcritas são subordinadas substantivas completivas, exceto a oração\n \n(\na\n)\n «que os “Modernistas” portugueses são todos singulares» (linha 1).",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 1536,
+          "letter": "B",
+          "text": "«que é um pintor» (linha 13).",
+          "isCorrect": false
+        },
+        {
+          "id": 1537,
+          "letter": "C",
+          "text": "«que aprende a viver» (linhas 27-28).",
+          "isCorrect": false
+        },
+        {
+          "id": 1538,
+          "letter": "D",
+          "text": "«que a poesia não se confunde com a história das formas poéticas» (linha 30).",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5\nExplicita, adequadamente, uma opinião defendida pelo narrador e uma opinião defendida \npor João da Cruz.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
+    },
+    {
+      "id": 993,
+      "question_number": "6",
+      "statement": "6.\n As \nexpressões «por tapeçarias decorativas» (linha 28) e «de um livro» (linha 32) desempenham as funções \nsintáticas de\n \n(\na\n)\n modificador \ndo grupo verbal, no primeiro caso, e de modificador do nome restritivo, no segundo caso.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 1539,
+          "letter": "B",
+          "text": "complemento oblíquo, no primeiro caso, e de modificador do nome restritivo, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 1540,
+          "letter": "C",
+          "text": "complemento oblíquo, no primeiro caso, e de complemento do nome, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 1541,
+          "letter": "D",
+          "text": "modificador do grupo verbal, no primeiro caso, e de complemento do nome, no segundo caso.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. Versão 1: (A); Versão 2: (B) ...................................................................................................... 13 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
+    },
+    {
+      "id": 990,
+      "question_number": "7",
+      "statement": "7. T al como em «são» (linha 33), o valor aspetual genérico está presente em\n \n(\na\n)\n «se concretizar» (linha 7).",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 1542,
+          "letter": "B",
+          "text": "«troca» (linha 20).",
+          "isCorrect": false
+        },
+        {
+          "id": 1543,
+          "letter": "C",
+          "text": "«experimenta» (linha 28).",
+          "isCorrect": false
+        },
+        {
+          "id": 1544,
+          "letter": "D",
+          "text": "«se confunde» (linha 30).",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "examId": 16,
+  "examKey": "2016-702-F1",
+  "subject": "Biologia e Geologia",
+  "year": 2016,
+  "phase": "F1",
+  "groups": [
+    {
+      "id": 245,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 246,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 247,
+      "name": "GRUPO III",
+      "order": 2
+    },
+    {
+      "id": 248,
+      "name": "GRUPO IV",
+      "order": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": 1786,
+      "question_number": "1",
+      "statement": "1. O alastramento da praga do castanheiro na Europa deve-se principalmente à",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3258,
+          "letter": "A",
+          "text": "ausência de predadores do inseto.",
+          "isCorrect": false
+        },
+        {
+          "id": 3259,
+          "letter": "B",
+          "text": "hibridação entre castanheiros.",
+          "isCorrect": false
+        },
+        {
+          "id": 3260,
+          "letter": "C",
+          "text": "frequência de reprodução do inseto.",
+          "isCorrect": false
+        },
+        {
+          "id": 3261,
+          "letter": "D",
+          "text": "dispersão rápida dos castanheiros.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1787,
+      "question_number": "2",
+      "statement": "2. As variedades resistentes de castanheiro resultam do cruzamento entre indivíduos _______ e apresentam \n_______ do que os progenitores.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3262,
+          "letter": "A",
+          "text": "da mesma espécie … maior variabilidade",
+          "isCorrect": false
+        },
+        {
+          "id": 3263,
+          "letter": "B",
+          "text": "de espécies diferentes … maior variabilidade",
+          "isCorrect": false
+        },
+        {
+          "id": 3264,
+          "letter": "C",
+          "text": "de espécies diferentes … menor variabilidade",
+          "isCorrect": false
+        },
+        {
+          "id": 3265,
+          "letter": "D",
+          "text": "da mesma espécie … menor variabilidade",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2\nNa resposta, são apresentados dois dos tópicos com falhas em pelo menos um dos \naspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1788,
+      "question_number": "3",
+      "statement": "3. No castanheiro, formam-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3266,
+          "letter": "A",
+          "text": "esporos por meiose, sendo o seu ciclo de vida haplodiplonte.",
+          "isCorrect": false
+        },
+        {
+          "id": 3267,
+          "letter": "B",
+          "text": "gâmetas por mitose, sendo o seu ciclo de vida diplonte.",
+          "isCorrect": false
+        },
+        {
+          "id": 3268,
+          "letter": "C",
+          "text": "gâmetas por meiose, sendo o seu ciclo de vida haplodiplonte.",
+          "isCorrect": false
+        },
+        {
+          "id": 3269,
+          "letter": "D",
+          "text": "esporos por mitose, sendo o seu ciclo de vida diplonte.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3\nNa resposta, são apresentados os três tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1789,
+      "question_number": "4",
+      "statement": "4. Relativamente à progenitora, as novas vespas, que emergem entre maio e julho, têm",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3270,
+          "letter": "A",
+          "text": "o dobro do número de cromossomas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3271,
+          "letter": "B",
+          "text": "uma melhor adaptação ao ambiente.",
+          "isCorrect": false
+        },
+        {
+          "id": 3272,
+          "letter": "C",
+          "text": "menor capacidade de reprodução.",
+          "isCorrect": false
+        },
+        {
+          "id": 3273,
+          "letter": "D",
+          "text": "a mesma constituição genética.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4\nNa resposta, são apresentados os três tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1790,
+      "question_number": "5",
+      "statement": "5. A formação das diversas estruturas do inseto resulta da _______ que ocorre em células _______ da \nlarva.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3274,
+          "letter": "A",
+          "text": "alteração do genoma … indiferenciadas",
+          "isCorrect": false
+        },
+        {
+          "id": 3275,
+          "letter": "B",
+          "text": "alteração do genoma … diferenciadas",
+          "isCorrect": false
+        },
+        {
+          "id": 3276,
+          "letter": "C",
+          "text": "regulação da transcrição de genes … indiferenciadas",
+          "isCorrect": false
+        },
+        {
+          "id": 3277,
+          "letter": "D",
+          "text": "regulação da transcrição de genes … diferenciadas",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5 5 5 5 5 5 5 5 5 15 60\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1791,
+      "question_number": "6",
+      "statement": "6. Na prófase da divisão nuclear que conduz à formação da larva, verifica-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3278,
+          "letter": "A",
+          "text": "emparelhamento dos homólogos.",
+          "isCorrect": false
+        },
+        {
+          "id": 3279,
+          "letter": "B",
+          "text": "replicação das moléculas de DNA.",
+          "isCorrect": false
+        },
+        {
+          "id": 3280,
+          "letter": "C",
+          "text": "condensação da cromatina.",
+          "isCorrect": true
+        },
+        {
+          "id": 3281,
+          "letter": "D",
+          "text": "separação aleatória dos cromatídeos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (A)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1792,
+      "question_number": "7",
+      "statement": "7. As substâncias utilizadas pelas larvas na sua alimentação são produzidas nas",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3282,
+          "letter": "A",
+          "text": "raízes e transportadas pelo xilema até às folhas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3283,
+          "letter": "B",
+          "text": "folhas e transportadas pelo floema até aos locais de consumo.",
+          "isCorrect": true
+        },
+        {
+          "id": 3284,
+          "letter": "C",
+          "text": "raízes e transportadas pelo floema até às folhas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3285,
+          "letter": "D",
+          "text": "folhas e transportadas pelo xilema até aos locais de consumo.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (C)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1799,
+      "question_number": "8",
+      "statement": "8. Ordene as expressões identificadas pelas letras de A a F, de modo a reconstituir a sequência cronológica \ndos acontecimentos, relativos ao ciclo de vida de Dryocosmus kuriphilus. Inicie a ordenação pela letra A.\nA. Formação da larva.\nB. Eclosão dos ovos durante o verão.\nC. Desenvolvimento da pupa.\nD. Produção de células germinativas.\nE.   Deposição de ovos em folhas.\nF.    Emergência do inseto adulto.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – [A], C, F, D, E, B\nVersão 2 – [A], E, B, F, C, D",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1807,
+      "question_number": "9",
+      "statement": "9. Relacione o grande número de espiráculos das larvas e a sua alimentação intensa, durante a primavera, \ncom a emergência das vespas adultas.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n5 5 5 5 5 5 10 40\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.\n5 5 5 5 5 5 5 5 5 15 60\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 15 55\nTOTAL 200\n\nProva 702\n1.ª Fase\nVERSÃO 1",
+      "question_type": "matching",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. .................................................................................................................................................... 15 pontos\nTópicos de resposta:\n•  relação entre uma alimentação intensa e a obtenção de uma grande quantidade de \nnutrientes;\n•  relação entre a existência de um grande número de espiráculos e a obtenção de grandes \nquantidades de oxigénio (ou a facilidade com que ocorre a difusão direta de gases \nrespiratórios);\n•  referência à necessidade de obtenção de grandes quantidades de energia (essenciais à \ntransformação da larva em inseto adulto) (ou ao aumento do metabolismo, ou ao aumento \nda taxa respiratória).\nNíveis Descritores do nível de desempenho Pontuação",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
+    },
+    {
+      "id": 1808,
+      "question_number": "10",
+      "statement": "10. Explique a existência do afloramento granítico que forma atualmente a ilha Berlenga, considerando a \ngénese da rocha e a evolução tectónica da região.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "10. .................................................................................................................................................. 15 pontos\nTópicos de resposta:\n•  referência à existência de granito, formado em profundidade (ou ao granito como uma \nrocha plutónica);\n•  relação entre a fraturação da Pangeia (ou das rochas) e a existência de um bloco não \nabatido (ou do horst das Berlengas) OU relação entre movimentos tectónicos e a existência \nde um bloco não abatido;\n•  relação entre a erosão das rochas sobrejacentes ao granito e o atual afloramento dos \ngranitos.\nNíveis Descritores do nível de desempenho Pontuação",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    }
+  ]
+}

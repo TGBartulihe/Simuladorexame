@@ -1,0 +1,298 @@
+{
+  "examId": 131,
+  "examKey": "2017-639-F1",
+  "subject": "Português",
+  "year": 2017,
+  "phase": "F1",
+  "groups": [
+    {
+      "id": 239,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 240,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 241,
+      "name": "GRUPO III",
+      "order": 2
+    }
+  ],
+  "questions": [
+    {
+      "id": 1760,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2017/).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1\nExplica a perceção de Vergílio Ferreira em relação à sua infância, apresentando, com \npequenas imprecisões e/ou omissões, o conteúdo de um dos tópicos de resposta. \nOU\nRefere-se, de forma vaga, à perceção de Vergílio Ferreira em relação à sua infância.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\n«A memória age como a lente de uma câmara escura; reduz todas as coisas e, dessa forma, produz uma \nimagem bem mais bela do que o original.»\nTraduzido a partir de Arthur Schopenhauer, Parerga and Paralipomena, Vol. I, \nOxford, Clarendon Press, 1974, p. 447 (adaptado)\nSerá que a memória permite sempre construir uma imagem idealizada do passado?\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda \numa perspetiva pessoal sobre o modo como o passado é percecionado através da memória.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
+    },
+    {
+      "id": 1761,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.\n5 × 20 pontos 100\nII 1. a 10.\n10 × 5 pontos 50\nIII Item único 50\nTOTAL 200",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, \nadequadamente, o conteúdo de um dos tópicos de resposta.\nOU\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, com \npequenas imprecisões e/ou omissões, o conteúdo de dois dos tópicos de resposta.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\n«A memória age como a lente de uma câmara escura; reduz todas as coisas e, dessa forma, produz uma \nimagem bem mais bela do que o original.»\nTraduzido a partir de Arthur Schopenhauer, Parerga and Paralipomena, Vol. I, \nOxford, Clarendon Press, 1974, p. 447 (adaptado)\nSerá que a memória permite sempre construir uma imagem idealizada do passado?\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda \numa perspetiva pessoal sobre o modo como o passado é percecionado através da memória.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
+    },
+    {
+      "id": 1762,
+      "question_number": "3",
+      "statement": "3. No quarto parágrafo do texto, a construção anafórica está ao serviço da",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3142,
+          "letter": "A",
+          "text": "enumeração de propriedades que definem a cultura científica.",
+          "isCorrect": false
+        },
+        {
+          "id": 3143,
+          "letter": "B",
+          "text": "enumeração de diversas características do método científico.",
+          "isCorrect": false
+        },
+        {
+          "id": 3144,
+          "letter": "C",
+          "text": "demonstração do valor intemporal das conclusões científicas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3145,
+          "letter": "D",
+          "text": "demonstração da objetividade própria dos saberes científicos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 5 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n• Tempo (cronológico) da infância reduzido (psicologicamente) a um «longo inverno».\n• Descrição do inverno como um tempo lúgubre, tempestuoso e assustador.\n• Perceção da infância como um tempo penoso, marcado pela angústia, pelo abandono e pela solidão.\nExemplo de resposta\nA afirmação «Mas toda essa infância me parece atravessar apenas um longo inverno.» (ll. 13-14) sintetiza \na perceção de Vergílio Ferreira em relação à sua infância, na medida em que todo esse período é reduzido \na um «longo inverno» (l. 14), refletindo uma vivência psicológica do tempo marcada pela dor. Efetivamente, \no facto de a sua infância ter sido cristalizada na memória como um «longo inverno» sugere que se terá \ntratado de um tempo penoso, sofrido, marcado pela angústia, pelo abandono e pela solidão.\nNeste contexto, a descrição do inverno, caracterizado como um tempo lúgubre e tempestuoso, triste e \nassustador, confirma essa perceção.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
+    },
+    {
+      "id": 1763,
+      "question_number": "4",
+      "statement": "4. Nos dois parágrafos finais, os autores defendem, sobretudo, a ideia de que a cultura científica",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3146,
+          "letter": "A",
+          "text": "deriva exclusivamente do ensino da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 3147,
+          "letter": "B",
+          "text": "controla os efeitos da aplicação da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 3148,
+          "letter": "C",
+          "text": "contribui para o desenvolvimento da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 3149,
+          "letter": "D",
+          "text": "fomenta a curiosidade e o gosto pela ciência.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4 Explica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, \nadequadamente, o conteúdo dos três tópicos de resposta. 12",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
+    },
+    {
+      "id": 1764,
+      "question_number": "5",
+      "statement": "5. Nas expressões «sabermos orientar-nos» (linha 2) e «que nos permite» (linha 5), os pronomes pessoais \ndesempenham as funções sintáticas de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3150,
+          "letter": "A",
+          "text": "complemento direto e de complemento indireto, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 3151,
+          "letter": "B",
+          "text": "complemento indireto e de complemento direto, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 3152,
+          "letter": "C",
+          "text": "complemento indireto, em ambos os casos.",
+          "isCorrect": false
+        },
+        {
+          "id": 3153,
+          "letter": "D",
+          "text": "complemento direto, em ambos os casos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5 4 3 2 1\nC\nLéxico e \nadequação \ndo discurso\n – Mobiliza, com intencionalidade, \nrecursos da língua expressivos \ne adequados (repertório lexical \nvariado e pertinente, figuras de \nretórica e tropos, procedimentos \nde modalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Mobiliza um repertório lexical \nadequado, mas pouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Utiliza vocabulário \nelementar e restrito (muitas \nvezes redundante) ou \nglobalmente inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência do \nregisto adequado ao texto, \nou recorre a um único \nregisto inadequado.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
+    },
+    {
+      "id": 1770,
+      "question_number": "6",
+      "statement": "6. No contexto em que ocorrem, as palavras «literatura» e «música» (linha 12)",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3154,
+          "letter": "A",
+          "text": "pertencem ao mesmo campo semântico.",
+          "isCorrect": false
+        },
+        {
+          "id": 3155,
+          "letter": "B",
+          "text": "pertencem ao mesmo campo lexical.",
+          "isCorrect": false
+        },
+        {
+          "id": 3156,
+          "letter": "C",
+          "text": "estabelecem uma relação de holonímia/meronímia.",
+          "isCorrect": false
+        },
+        {
+          "id": 3157,
+          "letter": "D",
+          "text": "estabelecem uma relação de hiperonímia/hiponímia.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
+    },
+    {
+      "id": 1771,
+      "question_number": "7",
+      "statement": "7. No contexto em que ocorre, a conjunção «mas» está associada a uma ideia de adição",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3158,
+          "letter": "A",
+          "text": "na linha 5.",
+          "isCorrect": false
+        },
+        {
+          "id": 3159,
+          "letter": "B",
+          "text": "na linha 9.",
+          "isCorrect": false
+        },
+        {
+          "id": 3160,
+          "letter": "C",
+          "text": "na linha 14.",
+          "isCorrect": false
+        },
+        {
+          "id": 3161,
+          "letter": "D",
+          "text": "na linha 16.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
+    }
+  ]
+}

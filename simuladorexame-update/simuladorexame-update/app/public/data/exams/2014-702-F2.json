@@ -1,0 +1,365 @@
+{
+  "examId": 27,
+  "examKey": "2014-702-F2",
+  "subject": "Biologia e Geologia",
+  "year": 2014,
+  "phase": "F2",
+  "groups": [
+    {
+      "id": 337,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 338,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 339,
+      "name": "GRUPO III",
+      "order": 2
+    },
+    {
+      "id": 340,
+      "name": "GRUPO IV",
+      "order": 3
+    },
+    {
+      "id": 341,
+      "name": "GRUPO I",
+      "order": 4
+    },
+    {
+      "id": 342,
+      "name": "GRUPO II",
+      "order": 5
+    },
+    {
+      "id": 343,
+      "name": "GRUPO III",
+      "order": 6
+    },
+    {
+      "id": 344,
+      "name": "GRUPO IV",
+      "order": 7
+    }
+  ],
+  "questions": [
+    {
+      "id": 2238,
+      "question_number": "1",
+      "statement": "1. Nos eucariontes, durante a transcrição, verifica-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4202,
+          "letter": "A",
+          "text": "a descodificação da informação genética nos ribossomas.",
+          "isCorrect": false
+        },
+        {
+          "id": 4203,
+          "letter": "B",
+          "text": "a ligação entre bases complementares do mRNA e do rRNA.",
+          "isCorrect": false
+        },
+        {
+          "id": 4204,
+          "letter": "C",
+          "text": "a transferência da informação genética para o pré-mRNA.",
+          "isCorrect": false
+        },
+        {
+          "id": 4205,
+          "letter": "D",
+          "text": "a formação de moléculas de rRNA ao nível do citoplasma.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 2239,
+      "question_number": "2",
+      "statement": "2. De acordo com os dados apresentados, o regime alimentar dos progenitores condicionou o metabolismo \ndos lípidos na descendência, ao alterar",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4206,
+          "letter": "A",
+          "text": "sequências nucleotídicas de genes nas células somáticas.",
+          "isCorrect": false
+        },
+        {
+          "id": 4207,
+          "letter": "B",
+          "text": "o estado da cromatina de células germinativas.",
+          "isCorrect": false
+        },
+        {
+          "id": 4208,
+          "letter": "C",
+          "text": "sequências nucleotídicas de genes nas células germinativas.",
+          "isCorrect": false
+        },
+        {
+          "id": 4209,
+          "letter": "D",
+          "text": "o estado da cromatina de células somáticas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 2240,
+      "question_number": "3",
+      "statement": "3. A diferenciação celular é um processo que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4210,
+          "letter": "A",
+          "text": "origina a alteração do genoma nas células especializadas.",
+          "isCorrect": false
+        },
+        {
+          "id": 4211,
+          "letter": "B",
+          "text": "ocorre independentemente da atuação de fatores do meio.",
+          "isCorrect": false
+        },
+        {
+          "id": 4212,
+          "letter": "C",
+          "text": "implica um conjunto de mutações génicas sequenciais.",
+          "isCorrect": false
+        },
+        {
+          "id": 4213,
+          "letter": "D",
+          "text": "envolve a regulação da transcrição de genes.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 2241,
+      "question_number": "4",
+      "statement": "4. Num ciclo celular mitótico, a condensação máxima da cromatina ocorre na",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4214,
+          "letter": "A",
+          "text": "metáfase.",
+          "isCorrect": false
+        },
+        {
+          "id": 4215,
+          "letter": "B",
+          "text": "prófase.",
+          "isCorrect": false
+        },
+        {
+          "id": 4216,
+          "letter": "C",
+          "text": "anáfase.",
+          "isCorrect": false
+        },
+        {
+          "id": 4217,
+          "letter": "D",
+          "text": "telófase.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 2242,
+      "question_number": "5",
+      "statement": "5. A biossíntese dos lípidos ocorre em vias _______, com _______ de ATP.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 4218,
+          "letter": "A",
+          "text": "catabólicas … produção",
+          "isCorrect": false
+        },
+        {
+          "id": 4219,
+          "letter": "B",
+          "text": "anabólicas … produção",
+          "isCorrect": false
+        },
+        {
+          "id": 4220,
+          "letter": "C",
+          "text": "catabólicas … consumo",
+          "isCorrect": false
+        },
+        {
+          "id": 4221,
+          "letter": "D",
+          "text": "anabólicas … consumo",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 2243,
+      "question_number": "6",
+      "statement": "6. ........................................................................................................... 10 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "6. ........................................................................................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 2250,
+      "question_number": "7",
+      "statement": "7. ........................................................................................................... 15 pontos\n50 pontos\n TOTAL ......................................... 200 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "7. ........................................................................................................... 15 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 2251,
+      "question_number": "8",
+      "statement": "8. ........................................................................................................... 10 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. ........................................................................................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 2260,
+      "question_number": "9",
+      "statement": "9. ........................................................................................................... 10 pontos\n60 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. ........................................................................................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    }
+  ]
+}

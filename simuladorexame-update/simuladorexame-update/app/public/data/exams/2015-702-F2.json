@@ -1,0 +1,499 @@
+{
+  "examId": 28,
+  "examKey": "2015-702-F2",
+  "subject": "Biologia e Geologia",
+  "year": 2015,
+  "phase": "F2",
+  "groups": [
+    {
+      "id": 281,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 282,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 283,
+      "name": "GRUPO III",
+      "order": 2
+    },
+    {
+      "id": 284,
+      "name": "GRUPO IV",
+      "order": 3
+    },
+    {
+      "id": 285,
+      "name": "GRUPO I",
+      "order": 4
+    },
+    {
+      "id": 286,
+      "name": "GRUPO II",
+      "order": 5
+    },
+    {
+      "id": 287,
+      "name": "GRUPO III",
+      "order": 6
+    },
+    {
+      "id": 288,
+      "name": "GRUPO IV",
+      "order": 7
+    }
+  ],
+  "questions": [
+    {
+      "id": 2015,
+      "question_number": "1",
+      "statement": "1. As bactérias captadas pelas amibas",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3774,
+          "letter": "A",
+          "text": "passam para o meio intracelular envolvidas pela membrana plasmática.",
+          "isCorrect": false
+        },
+        {
+          "id": 3775,
+          "letter": "B",
+          "text": "atravessam a membrana plasmática pela bicamada fosfolipídica.",
+          "isCorrect": false
+        },
+        {
+          "id": 3776,
+          "letter": "C",
+          "text": "são transportadas através de proteínas da membrana plasmática.",
+          "isCorrect": false
+        },
+        {
+          "id": 3777,
+          "letter": "D",
+          "text": "ligam-se a glicolípidos, passando para o meio interno por difusão facilitada.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2016,
+      "question_number": "2",
+      "statement": "2. De acordo com o texto, as amibas portadoras de bactérias patogénicas podem ser veículos transmissores \nde doenças quando, nas células das amibas,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3778,
+          "letter": "A",
+          "text": "não são produzidas enzimas hidrolíticas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3779,
+          "letter": "B",
+          "text": "os vacúolos digestivos estão ativos.",
+          "isCorrect": false
+        },
+        {
+          "id": 3780,
+          "letter": "C",
+          "text": "não se formam vacúolos digestivos.",
+          "isCorrect": false
+        },
+        {
+          "id": 3781,
+          "letter": "D",
+          "text": "as enzimas hidrolíticas estão inativas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2017,
+      "question_number": "3",
+      "statement": "3. A multiplicação dos trofozoítos ocorre normalmente quando as condições do meio são _______, \napresentando os descendentes combinações genéticas _______ entre eles.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3782,
+          "letter": "A",
+          "text": "favoráveis … diferentes",
+          "isCorrect": false
+        },
+        {
+          "id": 3783,
+          "letter": "B",
+          "text": "favoráveis … iguais",
+          "isCorrect": false
+        },
+        {
+          "id": 3784,
+          "letter": "C",
+          "text": "desfavoráveis … diferentes",
+          "isCorrect": false
+        },
+        {
+          "id": 3785,
+          "letter": "D",
+          "text": "desfavoráveis … iguais",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2018,
+      "question_number": "4",
+      "statement": "4. Durante o processo de multiplicação dos trofozoítos e das bactérias, verifica-se uma",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3786,
+          "letter": "A",
+          "text": "divisão mitótica do núcleo.",
+          "isCorrect": false
+        },
+        {
+          "id": 3787,
+          "letter": "B",
+          "text": "redução do número de cromossomas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3788,
+          "letter": "C",
+          "text": "citocinese assimétrica.",
+          "isCorrect": false
+        },
+        {
+          "id": 3789,
+          "letter": "D",
+          "text": "replicação do material genético.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2019,
+      "question_number": "5",
+      "statement": "5. As amibas são seres facilmente observáveis ao microscópio ótico composto.\nConsidere as seguintes afirmações, referentes à microscopia ótica.\nI. Quanto maior é a ampliação, maior é o campo de observação.\nII. A imagem é simétrica e invertida em relação ao objeto.\nIII. A primeira focagem deve ser feita utilizando o parafuso micrométrico.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3790,
+          "letter": "A",
+          "text": "I e III são verdadeiras; II é falsa.",
+          "isCorrect": false
+        },
+        {
+          "id": 3791,
+          "letter": "B",
+          "text": "I e II são verdadeiras; III é falsa.",
+          "isCorrect": false
+        },
+        {
+          "id": 3792,
+          "letter": "C",
+          "text": "III é verdadeira; I e II são falsas.",
+          "isCorrect": false
+        },
+        {
+          "id": 3793,
+          "letter": "D",
+          "text": "II é verdadeira; I e III são falsas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2020,
+      "question_number": "6",
+      "statement": "6. Quanto ao tipo de interações num ecossistema, as bactérias heterotróficas e as algas classificam-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3794,
+          "letter": "A",
+          "text": "como microconsumidores e como produtores, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 3795,
+          "letter": "B",
+          "text": "como microconsumidores.",
+          "isCorrect": false
+        },
+        {
+          "id": 3796,
+          "letter": "C",
+          "text": "como produtores e como microconsumidores, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 3797,
+          "letter": "D",
+          "text": "como produtores.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2021,
+      "question_number": "7",
+      "statement": "7. A resistência de algumas bactérias à fagocitose, segundo uma perspetiva darwinista, provavelmente \nresulta da",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3798,
+          "letter": "A",
+          "text": "adaptação individual.",
+          "isCorrect": false
+        },
+        {
+          "id": 3799,
+          "letter": "B",
+          "text": "ocorrência de mutações.",
+          "isCorrect": false
+        },
+        {
+          "id": 3800,
+          "letter": "C",
+          "text": "variabilidade intraespecífica.",
+          "isCorrect": false
+        },
+        {
+          "id": 3801,
+          "letter": "D",
+          "text": "necessidade de sobrevivência.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2022,
+      "question_number": "8",
+      "statement": "8. Faça corresponder, de acordo com o sistema de classificação de Whittaker modificado, cada um dos tipos \nde seres vivos, expressos na coluna A, ao reino em que ele se pode incluir, que consta da coluna B.\nUtilize cada letra e cada número apenas uma vez.\nCOLUNA A COLUNA B\n(a) Eucarionte unicelular fotossintético.\n(b) Ser vivo pluricelular com digestão extracorporal.\n(c) Organismo aeróbio com DNA disperso no \ncitoplasma.\n(1) Animalia\n(2) Fungi\n(3) Monera\n(4) Plantae\n(5) Protista",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    },
+    {
+      "id": 2023,
+      "question_number": "9",
+      "statement": "9. Explique a elevada concentração de radão existente nos pisos inferiores das habitações, nos distritos da \nGuarda e de Viseu, tendo em conta as propriedades desse gás, as características litológicas da região e o \nestado de conservação das habitações.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. ........................................................................................................... 15 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 2024,
+      "question_number": "10",
+      "statement": "10. ......................................................................................................... 10 pontos\n65 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "10. ......................................................................................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 2047,
+      "question_number": "16",
+      "statement": "16. ......................................................................................................... 10 pontos\n35 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "16. ......................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
+    },
+    {
+      "id": 2046,
+      "question_number": "17",
+      "statement": "17. ......................................................................................................... 15 pontos\n45 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "17. ......................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
+    },
+    {
+      "id": 2048,
+      "question_number": "19",
+      "statement": "19. ......................................................................................................... 15 pontos\n55 pontos\n TOTAL ......................................... 200 pontos",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "19. ......................................................................................................... 15 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
+    }
+  ]
+}

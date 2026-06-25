@@ -1,0 +1,370 @@
+{
+  "examId": 30,
+  "examKey": "2017-702-F2",
+  "subject": "Biologia e Geologia",
+  "year": 2017,
+  "phase": "F2",
+  "groups": [
+    {
+      "id": 221,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 222,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 223,
+      "name": "GRUPO III",
+      "order": 2
+    },
+    {
+      "id": 224,
+      "name": "GRUPO IV",
+      "order": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": 1632,
+      "question_number": "1",
+      "statement": "1. Os tRNA que transportam a L-canavanina e a L-arginina têm",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2926,
+          "letter": "A",
+          "text": "os mesmos anticodões.",
+          "isCorrect": false
+        },
+        {
+          "id": 2927,
+          "letter": "B",
+          "text": "diferentes tipos de estruturas.",
+          "isCorrect": false
+        },
+        {
+          "id": 2928,
+          "letter": "C",
+          "text": "os mesmos codões.",
+          "isCorrect": false
+        },
+        {
+          "id": 2929,
+          "letter": "D",
+          "text": "diferentes tipos de nucleótidos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1\nNotas:\n– O parâmetro Discurso e rigor científico só é avaliado nos tópicos do parâmetro Conteúdo que tenham sido \nvalidados na resposta, pelo que a atribuição da classificação de zero pontos no parâmetro Conteúdo implica a atribuição \nde zero pontos no parâmetro Discurso e rigor científico.\n– Caso, na resposta, se verifique o incumprimento das normas de nomenclatura binominal, aplica-se uma desvalorização \nde 2 pontos ao total da pontuação atribuída à resposta. Esta desvalorização aplica-se apenas uma vez na prova.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    },
+    {
+      "id": 1633,
+      "question_number": "2",
+      "statement": "2. O objetivo da investigação foi",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2902,
+          "letter": "A",
+          "text": "quantificar o resíduo insolúvel disponível para a geração de petróleo.",
+          "isCorrect": false
+        },
+        {
+          "id": 2903,
+          "letter": "B",
+          "text": "compreender a evolução da zona correspondente à Bacia Lusitânica.",
+          "isCorrect": false
+        },
+        {
+          "id": 2904,
+          "letter": "C",
+          "text": "avaliar o potencial das rochas para a geração de petróleo.",
+          "isCorrect": false
+        },
+        {
+          "id": 2905,
+          "letter": "D",
+          "text": "identificar a origem dos sedimentos da Bacia Lusitânica.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2 Apresenta um discurso estruturado e com rigor científico. 2",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Tabela 1",
+      "contextText": "GRUPO III\nO petróleo, mistura de hidrocarbonetos (HC) e de não hidrocarbonetos, resulta de transformações \na partir do querogénio, a fração da matéria orgânica sedimentar que é insolúvel nos solventes \norgânicos comuns.\nAté 1000 metros de profundidade e 50 °C, a matéria orgânica incorporada nos sedimentos \nsofre diagénese, dando origem, consoante os ambientes de sedimentação, a diferentes tipos de \nquerogénio – I, II, III ou IV –, que apresentam, sucessivamente, quantidades decrescentes de \nhidrogénio.\nPara a determinação do potencial gerador, isto é, da quantidade de petróleo que um querogénio \né capaz de gerar, é usada a técnica de pirólise Rock-Eval. Nesta técnica, uma pequena quantidade \nde rocha é submetida a temperaturas que permitem a degradação do querogénio e a geração de \nhidrocarbonetos.\nNa margem oeste da Península Ibérica foram colhidas amostras de rocha de diferentes formações \ngeológicas da Bacia Lusitânica. Os métodos utilizados para o estudo das amostras são descritos \na seguir, de forma sumária. Na Tabela 1, apresentam-se alguns resultados obtidos em três das \namostras estudadas, nas quais se identificou querogénio I-II e III-IV.\nMétodos utilizados\n1 – As amostras foram tratadas com ácido clorídrico.\n2 – A componente não eliminada pelo ácido foi utilizada na análise do teor de carbono orgânico \ntotal (COT) das amostras e no cálculo do seu resíduo insolúvel.\n3 – Nas amostras com teores de COT superiores a 0,5%, foram quantificados o potencial gerador \ne os índices de hidrogénio.\nResultados obtidos\nTabela 1\nAmostra Idade \n(Ma)\nFormação \ngeológica\nResíduo \ninsolúvel\n(%)\nCarbono \norgânico total\n(%)\nÍndice de \nhidrogénio \n(mg HC/g COT)\nPotencial gerador \n(mg HC/g \nde rocha)\n1\nJurássico \nsuperior\n(161-155)\nCabaços 14 2,8 563,9 16,0\n2\nJurássico \ninferior\n(199-196)\nPereiros 96 0,6 16,7 0,1\n3 Triásico\n(228-216) Conraria 96 0,9 33,3 0,3\nBaseado em Spigolon et al.,«Geoquímica orgânica de rochas potencialmente geradoras de petróleo no contexto evolutivo da \nBacia Lusitânica, Portugal», Boletim de Geociências – Petrobras, Vol. 19, n.os 1/2, janeiro de 2011, e em J. Gomes & F. Alves, \nO Universo da Indústria Petrolífera – da pesquisa à refinação, Lisboa, Fundação Calouste Gulbenkian, 2011"
+    },
+    {
+      "id": 1634,
+      "question_number": "3",
+      "statement": "3. A incorporação da L-canavanina em polipéptidos pelos insetos originará",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2930,
+          "letter": "A",
+          "text": "proteínas que não podem incluir L-arginina.",
+          "isCorrect": false
+        },
+        {
+          "id": 2931,
+          "letter": "B",
+          "text": "proteínas com uma estrutura modificada.",
+          "isCorrect": true
+        },
+        {
+          "id": 2932,
+          "letter": "C",
+          "text": "proteínas com um maior número de aminoácidos.",
+          "isCorrect": false
+        },
+        {
+          "id": 2933,
+          "letter": "D",
+          "text": "proteínas idênticas às proteínas com L-arginina.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (C)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    },
+    {
+      "id": 1635,
+      "question_number": "4",
+      "statement": "4. Os afídios _______ a seiva que circula nos vasos _______ da planta.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2934,
+          "letter": "A",
+          "text": "absorvem … floémicos",
+          "isCorrect": false
+        },
+        {
+          "id": 2935,
+          "letter": "B",
+          "text": "ingerem … xilémicos",
+          "isCorrect": false
+        },
+        {
+          "id": 2936,
+          "letter": "C",
+          "text": "absorvem … xilémicos",
+          "isCorrect": false
+        },
+        {
+          "id": 2937,
+          "letter": "D",
+          "text": "ingerem … floémicos",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (D)\nVersão 2 – Opção (A)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    },
+    {
+      "id": 1636,
+      "question_number": "5",
+      "statement": "5. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos que permitem a acumulação de substâncias de reserva, a partir da síntese de matéria \norgânica.\nA. Aumento da pressão osmótica no floema.\nB. Translocação floémica.\nC. Formação de sacarose.\nD. Saída de compostos orgânicos do floema.\nE.   Transporte ativo de dissacarídeos para o floema.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "5 5 5 5 5 5 5 5 10 50\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    },
+    {
+      "id": 1637,
+      "question_number": "6",
+      "statement": "6. As leguminosas estabelecem relações de simbiose com bactérias fixadoras de nitrogénio, que é necessário \npara a síntese",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2938,
+          "letter": "A",
+          "text": "de glúcidos e de ácidos gordos.",
+          "isCorrect": false
+        },
+        {
+          "id": 2939,
+          "letter": "B",
+          "text": "de proteínas e de ácidos nucleicos.",
+          "isCorrect": true
+        },
+        {
+          "id": 2940,
+          "letter": "C",
+          "text": "de proteínas e de ácidos gordos.",
+          "isCorrect": false
+        },
+        {
+          "id": 2941,
+          "letter": "D",
+          "text": "de glúcidos e de ácidos nucleicos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (A)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    },
+    {
+      "id": 1638,
+      "question_number": "7",
+      "statement": "7. Se as células das leguminosas forem colocadas em meio hipotónico,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2942,
+          "letter": "A",
+          "text": "os metabolitos tóxicos ficarão menos diluídos, e a célula ficará túrgida.",
+          "isCorrect": false
+        },
+        {
+          "id": 2943,
+          "letter": "B",
+          "text": "os metabolitos tóxicos ficarão mais diluídos, e a célula ficará plasmolisada.",
+          "isCorrect": false
+        },
+        {
+          "id": 2944,
+          "letter": "C",
+          "text": "aumentará a pressão de turgescência e aumentará o volume vacuolar.",
+          "isCorrect": true
+        },
+        {
+          "id": 2945,
+          "letter": "D",
+          "text": "diminuirá a pressão de turgescência e diminuirá o volume vacuolar.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    },
+    {
+      "id": 1653,
+      "question_number": "8",
+      "statement": "8. Faça corresponder cada uma das descrições relativas ao processo de produção de gâmetas pelos insetos, \nexpressas na coluna A, à respetiva etapa da divisão nuclear, que consta na coluna B.\nCOLUNA A COLUNA B\n(a) Os pontos de quiasma localizam-se no plano equatorial do fuso \nacromático.\n(b) Os cromatídeos de cromossomas homólogos trocam segmentos \nentre si.\n(c) Os centrómeros dividem-se e os cromatídeos separam-se.\n(1) Anáfase I\n(2) Anáfase II\n(3) Metáfase I\n(4) Metáfase II\n(5) Prófase I",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – (a) – (3); (b) – (5); (c) – (2)\nVersão 2 – (a) – (3); (b) – (2); (c) – (5)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    },
+    {
+      "id": 1654,
+      "question_number": "9",
+      "statement": "9. Explique, do ponto de vista darwinista, de que modo o desenvolvimento das populações de insetos capazes \nde metabolizar o aminoácido L-canavanina foi influenciado pelo aparecimento das leguminosas.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 15 50\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 10 50\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 15 55\nTOTAL 200\n\nESTA PÁGINA NÃO ESTÁ IMPRESSA PROPOSITADAMENTE\n\nProva 702\n2.ª Fase\nVERSÃO 1",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. .................................................................................................................................................... 15 pontos\nTópicos de resposta:\n•  nas populações de insetos já existiam indivíduos capazes de resistir ao aminoácido \nL-canavanina (ou já existia variabilidade);\n•  o aparecimento de leguminosas que sintetizam o aminoácido L-canavanina levou à seleção \nnatural (ou à sobrevivência diferencial) de insetos capazes de metabolizar esse aminoácido;\n•  a reprodução diferencial de insetos capazes de metabolizar o aminoácido L-canavanina \nlevou ao desenvolvimento das populações desses insetos.\nParâmetro Nível Descritores de desempenho Pontuação\nConteúdo",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nUma das estratégias utilizadas por plantas como as leguminosas na defesa contra os afídios 1 \né a síntese de substâncias tóxicas. Estes metabolitos secundários 2, quando hidrossolúveis, são \narmazenados pelas plantas em vacúolos. \nUm exemplo de um metabolito secundário é o aminoácido L-canavanina, que se acumula \nsobretudo em sementes e que é estruturalmente semelhante ao aminoácido L-arginina. Nas plantas, \na L-canavanina, contrariamente à L-arginina, não é incorporada nas proteínas.\nOs organismos que consomem as sementes podem incorporar o aminoácido nas suas \nproteínas, no lugar da L-arginina, pois a enzima responsável pela ligação do aminoácido ao RNA de \ntransferência não reconhece a diferença. Alguns insetos, no entanto, desenvolveram estratégias de \ndefesa, pois conseguem metabolizar eficientemente estas moléculas em seu benefício ou evitar a \nsua incorporação nas proteínas.\nBaseado em D. Hillis et al., Principles of Life, Sunderland, Sinauer Associates, 2012\nNotas:\n1 afídios – insetos que se alimentam da seiva das plantas.\n2 metabolitos secundários – metabolitos que não são necessários para processos celulares essenciais."
+    }
+  ]
+}

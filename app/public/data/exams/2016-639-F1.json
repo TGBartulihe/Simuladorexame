@@ -1,0 +1,319 @@
+{
+  "examId": 130,
+  "examKey": "2016-639-F1",
+  "subject": "Português",
+  "year": 2016,
+  "phase": "F1",
+  "groups": [
+    {
+      "id": 267,
+      "name": "GRUPO I",
+      "order": 0
+    },
+    {
+      "id": 268,
+      "name": "GRUPO II",
+      "order": 1
+    },
+    {
+      "id": 269,
+      "name": "GRUPO III",
+      "order": 2
+    }
+  ],
+  "questions": [
+    {
+      "id": 1952,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2016/).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1 Refere-se, de modo incompleto e com imprecisões, à relação entre o sentido do verso 8 \ne o conteúdo dos dois tercetos. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\nCenário de resposta\nO verso «qualquer grande esperança é grande engano» (v. 8) sugere que, para o sujeito poético, toda a \nesperança acaba por se revelar ilusória. \nEsta ideia concretiza-se nos dois tercetos. O bem desejado é representado como um objetivo que se \npersegue, num caminho em que o sujeito cai e se levanta, até que o próprio bem desejado se perde de \nvista e o desânimo vence.\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\n«Ante os múltiplos desafios do futuro, a educação surge como um trunfo indispensável à humanidade na \nsua construção dos ideais da paz, da liberdade e da justiça social.»\nRelatório para a UNESCO da Comissão Internacional sobre Educação para o Século XXI, 1998, p. 11\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a ideia exposta no excerto transcrito.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
+    },
+    {
+      "id": 1953,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.\n5 × 20 pontos 100\nII 1. a 10.\n10 × 5 pontos 50\nIII Item único 50\nTOTAL 200",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2\nRelaciona, de modo não totalmente completo e com pequenas imprecisões, o sentido do \nverso 8 com o conteúdo dos dois tercetos.\nOU\nRelaciona, de modo incompleto ou com imprecisões, o sentido do verso 8 com o conteúdo \ndos dois tercetos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\n«Ante os múltiplos desafios do futuro, a educação surge como um trunfo indispensável à humanidade na \nsua construção dos ideais da paz, da liberdade e da justiça social.»\nRelatório para a UNESCO da Comissão Internacional sobre Educação para o Século XXI, 1998, p. 11\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a ideia exposta no excerto transcrito.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
+    },
+    {
+      "id": 1954,
+      "question_number": "3",
+      "statement": "3. O exemplo apresentado no terceiro parágrafo evidencia a ideia de que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3566,
+          "letter": "A",
+          "text": "é impossível fazer o cálculo do risco de cada situação.",
+          "isCorrect": false
+        },
+        {
+          "id": 3567,
+          "letter": "B",
+          "text": "a perceção do risco tem uma vertente psicológica inquestionável.",
+          "isCorrect": false
+        },
+        {
+          "id": 3568,
+          "letter": "C",
+          "text": "é imprescindível calcular a probabilidade de risco de cada situação.",
+          "isCorrect": false
+        },
+        {
+          "id": 3569,
+          "letter": "D",
+          "text": "o medo resulta diretamente do conhecimento da probabilidade de risco.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3 Relaciona, de modo não totalmente completo ou com pequenas imprecisões, o sentido do \nverso 8 com o conteúdo dos dois tercetos. 9",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    },
+    {
+      "id": 1955,
+      "question_number": "4",
+      "statement": "4. Do ponto de vista do autor, os «perigos da ciência» (linha 30) decorrem",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3570,
+          "letter": "A",
+          "text": "da posse do saber científico pelo homem.",
+          "isCorrect": false
+        },
+        {
+          "id": 3571,
+          "letter": "B",
+          "text": "do processo intelectual próprio da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 3572,
+          "letter": "C",
+          "text": "do uso dos conhecimentos científicos.",
+          "isCorrect": false
+        },
+        {
+          "id": 3573,
+          "letter": "D",
+          "text": "da excessiva valorização da ciência.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4 Relaciona, adequadamente, o sentido do verso 8 com o conteúdo dos dois tercetos. 12",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    },
+    {
+      "id": 1960,
+      "question_number": "5",
+      "statement": "5. Nas expressões «protege-nos dos riscos» (linha 17) e «A ciência traz-nos constantemente novos riscos» \n(linhas 28 e 29), os pronomes pessoais desempenham as funções sintáticas de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3574,
+          "letter": "A",
+          "text": "complemento indireto e de complemento direto, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 3575,
+          "letter": "B",
+          "text": "complemento direto e de complemento indireto, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 3576,
+          "letter": "C",
+          "text": "complemento indireto, em ambos os casos.",
+          "isCorrect": false
+        },
+        {
+          "id": 3577,
+          "letter": "D",
+          "text": "complemento direto, em ambos os casos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5 4 3 2 1\nC\nLéxico e \nadequação \ndo discurso\n – Mobiliza, com intencionalidade, \nrecursos da língua expressivos \ne adequados (repertório lexical \nvariado e pertinente, figuras de \nretórica e tropos, procedimentos \nde modalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Mobiliza um repertório lexical \nadequado, mas pouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Utiliza vocabulário \nelementar e restrito (muitas \nvezes redundante) ou \nglobalmente inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência do \nregisto adequado ao texto, \nou recorre a um único \nregisto inadequado.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    },
+    {
+      "id": 1961,
+      "question_number": "6",
+      "statement": "6. O uso das palavras «dele» (linha 28) e «os» (linha 29) contribui para a coesão",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3578,
+          "letter": "A",
+          "text": "lexical.",
+          "isCorrect": false
+        },
+        {
+          "id": 3579,
+          "letter": "B",
+          "text": "aspeto-temporal.",
+          "isCorrect": false
+        },
+        {
+          "id": 3580,
+          "letter": "C",
+          "text": "frásica.",
+          "isCorrect": false
+        },
+        {
+          "id": 3581,
+          "letter": "D",
+          "text": "referencial.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    },
+    {
+      "id": 1962,
+      "question_number": "7",
+      "statement": "7. O último parágrafo do texto é predominantemente",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 3582,
+          "letter": "A",
+          "text": "narrativo.",
+          "isCorrect": false
+        },
+        {
+          "id": 3583,
+          "letter": "B",
+          "text": "expositivo.",
+          "isCorrect": false
+        },
+        {
+          "id": 3584,
+          "letter": "C",
+          "text": "descritivo.",
+          "isCorrect": false
+        },
+        {
+          "id": 3585,
+          "letter": "D",
+          "text": "argumentativo.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    },
+    {
+      "id": 1963,
+      "question_number": "10",
+      "statement": "10. Refira a função sintática desempenhada pela oração subordinada presente em «é inevitável que vivamos \npermanentemente sob ameaças» (linha 8).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "10 8 6 4 2\nB\nEstrutura e \ncoesão\n – Redige um texto bem \nestruturado, refletindo uma \nplanificação adequada \ne evidenciando um bom \ndomínio dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três partes \n(introdução, desenvolvimento \ne conclusão), \nindividualizadas, devidamente \nproporcionadas e articuladas \nentre si de modo consistente;\n • marca corretamente os \nparágrafos;\n • utiliza, adequadamente, \nconectores diversificados \npara assegurar a articulação \ninterfrásica; \n • mantém, de forma \nsistemática, cadeias de \nreferência através de \nsubstituições nominais e \npronominais adequadas;\n • estabelece conexões \nadequadas entre \ncoordenadas de enunciação \n(pessoa, tempo, espaço) ao \nlongo do texto.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Redige um texto \nsatisfatoriamente estruturado, \nrefletindo uma planificação \ncom algumas insuficiências \ne evidenciando um domínio \nsuficiente dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três \npartes (introdução, \ndesenvolvimento \ne conclusão), nem \nsempre devidamente \narticuladas entre si ou com \ndesequilíbrios de proporção \nmais ou menos notórios;\n • marca parágrafos, mas com \nalgumas falhas;\n • utiliza apenas os conectores \nmais comuns, embora sem \nincorreções graves;\n • mantém, com algumas \ndescontinuidades, cadeias \nde referência;\n • estabelece, com algumas \ndescontinuidades, conexões \nentre as coordenadas de \nenunciação (pessoa, tempo, \nespaço) ao longo do texto.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Redige um texto com \nestruturação muito \ndeficiente e com \ninsuficientes mecanismos \nde coesão textual:\n • apresenta um texto em \nque não se conseguem \nidentificar claramente \ntrês partes (introdução, \ndesenvolvimento e \nconclusão) ou em \nque estas estão \ninsuficientemente \narticuladas;\n • raramente marca \nparágrafos de forma \ncorreta;\n • raramente utiliza \nconectores e mecanismos \nde coesão textual ou \nutiliza-os de forma \ninadequada.\n\nPONTUAÇÃO\nPARÂMETRO\nDESCRITORES DOS NÍVEIS DE DESEMPENHO (ETD)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    }
+  ]
+}

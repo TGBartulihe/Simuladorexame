@@ -1,0 +1,393 @@
+{
+  "examId": 94,
+  "examKey": "2018-635-F1",
+  "subject": "Matemática A",
+  "year": 2018,
+  "phase": "F1",
+  "groups": [
+    {
+      "id": 209,
+      "name": "SEM GRUPO",
+      "order": 0
+    }
+  ],
+  "questions": [
+    {
+      "id": 1548,
+      "question_number": "1",
+      "statement": "1. \nOs \ndois itens que se apresentam a seguir são itens em alternativa.\nO item 1.1. integra-se nos Programas de Matemática A, de 10.º, 11.º e 12.º anos, homologados em 2001 e \n2002 (P2001/2002).\nO item 1.2. integra-se no Programa e Metas Curriculares de Matemática A, homologado em 2015 (PMC2015).\nResponda apenas a um dos dois itens.\nNa sua folha de respostas, identifique claramente o item selecionado.\nP2001/2002",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1 01cm .................................................................................... 2 pontos\nDeterminar g 1^h ................................................................................................. 1 pontos\nJustificar que g 1 02^h ...................................................................................... 2 pontos\nInvocar o teorema de Bolzano-Cauchy (ou teorema de Bolzano) para concluir o\npretendido ............................................................................................................ 1 pontos\nCOTAÇÕES\nItem\nCotação (em pontos)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1551,
+      "question_number": "2",
+      "statement": "2. Na Figura 2, está representado, num referencial o.n. Oxyz, um prisma hexagonal regular.\nSabe-se que:\n•  PQ6@ e QR6@ são arestas de uma das bases do\nprisma;\n•  PQ 4=",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2\nfp . 2 pontos\nDeterminar a equação reduzida da reta que passa nos pontos do gráfico de h\nde abcissas a e 2a ............................................................................................ 1 pontos\nDeterminar a abcissa do ponto de intersecção da reta com o eixo Ox, em\nfunção de a ......................................................................................................... 1 pontos\n\nReferir que a função g definida por ga ba ca= +^^ ^hh h é contínua em ,2",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1556,
+      "question_number": "4",
+      "statement": "4.\n Um feixe de luz \nincide perpendicularmente sobre um conjunto de três placas sobrepostas, homogéneas e \niguais, feitas de um material transparente. A Figura 3 ilustra a situação.\nAdmita que a potência, L, da luz transmitida, após atravessar o \nconjunto de placas, é dada por\nLI R e1 6 3= − m−^h\nem que:\n•  I é a potência da luz incidente;\n•  R é o coeficiente de reflexão do material R0111^h\n•  m é o coeficiente de absorção do material, por centímetro\n02m^h\nRelativamente ao material de que as placas são feitas, sabe-se que o coeficiente de reflexão, R, e o \ncoeficiente de absorção, m, têm o mesmo valor numérico.\nSabe-se ainda que a potência da luz transmitida é igual a metade da potência da luz incidente.\nDetermine, recorrendo à calculadora gráfica, o valor comum dos coeficientes de absorção e de reflexão do \nmaterial, sabendo-se que esse valor existe e é único.\nNão justifique a validade do resultado obtido na calculadora.\nNa sua resposta:\n – equacione o problema;\n – reproduza, num referencial, o(s) gráfico(s) da(s) função(ões) visualizado(s) na calculadora que lhe \npermite(m) resolver a equação;\n – apresente o valor pedido arredondado às milésimas.\nluz transmitida\nFigura 3\nluz incidente",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "4$ (ver nota) ............................................................. 7 pontos\nEscrever x xx\nx44 0",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1557,
+      "question_number": "5",
+      "statement": "5. Para um certo número real x, pertencente ao intervalo , 012\nr ; E, o número complexo coss enzx ix 10= +^h \nverifica a condição Im Rezz 3\n1=^^ hh\nQual é o valor de x arredondado às centésimas?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2692,
+          "letter": "A",
+          "text": "0,02",
+          "isCorrect": false
+        },
+        {
+          "id": 2693,
+          "letter": "B",
+          "text": "0,03",
+          "isCorrect": true
+        },
+        {
+          "id": 2694,
+          "letter": "C",
+          "text": "0,12",
+          "isCorrect": false
+        },
+        {
+          "id": 2695,
+          "letter": "D",
+          "text": "0,13",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 8 pontos\nOpção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1558,
+      "question_number": "6",
+      "statement": "6. Seja a um número real.\nSabe-se que a, eaa 61 8++ são três termos consecutivos de uma progressão geométrica.\nRelativamente a essa progressão geométrica, sabe-se ainda que a soma dos sete primeiros termos é \nigual a 381\nDetermine o primeiro termo dessa progressão.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "6. .................................................................................................................................................... 12 pontos\nReconhecer que a razão da progressão é dada, em função de a, por\nou por\na\na\na\na6",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1559,
+      "question_number": "7",
+      "statement": "7.\n Na Figura 4, está representad\na, num referencial o.n. xOy, uma circunferência de centro na origem e que\npassa nos pontos e,, ,,AB CD EF\nSabe-se que:\n•  o ponto A pertence ao semieixo positivo Ox e tem abcissa igual\na 2\n•  os pontos B e F têm ambos abcissa igual a 1\n•  os pontos e,CD E são, respetivamente, os simétricos dos\npontos e,BA F relativamente ao eixo Oy\nQual das condições seguintes define o domínio plano representado \na sombreado?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2696,
+          "letter": "A",
+          "text": "xy x2122 /#$+",
+          "isCorrect": false
+        },
+        {
+          "id": 2697,
+          "letter": "B",
+          "text": "xy x4122 /##+",
+          "isCorrect": false
+        },
+        {
+          "id": 2698,
+          "letter": "C",
+          "text": "xy x4122 /#$+",
+          "isCorrect": true
+        },
+        {
+          "id": 2699,
+          "letter": "D",
+          "text": "xy x2122 /##+ FIM DO CADERNO 1 O x y A BC D E F Figura 4 COTAÇÕES (Caderno 1) Item Cotação (em pontos)",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 8 pontos\nOpção (C)\nCaderno 2",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1549,
+      "question_number": "1.1",
+      "statement": "1.1.\n Na Figura 1, está representa\ndo um dado tetraédrico equilibrado, com as faces \nnumeradas de 1 a 4\nLança-se dez vezes esse dado e, em cada lançamento, regista-se o número da \nface que fica voltada para baixo.\nQual é a probabilidade, arredondada às milésimas, de sair exatamente seis \nvezes a face com o número 3 ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2680,
+          "letter": "A",
+          "text": "0,146",
+          "isCorrect": false
+        },
+        {
+          "id": 2681,
+          "letter": "B",
+          "text": "0,016",
+          "isCorrect": false
+        },
+        {
+          "id": 2682,
+          "letter": "C",
+          "text": "0,008",
+          "isCorrect": false
+        },
+        {
+          "id": 2683,
+          "letter": "D",
+          "text": "0,007 PMC2015",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.1. 1.2. 2.1. 2.2. 2.3. 3.1. 3.2. 4. 5. 6. 7.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1550,
+      "question_number": "1.2",
+      "statement": "1.2.\n Seja f uma função diferenciável no intervalo ,026@ tal que:\n•  f 0 1=^h\n•  ,,xf x02 096 11d l^h6@\nO teorema de Lagrange, aplicado à função f em ,026@ , permite concluir que:",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2684,
+          "letter": "A",
+          "text": "f02 1811^h",
+          "isCorrect": false
+        },
+        {
+          "id": 2685,
+          "letter": "B",
+          "text": "f12 1911^h",
+          "isCorrect": true
+        },
+        {
+          "id": 2686,
+          "letter": "C",
+          "text": "f22 2011^h",
+          "isCorrect": false
+        },
+        {
+          "id": 2687,
+          "letter": "D",
+          "text": "f32 2111^h 1 4 3 Figura 1",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.2. ................................................................................................................................................. 8 pontos\nOpção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1552,
+      "question_number": "2.2",
+      "statement": "2.2. Sabe-se ainda que:\n•  o plano PQR tem equação xy z23 15 0+− − =\n•  uma das arestas laterais do prisma é o segmento de reta PS6@ , em que S é o ponto de \ncoordenadas ,,14 50^h\nDetermine a área lateral do prisma.\nApresente o resultado arredondado às décimas.\nSe, em cálculos intermédios, proceder a arredondamentos, conserve, no mínimo, três casas \ndecimais.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2.2. ................................................................................................................................................. 12 pontos\nEste item pode ser resolvido por, pelo menos, dois processos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1553,
+      "question_number": "2.3",
+      "statement": "2.3.\n Escolhem-se, ao acaso, dois vértices de cada uma das bases do prisma.\nDetermine a probabilidade \nde esses quatro pontos pertencerem a uma mesma face lateral do prisma.\nApresente o resultado na forma de dízima, arredondado às centésimas.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2.3. ................................................................................................................................................. 12 pontos\nEste item pode ser resolvido por, pelo menos, dois processos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1554,
+      "question_number": "3.1",
+      "statement": "3.1.\n Doze \nalunos dessa escola, quatro de Espanhol e oito de Inglês, dispõem-se lado a lado em linha reta \npara tirar uma fotografia.\nDe quantas maneiras se podem dispor os doze alunos, de modo que os alunos da mesma disciplina \nfiquem juntos?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 2688,
+          "letter": "A",
+          "text": "40 320",
+          "isCorrect": false
+        },
+        {
+          "id": 2689,
+          "letter": "B",
+          "text": "80 640",
+          "isCorrect": false
+        },
+        {
+          "id": 2690,
+          "letter": "C",
+          "text": "967 680",
+          "isCorrect": false
+        },
+        {
+          "id": 2691,
+          "letter": "D",
+          "text": "1 935 360 S P Q R O x y z Figura 2Figura 2",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "3.1. ................................................................................................................................................. 8 pontos\nOpção (D)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    },
+    {
+      "id": 1555,
+      "question_number": "3.2",
+      "statement": "3.2. Relativamente a essa escola, sabe-se que:\n•  o número de alunos que estudam Espanhol é igual ao número de alunos que estudam Inglês;\n•  o número de alunos que estudam, pelo menos, uma das duas línguas é o quádruplo do número de \nalunos que estudam as duas línguas.\nEscolhe-se, ao acaso, um aluno dessa escola.\nDetermine a probabilidade de esse aluno estudar Inglês, sabendo que estuda Espanhol.\nApresente o resultado na forma de percentagem.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3.2. ................................................................................................................................................. 13 pontos\nDesignemos por E o acontecimento «o aluno escolhido estuda Espanhol» e\npor I o acontecimento «o aluno escolhido estuda Inglês».\nIdentificar o pedido com P IE^h ....................................................................... 2 pontos\nEscrever P E P I=^^ hh ..................................................................................... 2 pontos\nEscrever P EI P EI4 k=j^^ hh (ou equivalente) .......................................... 3 pontos\nObter P EI P E52 k =^^ hh ............................................................................... 2 pontos\nEscrever P IE P E\nP EIk=^ ^\n^h h\nh ......................................................................... 1 pontos\nObter P IE 5",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "SEM GRUPO",
+      "contextTitle": null,
+      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2018\n12.º Ano de Escolaridade\nDecreto-Lei n.º 139/2012, de 5 de julho\nDuração da Prova (Caderno 1 + Caderno 2): 150 minutos. | Tolerância: 30 minutos. 7 Páginas\nNos termos da lei em vigor, as provas de avaliação externa são obras protegidas pelo Código do Direito de Autor e dos \nDireitos Conexos. A sua divulgação não suprime os direitos previstos na lei. Assim, é proibida a utilização destas provas, \nCaderno 1\nCaderno 1: 75 minutos. Tolerância: 15 minutos.\nÉ permitido o uso de calculadora.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nÉ permitido o uso de régua, compasso, esquadro e transferidor.\nSó é permitido o uso de calculadora no Caderno 1.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nApresente as suas respostas de forma legível.\nApresente apenas uma resposta para cada item.\nA prova inclui um formulário.\nAs cotações dos itens de cada caderno encontram-se no final do respetivo caderno.\nNa resposta aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNa resposta aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitud ee mr adiano sd on gulo ao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitud ee mr adiano sd on gulo ao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raio da base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nse ns en sen\na\nA\nb\nB\nc\nC==\nco sab cb cA222 2= + -\nComplexos\nouci sc is n e en i n ni nti t t t== i in i^^ ^hh h\nnouci sc is n\nk ee2 knn in n i 2\nti t ir tt= + =\niri +\ncm\n,,kn n01 e Nf!! -^h !+\nProbabilidades\n,,\n,\n,\n,\nSe ée ntão\npx px\npx px\nXN\nPX\nPX\nPX\n06 827\n22 09 545\n33 0 997 3\n:\nnn\nnn\n11\n11\n22\nf\nf\n11\n11\n11\n.\n.\n.\nn\nvn n\nnv\nnv nv\nnv nv\nnv nv\n= ++\n=- ++ -\n- +\n- +\n- +\n]\n]\n]\n]\n]\n^\ng\ng\ng\ng\ng\nh\nRegras de derivação\nu\nu\nu\nu\nu\nu\nse nc os\nco ss en\ntg co s\nln\nln\nlo g ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nli m\nli m sen\nli m\nli m ln\nli m\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
+    }
+  ]
+}
