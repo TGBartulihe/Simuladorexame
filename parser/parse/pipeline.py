@@ -3,7 +3,7 @@ from __future__ import annotations
 from parser.utils.clean_text import clean_text
 from parser.utils.split_pages import split_pages
 from parser.utils.match_questions import match_questions
-from parser.parse.extract_contexts import extract_contexts
+from parser.extract.extract_contexts import extract_contexts
 from parser.parse.parse_criteria import parse_criteria
 from parser.parse.parse_groups import parse_groups
 from parser.parse.parse_questions import QuestionParser
