@@ -4,51 +4,120 @@
   "subject": "Biologia e Geologia",
   "year": 2014,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 329,
+      "id": 1561,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 330,
+      "id": 1562,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 331,
+      "id": 1563,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 332,
+      "id": 1564,
       "name": "GRUPO IV",
       "order": 3
-    },
-    {
-      "id": 333,
-      "name": "GRUPO I",
-      "order": 4
-    },
-    {
-      "id": 334,
-      "name": "GRUPO II",
-      "order": 5
-    },
-    {
-      "id": 335,
-      "name": "GRUPO III",
-      "order": 6
-    },
-    {
-      "id": 336,
-      "name": "GRUPO IV",
-      "order": 7
     }
   ],
   "questions": [
     {
-      "id": 2202,
+      "id": 11167,
+      "question_number": "1",
+      "statement": "1. Ao longo da falha de Ornach-Nal, ocorrem predominantemente",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22212,
+          "letter": "A",
+          "text": "eucariontes heterotróficos.",
+          "isCorrect": true
+        },
+        {
+          "id": 22213,
+          "letter": "B",
+          "text": "eucariontes autotróficos.",
+          "isCorrect": false
+        },
+        {
+          "id": 22214,
+          "letter": "C",
+          "text": "procariontes fotossintéticos.",
+          "isCorrect": false
+        },
+        {
+          "id": 22215,
+          "letter": "D",
+          "text": "procariontes quimiossintéticos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (a)\nVersão 2 – Opção (c)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA zona de subdução de Makran, limitada a este e a oeste por duas grandes falhas, tem mostrado \nbaixa atividade sísmica desde os sismos de 1945 (magnitude 8,1) e de 1947 (magnitude 7,3), embora \nestudos recentes indiquem que esta zona de subdução é capaz de gerar sismos de magnitude \nentre 8,7 e 9,2.\nNuma zona de subdução, supõe-se que a rotura nas principais falhas inversas aí existentes, \ncapazes de gerar grandes sismos, ocorra, geralmente, a temperaturas entre 150 ºC e 450 ºC. Esta \ninformação, conjugada com outras, essencialmente, de índole geofísica, foi utilizada por cientistas \npara mapear a área potencial de rotura sísmica na zona de subdução de Makran. Os cientistas \nverificaram que a mesma abrange uma área com 350 km de largura, a norte da fossa tectónica de \nMakran, sendo invulgarmente larga em relação à maioria das outras zonas de subdução.\nO enquadramento tectónico da região encontra-se representado, de forma simplificada, na \nFigura 1.\n0 100 200 km\nNPlaca\nAfricana\nPlaca\nIndo-Australiana\nPlaca Arábica\nPlaca Euroasiática Falh\na d\ne\nMinab\nFossa tectónica de Makran\nFalha de Ornach-Na\nl\n0 400 km\nLimite divergente\nLimite convergente\nLimite conservativo\nÁrea potencial de rotura sísmicaY\nX\nFigura 1\nBaseado em noc.ac.uk/news/western-indian-ocean-earthquake-tsunami-hazard-potencial-greater-previously-thought\n(consultado em outubro de 2013)"
+    },
+    {
+      "id": 11173,
+      "question_number": "1",
+      "statement": "1. No estudo apresentado, constitui uma variável dependente",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11181,
+      "question_number": "1",
+      "statement": "1. Os fósseis de moluscos encontrados na unidade III, e referidos no texto, resultaram de processos de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO Atlântico invadiu a bacia do Baixo Tejo no início do Miocénico inferior. Desde então, a \nsedimentação tem ocorrido na interface continente-oceano, com oscilações da linha de costa – \nciclos transgressivo-regressivos – dependentes de efeitos tectónicos e de variações do nível da \nágua do mar. \nLisboa e a península de Setúbal estão localizadas no sector distal da bacia do Baixo Tejo, onde \nse encontram bem expostos estratos do Miocénico. Na determinação das idades desses estratos, \no estudo do seu conteúdo fossilífero foi fundamental. Os foraminíferos (protozoários geralmente \ncom concha calcária) foram particularmente importantes no que diz respeito aos sedimentos \nmarinhos, enquanto os fósseis de mamíferos se revelaram importantes marcadores nas formações \ncontinentais.\nNa Figura 3, está representado um corte geológico da arriba da margem esquerda do estuário \ndo Tejo, sob o monumento a Cristo Rei, em Almada, na península de Setúbal. Os estratos, pouco \ndeformados, fazem parte de unidades sequenciais bem definidas (II, III, IVa, IVb, Va1, Va2 e Va3), \ncaracterizadas pela presença de determinadas associações de fósseis de foraminíferos (N) e de \nmamíferos (MN3). Podem ser destacados outros fósseis, como, por exemplo, moldes de moluscos \n(nas unidades III, Va1 e Va3), exemplares do molusco Pereraia gervaisi (unidade IVa) e bancos de \nostras e restos de plantas (unidade IVb).\nRio Tejo\n100\n75\n50\n25\n0\nAreias e arenitos fluviais e deltaicos Argilas e siltes continentais Areias litorais\nBiocalcarenito (calcário conquífero com areia)Areias de estuário Argilas e siltes marinhos\nN8\nN7\nMN3\nN6\nN5\nRestos de plantas Foraminíferos planctónicos Mamíferos terrestres Descontinuidade erosiva\nVa3\nVa2\nVa1\nIVb\nIVa\nIII\nII\nm\n~ ~ ~~~ ~~ ~\nFigura 3\nBaseado em J. Pais et al., The Paleogene and Neogene of Western Iberia (Portugal), Heidelberg, Springer, 2012"
+    },
+    {
+      "id": 11188,
       "question_number": "1",
       "statement": "1. As trufas são seres",
       "question_type": "multiple_choice",
@@ -58,33 +127,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4114,
-          "letter": "A",
-          "text": "eucariontes heterotróficos.",
-          "isCorrect": false
-        },
-        {
-          "id": 4115,
-          "letter": "B",
-          "text": "eucariontes autotróficos.",
-          "isCorrect": false
-        },
-        {
-          "id": 4116,
-          "letter": "C",
-          "text": "procariontes fotossintéticos.",
-          "isCorrect": false
-        },
-        {
-          "id": 4117,
-          "letter": "D",
-          "text": "procariontes quimiossintéticos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -94,7 +138,95 @@
       "contextText": "GRUPO IV\nEm condições favoráveis, nos cogumelos, como na maioria dos fungos, todos os dias alguns \nesporos amadurecem e são libertados para o ar. Há, no entanto, fungos que frutificam debaixo de \nterra – as trufas.\nA ocorrência de mutações nas trufas, ao longo de milhões de anos, permitiu a formação de \ncompostos aromáticos que atraem os animais. Quando um animal come uma trufa, a maior parte \nda polpa é digerida, mas os esporos não.\nMuitas espécies de fungos vivem associadas às raízes de plantas lenhosas, produzindo uma rede \nde filamentos, ou hifas, que crescem entre as raízes das plantas, formando um órgão compartilhado \nde absorção conhecido como ectomicorriza.\nNa Figura 4, está representado o ciclo de vida de um cogumelo, um fungo pluricelular constituído \npor hifas, que, no seu conjunto, formam um micélio.\nBaseado em www2.uol.com.br/sciam/reportagens/a_vida_secreta_das_trufas.html\n(consultado em outubro de 2013)\nesporos\nhifa +\n(monocariótica)\nhifa -\n(monocariótica)\n+\n-\nmicélio\nII I\nIII\ncom hifas\ndicarióticas\nn n + n\n2n\nFigura 4\nFigura baseada em N. Campbell et al., Biology, S. Francisco, Pearson Education, Inc., 2009"
     },
     {
-      "id": 2203,
+      "id": 11168,
+      "question_number": "2",
+      "statement": "2. Na zona representada na Figura 1, o movimento relativo entre as placas leva a que a placa Africana se \ndesloque para _______ e a placa Indo-Australiana se desloque para _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22216,
+          "letter": "A",
+          "text": "análogas … divergente",
+          "isCorrect": false
+        },
+        {
+          "id": 22217,
+          "letter": "B",
+          "text": "análogas … convergente",
+          "isCorrect": true
+        },
+        {
+          "id": 22218,
+          "letter": "C",
+          "text": "homólogas … divergente",
+          "isCorrect": false
+        },
+        {
+          "id": 22219,
+          "letter": "D",
+          "text": "homólogas … convergente",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (a)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA zona de subdução de Makran, limitada a este e a oeste por duas grandes falhas, tem mostrado \nbaixa atividade sísmica desde os sismos de 1945 (magnitude 8,1) e de 1947 (magnitude 7,3), embora \nestudos recentes indiquem que esta zona de subdução é capaz de gerar sismos de magnitude \nentre 8,7 e 9,2.\nNuma zona de subdução, supõe-se que a rotura nas principais falhas inversas aí existentes, \ncapazes de gerar grandes sismos, ocorra, geralmente, a temperaturas entre 150 ºC e 450 ºC. Esta \ninformação, conjugada com outras, essencialmente, de índole geofísica, foi utilizada por cientistas \npara mapear a área potencial de rotura sísmica na zona de subdução de Makran. Os cientistas \nverificaram que a mesma abrange uma área com 350 km de largura, a norte da fossa tectónica de \nMakran, sendo invulgarmente larga em relação à maioria das outras zonas de subdução.\nO enquadramento tectónico da região encontra-se representado, de forma simplificada, na \nFigura 1.\n0 100 200 km\nNPlaca\nAfricana\nPlaca\nIndo-Australiana\nPlaca Arábica\nPlaca Euroasiática Falh\na d\ne\nMinab\nFossa tectónica de Makran\nFalha de Ornach-Na\nl\n0 400 km\nLimite divergente\nLimite convergente\nLimite conservativo\nÁrea potencial de rotura sísmicaY\nX\nFigura 1\nBaseado em noc.ac.uk/news/western-indian-ocean-earthquake-tsunami-hazard-potencial-greater-previously-thought\n(consultado em outubro de 2013)"
+    },
+    {
+      "id": 11174,
+      "question_number": "2",
+      "statement": "2. De acordo com a Figura 2, o início do amadurecimento dos morangos ocorreu ao _______ após ter sido \nrealizado o tratamento químico com _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11182,
+      "question_number": "2",
+      "statement": "2. O molusco Pereraia gervaisi é um fóssil de idade, pois esta espécie viveu num período de tempo \nrelativamente",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO Atlântico invadiu a bacia do Baixo Tejo no início do Miocénico inferior. Desde então, a \nsedimentação tem ocorrido na interface continente-oceano, com oscilações da linha de costa – \nciclos transgressivo-regressivos – dependentes de efeitos tectónicos e de variações do nível da \nágua do mar. \nLisboa e a península de Setúbal estão localizadas no sector distal da bacia do Baixo Tejo, onde \nse encontram bem expostos estratos do Miocénico. Na determinação das idades desses estratos, \no estudo do seu conteúdo fossilífero foi fundamental. Os foraminíferos (protozoários geralmente \ncom concha calcária) foram particularmente importantes no que diz respeito aos sedimentos \nmarinhos, enquanto os fósseis de mamíferos se revelaram importantes marcadores nas formações \ncontinentais.\nNa Figura 3, está representado um corte geológico da arriba da margem esquerda do estuário \ndo Tejo, sob o monumento a Cristo Rei, em Almada, na península de Setúbal. Os estratos, pouco \ndeformados, fazem parte de unidades sequenciais bem definidas (II, III, IVa, IVb, Va1, Va2 e Va3), \ncaracterizadas pela presença de determinadas associações de fósseis de foraminíferos (N) e de \nmamíferos (MN3). Podem ser destacados outros fósseis, como, por exemplo, moldes de moluscos \n(nas unidades III, Va1 e Va3), exemplares do molusco Pereraia gervaisi (unidade IVa) e bancos de \nostras e restos de plantas (unidade IVb).\nRio Tejo\n100\n75\n50\n25\n0\nAreias e arenitos fluviais e deltaicos Argilas e siltes continentais Areias litorais\nBiocalcarenito (calcário conquífero com areia)Areias de estuário Argilas e siltes marinhos\nN8\nN7\nMN3\nN6\nN5\nRestos de plantas Foraminíferos planctónicos Mamíferos terrestres Descontinuidade erosiva\nVa3\nVa2\nVa1\nIVb\nIVa\nIII\nII\nm\n~ ~ ~~~ ~~ ~\nFigura 3\nBaseado em J. Pais et al., The Paleogene and Neogene of Western Iberia (Portugal), Heidelberg, Springer, 2012"
+    },
+    {
+      "id": 11189,
       "question_number": "2",
       "statement": "2. As plantas de espécies diferentes sujeitas a idênticas pressões seletivas apresentam estruturas _______ \nque fundamentam a existência de processos de evolução _______.",
       "question_type": "multiple_choice",
@@ -104,33 +236,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4118,
-          "letter": "A",
-          "text": "análogas … divergente",
-          "isCorrect": false
-        },
-        {
-          "id": 4119,
-          "letter": "B",
-          "text": "análogas … convergente",
-          "isCorrect": false
-        },
-        {
-          "id": 4120,
-          "letter": "C",
-          "text": "homólogas … divergente",
-          "isCorrect": false
-        },
-        {
-          "id": 4121,
-          "letter": "D",
-          "text": "homólogas … convergente",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -140,7 +247,95 @@
       "contextText": "GRUPO IV\nEm condições favoráveis, nos cogumelos, como na maioria dos fungos, todos os dias alguns \nesporos amadurecem e são libertados para o ar. Há, no entanto, fungos que frutificam debaixo de \nterra – as trufas.\nA ocorrência de mutações nas trufas, ao longo de milhões de anos, permitiu a formação de \ncompostos aromáticos que atraem os animais. Quando um animal come uma trufa, a maior parte \nda polpa é digerida, mas os esporos não.\nMuitas espécies de fungos vivem associadas às raízes de plantas lenhosas, produzindo uma rede \nde filamentos, ou hifas, que crescem entre as raízes das plantas, formando um órgão compartilhado \nde absorção conhecido como ectomicorriza.\nNa Figura 4, está representado o ciclo de vida de um cogumelo, um fungo pluricelular constituído \npor hifas, que, no seu conjunto, formam um micélio.\nBaseado em www2.uol.com.br/sciam/reportagens/a_vida_secreta_das_trufas.html\n(consultado em outubro de 2013)\nesporos\nhifa +\n(monocariótica)\nhifa -\n(monocariótica)\n+\n-\nmicélio\nII I\nIII\ncom hifas\ndicarióticas\nn n + n\n2n\nFigura 4\nFigura baseada em N. Campbell et al., Biology, S. Francisco, Pearson Education, Inc., 2009"
     },
     {
-      "id": 2204,
+      "id": 11169,
+      "question_number": "3",
+      "statement": "3. De acordo com a Figura 1, comparativamente ao local X, no local Y, verifica-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22220,
+          "letter": "A",
+          "text": "mantêm a pressão osmótica mais baixa do que a da solução do solo.",
+          "isCorrect": false
+        },
+        {
+          "id": 22221,
+          "letter": "B",
+          "text": "promovem o transporte de água do meio hipertónico para o meio hipotónico.",
+          "isCorrect": false
+        },
+        {
+          "id": 22222,
+          "letter": "C",
+          "text": "promovem a entrada de solutos na planta por difusão facilitada.",
+          "isCorrect": false
+        },
+        {
+          "id": 22223,
+          "letter": "D",
+          "text": "mantêm o gradiente de solutos gerado por transporte ativo.",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (d)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA zona de subdução de Makran, limitada a este e a oeste por duas grandes falhas, tem mostrado \nbaixa atividade sísmica desde os sismos de 1945 (magnitude 8,1) e de 1947 (magnitude 7,3), embora \nestudos recentes indiquem que esta zona de subdução é capaz de gerar sismos de magnitude \nentre 8,7 e 9,2.\nNuma zona de subdução, supõe-se que a rotura nas principais falhas inversas aí existentes, \ncapazes de gerar grandes sismos, ocorra, geralmente, a temperaturas entre 150 ºC e 450 ºC. Esta \ninformação, conjugada com outras, essencialmente, de índole geofísica, foi utilizada por cientistas \npara mapear a área potencial de rotura sísmica na zona de subdução de Makran. Os cientistas \nverificaram que a mesma abrange uma área com 350 km de largura, a norte da fossa tectónica de \nMakran, sendo invulgarmente larga em relação à maioria das outras zonas de subdução.\nO enquadramento tectónico da região encontra-se representado, de forma simplificada, na \nFigura 1.\n0 100 200 km\nNPlaca\nAfricana\nPlaca\nIndo-Australiana\nPlaca Arábica\nPlaca Euroasiática Falh\na d\ne\nMinab\nFossa tectónica de Makran\nFalha de Ornach-Na\nl\n0 400 km\nLimite divergente\nLimite convergente\nLimite conservativo\nÁrea potencial de rotura sísmicaY\nX\nFigura 1\nBaseado em noc.ac.uk/news/western-indian-ocean-earthquake-tsunami-hazard-potencial-greater-previously-thought\n(consultado em outubro de 2013)"
+    },
+    {
+      "id": 11175,
+      "question_number": "3",
+      "statement": "3. Um dos procedimentos experimentais que contribuíram para a validade dos resultados foi a injeção dos \nfrutos de diferentes morangueiros com",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11183,
+      "question_number": "3",
+      "statement": "3. Os foraminíferos planctónicos representados na Figura 3 são considerados fósseis de fácies",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO Atlântico invadiu a bacia do Baixo Tejo no início do Miocénico inferior. Desde então, a \nsedimentação tem ocorrido na interface continente-oceano, com oscilações da linha de costa – \nciclos transgressivo-regressivos – dependentes de efeitos tectónicos e de variações do nível da \nágua do mar. \nLisboa e a península de Setúbal estão localizadas no sector distal da bacia do Baixo Tejo, onde \nse encontram bem expostos estratos do Miocénico. Na determinação das idades desses estratos, \no estudo do seu conteúdo fossilífero foi fundamental. Os foraminíferos (protozoários geralmente \ncom concha calcária) foram particularmente importantes no que diz respeito aos sedimentos \nmarinhos, enquanto os fósseis de mamíferos se revelaram importantes marcadores nas formações \ncontinentais.\nNa Figura 3, está representado um corte geológico da arriba da margem esquerda do estuário \ndo Tejo, sob o monumento a Cristo Rei, em Almada, na península de Setúbal. Os estratos, pouco \ndeformados, fazem parte de unidades sequenciais bem definidas (II, III, IVa, IVb, Va1, Va2 e Va3), \ncaracterizadas pela presença de determinadas associações de fósseis de foraminíferos (N) e de \nmamíferos (MN3). Podem ser destacados outros fósseis, como, por exemplo, moldes de moluscos \n(nas unidades III, Va1 e Va3), exemplares do molusco Pereraia gervaisi (unidade IVa) e bancos de \nostras e restos de plantas (unidade IVb).\nRio Tejo\n100\n75\n50\n25\n0\nAreias e arenitos fluviais e deltaicos Argilas e siltes continentais Areias litorais\nBiocalcarenito (calcário conquífero com areia)Areias de estuário Argilas e siltes marinhos\nN8\nN7\nMN3\nN6\nN5\nRestos de plantas Foraminíferos planctónicos Mamíferos terrestres Descontinuidade erosiva\nVa3\nVa2\nVa1\nIVb\nIVa\nIII\nII\nm\n~ ~ ~~~ ~~ ~\nFigura 3\nBaseado em J. Pais et al., The Paleogene and Neogene of Western Iberia (Portugal), Heidelberg, Springer, 2012"
+    },
+    {
+      "id": 11190,
       "question_number": "3",
       "statement": "3. A associação da planta com o fungo permite uma maior área de absorção de água. Para que a absorção \nde água ocorra, as células da zona cortical da raiz",
       "question_type": "multiple_choice",
@@ -150,33 +345,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4122,
-          "letter": "A",
-          "text": "mantêm a pressão osmótica mais baixa do que a da solução do solo.",
-          "isCorrect": false
-        },
-        {
-          "id": 4123,
-          "letter": "B",
-          "text": "promovem o transporte de água do meio hipertónico para o meio hipotónico.",
-          "isCorrect": false
-        },
-        {
-          "id": 4124,
-          "letter": "C",
-          "text": "promovem a entrada de solutos na planta por difusão facilitada.",
-          "isCorrect": false
-        },
-        {
-          "id": 4125,
-          "letter": "D",
-          "text": "mantêm o gradiente de solutos gerado por transporte ativo.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -186,7 +356,95 @@
       "contextText": "GRUPO IV\nEm condições favoráveis, nos cogumelos, como na maioria dos fungos, todos os dias alguns \nesporos amadurecem e são libertados para o ar. Há, no entanto, fungos que frutificam debaixo de \nterra – as trufas.\nA ocorrência de mutações nas trufas, ao longo de milhões de anos, permitiu a formação de \ncompostos aromáticos que atraem os animais. Quando um animal come uma trufa, a maior parte \nda polpa é digerida, mas os esporos não.\nMuitas espécies de fungos vivem associadas às raízes de plantas lenhosas, produzindo uma rede \nde filamentos, ou hifas, que crescem entre as raízes das plantas, formando um órgão compartilhado \nde absorção conhecido como ectomicorriza.\nNa Figura 4, está representado o ciclo de vida de um cogumelo, um fungo pluricelular constituído \npor hifas, que, no seu conjunto, formam um micélio.\nBaseado em www2.uol.com.br/sciam/reportagens/a_vida_secreta_das_trufas.html\n(consultado em outubro de 2013)\nesporos\nhifa +\n(monocariótica)\nhifa -\n(monocariótica)\n+\n-\nmicélio\nII I\nIII\ncom hifas\ndicarióticas\nn n + n\n2n\nFigura 4\nFigura baseada em N. Campbell et al., Biology, S. Francisco, Pearson Education, Inc., 2009"
     },
     {
-      "id": 2205,
+      "id": 11170,
+      "question_number": "4",
+      "statement": "4. A acentuada diminuição da velocidade de propagação das ondas P, assinalada pela descontinuidade de \n_______, marca a transição entre _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22224,
+          "letter": "A",
+          "text": "haplonte, com meiose pós-zigótica.",
+          "isCorrect": false
+        },
+        {
+          "id": 22225,
+          "letter": "B",
+          "text": "haplonte, com meiose pré-espórica.",
+          "isCorrect": false
+        },
+        {
+          "id": 22226,
+          "letter": "C",
+          "text": "haplodiplonte, com meiose pós-zigótica.",
+          "isCorrect": true
+        },
+        {
+          "id": 22227,
+          "letter": "D",
+          "text": "haplodiplonte, com meiose pré-espórica.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (c)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA zona de subdução de Makran, limitada a este e a oeste por duas grandes falhas, tem mostrado \nbaixa atividade sísmica desde os sismos de 1945 (magnitude 8,1) e de 1947 (magnitude 7,3), embora \nestudos recentes indiquem que esta zona de subdução é capaz de gerar sismos de magnitude \nentre 8,7 e 9,2.\nNuma zona de subdução, supõe-se que a rotura nas principais falhas inversas aí existentes, \ncapazes de gerar grandes sismos, ocorra, geralmente, a temperaturas entre 150 ºC e 450 ºC. Esta \ninformação, conjugada com outras, essencialmente, de índole geofísica, foi utilizada por cientistas \npara mapear a área potencial de rotura sísmica na zona de subdução de Makran. Os cientistas \nverificaram que a mesma abrange uma área com 350 km de largura, a norte da fossa tectónica de \nMakran, sendo invulgarmente larga em relação à maioria das outras zonas de subdução.\nO enquadramento tectónico da região encontra-se representado, de forma simplificada, na \nFigura 1.\n0 100 200 km\nNPlaca\nAfricana\nPlaca\nIndo-Australiana\nPlaca Arábica\nPlaca Euroasiática Falh\na d\ne\nMinab\nFossa tectónica de Makran\nFalha de Ornach-Na\nl\n0 400 km\nLimite divergente\nLimite convergente\nLimite conservativo\nÁrea potencial de rotura sísmicaY\nX\nFigura 1\nBaseado em noc.ac.uk/news/western-indian-ocean-earthquake-tsunami-hazard-potencial-greater-previously-thought\n(consultado em outubro de 2013)"
+    },
+    {
+      "id": 11176,
+      "question_number": "4",
+      "statement": "4. Relativamente aos seres Fragaria vesca, Fragaria daltoniana e Agrostis vesca, pode afirmar-se que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11184,
+      "question_number": "4",
+      "statement": "4. As areias de estuário depositaram-se _______ das argilas e dos siltes marinhos da unidade IVa, o que \npermite deduzir que houve _______ da energia do agente de transporte.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO Atlântico invadiu a bacia do Baixo Tejo no início do Miocénico inferior. Desde então, a \nsedimentação tem ocorrido na interface continente-oceano, com oscilações da linha de costa – \nciclos transgressivo-regressivos – dependentes de efeitos tectónicos e de variações do nível da \nágua do mar. \nLisboa e a península de Setúbal estão localizadas no sector distal da bacia do Baixo Tejo, onde \nse encontram bem expostos estratos do Miocénico. Na determinação das idades desses estratos, \no estudo do seu conteúdo fossilífero foi fundamental. Os foraminíferos (protozoários geralmente \ncom concha calcária) foram particularmente importantes no que diz respeito aos sedimentos \nmarinhos, enquanto os fósseis de mamíferos se revelaram importantes marcadores nas formações \ncontinentais.\nNa Figura 3, está representado um corte geológico da arriba da margem esquerda do estuário \ndo Tejo, sob o monumento a Cristo Rei, em Almada, na península de Setúbal. Os estratos, pouco \ndeformados, fazem parte de unidades sequenciais bem definidas (II, III, IVa, IVb, Va1, Va2 e Va3), \ncaracterizadas pela presença de determinadas associações de fósseis de foraminíferos (N) e de \nmamíferos (MN3). Podem ser destacados outros fósseis, como, por exemplo, moldes de moluscos \n(nas unidades III, Va1 e Va3), exemplares do molusco Pereraia gervaisi (unidade IVa) e bancos de \nostras e restos de plantas (unidade IVb).\nRio Tejo\n100\n75\n50\n25\n0\nAreias e arenitos fluviais e deltaicos Argilas e siltes continentais Areias litorais\nBiocalcarenito (calcário conquífero com areia)Areias de estuário Argilas e siltes marinhos\nN8\nN7\nMN3\nN6\nN5\nRestos de plantas Foraminíferos planctónicos Mamíferos terrestres Descontinuidade erosiva\nVa3\nVa2\nVa1\nIVb\nIVa\nIII\nII\nm\n~ ~ ~~~ ~~ ~\nFigura 3\nBaseado em J. Pais et al., The Paleogene and Neogene of Western Iberia (Portugal), Heidelberg, Springer, 2012"
+    },
+    {
+      "id": 11191,
       "question_number": "4",
       "statement": "4. O ciclo de vida representado na Figura 4 é",
       "question_type": "multiple_choice",
@@ -196,33 +454,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4126,
-          "letter": "A",
-          "text": "haplonte, com meiose pós-zigótica.",
-          "isCorrect": false
-        },
-        {
-          "id": 4127,
-          "letter": "B",
-          "text": "haplonte, com meiose pré-espórica.",
-          "isCorrect": false
-        },
-        {
-          "id": 4128,
-          "letter": "C",
-          "text": "haplodiplonte, com meiose pós-zigótica.",
-          "isCorrect": false
-        },
-        {
-          "id": 4129,
-          "letter": "D",
-          "text": "haplodiplonte, com meiose pré-espórica.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -232,9 +465,9 @@
       "contextText": "GRUPO IV\nEm condições favoráveis, nos cogumelos, como na maioria dos fungos, todos os dias alguns \nesporos amadurecem e são libertados para o ar. Há, no entanto, fungos que frutificam debaixo de \nterra – as trufas.\nA ocorrência de mutações nas trufas, ao longo de milhões de anos, permitiu a formação de \ncompostos aromáticos que atraem os animais. Quando um animal come uma trufa, a maior parte \nda polpa é digerida, mas os esporos não.\nMuitas espécies de fungos vivem associadas às raízes de plantas lenhosas, produzindo uma rede \nde filamentos, ou hifas, que crescem entre as raízes das plantas, formando um órgão compartilhado \nde absorção conhecido como ectomicorriza.\nNa Figura 4, está representado o ciclo de vida de um cogumelo, um fungo pluricelular constituído \npor hifas, que, no seu conjunto, formam um micélio.\nBaseado em www2.uol.com.br/sciam/reportagens/a_vida_secreta_das_trufas.html\n(consultado em outubro de 2013)\nesporos\nhifa +\n(monocariótica)\nhifa -\n(monocariótica)\n+\n-\nmicélio\nII I\nIII\ncom hifas\ndicarióticas\nn n + n\n2n\nFigura 4\nFigura baseada em N. Campbell et al., Biology, S. Francisco, Pearson Education, Inc., 2009"
     },
     {
-      "id": 2206,
+      "id": 11171,
       "question_number": "5",
-      "statement": "5. Relativamente ao ciclo de vida do fungo representado na Figura 4, verifica-se que",
+      "statement": "5. As correntes de convecção no interior do manto são resultantes da",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -244,31 +477,94 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4130,
+          "id": 22228,
           "letter": "A",
           "text": "a hifa + é uma entidade cuja ploidia é diferente da dos esporos.",
           "isCorrect": false
         },
         {
-          "id": 4131,
+          "id": 22229,
           "letter": "B",
           "text": "as hifas resultantes da germinação dos esporos são geneticamente iguais.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 4132,
+          "id": 22230,
           "letter": "C",
           "text": "o processo II envolve fenómenos de recombinação génica.",
           "isCorrect": false
         },
         {
-          "id": 4133,
+          "id": 22231,
           "letter": "D",
           "text": "a germinação dos esporos é responsável pela alternância de fases nucleares.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5. ........................................................................................................... 5 pontos",
+      "criteriaText": "5. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (c)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA zona de subdução de Makran, limitada a este e a oeste por duas grandes falhas, tem mostrado \nbaixa atividade sísmica desde os sismos de 1945 (magnitude 8,1) e de 1947 (magnitude 7,3), embora \nestudos recentes indiquem que esta zona de subdução é capaz de gerar sismos de magnitude \nentre 8,7 e 9,2.\nNuma zona de subdução, supõe-se que a rotura nas principais falhas inversas aí existentes, \ncapazes de gerar grandes sismos, ocorra, geralmente, a temperaturas entre 150 ºC e 450 ºC. Esta \ninformação, conjugada com outras, essencialmente, de índole geofísica, foi utilizada por cientistas \npara mapear a área potencial de rotura sísmica na zona de subdução de Makran. Os cientistas \nverificaram que a mesma abrange uma área com 350 km de largura, a norte da fossa tectónica de \nMakran, sendo invulgarmente larga em relação à maioria das outras zonas de subdução.\nO enquadramento tectónico da região encontra-se representado, de forma simplificada, na \nFigura 1.\n0 100 200 km\nNPlaca\nAfricana\nPlaca\nIndo-Australiana\nPlaca Arábica\nPlaca Euroasiática Falh\na d\ne\nMinab\nFossa tectónica de Makran\nFalha de Ornach-Na\nl\n0 400 km\nLimite divergente\nLimite convergente\nLimite conservativo\nÁrea potencial de rotura sísmicaY\nX\nFigura 1\nBaseado em noc.ac.uk/news/western-indian-ocean-earthquake-tsunami-hazard-potencial-greater-previously-thought\n(consultado em outubro de 2013)"
+    },
+    {
+      "id": 11177,
+      "question_number": "5",
+      "statement": "5. O morangueiro Fragaria vesca é uma espécie diploide, que se pode reproduzir sexuadamente, por \nsementes, e assexuadamente.\nOs morangueiros que resultam da germinação de sementes são geneticamente _______ e cada um \ndeles pode reproduzir-se assexuadamente por _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11185,
+      "question_number": "5",
+      "statement": "5. A reconstituição de paleoambientes e a correlação entre unidades litostratigráficas com a mesma \nassociação de fósseis encontradas em locais diferentes baseiam-se, respetivamente, nos princípios",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO Atlântico invadiu a bacia do Baixo Tejo no início do Miocénico inferior. Desde então, a \nsedimentação tem ocorrido na interface continente-oceano, com oscilações da linha de costa – \nciclos transgressivo-regressivos – dependentes de efeitos tectónicos e de variações do nível da \nágua do mar. \nLisboa e a península de Setúbal estão localizadas no sector distal da bacia do Baixo Tejo, onde \nse encontram bem expostos estratos do Miocénico. Na determinação das idades desses estratos, \no estudo do seu conteúdo fossilífero foi fundamental. Os foraminíferos (protozoários geralmente \ncom concha calcária) foram particularmente importantes no que diz respeito aos sedimentos \nmarinhos, enquanto os fósseis de mamíferos se revelaram importantes marcadores nas formações \ncontinentais.\nNa Figura 3, está representado um corte geológico da arriba da margem esquerda do estuário \ndo Tejo, sob o monumento a Cristo Rei, em Almada, na península de Setúbal. Os estratos, pouco \ndeformados, fazem parte de unidades sequenciais bem definidas (II, III, IVa, IVb, Va1, Va2 e Va3), \ncaracterizadas pela presença de determinadas associações de fósseis de foraminíferos (N) e de \nmamíferos (MN3). Podem ser destacados outros fósseis, como, por exemplo, moldes de moluscos \n(nas unidades III, Va1 e Va3), exemplares do molusco Pereraia gervaisi (unidade IVa) e bancos de \nostras e restos de plantas (unidade IVb).\nRio Tejo\n100\n75\n50\n25\n0\nAreias e arenitos fluviais e deltaicos Argilas e siltes continentais Areias litorais\nBiocalcarenito (calcário conquífero com areia)Areias de estuário Argilas e siltes marinhos\nN8\nN7\nMN3\nN6\nN5\nRestos de plantas Foraminíferos planctónicos Mamíferos terrestres Descontinuidade erosiva\nVa3\nVa2\nVa1\nIVb\nIVa\nIII\nII\nm\n~ ~ ~~~ ~~ ~\nFigura 3\nBaseado em J. Pais et al., The Paleogene and Neogene of Western Iberia (Portugal), Heidelberg, Springer, 2012"
+    },
+    {
+      "id": 11192,
+      "question_number": "5",
+      "statement": "5. Relativamente ao ciclo de vida do fungo representado na Figura 4, verifica-se que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -278,10 +574,10 @@
       "contextText": "GRUPO IV\nEm condições favoráveis, nos cogumelos, como na maioria dos fungos, todos os dias alguns \nesporos amadurecem e são libertados para o ar. Há, no entanto, fungos que frutificam debaixo de \nterra – as trufas.\nA ocorrência de mutações nas trufas, ao longo de milhões de anos, permitiu a formação de \ncompostos aromáticos que atraem os animais. Quando um animal come uma trufa, a maior parte \nda polpa é digerida, mas os esporos não.\nMuitas espécies de fungos vivem associadas às raízes de plantas lenhosas, produzindo uma rede \nde filamentos, ou hifas, que crescem entre as raízes das plantas, formando um órgão compartilhado \nde absorção conhecido como ectomicorriza.\nNa Figura 4, está representado o ciclo de vida de um cogumelo, um fungo pluricelular constituído \npor hifas, que, no seu conjunto, formam um micélio.\nBaseado em www2.uol.com.br/sciam/reportagens/a_vida_secreta_das_trufas.html\n(consultado em outubro de 2013)\nesporos\nhifa +\n(monocariótica)\nhifa -\n(monocariótica)\n+\n-\nmicélio\nII I\nIII\ncom hifas\ndicarióticas\nn n + n\n2n\nFigura 4\nFigura baseada em N. Campbell et al., Biology, S. Francisco, Pearson Education, Inc., 2009"
     },
     {
-      "id": 2213,
+      "id": 11178,
       "question_number": "6",
-      "statement": "6. ........................................................................................................... 10 pontos",
-      "question_type": "open",
+      "statement": "6. Na fotossíntese, durante a fase diretamente dependente da luz, ocorre",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -289,9 +585,51 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6. ........................................................................................................... 10 pontos",
+      "criteriaText": "6. .................................................................................................................................................... 10 pontos\ntópicos de resposta:\n•  referência à intensidade como medida para avaliar os efeitos causados pelos sismos;\n•  relação entre o impacto previsível do sismo numa determinada região e a prevenção do \nrisco sísmico (ou o ordenamento do território, ou a construção antissísmica, ou a elaboração \nde planos de emergência).\nNíveis descritores do nível de desempenho pontuação\n4\nNa resposta, são apresentados os dois tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n10\n3\nNa resposta, são apresentados os dois tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n8\n2\nNa resposta, são apresentados os dois tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, é apresentado um dos tópicos com:\n • linguagem científica adequada.\n5\n1 Na resposta, é apresentado um dos tópicos com:\n • falhas na aplicação da linguagem científica. 3",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11186,
+      "question_number": "6",
+      "statement": "6. Numa zona de vertente, os movimentos em massa são potenciados por _______ amplitudes térmicas e \npela existência de materiais permeáveis _______ a materiais impermeáveis.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO Atlântico invadiu a bacia do Baixo Tejo no início do Miocénico inferior. Desde então, a \nsedimentação tem ocorrido na interface continente-oceano, com oscilações da linha de costa – \nciclos transgressivo-regressivos – dependentes de efeitos tectónicos e de variações do nível da \nágua do mar. \nLisboa e a península de Setúbal estão localizadas no sector distal da bacia do Baixo Tejo, onde \nse encontram bem expostos estratos do Miocénico. Na determinação das idades desses estratos, \no estudo do seu conteúdo fossilífero foi fundamental. Os foraminíferos (protozoários geralmente \ncom concha calcária) foram particularmente importantes no que diz respeito aos sedimentos \nmarinhos, enquanto os fósseis de mamíferos se revelaram importantes marcadores nas formações \ncontinentais.\nNa Figura 3, está representado um corte geológico da arriba da margem esquerda do estuário \ndo Tejo, sob o monumento a Cristo Rei, em Almada, na península de Setúbal. Os estratos, pouco \ndeformados, fazem parte de unidades sequenciais bem definidas (II, III, IVa, IVb, Va1, Va2 e Va3), \ncaracterizadas pela presença de determinadas associações de fósseis de foraminíferos (N) e de \nmamíferos (MN3). Podem ser destacados outros fósseis, como, por exemplo, moldes de moluscos \n(nas unidades III, Va1 e Va3), exemplares do molusco Pereraia gervaisi (unidade IVa) e bancos de \nostras e restos de plantas (unidade IVb).\nRio Tejo\n100\n75\n50\n25\n0\nAreias e arenitos fluviais e deltaicos Argilas e siltes continentais Areias litorais\nBiocalcarenito (calcário conquífero com areia)Areias de estuário Argilas e siltes marinhos\nN8\nN7\nMN3\nN6\nN5\nRestos de plantas Foraminíferos planctónicos Mamíferos terrestres Descontinuidade erosiva\nVa3\nVa2\nVa1\nIVb\nIVa\nIII\nII\nm\n~ ~ ~~~ ~~ ~\nFigura 3\nBaseado em J. Pais et al., The Paleogene and Neogene of Western Iberia (Portugal), Heidelberg, Springer, 2012"
+    },
+    {
+      "id": 11193,
+      "question_number": "6",
+      "statement": "6. Ordene as frases identificadas pelas letras de A a E, de modo a reconstituir a sequência cronológica de \nacontecimentos envolvidos no processo III.\nA. Ascensão polar dos cromatídeos irmãos.\nB. Formação de duas células por citocinese.\nC. Replicação semiconservativa do DNA.\nD. Divisão do centrómero de cada cromossoma.\nE. Alinhamento dos cromossomas no plano equatorial.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -299,10 +637,10 @@
       "contextText": "GRUPO IV\nEm condições favoráveis, nos cogumelos, como na maioria dos fungos, todos os dias alguns \nesporos amadurecem e são libertados para o ar. Há, no entanto, fungos que frutificam debaixo de \nterra – as trufas.\nA ocorrência de mutações nas trufas, ao longo de milhões de anos, permitiu a formação de \ncompostos aromáticos que atraem os animais. Quando um animal come uma trufa, a maior parte \nda polpa é digerida, mas os esporos não.\nMuitas espécies de fungos vivem associadas às raízes de plantas lenhosas, produzindo uma rede \nde filamentos, ou hifas, que crescem entre as raízes das plantas, formando um órgão compartilhado \nde absorção conhecido como ectomicorriza.\nNa Figura 4, está representado o ciclo de vida de um cogumelo, um fungo pluricelular constituído \npor hifas, que, no seu conjunto, formam um micélio.\nBaseado em www2.uol.com.br/sciam/reportagens/a_vida_secreta_das_trufas.html\n(consultado em outubro de 2013)\nesporos\nhifa +\n(monocariótica)\nhifa -\n(monocariótica)\n+\n-\nmicélio\nII I\nIII\ncom hifas\ndicarióticas\nn n + n\n2n\nFigura 4\nFigura baseada em N. Campbell et al., Biology, S. Francisco, Pearson Education, Inc., 2009"
     },
     {
-      "id": 2207,
+      "id": 11172,
       "question_number": "7",
-      "statement": "7. ........................................................................................................... 15 pontos\n50 pontos\n TOTAL ......................................... 200 pontos",
-      "question_type": "open",
+      "statement": "7. Explique, de acordo com os dados, a possibilidade de ocorrência de sismos de elevada magnitude na zona \nde subdução de Makran.\nNa resposta deverá considerar a teoria do ressalto elástico.",
+      "question_type": "essay",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -310,9 +648,51 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. ........................................................................................................... 15 pontos",
+      "criteriaText": "7. .................................................................................................................................................... 10 pontos\ntópicos de resposta:\n•  relação entre a grande área da zona de rotura e a elevada quantidade de tensão acumulada;\n•  relação entre a tensão acumulada e a libertação de grandes quantidades de energia;\n•  referência ao facto de a libertação de energia ocorrer quando o limite de resistência (ou de \nelasticidade) da rocha é ultrapassado.\nNíveis descritores do nível de desempenho pontuação\n5\nNa resposta, são apresentados os três tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n10\n4\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n8\n3\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n6\n2\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n4\n1\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, é apresentado um dos tópicos com:\n • linguagem científica adequada.\n2\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA zona de subdução de Makran, limitada a este e a oeste por duas grandes falhas, tem mostrado \nbaixa atividade sísmica desde os sismos de 1945 (magnitude 8,1) e de 1947 (magnitude 7,3), embora \nestudos recentes indiquem que esta zona de subdução é capaz de gerar sismos de magnitude \nentre 8,7 e 9,2.\nNuma zona de subdução, supõe-se que a rotura nas principais falhas inversas aí existentes, \ncapazes de gerar grandes sismos, ocorra, geralmente, a temperaturas entre 150 ºC e 450 ºC. Esta \ninformação, conjugada com outras, essencialmente, de índole geofísica, foi utilizada por cientistas \npara mapear a área potencial de rotura sísmica na zona de subdução de Makran. Os cientistas \nverificaram que a mesma abrange uma área com 350 km de largura, a norte da fossa tectónica de \nMakran, sendo invulgarmente larga em relação à maioria das outras zonas de subdução.\nO enquadramento tectónico da região encontra-se representado, de forma simplificada, na \nFigura 1.\n0 100 200 km\nNPlaca\nAfricana\nPlaca\nIndo-Australiana\nPlaca Arábica\nPlaca Euroasiática Falh\na d\ne\nMinab\nFossa tectónica de Makran\nFalha de Ornach-Na\nl\n0 400 km\nLimite divergente\nLimite convergente\nLimite conservativo\nÁrea potencial de rotura sísmicaY\nX\nFigura 1\nBaseado em noc.ac.uk/news/western-indian-ocean-earthquake-tsunami-hazard-potencial-greater-previously-thought\n(consultado em outubro de 2013)"
+    },
+    {
+      "id": 11179,
+      "question_number": "7",
+      "statement": "7. Ordene as frases identificadas pelas letras de A a E, de modo a reconstituir a sequência cronológica \nde acontecimentos que levam à produção e à acumulação de substâncias de reserva no morangueiro, \nsegundo uma relação de causa-efeito.\nA. Fluxo de sacarose para o exterior do floema.\nB. Síntese de moléculas de glucose nos cloroplastos.\nC. Aumento da pressão de turgescência no interior do floema.\nD. Aumento da concentração de glúcidos no fruto.\nE. Entrada de sacarose nos vasos condutores.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11194,
+      "question_number": "7",
+      "statement": "7. Explique de que modo, ao longo das gerações, as mutações referidas no texto têm contribuído para o \nsucesso reprodutivo das trufas.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -320,9 +700,30 @@
       "contextText": "GRUPO IV\nEm condições favoráveis, nos cogumelos, como na maioria dos fungos, todos os dias alguns \nesporos amadurecem e são libertados para o ar. Há, no entanto, fungos que frutificam debaixo de \nterra – as trufas.\nA ocorrência de mutações nas trufas, ao longo de milhões de anos, permitiu a formação de \ncompostos aromáticos que atraem os animais. Quando um animal come uma trufa, a maior parte \nda polpa é digerida, mas os esporos não.\nMuitas espécies de fungos vivem associadas às raízes de plantas lenhosas, produzindo uma rede \nde filamentos, ou hifas, que crescem entre as raízes das plantas, formando um órgão compartilhado \nde absorção conhecido como ectomicorriza.\nNa Figura 4, está representado o ciclo de vida de um cogumelo, um fungo pluricelular constituído \npor hifas, que, no seu conjunto, formam um micélio.\nBaseado em www2.uol.com.br/sciam/reportagens/a_vida_secreta_das_trufas.html\n(consultado em outubro de 2013)\nesporos\nhifa +\n(monocariótica)\nhifa -\n(monocariótica)\n+\n-\nmicélio\nII I\nIII\ncom hifas\ndicarióticas\nn n + n\n2n\nFigura 4\nFigura baseada em N. Campbell et al., Biology, S. Francisco, Pearson Education, Inc., 2009"
     },
     {
-      "id": 2215,
+      "id": 11180,
       "question_number": "8",
-      "statement": "8. ........................................................................................................... 10 pontos\n55 pontos",
+      "statement": "8. Explique de que forma a análise quantitativa da acumulação de antocianinas, por ação da sacarose e da \nglucose, registada no Gráfico 1, contribui para a confirmação dos resultados apresentados na Figura 2.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 10 pontos\ntópicos de resposta:\n•  relação entre a ação da sacarose e a maior quantidade de antocianinas (ou entre a ação da \nglucose e a menor quantidade de antocianinas);\n•  relação entre a ação da sacarose e o facto de os morangos iniciarem mais cedo a acumulação \nde antocianinas (ou entre a ação da glucose e o facto de os morangos iniciarem mais tarde \na acumulação de antocianinas);\n•  relação entre o aumento da quantidade (ou a acumulação) de antocianinas e o \namadurecimento mais cedo (ou a maior pigmentação) dos morangos tratados com sacarose.\nNíveis descritores do nível de desempenho pontuação\n5\nNa resposta, são apresentados os três tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n10\n4\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n8\n3\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n6\n2\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n4\n1\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, é apresentado um dos tópicos com:\n • linguagem científica adequada.\n2\n\nGRUPO III",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nO amadurecimento dos frutos envolve um conjunto de alterações metabólicas com consequências \nna qualidade dos mesmos, ao nível do sabor, da textura, da cor e do aroma. A par da ação dos \nfitorreguladores (fito-hormonas), também os glúcidos parecem intervir nesse processo.\nNo estudo que a seguir se apresenta, foi investigado o efeito de glúcidos como a sacarose, a \nglucose e a frutose no desenvolvimento e no amadurecimento do morango.\nO processo de desenvolvimento do morango pode ser dividido, sequencialmente, em três grandes \nestádios: o estádio do fruto verde (subestádios I a IV), o estádio do fruto branco (subestádio V) \ne o estádio do fruto vermelho (subestádios VI e VII). O amadurecimento do fruto traduz-se pelo \naparecimento da coloração vermelha, a qual resulta da acumulação de pigmentos designados \nantocianinas.\nMétodos e resultados\n1 – Os morangueiros foram plantados em vasos idênticos contendo uma mistura de solo, vermiculite \ne fertilizante orgânico, estando sujeitos às seguintes condições: uma temperatura de 25 °C \ndurante o dia e de 18 °C durante a noite, 60% de humidade, um fotoperíodo de 12 horas, uma \nintensidade de fluxo de fotões de 450 µmol m\n–2 s–1 e rega até ao limite da capacidade de \nretenção de água do solo.\n2 – Selecionaram-se frutos de tamanho uniforme que se encontravam no subestádio III de \ndesenvolvimento. Em morangos de diferentes morangueiros, foram injetados, em igual \nconcentração (50 mM), 200 μL de um único tipo de glúcido – frutose, glucose, sacarose ou \nmanitol, este último utilizado como controlo osmótico. Para cada tratamento, apenas se procedeu \na uma injeção em todo o processo.\n3 – O registo fotográfico do efeito dos glúcidos no desenvolvimento e no amadurecimento dos \nfrutos está traduzido na Figura 2. Os resultados da análise quantitativa do efeito dos glúcidos na \nacumulação de antocianinas estão registados no Gráfico 1.\nManitol\nSacarose\nGlucose\nFrutose\n600\n500\n400\n300\n200\n100\n0\n0 24 68 10 12 14\nTempo após os tratamentos com glúcidos (dia)\nQuantidade de antocianinas\ngg\nde frut\no)\n(\n-1\nFigura 2 Gráfico 1\nManitol Sacarose Glucose Frutose\n0\n2\n4\n5\n6\n7\n8\n1 cm\nTe\nmpo após os tratamentos com glúcidos (dia)\nBaseado em H. Jia et al., «Sucrose functions as a signal involved in the regulation of \nstrawberry fruit development and ripening», New Phytologist, 198, 2013"
+    },
+    {
+      "id": 11187,
+      "question_number": "8",
+      "statement": "8. Faça corresponder cada uma das caracterizações de rochas sedimentares, expressas na coluna A, à \nrespetiva designação, que consta da coluna B.\nEscreva, na folha de respostas, apenas as letras e os números correspondentes.\nUtilize cada letra e cada número apenas uma vez.\nCOLUNA A COLUNA B\n(a) Rocha detrítica consolidada cujas partículas \ntêm a dimensão de balastros.\n(b) Rocha quimiogénica associada à precipitação \nde carbonato de cálcio.\n(c) Rocha detrítica não consolidada que se torna \nimpermeável quando saturada de água.\n(d) Rocha detrítica consolidada de granulometria \nmuito fina.\n(e) Rocha quimiogénica formada por um \nprocesso de intensa evaporação.\n(1) Areia\n(2) Arenito\n(3) Argila\n(4) Argilito\n(5) Calcário conquífero\n(6) Conglomerado\n(7) Gesso\n(8) Travertino\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -331,9 +732,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "8. ........................................................................................................... 10 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",

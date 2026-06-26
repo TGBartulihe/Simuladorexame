@@ -4,63 +4,39 @@
   "subject": "Física e Química A",
   "year": 2015,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 289,
+      "id": 1541,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 290,
+      "id": 1542,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 291,
+      "id": 1543,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 292,
+      "id": 1544,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 293,
+      "id": 1545,
       "name": "GRUPO V",
       "order": 4
-    },
-    {
-      "id": 294,
-      "name": "GRUPO I",
-      "order": 5
-    },
-    {
-      "id": 295,
-      "name": "GRUPO II",
-      "order": 6
-    },
-    {
-      "id": 296,
-      "name": "GRUPO III",
-      "order": 7
-    },
-    {
-      "id": 297,
-      "name": "GRUPO IV",
-      "order": 8
-    },
-    {
-      "id": 298,
-      "name": "GRUPO V",
-      "order": 9
     }
   ],
   "questions": [
     {
-      "id": 2049,
+      "id": 11047,
       "question_number": "1",
-      "statement": "1. Qual é o instrumento que deve ser utilizado para, de forma regular e controlada, adicionar ao titulado \npequenos volumes da solução padrão de NaOH?",
+      "statement": "1. O calor",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -70,41 +46,188 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3854,
+          "id": 21968,
           "letter": "A",
           "text": "Bureta.",
           "isCorrect": false
         },
         {
-          "id": 3855,
+          "id": 21969,
           "letter": "B",
           "text": "Pipeta.",
           "isCorrect": false
         },
         {
-          "id": 3856,
+          "id": 21970,
           "letter": "C",
           "text": "Balão de erlenmeyer.",
           "isCorrect": false
         },
         {
-          "id": 3857,
+          "id": 21971,
           "letter": "D",
           "text": "Proveta.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1. ................................................... 5 pontos",
+      "criteriaText": "1. Apresentação apenas do resultado final, não incluindo \nos cálculos efetuados nem as justificações ou \nconclusões solicitadas.\nA resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNem o calor nem o trabalho são formas de energia. O calor é a energia que se transfere entre corpos \nem contacto, como resultado de uma diferença de temperatura entre eles, fluindo a energia do corpo que se \nencontra a temperatura mais elevada para o corpo que se encontra a temperatura mais baixa. Antes dessa \ntransferência, não existe calor armazenado na fonte, nem passa a existir calor acumulado no recetor após a \ntransferência. Mas há energia armazenada na fonte antes da transferência, e a energia do recetor passa a ser \nmais elevada após a transferência – por exemplo, se o recetor for gelo, parte dele pode fundir-se.\nPeter Atkins, O Dedo de Galileu, 1.ª ed., Lisboa, \nGradiva, 2007, pp. 135-136 (adaptado)"
+    },
+    {
+      "id": 11051,
+      "question_number": "1",
+      "statement": "1. Considere uma roda que, tendo apenas movimento de rotação em torno do seu eixo, efetua 50 rotações, \nem cada minuto, durante um determinado intervalo de tempo.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11059,
+      "question_number": "1",
+      "statement": "1. A Figura 4 representa o ecrã de um osciloscópio, no qual está \nregistado o sinal elétrico resultante da conversão de um sinal \nsonoro, de frequência 330 Hz, emitido por um diapasão.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11071,
+      "question_number": "1",
+      "statement": "1. Qual é o instrumento que deve ser utilizado para, de forma regular e controlada, adicionar ao titulado \npequenos volumes da solução padrão de NaOH?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g) \n1. Na reação de formação do HI considerada, a variação do número de oxidação do iodo é ________, sendo \na espécie I2 o agente ________. \n (A) +1 ... oxidante\n (B) -1 ... oxidante\n (C) +1 ... redutor\n (D) -1 ... redutor\n2. Na tabela seguinte, estão registados os valores da constante de equilíbrio, Kc, da reação de formação do \nHI(g) considerada, a três temperaturas diferentes.\nT / K Kc\n500 160\n700 54\n763 46\n2.1. Considere que, num reator com a capacidade de 1,00 L, foram inicialmente introduzidas \n2,56 # 10-3 mol de I2(g) e uma certa quantidade de H2(g). Considere ainda que, no início, não \nexistia HI(g) no reator.\nQuando, a 763 K, o sistema atingiu um estado de equilíbrio, a quantidade de I2(g) que existia no \nreator era 1,46 # 10-3 mol.\nCalcule a quantidade, em mol, de H2(g) que deverá existir no reator quando o sistema está em \nequilíbrio àquela temperatura.\nApresente todas as etapas de resolução.\n2.2. Compare a energia absorvida na quebra das ligações com a energia libertada no estabelecimento \ndas ligações, na reação química considerada. Fundamente a sua resposta com base na variação da \nconstante de equilíbrio da reação com a temperatura.\n\nGRUPO VI\nCom o objetivo de determinar a concentração de uma solução de ácido clorídrico, HCl(aq), um grupo de alunos \ntitulou 50,00 cm3 dessa solução com uma solução padrão de hidróxido de sódio, NaOH(aq), de concentração \n1,00 # 10-1 mol dm-3.\nA reação que ocorre pode ser traduzida por\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\nOs alunos gastaram 24,60 cm3 da solução padrão de NaOH até ao ponto final da titulação."
     },
     {
-      "id": 2050,
+      "id": 11048,
+      "question_number": "2",
+      "statement": "2. Considere um sistema fechado que cedeu 400 J, como calor, tendo sido sobre ele realizado um trabalho \nde 300 J.\nQual foi a variação da energia interna do sistema?",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. Utilização de processos de resolução não previstos nos \ncritérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNem o calor nem o trabalho são formas de energia. O calor é a energia que se transfere entre corpos \nem contacto, como resultado de uma diferença de temperatura entre eles, fluindo a energia do corpo que se \nencontra a temperatura mais elevada para o corpo que se encontra a temperatura mais baixa. Antes dessa \ntransferência, não existe calor armazenado na fonte, nem passa a existir calor acumulado no recetor após a \ntransferência. Mas há energia armazenada na fonte antes da transferência, e a energia do recetor passa a ser \nmais elevada após a transferência – por exemplo, se o recetor for gelo, parte dele pode fundir-se.\nPeter Atkins, O Dedo de Galileu, 1.ª ed., Lisboa, \nGradiva, 2007, pp. 135-136 (adaptado)"
+    },
+    {
+      "id": 11054,
+      "question_number": "2",
+      "statement": "2. Na Figura 2 (que não está à escala), estão representados dois conjuntos ciclista + bicicleta, CI e CII, que \nse movem ao longo de uma estrada retilínea e horizontal, coincidente com o eixo Ox de um referencial \nunidimensional. \nConsidere que cada um dos conjuntos pode ser representado pelo seu centro de massa (modelo da \npartícula material).\nFigura 2\nO x\nCI CII\nConsidere que no instante t = 0 s o conjunto CII inicia o seu movimento e que, nesse instante, o \nconjunto CI passa na origem do referencial.\nAdmita que, a partir desse instante, e durante um determinado intervalo de tempo, as componentes \nescalares, segundo o eixo \nOx, das posições, xCI e xCII, dos conjuntos CI e CII, respetivamente, variam \ncom o tempo, t, de acordo com as equações\n,( )\n,( )\nSI\nSI\nxt\nxt\n70\n800 0 030\nC\nC 2\nI\nII\n=\n= −",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11061,
+      "question_number": "2",
+      "statement": "2. Considere um sinal elétrico cuja tensão, U, varia com o tempo, t, de acordo com a expressão\nU = 5,0 sin ( ,88 01 0 2# rt ) (SI)\nEsse sinal tem",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11067,
+      "question_number": "2",
+      "statement": "2. Considere uma mistura gasosa constituída por 5,00 # 10-2 mol de F2(g) e 8,00 # 10-2 mol de Cl2(g), nas \ncondições normais de pressão e de temperatura.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11072,
       "question_number": "2",
       "statement": "2. Calcule a concentração, em mol dm-3, da solução de HCl.\nComece por calcular a quantidade de NaOH adicionada até ao ponto final da titulação.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
@@ -115,17 +238,101 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. ................................................... 10 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g) \n1. Na reação de formação do HI considerada, a variação do número de oxidação do iodo é ________, sendo \na espécie I2 o agente ________. \n (A) +1 ... oxidante\n (B) -1 ... oxidante\n (C) +1 ... redutor\n (D) -1 ... redutor\n2. Na tabela seguinte, estão registados os valores da constante de equilíbrio, Kc, da reação de formação do \nHI(g) considerada, a três temperaturas diferentes.\nT / K Kc\n500 160\n700 54\n763 46\n2.1. Considere que, num reator com a capacidade de 1,00 L, foram inicialmente introduzidas \n2,56 # 10-3 mol de I2(g) e uma certa quantidade de H2(g). Considere ainda que, no início, não \nexistia HI(g) no reator.\nQuando, a 763 K, o sistema atingiu um estado de equilíbrio, a quantidade de I2(g) que existia no \nreator era 1,46 # 10-3 mol.\nCalcule a quantidade, em mol, de H2(g) que deverá existir no reator quando o sistema está em \nequilíbrio àquela temperatura.\nApresente todas as etapas de resolução.\n2.2. Compare a energia absorvida na quebra das ligações com a energia libertada no estabelecimento \ndas ligações, na reação química considerada. Fundamente a sua resposta com base na variação da \nconstante de equilíbrio da reação com a temperatura.\n\nGRUPO VI\nCom o objetivo de determinar a concentração de uma solução de ácido clorídrico, HCl(aq), um grupo de alunos \ntitulou 50,00 cm3 dessa solução com uma solução padrão de hidróxido de sódio, NaOH(aq), de concentração \n1,00 # 10-1 mol dm-3.\nA reação que ocorre pode ser traduzida por\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\nOs alunos gastaram 24,60 cm3 da solução padrão de NaOH até ao ponto final da titulação."
     },
     {
-      "id": 2051,
+      "id": 11049,
+      "question_number": "3",
+      "statement": "3. Numa experiência, forneceu-se uma energia de 92,0 kJ a 400 g de gelo, inicialmente a -10,0 °C.\nAdmita que toda a energia fornecida contribuiu para o aumento da energia interna do gelo e que não houve \noutras trocas de energia entre o gelo e o exterior.\nA energia necessária à fusão de 1,0 kg de gelo é ,33 41 0 5# J e o ponto de fusão da água, nas condições \nda experiência, é 0,0 ºC.\nCalcule a massa de gelo que não se fundiu.\nApresente todas as etapas de resolução.\ncgelo (capacidade térmica mássica do gelo) = 2,11 # 103 J kg-1 °C-1",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. Utilização de processos de resolução que não respeitem \nas instruções dadas.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.\nSe a instrução se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNem o calor nem o trabalho são formas de energia. O calor é a energia que se transfere entre corpos \nem contacto, como resultado de uma diferença de temperatura entre eles, fluindo a energia do corpo que se \nencontra a temperatura mais elevada para o corpo que se encontra a temperatura mais baixa. Antes dessa \ntransferência, não existe calor armazenado na fonte, nem passa a existir calor acumulado no recetor após a \ntransferência. Mas há energia armazenada na fonte antes da transferência, e a energia do recetor passa a ser \nmais elevada após a transferência – por exemplo, se o recetor for gelo, parte dele pode fundir-se.\nPeter Atkins, O Dedo de Galileu, 1.ª ed., Lisboa, \nGradiva, 2007, pp. 135-136 (adaptado)"
+    },
+    {
+      "id": 11058,
+      "question_number": "3",
+      "statement": "3. Na Figura 3 (que não está à escala), está representado um conjunto ciclista + bicicleta que iniciou a subida \nde uma rampa com uma energia cinética de ,J20 10 3# . Após percorrer 68 m sobre a rampa, atinge uma \naltura de 3,0 m, com uma velocidade de módulo 3,5 m s-1.\nA massa do conjunto ciclista + bicicleta é 80 kg.\nConsidere que o conjunto pode ser representado pelo seu centro de massa (modelo da partícula material) \ne considere a base da rampa como nível de referência da energia potencial gravítica.\nFigura 3\n3,0 m\n68m\nCalcule, no percurso considerado, a intensidade da resultante das forças não conservativas que atuam no \nconjunto ciclista + bicicleta, na direção do deslocamento. Admita que essa resultante se mantém constante.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11062,
+      "question_number": "3",
+      "statement": "3. Descreva como é que um sinal sonoro é convertido num \nsinal elétrico, num microfone de indução semelhante ao \nrepresentado na Figura 5.\n1 div\n1 div\nFigura 4\nMembrana\nÍman fixo\nBobina\nFigura 5",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11069,
+      "question_number": "3",
+      "statement": "3. Os átomos dos halogéneos podem ligar-se a átomos de hidrogénio, originando compostos designados por \nhalogenetos de hidrogénio, como, por exemplo, o cloreto de hidrogénio, HCl, e o iodeto de hidrogénio, HI.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11073,
       "question_number": "3",
       "statement": "3. Depois de terem realizado a titulação e determinado a concentração da solução de ácido clorídrico, o \nprofessor disse aos alunos que a solução de HCl que tinham utilizado era uma solução padrão.\nNa Figura 6, está representada a curva teórica da titulação de 50,00 cm3 dessa solução padrão de \nHCl com uma solução padrão de NaOH 1,00 # 10-1 mol dm-3.\nNa curva, está assinalada a zona de viragem do indicador de ácido-base verde de bromocresol.\nFigura 6\n0,00\nVolume de NaOH(aq) / cm3\npH\n5,00 10,00 15,00 20,00 25,00 30,00\n12,00\n10,00\n8,00\n6,00\n4,00\n2,00\nZona de viragem \ndo indicador verde\nde bromocresol",
       "question_type": "open",
@@ -136,17 +343,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. ................................................... 10 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g) \n1. Na reação de formação do HI considerada, a variação do número de oxidação do iodo é ________, sendo \na espécie I2 o agente ________. \n (A) +1 ... oxidante\n (B) -1 ... oxidante\n (C) +1 ... redutor\n (D) -1 ... redutor\n2. Na tabela seguinte, estão registados os valores da constante de equilíbrio, Kc, da reação de formação do \nHI(g) considerada, a três temperaturas diferentes.\nT / K Kc\n500 160\n700 54\n763 46\n2.1. Considere que, num reator com a capacidade de 1,00 L, foram inicialmente introduzidas \n2,56 # 10-3 mol de I2(g) e uma certa quantidade de H2(g). Considere ainda que, no início, não \nexistia HI(g) no reator.\nQuando, a 763 K, o sistema atingiu um estado de equilíbrio, a quantidade de I2(g) que existia no \nreator era 1,46 # 10-3 mol.\nCalcule a quantidade, em mol, de H2(g) que deverá existir no reator quando o sistema está em \nequilíbrio àquela temperatura.\nApresente todas as etapas de resolução.\n2.2. Compare a energia absorvida na quebra das ligações com a energia libertada no estabelecimento \ndas ligações, na reação química considerada. Fundamente a sua resposta com base na variação da \nconstante de equilíbrio da reação com a temperatura.\n\nGRUPO VI\nCom o objetivo de determinar a concentração de uma solução de ácido clorídrico, HCl(aq), um grupo de alunos \ntitulou 50,00 cm3 dessa solução com uma solução padrão de hidróxido de sódio, NaOH(aq), de concentração \n1,00 # 10-1 mol dm-3.\nA reação que ocorre pode ser traduzida por\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\nOs alunos gastaram 24,60 cm3 da solução padrão de NaOH até ao ponto final da titulação."
     },
     {
-      "id": 2052,
+      "id": 11050,
       "question_number": "4",
       "statement": "4. A energia pode ser transferida como radiação.\nA taxa temporal de emissão de radiação pela superfície de um corpo é",
       "question_type": "multiple_choice",
@@ -158,31 +365,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3806,
+          "id": 21924,
           "letter": "A",
           "text": "diretamente proporcional à temperatura absoluta da superfície desse corpo.",
           "isCorrect": false
         },
         {
-          "id": 3807,
+          "id": 21925,
           "letter": "B",
           "text": "inversamente proporcional à temperatura absoluta da superfície desse corpo.",
           "isCorrect": false
         },
         {
-          "id": 3808,
+          "id": 21926,
           "letter": "C",
           "text": "diretamente proporcional à quarta potência da temperatura absoluta da superfície desse corpo.",
           "isCorrect": false
         },
         {
-          "id": 3809,
+          "id": 21927,
           "letter": "D",
           "text": "inversamente proporcional à quarta potência da temperatura absoluta da superfície desse corpo.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "4. ................................................... 5 pontos",
+      "criteriaText": "4. Utilização de expressões ou de equações erradas. As etapas em que essas expressões ou essas equações \nforem utilizadas são pontuadas com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -192,7 +399,53 @@
       "contextText": "GRUPO I\nNem o calor nem o trabalho são formas de energia. O calor é a energia que se transfere entre corpos \nem contacto, como resultado de uma diferença de temperatura entre eles, fluindo a energia do corpo que se \nencontra a temperatura mais elevada para o corpo que se encontra a temperatura mais baixa. Antes dessa \ntransferência, não existe calor armazenado na fonte, nem passa a existir calor acumulado no recetor após a \ntransferência. Mas há energia armazenada na fonte antes da transferência, e a energia do recetor passa a ser \nmais elevada após a transferência – por exemplo, se o recetor for gelo, parte dele pode fundir-se.\nPeter Atkins, O Dedo de Galileu, 1.ª ed., Lisboa, \nGradiva, 2007, pp. 135-136 (adaptado)"
     },
     {
-      "id": 2054,
+      "id": 11052,
+      "question_number": "1.1",
+      "statement": "1.1. O módulo da velocidade angular da roda, em radianos por segundo, no intervalo de tempo considerado, \npode ser calculado pela expressão",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21952,
+          "letter": "A",
+          "text": "número atómico diferente.",
+          "isCorrect": true
+        },
+        {
+          "id": 21953,
+          "letter": "B",
+          "text": "igual número de nucleões.",
+          "isCorrect": false
+        },
+        {
+          "id": 21954,
+          "letter": "C",
+          "text": "igual número de protões.",
+          "isCorrect": false
+        },
+        {
+          "id": 21955,
+          "letter": "D",
+          "text": "número de eletrões diferente.",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "1.1. Versão 1 – (A); Versão 2 – (D) ............................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11063,
       "question_number": "1.1",
       "statement": "1.1. O cloro apresenta dois isótopos estáveis, o cloro-35 e o cloro-37.\nOs átomos destes isótopos têm",
       "question_type": "multiple_choice",
@@ -202,33 +455,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3834,
-          "letter": "A",
-          "text": "número atómico diferente.",
-          "isCorrect": false
-        },
-        {
-          "id": 3835,
-          "letter": "B",
-          "text": "igual número de nucleões.",
-          "isCorrect": false
-        },
-        {
-          "id": 3836,
-          "letter": "C",
-          "text": "igual número de protões.",
-          "isCorrect": false
-        },
-        {
-          "id": 3837,
-          "letter": "D",
-          "text": "número de eletrões diferente.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1.1. ........................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -238,9 +466,9 @@
       "contextText": null
     },
     {
-      "id": 2055,
+      "id": 11053,
       "question_number": "1.2",
-      "statement": "1.2. A orbital de valência menos energética de um átomo de cloro, no estado fundamental, pode ser \ncaracterizada pelo conjunto de números quânticos",
+      "statement": "1.2. Na Figura 1, estão representados essa roda e dois pontos, P e Q, de um dos seus raios.\nFigura 1\nP\nQ\nO módulo da aceleração do ponto P, no intervalo de tempo considerado, é",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -250,31 +478,73 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3838,
+          "id": 21956,
           "letter": "A",
           "text": "(3, 1, 0)",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3839,
+          "id": 21957,
           "letter": "B",
           "text": "(3, 0, -1)",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3840,
+          "id": 21958,
           "letter": "C",
           "text": "(3, 1, -1)",
           "isCorrect": false
         },
         {
-          "id": 3841,
+          "id": 21959,
           "letter": "D",
           "text": "(3, 0, 0)",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1.2. ........................................... 5 pontos",
+      "criteriaText": "1.2. Versão 1 – (A); Versão 2 – (B) .............................................................................................. 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11060,
+      "question_number": "1.2",
+      "statement": "1.2. Se o diapasão for percutido com uma força de maior intensidade, o sinal elétrico registado no ecrã \ndo osciloscópio terá",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11064,
+      "question_number": "1.2",
+      "statement": "1.2. A orbital de valência menos energética de um átomo de cloro, no estado fundamental, pode ser \ncaracterizada pelo conjunto de números quânticos",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -284,7 +554,7 @@
       "contextText": null
     },
     {
-      "id": 2067,
+      "id": 11065,
       "question_number": "1.3",
       "statement": "1.3. Um átomo de flúor e um átomo de cloro, no estado fundamental, apresentam",
       "question_type": "multiple_choice",
@@ -296,33 +566,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3842,
+          "id": 21960,
           "letter": "A",
           "text": "o mesmo número de orbitais p completamente preenchidas.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3843,
+          "id": 21961,
           "letter": "B",
           "text": "ambos uma orbital p semipreenchida.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3844,
+          "id": 21962,
           "letter": "C",
           "text": "o mesmo número de orbitais s completamente preenchidas.",
           "isCorrect": false
         },
         {
-          "id": 3845,
+          "id": 21963,
           "letter": "D",
           "text": "ambos uma orbital s semipreenchida.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1.3. ........................................... 5 pontos",
+      "criteriaText": "1.3. Versão 1 – (B); Versão 2 – (A) .............................................................................................. 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -330,7 +600,7 @@
       "contextText": null
     },
     {
-      "id": 2068,
+      "id": 11066,
       "question_number": "1.4",
       "statement": "1.4. A energia de ionização do átomo de cloro, isolado e em fase gasosa, é a energia de remoção mínima \nnecessária para, a partir do átomo no estado fundamental, se formar um determinado ião.\nEscreva a fórmula química desse ião.",
       "question_type": "open",
@@ -341,7 +611,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1.4. ........................................... 5 pontos",
+      "criteriaText": "1.4. ................................................................................................................................................. 5 pontos\nCl+\nNota – A escrita de uma equação química que traduza a formação do ião Cl+ a partir do respetivo \nátomo não implica qualquer desvalorização.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -351,9 +621,9 @@
       "contextText": null
     },
     {
-      "id": 2057,
+      "id": 11055,
       "question_number": "2.1",
-      "statement": "2.1. Considere que, num reator com a capacidade de 1,00 L, foram inicialmente introduzidas \n2,56 # 10-3 mol de I2(g) e uma certa quantidade de H2(g). Considere ainda que, no início, não \nexistia HI(g) no reator.\nQuando, a 763 K, o sistema atingiu um estado de equilíbrio, a quantidade de I2(g) que existia no \nreator era 1,46 # 10-3 mol.\nCalcule a quantidade, em mol, de H2(g) que deverá existir no reator quando o sistema está em \nequilíbrio àquela temperatura.\nApresente todas as etapas de resolução.",
+      "statement": "2.1. Apresente, num mesmo sistema de eixos, os esboços dos gráficos que traduzem, no intervalo de \ntempo considerado, as componentes escalares das posições, xCI e xCII, em função do tempo, desde \no instante t = 0s até, pelo menos, ao instante em que os conjuntos se cruzam.\nDetermine o instante em que os conjuntos CI e CII se cruzam e a componente escalar da posição \ndaqueles conjuntos nesse instante.\nUtilize as potencialidades gráficas da calculadora.",
       "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
@@ -362,20 +632,20 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.1. ........................................... 10 pontos",
+      "criteriaText": "2.1. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Apresentação dos esboços dos gráficos que traduzem as componentes \nescalares das posições, xCI e xCII , dos conjuntos CI e CII, \nrespetivamente, em função do tempo, desde o instante t = 0s até, \npelo menos, ao instante em que os conjuntos se cruzam ( ver notas \n1, 2 e 3) ............................................................................................................. 4 pontos\nx[/m ]\nt[/s ]\n[5,9 × 102]\n[84][0]\n[CII]\n[CI]\nB) Determinação do instante em que os conjuntos CI e CII se cruzam (t = 84 s) \n(ver notas 4, 5 e 6) ........................................................................................... 3 pontos\nC) Determinação da componente escalar da posição dos conjuntos no instante\nem que se cruzam (x = 5,9 × 102 m) (ver notas 4, 5 e 6) ................................. 3 pontos\nNotas:",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      "contextText": null
     },
     {
-      "id": 2058,
+      "id": 11056,
       "question_number": "2.2",
-      "statement": "2.2. Compare a energia absorvida na quebra das ligações com a energia libertada no estabelecimento \ndas ligações, na reação química considerada. Fundamente a sua resposta com base na variação da \nconstante de equilíbrio da reação com a temperatura.\n\nGRUPO VI\nCom o objetivo de determinar a concentração de uma solução de ácido clorídrico, HCl(aq), um grupo de alunos \ntitulou 50,00 cm3 dessa solução com uma solução padrão de hidróxido de sódio, NaOH(aq), de concentração \n1,00 # 10-1 mol dm-3.\nA reação que ocorre pode ser traduzida por\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\nOs alunos gastaram 24,60 cm3 da solução padrão de NaOH até ao ponto final da titulação.",
-      "question_type": "open",
+      "statement": "2.2. Em qual dos esquemas seguintes se encontram corretamente representadas, num dado instante \ndo intervalo de tempo considerado, a velocidade, v→, e a aceleração, a→, do conjunto CII?",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -383,17 +653,38 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.2. ........................................... 10 pontos",
+      "criteriaText": "2.2. Versão 1 – (D); Versão 2 – (B) .............................................................................................. 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      "contextText": null
     },
     {
-      "id": 2059,
+      "id": 11068,
+      "question_number": "2.2",
+      "statement": "2.2. Determine a densidade da mistura gasosa, nas condições de pressão e de temperatura referidas.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11057,
       "question_number": "2.3",
       "statement": "2.3. A soma dos trabalhos realizados pelas forças que atuam no conjunto CI, num deslocamento desse \nconjunto no intervalo de tempo considerado, é",
       "question_type": "multiple_choice",
@@ -405,33 +696,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3822,
+          "id": 21940,
           "letter": "A",
           "text": "nula, uma vez que atuam no conjunto forças não conservativas.",
           "isCorrect": false
         },
         {
-          "id": 3823,
+          "id": 21941,
           "letter": "B",
           "text": "negativa, uma vez que a energia cinética do conjunto diminui.",
           "isCorrect": false
         },
         {
-          "id": 3824,
+          "id": 21942,
           "letter": "C",
           "text": "nula, uma vez que a energia cinética do conjunto se mantém constante.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3825,
+          "id": 21943,
           "letter": "D",
           "text": "negativa, uma vez que atuam no conjunto forças não conservativas.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
-      "criteriaText": "2.3. ........................................... 5 pontos",
+      "criteriaText": "2.3. Versão 1 – (C); Versão 2 – (D) .............................................................................................. 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -439,7 +730,7 @@
       "contextText": null
     },
     {
-      "id": 2080,
+      "id": 11074,
       "question_number": "3.1",
       "statement": "3.1. Apresente uma expressão numérica que permita calcular o erro relativo, em percentagem, cometido \npelos alunos na medição do volume de titulante gasto até ao ponto final da titulação.",
       "question_type": "open",
@@ -450,20 +741,20 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.1. ........................................... 5 pontos",
+      "criteriaText": "3.1. ................................................................................................................................................. 5 pontos\nOito [eletrões] OU quatro pares [de eletrões].",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g) \n1. Na reação de formação do HI considerada, a variação do número de oxidação do iodo é ________, sendo \na espécie I2 o agente ________. \n (A) +1 ... oxidante\n (B) -1 ... oxidante\n (C) +1 ... redutor\n (D) -1 ... redutor\n2. Na tabela seguinte, estão registados os valores da constante de equilíbrio, Kc, da reação de formação do \nHI(g) considerada, a três temperaturas diferentes.\nT / K Kc\n500 160\n700 54\n763 46\n2.1. Considere que, num reator com a capacidade de 1,00 L, foram inicialmente introduzidas \n2,56 # 10-3 mol de I2(g) e uma certa quantidade de H2(g). Considere ainda que, no início, não \nexistia HI(g) no reator.\nQuando, a 763 K, o sistema atingiu um estado de equilíbrio, a quantidade de I2(g) que existia no \nreator era 1,46 # 10-3 mol.\nCalcule a quantidade, em mol, de H2(g) que deverá existir no reator quando o sistema está em \nequilíbrio àquela temperatura.\nApresente todas as etapas de resolução.\n2.2. Compare a energia absorvida na quebra das ligações com a energia libertada no estabelecimento \ndas ligações, na reação química considerada. Fundamente a sua resposta com base na variação da \nconstante de equilíbrio da reação com a temperatura.\n\nGRUPO VI\nCom o objetivo de determinar a concentração de uma solução de ácido clorídrico, HCl(aq), um grupo de alunos \ntitulou 50,00 cm3 dessa solução com uma solução padrão de hidróxido de sódio, NaOH(aq), de concentração \n1,00 # 10-1 mol dm-3.\nA reação que ocorre pode ser traduzida por\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\nOs alunos gastaram 24,60 cm3 da solução padrão de NaOH até ao ponto final da titulação."
     },
     {
-      "id": 2072,
+      "id": 11070,
       "question_number": "3.2",
-      "statement": "3.2. ........................................... 10 pontos\n30 pontos\nTOTAL ...................................... 200 pontos",
-      "question_type": "open",
+      "statement": "3.2. O cloro antecede o iodo no mesmo ________ da tabela periódica, o que permite prever que o \ncomprimento da ligação H – Cl deverá ser ________ do que o comprimento da ligação H – I.",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -471,14 +762,35 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.2. ........................................... 10 pontos",
+      "criteriaText": "3.2. Versão 1 – (B); Versão 2 – (D) .............................................................................................. 5 pontos\n\nGRUPO V",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11075,
+      "question_number": "3.2",
+      "statement": "3.2. Com base na informação fornecida na Figura 6, justifique a seguinte afirmação.\nO indicador verde de bromocresol pode ser utilizado para assinalar o ponto de equivalência da \ntitulação em causa.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g)"
+      "contextText": "GRUPO V\nO iodo, I2, reage com o hidrogénio, H2, em fase gasosa, formando-se iodeto de hidrogénio, HI(g). A reação \npode ser traduzida por\nI2(g) + H2(g) ? 2 HI(g) \n1. Na reação de formação do HI considerada, a variação do número de oxidação do iodo é ________, sendo \na espécie I2 o agente ________. \n (A) +1 ... oxidante\n (B) -1 ... oxidante\n (C) +1 ... redutor\n (D) -1 ... redutor\n2. Na tabela seguinte, estão registados os valores da constante de equilíbrio, Kc, da reação de formação do \nHI(g) considerada, a três temperaturas diferentes.\nT / K Kc\n500 160\n700 54\n763 46\n2.1. Considere que, num reator com a capacidade de 1,00 L, foram inicialmente introduzidas \n2,56 # 10-3 mol de I2(g) e uma certa quantidade de H2(g). Considere ainda que, no início, não \nexistia HI(g) no reator.\nQuando, a 763 K, o sistema atingiu um estado de equilíbrio, a quantidade de I2(g) que existia no \nreator era 1,46 # 10-3 mol.\nCalcule a quantidade, em mol, de H2(g) que deverá existir no reator quando o sistema está em \nequilíbrio àquela temperatura.\nApresente todas as etapas de resolução.\n2.2. Compare a energia absorvida na quebra das ligações com a energia libertada no estabelecimento \ndas ligações, na reação química considerada. Fundamente a sua resposta com base na variação da \nconstante de equilíbrio da reação com a temperatura.\n\nGRUPO VI\nCom o objetivo de determinar a concentração de uma solução de ácido clorídrico, HCl(aq), um grupo de alunos \ntitulou 50,00 cm3 dessa solução com uma solução padrão de hidróxido de sódio, NaOH(aq), de concentração \n1,00 # 10-1 mol dm-3.\nA reação que ocorre pode ser traduzida por\nNaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)\nOs alunos gastaram 24,60 cm3 da solução padrão de NaOH até ao ponto final da titulação."
     }
   ]
 }

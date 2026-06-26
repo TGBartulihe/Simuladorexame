@@ -4,34 +4,35 @@
   "subject": "Biologia e Geologia",
   "year": 2016,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 249,
+      "id": 1509,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 250,
+      "id": 1510,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 251,
+      "id": 1511,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 252,
+      "id": 1512,
       "name": "GRUPO IV",
       "order": 3
     }
   ],
   "questions": [
     {
-      "id": 1818,
+      "id": 10842,
       "question_number": "1",
-      "statement": "1. As autolisinas são proteínas que digerem mais facilmente a parede celular de bactérias _______, e que \nsão sintetizadas por _______.",
-      "question_type": "multiple_choice",
+      "statement": "1. Identifique, de acordo com os dados da Figura 1B, a letra correspondente à anomalia magnética mais \nantiga registada nas rochas do fundo do Atlântico a oeste da Península Ibérica.",
+      "question_type": "open",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -40,43 +41,43 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3354,
+          "id": 21508,
           "letter": "A",
           "text": "Gram-positivas … lisossomas",
           "isCorrect": false
         },
         {
-          "id": 3355,
+          "id": 21509,
           "letter": "B",
           "text": "Gram-negativas … ribossomas",
           "isCorrect": false
         },
         {
-          "id": 3356,
+          "id": 21510,
           "letter": "C",
           "text": "Gram-positivas … ribossomas",
           "isCorrect": false
         },
         {
-          "id": 3357,
+          "id": 21511,
           "letter": "D",
           "text": "Gram-negativas … lisossomas",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.",
+      "criteriaText": "1. .................................................................................................................................................... 5 pontos\nAnomalia E.",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO IV",
-      "contextTitle": "Figura 4",
-      "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
     },
     {
-      "id": 1819,
-      "question_number": "2",
-      "statement": "2. As enzimas que permitiriam às bactérias resistir à teixobactina catalisariam a reação que envolve a quebra \ndas ligações químicas entre",
+      "id": 10850,
+      "question_number": "1",
+      "statement": "1. Um dos objetivos da investigação foi",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -84,45 +85,20 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3358,
-          "letter": "A",
-          "text": "nucleótidos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3359,
-          "letter": "B",
-          "text": "aminoácidos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3360,
-          "letter": "C",
-          "text": "monossacarídeos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3361,
-          "letter": "D",
-          "text": "ácidos gordos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2\nNa resposta, são apresentados dois dos tópicos com falhas em pelo menos um dos \naspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO IV",
-      "contextTitle": "Figura 4",
-      "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
     },
     {
-      "id": 1820,
-      "question_number": "3",
-      "statement": "3. De acordo com os dados da Figura 3, à temperatura de 800 °C e à pressão de _______, há condições \npara a formação de _______.",
+      "id": 10858,
+      "question_number": "1",
+      "statement": "1. Os kimberlitos são rochas com _______ percentagem de sílica e apresentam minerais como _______.",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -130,33 +106,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3334,
-          "letter": "A",
-          "text": "5 GPa … diamante numa zona de litosfera cratónica",
-          "isCorrect": false
-        },
-        {
-          "id": 3335,
-          "letter": "B",
-          "text": "3 GPa … grafite numa zona de litosfera cratónica",
-          "isCorrect": false
-        },
-        {
-          "id": 3336,
-          "letter": "C",
-          "text": "4 GPa … diamante numa zona de litosfera oceânica",
-          "isCorrect": false
-        },
-        {
-          "id": 3337,
-          "letter": "D",
-          "text": "2 GPa … grafite numa zona de litosfera oceânica",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\nNa resposta, são apresentados os três tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -166,7 +117,313 @@
       "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
     },
     {
-      "id": 1821,
+      "id": 10867,
+      "question_number": "1",
+      "statement": "1. As autolisinas são proteínas que digerem mais facilmente a parede celular de bactérias _______, e que \nsão sintetizadas por _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+    },
+    {
+      "id": 10843,
+      "question_number": "2",
+      "statement": "2. A formação do golfo da Biscaia esteve associada à ascensão de magma com _______ viscosidade \natravés de falhas _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21512,
+          "letter": "A",
+          "text": "nucleótidos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21513,
+          "letter": "B",
+          "text": "aminoácidos.",
+          "isCorrect": true
+        },
+        {
+          "id": 21514,
+          "letter": "C",
+          "text": "monossacarídeos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21515,
+          "letter": "D",
+          "text": "ácidos gordos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (C)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
+    },
+    {
+      "id": 10851,
+      "question_number": "2",
+      "statement": "2. Para o controlo da investigação descrita contribuiu a",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
+    },
+    {
+      "id": 10859,
+      "question_number": "2",
+      "statement": "2. Os diamantes formam-se em zonas tectonicamente _______, a profundidades _______ a 120 km.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10868,
+      "question_number": "2",
+      "statement": "2. As enzimas que permitiriam às bactérias resistir à teixobactina catalisariam a reação que envolve a quebra \ndas ligações químicas entre",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
+    },
+    {
+      "id": 10844,
+      "question_number": "3",
+      "statement": "3. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência correta dos \nacontecimentos relacionados com a origem e com a evolução do rifte pirenaico.\nA. Movimento da microplaca Ibérica para norte.\nB. Incorporação da zona este do rifte na cadeia de montanhas.\nC. Formação da dorsal do Atlântico norte.\nD. Abertura do golfo da Biscaia.\nE. Instalação do rifte intracontinental pirenaico.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21488,
+          "letter": "A",
+          "text": "5 GPa … diamante numa zona de litosfera cratónica",
+          "isCorrect": false
+        },
+        {
+          "id": 21489,
+          "letter": "B",
+          "text": "3 GPa … grafite numa zona de litosfera cratónica",
+          "isCorrect": false
+        },
+        {
+          "id": 21490,
+          "letter": "C",
+          "text": "4 GPa … diamante numa zona de litosfera oceânica",
+          "isCorrect": false
+        },
+        {
+          "id": 21491,
+          "letter": "D",
+          "text": "2 GPa … grafite numa zona de litosfera oceânica",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 5 pontos\nVersão 1 – C, E, D, A, B\nVersão 2 – B, A, E, C, D",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
+    },
+    {
+      "id": 10852,
+      "question_number": "3",
+      "statement": "3. De acordo com os resultados registados, pode inferir-se que ocorreu _______ considerável da média da \nmassa corporal no grupo _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
+    },
+    {
+      "id": 10860,
+      "question_number": "3",
+      "statement": "3. De acordo com os dados da Figura 3, à temperatura de 800 °C e à pressão de _______, há condições \npara a formação de _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10845,
+      "question_number": "4",
+      "statement": "4. As rochas dos fundos oceânicos são",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21516,
+          "letter": "A",
+          "text": "moléculas lipídicas com grande mobilidade lateral.",
+          "isCorrect": true
+        },
+        {
+          "id": 21517,
+          "letter": "B",
+          "text": "uma distribuição homogénea das proteínas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21518,
+          "letter": "C",
+          "text": "proteínas transportadoras que ocupam posições fixas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21519,
+          "letter": "D",
+          "text": "glúcidos associados a lípidos na superfície interna.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
+    },
+    {
+      "id": 10853,
+      "question_number": "4",
+      "statement": "4. Nos animais do grupo experimental, na fase de pós-aclimatação, comparativamente à fase de pré- \n-aclimatação, observou-se que a pressão osmótica na urina _______, provavelmente devido a uma \n_______ reabsorção de água ao longo do tubo coletor dos animais do grupo experimental.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
+    },
+    {
+      "id": 10861,
+      "question_number": "4",
+      "statement": "4. Relativamente às características do diamante e da grafite, pode afirmar-se que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10869,
       "question_number": "4",
       "statement": "4. Segundo o modelo do mosaico fluido, proposto por Singer e Nicholson em 1972, a membrana citoplasmática \napresenta",
       "question_type": "multiple_choice",
@@ -176,33 +433,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3362,
-          "letter": "A",
-          "text": "moléculas lipídicas com grande mobilidade lateral.",
-          "isCorrect": false
-        },
-        {
-          "id": 3363,
-          "letter": "B",
-          "text": "uma distribuição homogénea das proteínas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3364,
-          "letter": "C",
-          "text": "proteínas transportadoras que ocupam posições fixas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3365,
-          "letter": "D",
-          "text": "glúcidos associados a lípidos na superfície interna.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nNa resposta, são apresentados os três tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -212,7 +444,95 @@
       "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
     },
     {
-      "id": 1822,
+      "id": 10846,
+      "question_number": "5",
+      "statement": "5. À medida que a distância à dorsal oceânica aumenta,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21520,
+          "letter": "A",
+          "text": "o processamento conduz à formação de RNA mensageiro.",
+          "isCorrect": false
+        },
+        {
+          "id": 21521,
+          "letter": "B",
+          "text": "a tradução ocorre em ribossomas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21522,
+          "letter": "C",
+          "text": "o alongamento conduz à formação de moléculas polipeptídicas.",
+          "isCorrect": true
+        },
+        {
+          "id": 21523,
+          "letter": "D",
+          "text": "a transcrição ocorre no citoplasma.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (D)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
+    },
+    {
+      "id": 10854,
+      "question_number": "5",
+      "statement": "5. O búfalo-africano, Syncerus caffer, pertence à família Bovidae. Considere as seguintes afirmações, \nreferentes à taxonomia dos animais.\nI. Syncerus caffer e Oryx leucoryx pertencem ao mesmo Género.\nII. Syncerus caffer e Oryx leucoryx têm maior número de taxa em comum do que Oryx leucoryx e Oryx \ngazella.\nIII. Syncerus caffer e Oryx gazella pertencem à mesma Classe.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
+    },
+    {
+      "id": 10862,
+      "question_number": "5",
+      "statement": "5. O diamante e a grafite são minerais",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10870,
       "question_number": "5",
       "statement": "5. Nas células procarióticas, ao contrário do que acontece nas células eucarióticas,",
       "question_type": "multiple_choice",
@@ -222,33 +542,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3366,
-          "letter": "A",
-          "text": "o processamento conduz à formação de RNA mensageiro.",
-          "isCorrect": false
-        },
-        {
-          "id": 3367,
-          "letter": "B",
-          "text": "a tradução ocorre em ribossomas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3368,
-          "letter": "C",
-          "text": "o alongamento conduz à formação de moléculas polipeptídicas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3369,
-          "letter": "D",
-          "text": "a transcrição ocorre no citoplasma.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5 5 5 5 5 5 5 5 15 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -258,7 +553,95 @@
       "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
     },
     {
-      "id": 1823,
+      "id": 10847,
+      "question_number": "6",
+      "statement": "6. Considere as seguintes afirmações, referentes a características de minerais. \nI. Os minerais da série descontínua de Bowen geralmente têm estruturas cristalinas diferentes.\nII. O quartzo apresenta uma temperatura de cristalização inferior à da biotite.\nIII. As plagióclases são silicatos ricos em cálcio e em potássio.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21524,
+          "letter": "A",
+          "text": "25% de moléculas de DNA híbridas.",
+          "isCorrect": true
+        },
+        {
+          "id": 21525,
+          "letter": "B",
+          "text": "50% de moléculas só com o isótopo 14N.",
+          "isCorrect": false
+        },
+        {
+          "id": 21526,
+          "letter": "C",
+          "text": "100% de moléculas só com o isótopo 14N.",
+          "isCorrect": false
+        },
+        {
+          "id": 21527,
+          "letter": "D",
+          "text": "75% de moléculas de DNA híbridas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (D)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
+    },
+    {
+      "id": 10855,
+      "question_number": "6",
+      "statement": "6. No deserto, animais de espécies distintas, sujeitos a idênticas pressões seletivas, podem apresentar \n_______ estruturais, que fundamentam a existência de processos de evolução _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
+    },
+    {
+      "id": 10863,
+      "question_number": "6",
+      "statement": "6. Os kimberlitos, devido à sua composição, têm uma densidade média _______ à das rochas crustais \nenvolventes, estando, por isso, associados a anomalias gravimétricas _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10871,
       "question_number": "6",
       "statement": "6. Bactérias cultivadas durante várias gerações num meio de cultura contendo o isótopo do nitrogénio 15N \nforam transferidas para um meio contendo o isótopo 14N. Ao fim de duas gerações neste meio, o DNA \nbacteriano será constituído por",
       "question_type": "multiple_choice",
@@ -268,35 +651,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3370,
-          "letter": "A",
-          "text": "25% de moléculas de DNA híbridas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3371,
-          "letter": "B",
-          "text": "50% de moléculas só com o isótopo 14N.",
-          "isCorrect": true
-        },
-        {
-          "id": 3372,
-          "letter": "C",
-          "text": "100% de moléculas só com o isótopo 14N.",
-          "isCorrect": false
-        },
-        {
-          "id": 3373,
-          "letter": "D",
-          "text": "75% de moléculas de DNA híbridas.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (D)",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -304,7 +662,95 @@
       "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
     },
     {
-      "id": 1824,
+      "id": 10848,
+      "question_number": "7",
+      "statement": "7. Faça corresponder cada uma das descrições relativas à morfologia dos fundos oceânicos, expressas na \ncoluna A, à respetiva designação, que consta da coluna B.\nCOLUNA A COLUNA B\n(a) Área extensa, com declives muito suaves, situada \na grande profundidade.\n(b) Depressão alongada, associada a fronteira \ndestrutiva de placas.\n(c) Zona com inclinação fraca, adjacente à faixa \ncosteira.\n(1) Dorsal oceânica\n(2) Fossa oceânica\n(3) Planície abissal\n(4) Plataforma continental\n(5) Talude continental",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21528,
+          "letter": "A",
+          "text": "adaptação individual das bactérias ao antibiótico.",
+          "isCorrect": false
+        },
+        {
+          "id": 21529,
+          "letter": "B",
+          "text": "competição entre bactérias sujeitas ao antibiótico.",
+          "isCorrect": false
+        },
+        {
+          "id": 21530,
+          "letter": "C",
+          "text": "ocorrência de mutações na população bacteriana.",
+          "isCorrect": false
+        },
+        {
+          "id": 21531,
+          "letter": "D",
+          "text": "existência de variabilidade na colónia bacteriana.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – (a) – (3); (b) – (2); (c) – (4)\nVersão 2 – (a) – (4); (b) – (3); (c) – (2)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
+    },
+    {
+      "id": 10856,
+      "question_number": "7",
+      "statement": "7. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos que conduzem à osmorregulação de um mamífero numa situação de carência de água.\nA. Estimulação do hipotálamo.\nB. Aumento da tonicidade do plasma.\nC. Libertação da hormona ADH.\nD. Aumento do volume do plasma.\nE. Aumento da permeabilidade do tubo coletor.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
+    },
+    {
+      "id": 10864,
+      "question_number": "7",
+      "statement": "7. Considere as seguintes afirmações, referentes à exploração intensiva de inertes no leito de um curso de \nágua.\nI. A exploração intensiva de inertes pode conduzir ao aumento da carga sedimentar a montante.\nII. A exploração intensiva de inertes pode conduzir à redução da erosão ao longo da linha de costa.\nIII. A exploração intensiva de inertes pode conduzir à alteração da dinâmica das correntes fluviais.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10872,
       "question_number": "7",
       "statement": "7. Numa perspetiva lamarckista, a resistência bacteriana aos antibióticos resultaria da",
       "question_type": "multiple_choice",
@@ -314,35 +760,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3374,
-          "letter": "A",
-          "text": "adaptação individual das bactérias ao antibiótico.",
-          "isCorrect": true
-        },
-        {
-          "id": 3375,
-          "letter": "B",
-          "text": "competição entre bactérias sujeitas ao antibiótico.",
-          "isCorrect": false
-        },
-        {
-          "id": 3376,
-          "letter": "C",
-          "text": "ocorrência de mutações na população bacteriana.",
-          "isCorrect": false
-        },
-        {
-          "id": 3377,
-          "letter": "D",
-          "text": "existência de variabilidade na colónia bacteriana.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (C)",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -350,7 +771,95 @@
       "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
     },
     {
-      "id": 1825,
+      "id": 10849,
+      "question_number": "8",
+      "statement": "8. Demonstre, apresentando dados do texto, que o movimento da microplaca Ibérica esteve associado, em \ndiferentes momentos, a um processo tectónico distensivo e a um processo tectónico compressivo.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21532,
+          "letter": "A",
+          "text": "III é verdadeira; I e II são falsas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21533,
+          "letter": "B",
+          "text": "I e II são verdadeiras; III é falsa.",
+          "isCorrect": false
+        },
+        {
+          "id": 21534,
+          "letter": "C",
+          "text": "II e III são verdadeiras; I é falsa.",
+          "isCorrect": false
+        },
+        {
+          "id": 21535,
+          "letter": "D",
+          "text": "I é verdadeira; II e III são falsas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "8. .................................................................................................................................................... 10 pontos\nTópicos de resposta:\n•  relação entre o processo tectónico distensivo e a instalação de um rifte intracontinental (ou \na instalação do rifte pirenaico, ou a formação de nova crosta oceânica, ou a abertura do \ngolfo da Biscaia);\n•  relação entre o processo tectónico compressivo e a formação da cadeia montanhosa que \nliga a microplaca Ibérica à placa Euro-asiática (ou a formação da cadeia montanhosa que \nliga a Península Ibérica ao continente europeu, ou a colisão da microplaca Ibérica com a \nplaca Euro-asiática, ou a formação dos Pirenéus).\nOU\nrelação entre o processo tectónico compressivo e a deriva da placa Africana (para norte) \ncom mudança da trajetória da microplaca Ibérica;\nOU\nrelação entre o processo tectónico compressivo e a subdução (de parte) da crosta oceânica \ndo golfo da Biscaia (sob a microplaca Ibérica).\nNíveis Descritores do nível de desempenho Pontuação\n3\nNa resposta, são apresentados os dois tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n10\n2\nNa resposta, são apresentados os dois tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.\n6\n1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs polos do campo magnético terrestre têm sofrido inversões em intervalos de tempo irregulares. \nEstas inversões de polaridade ficaram registadas nas rochas dos fundos oceânicos, pois alguns \nminerais adquirem as características do campo magnético existente no momento da sua formação. \nAtravés de estudos de paleomagnetismo e da datação das rochas do fundo oceânico, foi possível \ndeduzir que a abertura do oceano Atlântico norte levou à instalação de um rifte intracontinental, o \nrifte pirenaico, do qual resultaram a formação de nova crosta oceânica e a abertura do golfo da \nBiscaia, a norte da Península Ibérica. Acompanhando este processo, que terá terminado há cerca de \n75 milhões de anos (Ma), a microplaca Ibérica sofreu uma translação e uma rotação no sentido \ncontrário ao dos ponteiros do relógio, movendo-se para sudeste.\nPosteriormente, a abertura do Atlântico sul implicou a deriva da placa Africana para norte e a \nconsequente mudança de trajetória da microplaca Ibérica, formando-se a cadeia montanhosa que \nhoje liga a Península Ibérica ao continente europeu, os Pirenéus. Durante este processo, a zona \nleste do rifte pirenaico foi incorporada na cadeia de montanhas e, a oeste, parte da crosta oceânica \ndo golfo da Biscaia subdutou na margem norte da microplaca Ibérica.\nAs Figuras 1A e 1B representam, de forma esquemática, a evolução da região entre os \n110 Ma e os 75 Ma e a região na atualidade, respetivamente.\nPlaca Africana\nMicroplaca \nIbérica\n110 Ma\n75 Ma\nAnomalia magnética\nRifte pirenaico\nDorsal médio-atlântica\nCadeia orogénica pirenaica\n30º 20º 10º 0º\n30º 20º 10º 0º\nLimite entre as placas \nEuro-asiática e Africana\nN\nA B C\nD\nE\nEC DB\nA\nA\nCBAAB\nB\nRifte da Terceira\nGolfo da\nBiscaia\nPlaca Euro-asiática\nPlaca \nNorte-americana\nFigura 1A Figura 1B\nBaseado em J. Debelmas e G. Mascle, As Grandes Estruturas Geológicas, \nLisboa, Fundação Calouste Gulbenkian, 2002 e em http://gent.uab.cat\n(consultado em setembro de 2015)"
+    },
+    {
+      "id": 10857,
+      "question_number": "8",
+      "statement": "8. Explique em que medida a metodologia desenvolvida e os resultados obtidos mostram que o órix-da- \n-arábia é um animal capaz de ajustar a sua fisiologia às condições do deserto no verão.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nO órix-da-arábia, Oryx leucoryx, é um mamífero pertencente à família Bovidae. Esta espécie, \nclassificada como vulnerável, habita nos desertos da Península Arábica, onde, no verão, a água é \nescassa e o conteúdo nutricional da vegetação é pobre. \nCom o intuito de investigar os mecanismos utilizados pelo órix-da-arábia para ajustar a sua \nfisiologia a uma progressiva restrição de água e de alimento, desenvolveu-se o estudo seguinte.\nMétodos e resultados\n1 – Selecionaram-se 14 fêmeas, que foram distribuídas, aleatoriamente, pelo grupo experimental \n(7 fêmeas) e pelo grupo de controlo (7 fêmeas). Os animais foram mantidos ao ar livre, em espaços \nindividuais de 40 m2, com sombra disponível.\n2 – Durante 5 meses (período de aclimatação fisiológica), forneceu-se ao grupo de controlo \n2 kg/dia de feno e 4,5 L/dia de água. No grupo experimental, o tratamento iniciou-se com as mesmas \nquantidades de feno e de água, que foram reduzidas gradualmente (15% a cada 3 semanas) até se \natingir 0,8 kg/dia de feno e 1,2 L/dia de água.\nNo início do estudo (pré-aclimatação) e no final (pós-aclimatação), foram medidas a taxa \nmetabólica de repouso mínima (TMR), ou seja, a quantidade mínima de energia necessária para \nmanter as funções básicas, e a taxa de perda total de água por evaporação (TPTAE), ou seja, o \nsomatório das perdas de água por respiração e através da pele.\nNa Figura 2, estão representados os resultados obtidos para a TMR e para a TPTAE em função \nda massa corporal dos animais em estudo. Nos animais do grupo experimental, na fase de pós- \n-aclimatação, observaram-se ainda reduções na quantidade de água perdida através das fezes e da \nurina e um aumento das concentrações de ureia e de creatinina na urina, relativamente aos animais \ndo grupo de controlo e aos animais do grupo experimental na fase de pré-aclimatação.\nFigura 2\n– Grupo experimental\n– Grupo de controlo\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n72 76 80 84 88 92 96 72 76 80 84 88 92 96\n300\n450\n600\n750\nMassa corporal (kg) Massa corporal (kg)\n6000\n7000\n8000\n9000\nTMR (kJ/dia)TPTAE (g/dia)\nPré-aclimatação Pós-aclimatação\nNota – não foi possível medir a TMR e a TPTAE de um dos animais do grupo de controlo.\nBaseado em S. Ostrowski et al., «Physiological acclimation of a desert antelope, Arabian oryx (Oryx leucoryx), \nto long-term food and water restriction», Journal of Comparative Physiology B, abril de 2006, n.º 176"
+    },
+    {
+      "id": 10865,
+      "question_number": "8",
+      "statement": "8. Faça corresponder cada uma das descrições de rochas expressas na coluna A, à respetiva designação, \nque consta da coluna B.\nCOLUNA A COLUNA B\n(a) Rocha resultante da precipitação de sulfato de \ncálcio.\n(b) Rocha resultante da recristalização de calcite.\n(c) Rocha resultante da consolidação lenta de magma.\n(1) Basalto\n(2) Calcário\n(3) Gabro\n(4) Gesso\n(5) Mármore",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10873,
       "question_number": "8",
       "statement": "8. Considere as seguintes afirmações, referentes ao modo de nutrição e de obtenção de energia de bactérias \nquimio-heterotróficas.\nI. As bactérias quimio-heterotróficas utilizam carbono orgânico como principal fonte de carbono.\nII. As bactérias quimio-heterotróficas obtêm energia através da oxidação de substâncias inorgânicas.\nIII. As bactérias quimio-heterotróficas incorporam dióxido de carbono para a síntese de moléculas \norgânicas.",
       "question_type": "multiple_choice",
@@ -360,35 +869,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3378,
-          "letter": "A",
-          "text": "III é verdadeira; I e II são falsas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3379,
-          "letter": "B",
-          "text": "I e II são verdadeiras; III é falsa.",
-          "isCorrect": false
-        },
-        {
-          "id": 3380,
-          "letter": "C",
-          "text": "II e III são verdadeiras; I é falsa.",
-          "isCorrect": false
-        },
-        {
-          "id": 3381,
-          "letter": "D",
-          "text": "I é verdadeira; II e III são falsas.",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (D)\nVersão 2 – Opção (B)",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -396,9 +880,9 @@
       "contextText": "GRUPO IV\nDescobriu-se um novo antibiótico peptídico, designado teixobactina, sintetizado por uma bactéria \nGram-negativa e que inibe a síntese da parede celular de agentes patogénicos Gram-positivos. A \nFigura 4 ilustra o modo de atuação do antibiótico, assim como as diferenças estruturais das células \ndas bactérias Gram-positivas e Gram-negativas. A bactéria que produz o antibiótico exporta-o \npara além da barreira de permeabilidade da membrana externa, ficando protegida, uma vez que o \nantibiótico não consegue reentrar na célula. A teixobactina liga-se a dois precursores essenciais à \nsíntese dos constituintes da parede celular bacteriana. \nA ação do antibiótico é complementada pela libertação de autolisinas, enzimas que interferem \nna digestão da parede celular. Não se obtiveram bactérias resistentes à teixobactina, o que sugere \nque este antibiótico não leva ao desenvolvimento de resistência.\nFigura 4\nBactéria\nGram-negativa\nBactéria\nGram-positiva\nMC\nPC\nME PC\nMC\nME - Membrana externa\nMC - Membrana citoplasmática\nPC - Parede celular\nP - Precursores\nT - Teixobactina\nTT\nP\nP\nBaseado em Losee L. Ling et al., «A new antibiotic kills pathogens \nwithout detectable resistance», Nature, Vol. 517, 2015"
     },
     {
-      "id": 1842,
+      "id": 10866,
       "question_number": "9",
-      "statement": "9. Explique, de acordo com a perspetiva darwinista, de que modo a produção de teixobactina contribui para \no sucesso evolutivo da bactéria que a produz.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 15 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 15 55\nTOTAL 200",
+      "statement": "9. Explique a acumulação de diamantes em placers, localizados a centenas de quilómetros das chaminés \nkimberlíticas.\nNa resposta, deverá ter em consideração as propriedades do diamante e os processos de geodinâmica \nexterna envolvidos na formação dos placers.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
       "question_type": "essay",
       "max_points": null,
       "difficulty": null,
@@ -407,9 +891,30 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 15 pontos\nTópicos de resposta:\n•  relação entre a produção do antibiótico e a maior adaptação ao ambiente das bactérias \nprodutoras do antibiótico (ou bactérias Gram-negativas), relativamente às bactérias sobre \nas quais o antibiótico atua (ou bactérias Gram-positivas);\nOU\nrelação entre a produção do antibiótico e a eliminação de bactérias competidoras;\n•  referência à sobrevivência diferencial (ou à seleção natural) das bactérias produtoras do \nantibiótico;\n•  referência à reprodução diferencial das bactérias produtoras do antibiótico.\nNíveis Descritores do nível de desempenho Pontuação",
+      "criteriaText": "9. .................................................................................................................................................... 15 pontos\nTópicos de resposta:\n•  relação entre a erosão das chaminés kimberlíticas (ou dos kimberlitos) e a remoção (ou a \nlibertação) dos diamantes;\nOU\nrelação entre a meteorização dos kimberlitos e a posterior remoção dos diamantes;\n•  relação entre a resistência dos diamantes à meteorização (ou à alteração, ou à abrasão) e \na sua preservação durante o transporte realizado pelo rio (ou pela água);\nOU\nrelação entre a dureza dos diamantes e a sua preservação durante o transporte realizado \npelo rio;\n•  relação entre a perda de competência do rio e a deposição (ou a sedimentação) dos \ndiamantes (no leito do rio).\nNota – Se, em vez de «competência do rio», forem utilizadas as expressões «capacidade de transporte do \nrio», «perda de energia do rio» ou «menor velocidade da água», a resposta não é desvalorizada.\nNíveis Descritores do nível de desempenho Pontuação\n4\nNa resposta, são apresentados os três tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n15\n3\nNa resposta, são apresentados os três tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n10\n2\nNa resposta, são apresentados dois dos tópicos com falhas em pelo menos um dos \naspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.\n5\n1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\n\nGRUPO IV",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nO carbono não ligado a outros elementos químicos ocorre na natureza em duas formas minerais \ndistintas – a grafite e o diamante. O gráfico da Figura 3 traduz resultados experimentais que mostram \nos campos de estabilidade, em termos de pressão e de temperatura, para a formação do diamante \ne da grafite, bem como os gradientes geotérmicos em diferentes tipos de litosfera. Estes dados \npermitem compreender melhor a ocorrência de jazigos de diamante.\nO diamante é trazido para a superfície por rochas como os kimberlitos, designação que provém \nde Kimberley, na África do Sul. O magma que origina estas rochas, derivado do peridotito, é ejetado \na partir do manto superior, devido à pressão dos voláteis como a água e o dióxido de carbono. Os \nkimberlitos ocorrem, frequentemente, em chaminés verticais que atravessaram a litosfera e incluem \numa grande variedade de minerais, além dos minerais típicos dos peridotitos.\nOs diamantes surgem, por vezes, a centenas de quilómetros de distância das chaminés \nkimberlíticas, em depósitos sedimentares fluviais, designados placers.\nFigura 3\nTemperatura (ºC)\nProfundidade (km)\nPressão (GPa)\n500 700 900 1100 1300\n240\n200\n160\n120\n80\n40\n0\n1\n2\n3\n4\n5\n6\n7\nLitosfera cratónica \n*\nLitosfera contin\nental não cratóni\nca\n* Litosfera antiga no seio dos continentes\nLitosfera oceâ\nnica\nGrafite\nDiamant\ne\nLinha que separa os campos de estabilidade \ndo diamante e da grafite\nDiamante\nBaseado em S. Shirey e J. Shigley, «Recent Advances in Understanding the Geology of Diamonds», \nGems & Gemology, Vol. 49, N.º 4, 2013"
+    },
+    {
+      "id": 10874,
+      "question_number": "9",
+      "statement": "9. Explique, de acordo com a perspetiva darwinista, de que modo a produção de teixobactina contribui para \no sucesso evolutivo da bactéria que a produz.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",

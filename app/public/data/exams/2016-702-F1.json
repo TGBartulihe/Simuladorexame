@@ -4,31 +4,78 @@
   "subject": "Biologia e Geologia",
   "year": 2016,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 245,
+      "id": 1505,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 246,
+      "id": 1506,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 247,
+      "id": 1507,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 248,
+      "id": 1508,
       "name": "GRUPO IV",
       "order": 3
     }
   ],
   "questions": [
     {
-      "id": 1786,
+      "id": 10810,
+      "question_number": "1",
+      "statement": "1. Amostras de solo, de dimensões idênticas às do meteorito de Murchison, recolhidas em torno do local da \nqueda apresentavam uma",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21412,
+          "letter": "A",
+          "text": "ausência de predadores do inseto.",
+          "isCorrect": false
+        },
+        {
+          "id": 21413,
+          "letter": "B",
+          "text": "hibridação entre castanheiros.",
+          "isCorrect": true
+        },
+        {
+          "id": 21414,
+          "letter": "C",
+          "text": "frequência de reprodução do inseto.",
+          "isCorrect": false
+        },
+        {
+          "id": 21415,
+          "letter": "D",
+          "text": "dispersão rápida dos castanheiros.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (A)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs condritos são meteoritos considerados relíquias dos estados iniciais da formação do sistema \nsolar, pois provêm de asteroides que não sofreram diferenciação. Alguns destes meteoritos, os \ncondritos carbonáceos, contêm uma quantidade significativa de compostos orgânicos. \nOs condritos apresentam uma textura formada por estruturas esféricas, os côndrulos, inexistentes \nnas rochas terrestres. Estas estruturas são constituídas por silicatos, como as olivinas e as piroxenas, \ne estão dispersas numa matriz. Esta matriz, além destes minerais, inclui outros, resultantes da \ninteração da água, proveniente da fusão do gelo, com os minerais originais ou de processos de \nmetamorfismo de impacto, ocorridos durante a fase de acreção dos asteroides.\nO meteorito de Murchison, recolhido logo após a sua queda na Austrália em 1969, é um \ncondrito carbonáceo com idade estimada de 4650 milhões de anos (Ma). Neste meteorito, os \ninvestigadores identificaram compostos orgânicos inexistentes na Terra, ricos no isótopo pesado de \ncarbono 13C, que se forma principalmente no espaço. Para investigar a origem extraterrestre dos \ncompostos orgânicos é habitualmente utilizada a razão 13C/12C.\nBaseado em C.C. Plummer et al., Physical Geology, 10th ed., New York, McGraw-Hill, 2005\ne em L. Alonso, «Astrobiología – vida extraterrestre», Investigación y Ciencia, n.º 454 de julho 2014"
+    },
+    {
+      "id": 10833,
       "question_number": "1",
       "statement": "1. O alastramento da praga do castanheiro na Europa deve-se principalmente à",
       "question_type": "multiple_choice",
@@ -38,33 +85,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3258,
-          "letter": "A",
-          "text": "ausência de predadores do inseto.",
-          "isCorrect": false
-        },
-        {
-          "id": 3259,
-          "letter": "B",
-          "text": "hibridação entre castanheiros.",
-          "isCorrect": false
-        },
-        {
-          "id": 3260,
-          "letter": "C",
-          "text": "frequência de reprodução do inseto.",
-          "isCorrect": false
-        },
-        {
-          "id": 3261,
-          "letter": "D",
-          "text": "dispersão rápida dos castanheiros.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -74,7 +96,95 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1787,
+      "id": 10811,
+      "question_number": "2",
+      "statement": "2. Os condritos contêm minerais que, na Terra, se podem formar em condições próprias dos ambientes \nmagmático, sedimentar e metamórfico, de que são exemplo, respetivamente,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21416,
+          "letter": "A",
+          "text": "da mesma espécie … maior variabilidade",
+          "isCorrect": false
+        },
+        {
+          "id": 21417,
+          "letter": "B",
+          "text": "de espécies diferentes … maior variabilidade",
+          "isCorrect": false
+        },
+        {
+          "id": 21418,
+          "letter": "C",
+          "text": "de espécies diferentes … menor variabilidade",
+          "isCorrect": true
+        },
+        {
+          "id": 21419,
+          "letter": "D",
+          "text": "da mesma espécie … menor variabilidade",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs condritos são meteoritos considerados relíquias dos estados iniciais da formação do sistema \nsolar, pois provêm de asteroides que não sofreram diferenciação. Alguns destes meteoritos, os \ncondritos carbonáceos, contêm uma quantidade significativa de compostos orgânicos. \nOs condritos apresentam uma textura formada por estruturas esféricas, os côndrulos, inexistentes \nnas rochas terrestres. Estas estruturas são constituídas por silicatos, como as olivinas e as piroxenas, \ne estão dispersas numa matriz. Esta matriz, além destes minerais, inclui outros, resultantes da \ninteração da água, proveniente da fusão do gelo, com os minerais originais ou de processos de \nmetamorfismo de impacto, ocorridos durante a fase de acreção dos asteroides.\nO meteorito de Murchison, recolhido logo após a sua queda na Austrália em 1969, é um \ncondrito carbonáceo com idade estimada de 4650 milhões de anos (Ma). Neste meteorito, os \ninvestigadores identificaram compostos orgânicos inexistentes na Terra, ricos no isótopo pesado de \ncarbono 13C, que se forma principalmente no espaço. Para investigar a origem extraterrestre dos \ncompostos orgânicos é habitualmente utilizada a razão 13C/12C.\nBaseado em C.C. Plummer et al., Physical Geology, 10th ed., New York, McGraw-Hill, 2005\ne em L. Alonso, «Astrobiología – vida extraterrestre», Investigación y Ciencia, n.º 454 de julho 2014"
+    },
+    {
+      "id": 10817,
+      "question_number": "2",
+      "statement": "2. Para a validade da demonstração do efeito da auxina nesta experiência, foi fundamental",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nAs auxinas são fito-hormonas responsáveis pelo crescimento das plantas, sintetizadas \npreferencialmente nos ápices caulinares. Estas fito-hormonas estão envolvidas no aumento de \nplasticidade da parede celular e na subsequente deposição de materiais, que leva à expansão das \ncélulas vegetais. As auxinas induzem o aumento da concentração de H + na parede celular, que \npromove a separação das fibras de celulose e a inclusão de novos polímeros; seguidamente, as \ncélulas absorvem água, o que faz aumentar o seu comprimento, levando a um alongamento dos \ntecidos.\nEm 1926, Frits Went conseguiu demonstrar experimentalmente os efeitos de uma substância, \na que deu o nome de auxina, no crescimento de coleóptilos1 de Avena sativa, na ausência de luz.\nA Figura 1 traduz esquematicamente parte do procedimento experimental seguido por Frits Went \ne os resultados que obteve.\nFigura 1\n.. . . . ... .. ..... .\n.\n... .\n.. .. .. ...\n.\n. .. ... .. ...\n.. ...... . .. .. . .. ..\n... .\n. .. .. ... .. .. .\n.\n.\n. .\n.\n...\n... .....\nMedição do ângulo da curvatura \ndo coleóptilo\n2h\nColeóptilo sem o ápice\nBloco de ágar\nÁgar cortado em blocos após \na remoção dos ápices\nÁpice do coleóptilo\nColeóptilo sem ápice\nÁgar \n...\n.. .\n.\n...\n........\n.... ............ ...\n. . ..\n..\n.\n. .. ...\n.\n.\n2 com ápices do coleóptilo\n. . .. . ... . . ... . ..\n. . ..\n.. .\n. .. ..\nBaseado em R. Moore et al., Botany, 2.ª ed., New York, McGraw-Hill, 1998\n1 Coleóptilo – estrutura de proteção das primeiras folhas, resultante da germinação das cariopses («sementes») das \ngramíneas.\n2 Ágar – substância utilizada para tornar os meios de cultura gelatinosos."
+    },
+    {
+      "id": 10824,
+      "question_number": "2",
+      "statement": "2. As falhas assinaladas na Figura 2 com as letras X e Y apresentam uma direção aproximada",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10834,
       "question_number": "2",
       "statement": "2. As variedades resistentes de castanheiro resultam do cruzamento entre indivíduos _______ e apresentam \n_______ do que os progenitores.",
       "question_type": "multiple_choice",
@@ -84,33 +194,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3262,
-          "letter": "A",
-          "text": "da mesma espécie … maior variabilidade",
-          "isCorrect": false
-        },
-        {
-          "id": 3263,
-          "letter": "B",
-          "text": "de espécies diferentes … maior variabilidade",
-          "isCorrect": false
-        },
-        {
-          "id": 3264,
-          "letter": "C",
-          "text": "de espécies diferentes … menor variabilidade",
-          "isCorrect": false
-        },
-        {
-          "id": 3265,
-          "letter": "D",
-          "text": "da mesma espécie … menor variabilidade",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2\nNa resposta, são apresentados dois dos tópicos com falhas em pelo menos um dos \naspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -120,7 +205,95 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1788,
+      "id": 10812,
+      "question_number": "3",
+      "statement": "3. Considere as seguintes afirmações, referentes a diferentes corpos do sistema solar.\nI. Os condritos têm sido estudados do ponto de vista petrográfico e químico.\nII. Os asteroides são constituídos essencialmente por gelo e por gases.\nIII. Os cometas apresentam órbitas concêntricas, em torno do Sol.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21420,
+          "letter": "A",
+          "text": "esporos por meiose, sendo o seu ciclo de vida haplodiplonte.",
+          "isCorrect": false
+        },
+        {
+          "id": 21421,
+          "letter": "B",
+          "text": "gâmetas por mitose, sendo o seu ciclo de vida diplonte.",
+          "isCorrect": false
+        },
+        {
+          "id": 21422,
+          "letter": "C",
+          "text": "gâmetas por meiose, sendo o seu ciclo de vida haplodiplonte.",
+          "isCorrect": false
+        },
+        {
+          "id": 21423,
+          "letter": "D",
+          "text": "esporos por mitose, sendo o seu ciclo de vida diplonte.",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (D)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs condritos são meteoritos considerados relíquias dos estados iniciais da formação do sistema \nsolar, pois provêm de asteroides que não sofreram diferenciação. Alguns destes meteoritos, os \ncondritos carbonáceos, contêm uma quantidade significativa de compostos orgânicos. \nOs condritos apresentam uma textura formada por estruturas esféricas, os côndrulos, inexistentes \nnas rochas terrestres. Estas estruturas são constituídas por silicatos, como as olivinas e as piroxenas, \ne estão dispersas numa matriz. Esta matriz, além destes minerais, inclui outros, resultantes da \ninteração da água, proveniente da fusão do gelo, com os minerais originais ou de processos de \nmetamorfismo de impacto, ocorridos durante a fase de acreção dos asteroides.\nO meteorito de Murchison, recolhido logo após a sua queda na Austrália em 1969, é um \ncondrito carbonáceo com idade estimada de 4650 milhões de anos (Ma). Neste meteorito, os \ninvestigadores identificaram compostos orgânicos inexistentes na Terra, ricos no isótopo pesado de \ncarbono 13C, que se forma principalmente no espaço. Para investigar a origem extraterrestre dos \ncompostos orgânicos é habitualmente utilizada a razão 13C/12C.\nBaseado em C.C. Plummer et al., Physical Geology, 10th ed., New York, McGraw-Hill, 2005\ne em L. Alonso, «Astrobiología – vida extraterrestre», Investigación y Ciencia, n.º 454 de julho 2014"
+    },
+    {
+      "id": 10818,
+      "question_number": "3",
+      "statement": "3. Considere as seguintes afirmações referentes à osmose numa célula vegetal.\nI. A entrada de água na célula deve-se ao facto de o meio intracelular estar hipotónico.\nII. A entrada de água provoca um aumento da pressão de turgescência.\nIII. A entrada de água ocorre contra o gradiente de concentração de solutos.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nAs auxinas são fito-hormonas responsáveis pelo crescimento das plantas, sintetizadas \npreferencialmente nos ápices caulinares. Estas fito-hormonas estão envolvidas no aumento de \nplasticidade da parede celular e na subsequente deposição de materiais, que leva à expansão das \ncélulas vegetais. As auxinas induzem o aumento da concentração de H + na parede celular, que \npromove a separação das fibras de celulose e a inclusão de novos polímeros; seguidamente, as \ncélulas absorvem água, o que faz aumentar o seu comprimento, levando a um alongamento dos \ntecidos.\nEm 1926, Frits Went conseguiu demonstrar experimentalmente os efeitos de uma substância, \na que deu o nome de auxina, no crescimento de coleóptilos1 de Avena sativa, na ausência de luz.\nA Figura 1 traduz esquematicamente parte do procedimento experimental seguido por Frits Went \ne os resultados que obteve.\nFigura 1\n.. . . . ... .. ..... .\n.\n... .\n.. .. .. ...\n.\n. .. ... .. ...\n.. ...... . .. .. . .. ..\n... .\n. .. .. ... .. .. .\n.\n.\n. .\n.\n...\n... .....\nMedição do ângulo da curvatura \ndo coleóptilo\n2h\nColeóptilo sem o ápice\nBloco de ágar\nÁgar cortado em blocos após \na remoção dos ápices\nÁpice do coleóptilo\nColeóptilo sem ápice\nÁgar \n...\n.. .\n.\n...\n........\n.... ............ ...\n. . ..\n..\n.\n. .. ...\n.\n.\n2 com ápices do coleóptilo\n. . .. . ... . . ... . ..\n. . ..\n.. .\n. .. ..\nBaseado em R. Moore et al., Botany, 2.ª ed., New York, McGraw-Hill, 1998\n1 Coleóptilo – estrutura de proteção das primeiras folhas, resultante da germinação das cariopses («sementes») das \ngramíneas.\n2 Ágar – substância utilizada para tornar os meios de cultura gelatinosos."
+    },
+    {
+      "id": 10825,
+      "question_number": "3",
+      "statement": "3. As ilhas Farilhões e Forcadas são formadas por rochas que resultaram da",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10835,
       "question_number": "3",
       "statement": "3. No castanheiro, formam-se",
       "question_type": "multiple_choice",
@@ -130,33 +303,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3266,
-          "letter": "A",
-          "text": "esporos por meiose, sendo o seu ciclo de vida haplodiplonte.",
-          "isCorrect": false
-        },
-        {
-          "id": 3267,
-          "letter": "B",
-          "text": "gâmetas por mitose, sendo o seu ciclo de vida diplonte.",
-          "isCorrect": false
-        },
-        {
-          "id": 3268,
-          "letter": "C",
-          "text": "gâmetas por meiose, sendo o seu ciclo de vida haplodiplonte.",
-          "isCorrect": false
-        },
-        {
-          "id": 3269,
-          "letter": "D",
-          "text": "esporos por mitose, sendo o seu ciclo de vida diplonte.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\nNa resposta, são apresentados os três tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -166,7 +314,95 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1789,
+      "id": 10813,
+      "question_number": "4",
+      "statement": "4. A idade do sistema solar pode ser estimada por datação radiométrica",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21424,
+          "letter": "A",
+          "text": "o dobro do número de cromossomas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21425,
+          "letter": "B",
+          "text": "uma melhor adaptação ao ambiente.",
+          "isCorrect": false
+        },
+        {
+          "id": 21426,
+          "letter": "C",
+          "text": "menor capacidade de reprodução.",
+          "isCorrect": true
+        },
+        {
+          "id": 21427,
+          "letter": "D",
+          "text": "a mesma constituição genética.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (D)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs condritos são meteoritos considerados relíquias dos estados iniciais da formação do sistema \nsolar, pois provêm de asteroides que não sofreram diferenciação. Alguns destes meteoritos, os \ncondritos carbonáceos, contêm uma quantidade significativa de compostos orgânicos. \nOs condritos apresentam uma textura formada por estruturas esféricas, os côndrulos, inexistentes \nnas rochas terrestres. Estas estruturas são constituídas por silicatos, como as olivinas e as piroxenas, \ne estão dispersas numa matriz. Esta matriz, além destes minerais, inclui outros, resultantes da \ninteração da água, proveniente da fusão do gelo, com os minerais originais ou de processos de \nmetamorfismo de impacto, ocorridos durante a fase de acreção dos asteroides.\nO meteorito de Murchison, recolhido logo após a sua queda na Austrália em 1969, é um \ncondrito carbonáceo com idade estimada de 4650 milhões de anos (Ma). Neste meteorito, os \ninvestigadores identificaram compostos orgânicos inexistentes na Terra, ricos no isótopo pesado de \ncarbono 13C, que se forma principalmente no espaço. Para investigar a origem extraterrestre dos \ncompostos orgânicos é habitualmente utilizada a razão 13C/12C.\nBaseado em C.C. Plummer et al., Physical Geology, 10th ed., New York, McGraw-Hill, 2005\ne em L. Alonso, «Astrobiología – vida extraterrestre», Investigación y Ciencia, n.º 454 de julho 2014"
+    },
+    {
+      "id": 10819,
+      "question_number": "4",
+      "statement": "4. Os efeitos das auxinas",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nAs auxinas são fito-hormonas responsáveis pelo crescimento das plantas, sintetizadas \npreferencialmente nos ápices caulinares. Estas fito-hormonas estão envolvidas no aumento de \nplasticidade da parede celular e na subsequente deposição de materiais, que leva à expansão das \ncélulas vegetais. As auxinas induzem o aumento da concentração de H + na parede celular, que \npromove a separação das fibras de celulose e a inclusão de novos polímeros; seguidamente, as \ncélulas absorvem água, o que faz aumentar o seu comprimento, levando a um alongamento dos \ntecidos.\nEm 1926, Frits Went conseguiu demonstrar experimentalmente os efeitos de uma substância, \na que deu o nome de auxina, no crescimento de coleóptilos1 de Avena sativa, na ausência de luz.\nA Figura 1 traduz esquematicamente parte do procedimento experimental seguido por Frits Went \ne os resultados que obteve.\nFigura 1\n.. . . . ... .. ..... .\n.\n... .\n.. .. .. ...\n.\n. .. ... .. ...\n.. ...... . .. .. . .. ..\n... .\n. .. .. ... .. .. .\n.\n.\n. .\n.\n...\n... .....\nMedição do ângulo da curvatura \ndo coleóptilo\n2h\nColeóptilo sem o ápice\nBloco de ágar\nÁgar cortado em blocos após \na remoção dos ápices\nÁpice do coleóptilo\nColeóptilo sem ápice\nÁgar \n...\n.. .\n.\n...\n........\n.... ............ ...\n. . ..\n..\n.\n. .. ...\n.\n.\n2 com ápices do coleóptilo\n. . .. . ... . . ... . ..\n. . ..\n.. .\n. .. ..\nBaseado em R. Moore et al., Botany, 2.ª ed., New York, McGraw-Hill, 1998\n1 Coleóptilo – estrutura de proteção das primeiras folhas, resultante da germinação das cariopses («sementes») das \ngramíneas.\n2 Ágar – substância utilizada para tornar os meios de cultura gelatinosos."
+    },
+    {
+      "id": 10826,
+      "question_number": "4",
+      "statement": "4. Considere as seguintes afirmações, referentes às rochas do arquipélago das Berlengas.\nI. Os gnaisses são rochas de baixo grau de metamorfismo.\nII. Nos Farilhões e nas Forcadas, as rochas apresentam textura foliada.\nIII. A ilha Berlenga é formada por uma rocha leucocrática.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10836,
       "question_number": "4",
       "statement": "4. Relativamente à progenitora, as novas vespas, que emergem entre maio e julho, têm",
       "question_type": "multiple_choice",
@@ -176,33 +412,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3270,
-          "letter": "A",
-          "text": "o dobro do número de cromossomas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3271,
-          "letter": "B",
-          "text": "uma melhor adaptação ao ambiente.",
-          "isCorrect": false
-        },
-        {
-          "id": 3272,
-          "letter": "C",
-          "text": "menor capacidade de reprodução.",
-          "isCorrect": false
-        },
-        {
-          "id": 3273,
-          "letter": "D",
-          "text": "a mesma constituição genética.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nNa resposta, são apresentados os três tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -212,7 +423,95 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1790,
+      "id": 10814,
+      "question_number": "5",
+      "statement": "5. A Lua é um satélite que apresenta",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21428,
+          "letter": "A",
+          "text": "alteração do genoma … indiferenciadas",
+          "isCorrect": true
+        },
+        {
+          "id": 21429,
+          "letter": "B",
+          "text": "alteração do genoma … diferenciadas",
+          "isCorrect": false
+        },
+        {
+          "id": 21430,
+          "letter": "C",
+          "text": "regulação da transcrição de genes … indiferenciadas",
+          "isCorrect": false
+        },
+        {
+          "id": 21431,
+          "letter": "D",
+          "text": "regulação da transcrição de genes … diferenciadas",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (C)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs condritos são meteoritos considerados relíquias dos estados iniciais da formação do sistema \nsolar, pois provêm de asteroides que não sofreram diferenciação. Alguns destes meteoritos, os \ncondritos carbonáceos, contêm uma quantidade significativa de compostos orgânicos. \nOs condritos apresentam uma textura formada por estruturas esféricas, os côndrulos, inexistentes \nnas rochas terrestres. Estas estruturas são constituídas por silicatos, como as olivinas e as piroxenas, \ne estão dispersas numa matriz. Esta matriz, além destes minerais, inclui outros, resultantes da \ninteração da água, proveniente da fusão do gelo, com os minerais originais ou de processos de \nmetamorfismo de impacto, ocorridos durante a fase de acreção dos asteroides.\nO meteorito de Murchison, recolhido logo após a sua queda na Austrália em 1969, é um \ncondrito carbonáceo com idade estimada de 4650 milhões de anos (Ma). Neste meteorito, os \ninvestigadores identificaram compostos orgânicos inexistentes na Terra, ricos no isótopo pesado de \ncarbono 13C, que se forma principalmente no espaço. Para investigar a origem extraterrestre dos \ncompostos orgânicos é habitualmente utilizada a razão 13C/12C.\nBaseado em C.C. Plummer et al., Physical Geology, 10th ed., New York, McGraw-Hill, 2005\ne em L. Alonso, «Astrobiología – vida extraterrestre», Investigación y Ciencia, n.º 454 de julho 2014"
+    },
+    {
+      "id": 10820,
+      "question_number": "5",
+      "statement": "5. A presença de auxinas no citoplasma das células vegetais ativa a expressão do gene que codifica a \nproteína membranar H+–ATPase, desencadeando, primeiro, a",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nAs auxinas são fito-hormonas responsáveis pelo crescimento das plantas, sintetizadas \npreferencialmente nos ápices caulinares. Estas fito-hormonas estão envolvidas no aumento de \nplasticidade da parede celular e na subsequente deposição de materiais, que leva à expansão das \ncélulas vegetais. As auxinas induzem o aumento da concentração de H + na parede celular, que \npromove a separação das fibras de celulose e a inclusão de novos polímeros; seguidamente, as \ncélulas absorvem água, o que faz aumentar o seu comprimento, levando a um alongamento dos \ntecidos.\nEm 1926, Frits Went conseguiu demonstrar experimentalmente os efeitos de uma substância, \na que deu o nome de auxina, no crescimento de coleóptilos1 de Avena sativa, na ausência de luz.\nA Figura 1 traduz esquematicamente parte do procedimento experimental seguido por Frits Went \ne os resultados que obteve.\nFigura 1\n.. . . . ... .. ..... .\n.\n... .\n.. .. .. ...\n.\n. .. ... .. ...\n.. ...... . .. .. . .. ..\n... .\n. .. .. ... .. .. .\n.\n.\n. .\n.\n...\n... .....\nMedição do ângulo da curvatura \ndo coleóptilo\n2h\nColeóptilo sem o ápice\nBloco de ágar\nÁgar cortado em blocos após \na remoção dos ápices\nÁpice do coleóptilo\nColeóptilo sem ápice\nÁgar \n...\n.. .\n.\n...\n........\n.... ............ ...\n. . ..\n..\n.\n. .. ...\n.\n.\n2 com ápices do coleóptilo\n. . .. . ... . . ... . ..\n. . ..\n.. .\n. .. ..\nBaseado em R. Moore et al., Botany, 2.ª ed., New York, McGraw-Hill, 1998\n1 Coleóptilo – estrutura de proteção das primeiras folhas, resultante da germinação das cariopses («sementes») das \ngramíneas.\n2 Ágar – substância utilizada para tornar os meios de cultura gelatinosos."
+    },
+    {
+      "id": 10827,
+      "question_number": "5",
+      "statement": "5. As rochas que afloram nas Estelas e na Berlenga resultaram da consolidação de um magma",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10837,
       "question_number": "5",
       "statement": "5. A formação das diversas estruturas do inseto resulta da _______ que ocorre em células _______ da \nlarva.",
       "question_type": "multiple_choice",
@@ -222,33 +521,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3274,
-          "letter": "A",
-          "text": "alteração do genoma … indiferenciadas",
-          "isCorrect": false
-        },
-        {
-          "id": 3275,
-          "letter": "B",
-          "text": "alteração do genoma … diferenciadas",
-          "isCorrect": false
-        },
-        {
-          "id": 3276,
-          "letter": "C",
-          "text": "regulação da transcrição de genes … indiferenciadas",
-          "isCorrect": false
-        },
-        {
-          "id": 3277,
-          "letter": "D",
-          "text": "regulação da transcrição de genes … diferenciadas",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5 5 5 5 5 5 5 5 5 15 60\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -258,7 +532,95 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1791,
+      "id": 10815,
+      "question_number": "6",
+      "statement": "6. Os planetas telúricos apresentam uma constituição essencialmente _______, e os planetas gigantes \ntêm _______ densidade.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21432,
+          "letter": "A",
+          "text": "emparelhamento dos homólogos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21433,
+          "letter": "B",
+          "text": "replicação das moléculas de DNA.",
+          "isCorrect": true
+        },
+        {
+          "id": 21434,
+          "letter": "C",
+          "text": "condensação da cromatina.",
+          "isCorrect": false
+        },
+        {
+          "id": 21435,
+          "letter": "D",
+          "text": "separação aleatória dos cromatídeos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (D)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs condritos são meteoritos considerados relíquias dos estados iniciais da formação do sistema \nsolar, pois provêm de asteroides que não sofreram diferenciação. Alguns destes meteoritos, os \ncondritos carbonáceos, contêm uma quantidade significativa de compostos orgânicos. \nOs condritos apresentam uma textura formada por estruturas esféricas, os côndrulos, inexistentes \nnas rochas terrestres. Estas estruturas são constituídas por silicatos, como as olivinas e as piroxenas, \ne estão dispersas numa matriz. Esta matriz, além destes minerais, inclui outros, resultantes da \ninteração da água, proveniente da fusão do gelo, com os minerais originais ou de processos de \nmetamorfismo de impacto, ocorridos durante a fase de acreção dos asteroides.\nO meteorito de Murchison, recolhido logo após a sua queda na Austrália em 1969, é um \ncondrito carbonáceo com idade estimada de 4650 milhões de anos (Ma). Neste meteorito, os \ninvestigadores identificaram compostos orgânicos inexistentes na Terra, ricos no isótopo pesado de \ncarbono 13C, que se forma principalmente no espaço. Para investigar a origem extraterrestre dos \ncompostos orgânicos é habitualmente utilizada a razão 13C/12C.\nBaseado em C.C. Plummer et al., Physical Geology, 10th ed., New York, McGraw-Hill, 2005\ne em L. Alonso, «Astrobiología – vida extraterrestre», Investigación y Ciencia, n.º 454 de julho 2014"
+    },
+    {
+      "id": 10821,
+      "question_number": "6",
+      "statement": "6. Segundo uma perspetiva",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nAs auxinas são fito-hormonas responsáveis pelo crescimento das plantas, sintetizadas \npreferencialmente nos ápices caulinares. Estas fito-hormonas estão envolvidas no aumento de \nplasticidade da parede celular e na subsequente deposição de materiais, que leva à expansão das \ncélulas vegetais. As auxinas induzem o aumento da concentração de H + na parede celular, que \npromove a separação das fibras de celulose e a inclusão de novos polímeros; seguidamente, as \ncélulas absorvem água, o que faz aumentar o seu comprimento, levando a um alongamento dos \ntecidos.\nEm 1926, Frits Went conseguiu demonstrar experimentalmente os efeitos de uma substância, \na que deu o nome de auxina, no crescimento de coleóptilos1 de Avena sativa, na ausência de luz.\nA Figura 1 traduz esquematicamente parte do procedimento experimental seguido por Frits Went \ne os resultados que obteve.\nFigura 1\n.. . . . ... .. ..... .\n.\n... .\n.. .. .. ...\n.\n. .. ... .. ...\n.. ...... . .. .. . .. ..\n... .\n. .. .. ... .. .. .\n.\n.\n. .\n.\n...\n... .....\nMedição do ângulo da curvatura \ndo coleóptilo\n2h\nColeóptilo sem o ápice\nBloco de ágar\nÁgar cortado em blocos após \na remoção dos ápices\nÁpice do coleóptilo\nColeóptilo sem ápice\nÁgar \n...\n.. .\n.\n...\n........\n.... ............ ...\n. . ..\n..\n.\n. .. ...\n.\n.\n2 com ápices do coleóptilo\n. . .. . ... . . ... . ..\n. . ..\n.. .\n. .. ..\nBaseado em R. Moore et al., Botany, 2.ª ed., New York, McGraw-Hill, 1998\n1 Coleóptilo – estrutura de proteção das primeiras folhas, resultante da germinação das cariopses («sementes») das \ngramíneas.\n2 Ágar – substância utilizada para tornar os meios de cultura gelatinosos."
+    },
+    {
+      "id": 10828,
+      "question_number": "6",
+      "statement": "6. A Orogenia Varisca resultou do movimento de duas placas litosféricas, que apresentavam, entre si, um \nlimite _______, tendo havido _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10838,
       "question_number": "6",
       "statement": "6. Na prófase da divisão nuclear que conduz à formação da larva, verifica-se",
       "question_type": "multiple_choice",
@@ -268,35 +630,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3278,
-          "letter": "A",
-          "text": "emparelhamento dos homólogos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3279,
-          "letter": "B",
-          "text": "replicação das moléculas de DNA.",
-          "isCorrect": false
-        },
-        {
-          "id": 3280,
-          "letter": "C",
-          "text": "condensação da cromatina.",
-          "isCorrect": true
-        },
-        {
-          "id": 3281,
-          "letter": "D",
-          "text": "separação aleatória dos cromatídeos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (A)",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -304,7 +641,95 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1792,
+      "id": 10816,
+      "question_number": "7",
+      "statement": "7. De acordo com a hipótese nebular, o arrefecimento e a consequente condensação da nuvem de gases e de \npoeiras originaram os grãos metálicos e as partículas rochosas silicatadas que, por acreção, conduziram \nà formação de asteroides e de planetas.\nExplique em que medida a composição mineralógica dos côndrulos apoia a hipótese de estas estruturas \nterem sido das primeiras a formar-se por condensação da nébula solar.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21436,
+          "letter": "A",
+          "text": "raízes e transportadas pelo xilema até às folhas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21437,
+          "letter": "B",
+          "text": "folhas e transportadas pelo floema até aos locais de consumo.",
+          "isCorrect": false
+        },
+        {
+          "id": 21438,
+          "letter": "C",
+          "text": "raízes e transportadas pelo floema até às folhas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21439,
+          "letter": "D",
+          "text": "folhas e transportadas pelo xilema até aos locais de consumo.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 10 pontos\nTópicos de resposta:\n•  referência ao facto de os primeiros minerais a formarem-se (a partir da nébula solar) \ncorresponderem aos minerais de temperatura de cristalização mais elevada (ou de elevado \nponto de fusão);\n•  referência ao facto de as olivinas e as piroxenas (presentes nos côndrulos) terem \ntemperaturas de cristalização relativamente elevadas.\nNíveis Descritores do nível de desempenho Pontuação\n3\nNa resposta, são apresentados os dois tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n10\n2\nNa resposta, são apresentados os dois tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.\n6\n1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nOs condritos são meteoritos considerados relíquias dos estados iniciais da formação do sistema \nsolar, pois provêm de asteroides que não sofreram diferenciação. Alguns destes meteoritos, os \ncondritos carbonáceos, contêm uma quantidade significativa de compostos orgânicos. \nOs condritos apresentam uma textura formada por estruturas esféricas, os côndrulos, inexistentes \nnas rochas terrestres. Estas estruturas são constituídas por silicatos, como as olivinas e as piroxenas, \ne estão dispersas numa matriz. Esta matriz, além destes minerais, inclui outros, resultantes da \ninteração da água, proveniente da fusão do gelo, com os minerais originais ou de processos de \nmetamorfismo de impacto, ocorridos durante a fase de acreção dos asteroides.\nO meteorito de Murchison, recolhido logo após a sua queda na Austrália em 1969, é um \ncondrito carbonáceo com idade estimada de 4650 milhões de anos (Ma). Neste meteorito, os \ninvestigadores identificaram compostos orgânicos inexistentes na Terra, ricos no isótopo pesado de \ncarbono 13C, que se forma principalmente no espaço. Para investigar a origem extraterrestre dos \ncompostos orgânicos é habitualmente utilizada a razão 13C/12C.\nBaseado em C.C. Plummer et al., Physical Geology, 10th ed., New York, McGraw-Hill, 2005\ne em L. Alonso, «Astrobiología – vida extraterrestre», Investigación y Ciencia, n.º 454 de julho 2014"
+    },
+    {
+      "id": 10822,
+      "question_number": "7",
+      "statement": "7. Faça corresponder, de acordo com o sistema de classificação de Whittaker modificado, cada um dos tipos \nde seres vivos, expressos na coluna A, ao reino em que se pode incluir, que consta da coluna B.\nCOLUNA A COLUNA B\n(a) Organismo multicelular autotrófico sem diferenciação tecidular.\n(b) Organismo multicelular heterotrófico por absorção.\n(c) Organismo multicelular com função de macroconsumidor.\n(1) Animalia\n(2) Fungi\n(3) Monera\n(4) Plantae\n(5) Protista",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nAs auxinas são fito-hormonas responsáveis pelo crescimento das plantas, sintetizadas \npreferencialmente nos ápices caulinares. Estas fito-hormonas estão envolvidas no aumento de \nplasticidade da parede celular e na subsequente deposição de materiais, que leva à expansão das \ncélulas vegetais. As auxinas induzem o aumento da concentração de H + na parede celular, que \npromove a separação das fibras de celulose e a inclusão de novos polímeros; seguidamente, as \ncélulas absorvem água, o que faz aumentar o seu comprimento, levando a um alongamento dos \ntecidos.\nEm 1926, Frits Went conseguiu demonstrar experimentalmente os efeitos de uma substância, \na que deu o nome de auxina, no crescimento de coleóptilos1 de Avena sativa, na ausência de luz.\nA Figura 1 traduz esquematicamente parte do procedimento experimental seguido por Frits Went \ne os resultados que obteve.\nFigura 1\n.. . . . ... .. ..... .\n.\n... .\n.. .. .. ...\n.\n. .. ... .. ...\n.. ...... . .. .. . .. ..\n... .\n. .. .. ... .. .. .\n.\n.\n. .\n.\n...\n... .....\nMedição do ângulo da curvatura \ndo coleóptilo\n2h\nColeóptilo sem o ápice\nBloco de ágar\nÁgar cortado em blocos após \na remoção dos ápices\nÁpice do coleóptilo\nColeóptilo sem ápice\nÁgar \n...\n.. .\n.\n...\n........\n.... ............ ...\n. . ..\n..\n.\n. .. ...\n.\n.\n2 com ápices do coleóptilo\n. . .. . ... . . ... . ..\n. . ..\n.. .\n. .. ..\nBaseado em R. Moore et al., Botany, 2.ª ed., New York, McGraw-Hill, 1998\n1 Coleóptilo – estrutura de proteção das primeiras folhas, resultante da germinação das cariopses («sementes») das \ngramíneas.\n2 Ágar – substância utilizada para tornar os meios de cultura gelatinosos."
+    },
+    {
+      "id": 10829,
+      "question_number": "7",
+      "statement": "7. A crosta continental apresenta _______ percentagens de silício e de _______ do que o manto.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10839,
       "question_number": "7",
       "statement": "7. As substâncias utilizadas pelas larvas na sua alimentação são produzidas nas",
       "question_type": "multiple_choice",
@@ -314,35 +739,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3282,
-          "letter": "A",
-          "text": "raízes e transportadas pelo xilema até às folhas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3283,
-          "letter": "B",
-          "text": "folhas e transportadas pelo floema até aos locais de consumo.",
-          "isCorrect": true
-        },
-        {
-          "id": 3284,
-          "letter": "C",
-          "text": "raízes e transportadas pelo floema até às folhas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3285,
-          "letter": "D",
-          "text": "folhas e transportadas pelo xilema até aos locais de consumo.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (C)",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -350,7 +750,49 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1799,
+      "id": 10823,
+      "question_number": "8",
+      "statement": "8. Indique como procederia para demonstrar experimentalmente que a curvatura do coleóptilo não se deveu \nà ação do ágar, tendo como referência a situação experimental apresentada.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 10 pontos\nTópicos de resposta:\n•  referência à utilização de ágar que não tenha estado em contacto com o ápice de um \ncoleóptilo OU referência à destruição (ou à inibição) da auxina produzida nos ápices;\n•  referência à colocação do bloco de ágar num coleóptilo sem ápice.\nOU\n•  referência à remoção do ápice do coleóptilo;\n•  referência à recolocação do ápice do coleóptilo.\nOU\n•  referência à extração da auxina do ápice;\n•  referência à injeção posterior de auxina num coleóptilo sem ápice.\nOU\n•  referência à utilização de uma substância permeável (ou gelatinosa) distinta do ágar e que \ntenha estado em contacto com o ápice do coleóptilo;\n•  referência à colocação posterior dessa substância num coleóptilo sem ápice.\nNíveis Descritores do nível de desempenho Pontuação\n3\nNa resposta, são apresentados os dois tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n10\n2\nNa resposta, são apresentados os dois tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.\n6\n1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\n\nGRUPO III",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nAs auxinas são fito-hormonas responsáveis pelo crescimento das plantas, sintetizadas \npreferencialmente nos ápices caulinares. Estas fito-hormonas estão envolvidas no aumento de \nplasticidade da parede celular e na subsequente deposição de materiais, que leva à expansão das \ncélulas vegetais. As auxinas induzem o aumento da concentração de H + na parede celular, que \npromove a separação das fibras de celulose e a inclusão de novos polímeros; seguidamente, as \ncélulas absorvem água, o que faz aumentar o seu comprimento, levando a um alongamento dos \ntecidos.\nEm 1926, Frits Went conseguiu demonstrar experimentalmente os efeitos de uma substância, \na que deu o nome de auxina, no crescimento de coleóptilos1 de Avena sativa, na ausência de luz.\nA Figura 1 traduz esquematicamente parte do procedimento experimental seguido por Frits Went \ne os resultados que obteve.\nFigura 1\n.. . . . ... .. ..... .\n.\n... .\n.. .. .. ...\n.\n. .. ... .. ...\n.. ...... . .. .. . .. ..\n... .\n. .. .. ... .. .. .\n.\n.\n. .\n.\n...\n... .....\nMedição do ângulo da curvatura \ndo coleóptilo\n2h\nColeóptilo sem o ápice\nBloco de ágar\nÁgar cortado em blocos após \na remoção dos ápices\nÁpice do coleóptilo\nColeóptilo sem ápice\nÁgar \n...\n.. .\n.\n...\n........\n.... ............ ...\n. . ..\n..\n.\n. .. ...\n.\n.\n2 com ápices do coleóptilo\n. . .. . ... . . ... . ..\n. . ..\n.. .\n. .. ..\nBaseado em R. Moore et al., Botany, 2.ª ed., New York, McGraw-Hill, 1998\n1 Coleóptilo – estrutura de proteção das primeiras folhas, resultante da germinação das cariopses («sementes») das \ngramíneas.\n2 Ágar – substância utilizada para tornar os meios de cultura gelatinosos."
+    },
+    {
+      "id": 10830,
+      "question_number": "8",
+      "statement": "8. Ordene as expressões identificadas pelas letras de A a E, de modo a sequenciar acontecimentos que \ncontribuíram para a formação de uma determinada rocha que aflora no cabo Carvoeiro.\nA. Erosão das rochas do arquipélago das Berlengas.\nB. Sedimentação de materiais detríticos na Bacia Lusitaniana.\nC. Transporte de sedimentos provenientes do horst da Berlenga.\nD. Formação de relevos resultantes da Orogenia Varisca.\nE.   Compactação e cimentação de fragmentos de rochas pré-existentes.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10840,
       "question_number": "8",
       "statement": "8. Ordene as expressões identificadas pelas letras de A a F, de modo a reconstituir a sequência cronológica \ndos acontecimentos, relativos ao ciclo de vida de Dryocosmus kuriphilus. Inicie a ordenação pela letra A.\nA. Formação da larva.\nB. Eclosão dos ovos durante o verão.\nC. Desenvolvimento da pupa.\nD. Produção de células germinativas.\nE.   Deposição de ovos em folhas.\nF.    Emergência do inseto adulto.",
       "question_type": "ordering",
@@ -361,9 +803,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – [A], C, F, D, E, B\nVersão 2 – [A], E, B, F, C, D",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -371,9 +813,30 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1807,
+      "id": 10831,
       "question_number": "9",
-      "statement": "9. Relacione o grande número de espiráculos das larvas e a sua alimentação intensa, durante a primavera, \ncom a emergência das vespas adultas.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n5 5 5 5 5 5 10 40\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.\n5 5 5 5 5 5 5 5 5 15 60\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 15 55\nTOTAL 200\n\nProva 702\n1.ª Fase\nVERSÃO 1",
+      "statement": "9. Faça corresponder os diferentes processos de meteorização das rochas, referidos na coluna A, à respetiva \ndesignação, que consta da coluna B.\nCOLUNA A COLUNA B\n(a) Fraturação provocada pelo crescimento de cristais \nde sais nas fendas das rochas.\n(b) Fragmentação que ocorre em ambientes de grande \namplitude térmica.\n(c) Formação de um precipitado resultante da alteração \nde minerais ferrosos em ambiente superficial.\n(1) Dissolução\n(2) Haloclastia\n(3) Hidrólise\n(4) Oxidação\n(5) Termoclastia",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. .................................................................................................................................................... 5 pontos\nVersão 1 – (a) – (2); (b) – (5); (c) – (4)\nVersão 2 – (a) – (5); (b) – (2); (c) – (4)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNo final do Paleozoico, os processos tectónicos relacionados com a Orogenia Varisca culminaram \ncom a formação do supercontinente Pangeia. \nPosteriormente, a fraturação deste continente, na zona que hoje corresponde à região oeste \nde Portugal continental, levou ao abatimento de vários blocos rochosos, dando origem a uma \ncomplexa depressão que foi invadida pela água do mar, a Bacia Lusitaniana. Um bloco rochoso que \nnão abateu, mantendo-se em posição elevada, designado horst da Berlenga, constitui o pequeno \nfragmento da Pangeia que deu origem ao arquipélago das Berlengas. Este arquipélago, a cerca \nde 10 km a oeste da península de Peniche, é formado por pequenas ilhas e rochedos – Berlenga, \nEstelas, Farilhões e Forcadas.\nNa Berlenga e nas Estelas afloram granitos com cerca de 280 milhões de anos (Ma). As ilhas \nFarilhões e Forcadas são formadas por micaxistos e gnaisses. \nDurante o Mesozoico, os relevos que deram origem às ilhas teriam dimensões muito maiores, \nmas foram sendo erodidos, dando origem a detritos, alguns dos quais estão hoje incluídos nas \nrochas sedimentares que afloram no cabo Carvoeiro, na península de Peniche.\nA Figura 2 representa a localização geográfica atual da região e um modelo esquemático \ninterpretativo do contexto geológico, há 155 a 150 Ma.\nFigura 2\nMadrid\nLisboa\nBerlenga\nPeniche\n+\n+\n+\n+ +\n+ ++ +\n+\n+\n++\n+\n+\n+\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n+\n+\n+\n+ +\n+ + ++ + +\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n++\n+ +\n+\n+\n+\n++\n+\n+ +\n+\n+ +\n+\n+ +\n+ +\n+\n+\n+\n+\n++ +\n+ - Falhas\nN\nX Y\n+ - Rochas pré-mesozoicas\n- Manto litosférico\nN\n+\n++\n- Rochas sedimentares mesozoicas\n05 km\n0 40 km\n Bacia LusitanianaHorst da \nBerlenga\n+\n+\n+\n+\n++ + + ++ ++ + + ++\n+ +++\n+ ++\nBaseado em J.C. Kullberg et al., «A Bacia Lusitaniana: Estratigrafia, Paleogeografia e Tectónica», in R. Dias, A. \nAraújo, P. Terrinha e J.C. Kullberg, Editores, Geologia de Portugal, Vol. II, Lisboa, Escolar Editora, 2013"
+    },
+    {
+      "id": 10841,
+      "question_number": "9",
+      "statement": "9. Relacione o grande número de espiráculos das larvas e a sua alimentação intensa, durante a primavera, \ncom a emergência das vespas adultas.",
       "question_type": "matching",
       "max_points": null,
       "difficulty": null,
@@ -382,9 +845,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 15 pontos\nTópicos de resposta:\n•  relação entre uma alimentação intensa e a obtenção de uma grande quantidade de \nnutrientes;\n•  relação entre a existência de um grande número de espiráculos e a obtenção de grandes \nquantidades de oxigénio (ou a facilidade com que ocorre a difusão direta de gases \nrespiratórios);\n•  referência à necessidade de obtenção de grandes quantidades de energia (essenciais à \ntransformação da larva em inseto adulto) (ou ao aumento do metabolismo, ou ao aumento \nda taxa respiratória).\nNíveis Descritores do nível de desempenho Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -392,7 +855,7 @@
       "contextText": "GRUPO IV\nA vespa Dryocosmus kuriphilus , originária da China, é uma das pragas mais prejudiciais do \ncastanheiro, sendo atualmente considerada uma ameaça para os soutos 1 europeus, pois a \npopulação do inseto não é controlada de forma natural.\nAs fêmeas induzem a formação de galhas 2 na planta, possivelmente através de substâncias \nexistentes na saliva. As galhas prejudicam o normal desenvolvimento vegetativo do castanheiro, \nquer através de uma diminuição do crescimento dos ramos, quer através do impedimento da \nformação de frutos, podendo conduzir à morte da planta.\nEntre junho e julho, as fêmeas adultas depositam, no interior de gomos foliares, os ovos, que \neclodem de 30 a 40 dias depois. As larvas desenvolvem-se lentamente durante o outono e o \ninverno. Na primavera, alimentam-se intensamente dos tecidos das galhas, durante 20 a 30 dias, e \ntransformam-se em pupas. A nova geração de vespas, formadas por partenogénese, emerge entre \nmaio e julho.\nO vento e o voo das fêmeas adultas contribuem para a dispersão da praga.\nExistem, no entanto, algumas variedades de castanheiros resistentes, como, por exemplo, a \nresultante do cruzamento entre Castanea sativa e Castanea crenata. Nestas variedades, não há \nformação de galhas, as larvas dos insetos não se desenvolvem, e as folhas apenas apresentam \nleves deformações.\nBaseado em R. Teixeira, «Cinipídeo dos Castanheiros», Unidade de Investigação de Proteção de Plantas – \nBoletim Técnico/10, Ministério da Agricultura, Mar, Ambiente e Ordenamento do Território, 2011\n1 Souto – cultura de castanheiros tendo por objetivo dominante a produção de fruto.\n2 Galhas – estruturas de proteção e alimentação das larvas de alguns insetos, formadas a partir da multiplicação de \ncélulas dos tecidos vegetais."
     },
     {
-      "id": 1808,
+      "id": 10832,
       "question_number": "10",
       "statement": "10. Explique a existência do afloramento granítico que forma atualmente a ilha Berlenga, considerando a \ngénese da rocha e a evolução tectónica da região.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
       "question_type": "essay",
@@ -403,7 +866,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "10. .................................................................................................................................................. 15 pontos\nTópicos de resposta:\n•  referência à existência de granito, formado em profundidade (ou ao granito como uma \nrocha plutónica);\n•  relação entre a fraturação da Pangeia (ou das rochas) e a existência de um bloco não \nabatido (ou do horst das Berlengas) OU relação entre movimentos tectónicos e a existência \nde um bloco não abatido;\n•  relação entre a erosão das rochas sobrejacentes ao granito e o atual afloramento dos \ngranitos.\nNíveis Descritores do nível de desempenho Pontuação",
+      "criteriaText": "10. .................................................................................................................................................. 15 pontos\nTópicos de resposta:\n•  referência à existência de granito, formado em profundidade (ou ao granito como uma \nrocha plutónica);\n•  relação entre a fraturação da Pangeia (ou das rochas) e a existência de um bloco não \nabatido (ou do horst das Berlengas) OU relação entre movimentos tectónicos e a existência \nde um bloco não abatido;\n•  relação entre a erosão das rochas sobrejacentes ao granito e o atual afloramento dos \ngranitos.\nNíveis Descritores do nível de desempenho Pontuação\n4\nNa resposta, são apresentados os três tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n15\n3\nNa resposta, são apresentados os três tópicos com falhas em pelo menos um dos aspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n10\n2\nNa resposta, são apresentados dois dos tópicos com falhas em pelo menos um dos \naspetos:\n • organização de conteúdos;\n • utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.\n5\n1 Na resposta, é apresentado um dos tópicos com falhas na utilização da linguagem \ncientífica. 2\nGRUPO IV",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

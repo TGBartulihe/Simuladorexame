@@ -4,26 +4,48 @@
   "subject": "Português",
   "year": 2018,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 211,
+      "id": 1471,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 212,
+      "id": 1472,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 213,
+      "id": 1473,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1577,
+      "id": 10614,
+      "question_number": "1",
+      "statement": "1. De acordo com o primeiro parágrafo do texto, a intraduzibilidade de um termo decorre do facto de\n \n(\na\n)\n os vocábulos evoluírem semanticamente de forma distinta em cada idioma.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 16 pontos\nPara caracterizar o estado de alma do sujeito poético, expresso nos seis primeiros versos, devem ser \nabordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ a dor/mágoa/tristeza/amargura manifestada pelo sujeito poético;\n‒ a desilusão/frustração sentida relativamente à pátria do presente;\n‒ a esperança na vinda do «Senhor», a qual preenche o seu vazio interior.\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Caracteriza o estado de alma do sujeito poético, desenvolvendo três tópicos de resposta \nadequadamente. 10\n3\nCaracteriza o estado de alma do sujeito poético, desenvolvendo dois tópicos de resposta \nadequadamente, podendo ainda desenvolver o outro com pequenas imprecisões e/ou \nomissões.\n8\n2\nCaracteriza o estado de alma do sujeito poético, desenvolvendo um tópico de resposta \nadequadamente e um ou dois outros com pequenas imprecisões e/ou omissões.\nOU\nCaracteriza o estado de alma do sujeito poético, desenvolvendo três tópicos de resposta, \ntodos eles com pequenas imprecisões e/ou omissões.\n5\n1\nCaracteriza o estado de alma do sujeito poético, desenvolvendo um tópico de resposta \nadequadamente.\nOU\nCaracteriza o estado de alma do sujeito poético, desenvolvendo dois tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 1 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização, no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+    },
+    {
+      "id": 10620,
       "question_number": "1",
       "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2018/).",
       "question_type": "open",
@@ -34,9 +56,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Escreve um texto com uma organização pouco satisfatória, recorrendo a insuficientes \nmecanismos de coesão ou mobilizando-os de forma inadequada. 2\n\nCotaçÕES\ngrupo item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -44,9 +66,30 @@
       "contextText": "GRUPO III\n«Há palavras que nos beijam\nComo se tivessem boca.»\nAlexandre O’Neill, Poesias Completas, 4.ª ed., Lisboa, \nAssírio & Alvim, 2005, p. 64.\n«São como um cristal,\nas palavras.\nAlgumas, um punhal,\num incêndio.»\nEugénio de Andrade, Antologia Breve, 6.ª ed., Porto, \nFundação Eugénio de Andrade, 1994, p. 35.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o poder das palavras nas relações humanas.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 1578,
+      "id": 10615,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\ngrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n16 16 16 8 16 16 16 104\nII 1. 2. 3. 4. 5. 6. 7.\n8 8 8 8 8 8 8 56\nIII Item único 40\nt\nota\nL 200",
+      "statement": "2.\n No segundo parágrafo, o autor estabelece uma comparação entre povos, com a intenção de\n \n(\na\n)\n distinguir experiências similares que foram vividas por populações de países europeus.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 16 pontos\nPara justificar o recurso simultâneo à anáfora e à frase interrogativa, devem ser abordados dois dos \ntópicos seguintes, ou outros igualmente relevantes:\n‒ expressão da ansiedade de quem deseja saber quando virá o «Senhor»;\n‒ expressão da incerteza quanto ao momento em que o regresso do «Senhor» acontecerá (mas também \nda certeza da sua vinda);\n‒ apelo insistente para que o «Encoberto» volte (para pôr fim ao «mal» e criar «A Nova Terra e os Novos \nCéus» – vv. 11 e 12).\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Justifica o recurso simultâneo à anáfora e à frase interrogativa, desenvolvendo dois \ntópicos de resposta adequadamente. 10\n3 Justifica o recurso simultâneo à anáfora e à frase interrogativa, desenvolvendo um tópico \nde resposta adequadamente e outro com pequenas imprecisões e/ou omissões. 8\n2\nJustifica o recurso simultâneo à anáfora e à frase interrogativa, desenvolvendo um tópico \nde resposta adequadamente.\nOU\nJustifica o recurso simultâneo à anáfora e à frase interrogativa, desenvolvendo dois \ntópicos de resposta, ambos com pequenas imprecisões e/ou omissões.\n5\n1 Justifica o recurso simultâneo à anáfora e à frase interrogativa, desenvolvendo um tópico \nde resposta com pequenas imprecisões e/ou omissões. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 2 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização, no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+    },
+    {
+      "id": 10621,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +98,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais \ndos aspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois \ndesses aspetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +108,7 @@
       "contextText": "GRUPO III\n«Há palavras que nos beijam\nComo se tivessem boca.»\nAlexandre O’Neill, Poesias Completas, 4.ª ed., Lisboa, \nAssírio & Alvim, 2005, p. 64.\n«São como um cristal,\nas palavras.\nAlgumas, um punhal,\num incêndio.»\nEugénio de Andrade, Antologia Breve, 6.ª ed., Porto, \nFundação Eugénio de Andrade, 1994, p. 35.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o poder das palavras nas relações humanas.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 1579,
+      "id": 10616,
       "question_number": "3",
       "statement": "3.\n Ao utilizar a expressão «polissemia desbragada» (linha 27), o autor pretende evidenciar\n \n(\na\n)\n a amplitude do campo semântico da palavra «saudade».",
       "question_type": "multiple_choice",
@@ -77,105 +120,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2726,
+          "id": 20900,
           "letter": "B",
           "text": "a longa tradição poética sobre a temática da «saudade».",
           "isCorrect": false
         },
         {
-          "id": 2727,
+          "id": 20901,
           "letter": "C",
           "text": "o sentimentalismo excessivo do povo português.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 2728,
+          "id": 20902,
           "letter": "D",
           "text": "o saudosismo característico da língua portuguesa.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
-    },
-    {
-      "id": 1573,
-      "question_number": "4",
-      "statement": "4.\n As \nexpressões «Quer dizer» (linha 17) e «Dito de outro modo» (linha 21), seguidas de dois pontos, \nintroduzem, respetivamente, sequências textuais em que o autor\n \n(\na\n)\n apresenta um argumento novo e reforça as ideias anteriormente apresentadas.",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2729,
-          "letter": "B",
-          "text": "sintetiza o conteúdo do parágrafo e explica a ideia anteriormente expressa.",
-          "isCorrect": false
-        },
-        {
-          "id": 2730,
-          "letter": "C",
-          "text": "fundamenta o seu ponto de vista e introduz novos argumentos.",
-          "isCorrect": false
-        },
-        {
-          "id": 2731,
-          "letter": "D",
-          "text": "problematiza a ideia apresentada anteriormente e exemplifica o seu ponto de vista.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por três partes individualizadas (introdução, \ndesenvolvimento e conclusão), devidamente proporcionadas e articuladas entre si de \nmodo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
-    },
-    {
-      "id": 1574,
-      "question_number": "5",
-      "statement": "5.\n As \nformas verbais presentes em «A intraduzibilidade de um termo é normal.» (linha 1) e em «Assim, o \ntermo ganhou uma extensão invulgar» (linha 20) têm, respetivamente, um valor aspetual\n \n(\na\n)\n genérico e perfetivo.",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2732,
-          "letter": "B",
-          "text": "iterativo e perfetivo.",
-          "isCorrect": false
-        },
-        {
-          "id": 2733,
-          "letter": "C",
-          "text": "genérico e imperfetivo.",
-          "isCorrect": true
-        },
-        {
-          "id": 2734,
-          "letter": "D",
-          "text": "iterativo e imperfetivo.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5. .................................................................................................................................................... 16 pontos\nPara explicar em que medida a afirmação proferida por Madalena pode constituir um presságio de tragédia, \ndevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ a preocupação de Madalena relativamente à instabilidade do tempo (alterações atmosféricas que \npoderão dificultar o regresso da família a casa, apesar de, até ao momento, o dia estar sereno) indicia, \nsimbolicamente, o receio de que também a sua vida (até então feliz) possa mudar;\n‒ a afirmação revela a intuição de uma desgraça iminente (possibilidade de D. João de Portugal regressar) \nque viria pôr fim à harmonia familiar.\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação",
+      "criteriaText": "3. .................................................................................................................................................... 16 pontos\nPara explicar a razão pela qual o sujeito poético pode ser considerado um profeta, devem ser abordados \ndois dos tópicos seguintes, ou outros igualmente relevantes:\n‒ anuncia a vinda do «Encoberto» (D. Sebastião)/a construção do Quinto Império;\n‒ deseja a realização do «Sonho das eras português» (v. 14);\n‒ espera cumprir o «grande anseio que Deus fez» (v. 16);\n‒ é o porta-voz de um desejo/sonho coletivo.\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Explica por que razão o sujeito poético pode ser considerado um profeta, desenvolvendo \ndois tópicos de resposta adequadamente. 10\n3 Explica por que razão o sujeito poético pode ser considerado um profeta, desenvolvendo \num tópico de resposta adequadamente e outro com pequenas imprecisões e/ou omissões. 8\n2\nExplica por que razão o sujeito poético pode ser considerado um profeta, desenvolvendo \num tópico de resposta adequadamente.\nOU\nExplica por que razão o sujeito poético pode ser considerado um profeta, desenvolvendo \ndois tópicos de resposta, ambos com pequenas imprecisões e/ou omissões.\n5\n1 Explica por que razão o sujeito poético pode ser considerado um profeta, desenvolvendo \num tópico de resposta com pequenas imprecisões e/ou omissões. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 3 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização, no âmbito da correção linguística (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -185,7 +148,129 @@
       "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
     },
     {
-      "id": 1575,
+      "id": 10610,
+      "question_number": "4",
+      "statement": "4.\n Identifique \nduas características do discurso lírico de Mensagem presentes no poema e transcreva um \nexemplo significativo para cada uma delas.\n\nPart E B\nLeia o texto.\n5\n10\n15\n20\nM\na\nD\na\nLEN\na\n(falando ao bastidor)\nVai, ouves, Miranda? Vai e deixa-te lá estar até veres chegar o bergantim; e quando \ndesembarcarem, vem-me dizer para eu ficar descansada. (Vem para a cena.) Não há vento e \no dia está lindo. Ao menos não tenho sustos com a viagem. Mas a volta… quem sabe? o tempo \nmuda tão depressa…\njorg\nE\nNão, hoje não tem perigo.\nM\na\nD\na\nLEN\na\nHoje... hoje! Pois hoje é o dia da minha vida que mais tenho receado... que ainda temo que \nnão acabe sem muito grande desgraça... É um dia fatal para mim: faz hoje anos que… que \ncasei a primeira vez; faz anos que se perdeu el-rei D. Sebastião; faz anos também que… vi \npela primeira vez a Manuel de Sousa.\njorg\nE\nPois contais essa entre as infelicidades de vossa vida?\nM\na\nD\na\nLEN\na\nConto. Este amor — que hoje está santificado e bendito no Céu, porque Manuel de Sousa \né meu marido — começou com um crime, porque eu amei-o assim que o vi… e quando o \nvi — hoje, hoje... foi em tal dia como hoje! — D. João de Portugal ainda era vivo. O pecado \nestava\n-\nme no coração; a boca não o disse... os olhos não sei o que fizeram; mas dentro da \nalma eu já não tinha outra imagem senão a do amante... já não guardava a meu marido, a meu \nbom... a meu generoso marido... senão a grosseira fidelidade que uma mulher bem nascida \nquase que mais deve a si do que a seu esposo. — Permitiu Deus… quem sabe se para me \ntentar?... que naquela funesta batalha de Alcácer, entre tantos, ficasse também D. João…\nAlmeida Garrett, Frei Luís de Sousa, edição de Maria João Brilhante, \nLisboa, Comunicação, 1982, pp. 168-169.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20903,
+          "letter": "B",
+          "text": "sintetiza o conteúdo do parágrafo e explica a ideia anteriormente expressa.",
+          "isCorrect": false
+        },
+        {
+          "id": 20904,
+          "letter": "C",
+          "text": "fundamenta o seu ponto de vista e introduz novos argumentos.",
+          "isCorrect": false
+        },
+        {
+          "id": 20905,
+          "letter": "D",
+          "text": "problematiza a ideia apresentada anteriormente e exemplifica o seu ponto de vista.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 8 pontos\nNa resposta, devem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒ recurso à primeira pessoa do singular em formas verbais, como «Screvo» (v. 1) ou «Tenho» (v. 3)/em \ndeterminantes possessivos, como «meu» (vv. 1 e 2)/em pronomes pessoais, como «me» (v. 4);\n‒ expressão da subjetividade/do mundo interior/dos sentimentos do sujeito poético, patente, por exemplo, \nno verso «Meu coração não tem que ter.» (v. 2);\n‒ visão subjetiva do destino nacional, evidenciada, por exemplo, nos versos «Quando virás, ó Encoberto, / \nSonho das eras português, / Tornar-me mais que o sopro incerto / De um grande anseio que Deus fez?» \n(vv. 13-16);\n‒ recurso à interjeição para expressar ansiedade ou desejo em «Ah, quando quererás, voltando, / Fazer \nminha esperança amor?» (vv. 17-18).\nNíveis descritores de desempenho Pontuação\n2 Identifica, adequadamente, duas características do discurso lírico de Mensagem, cada \numa delas fundamentada com a transcrição de um exemplo significativo. 8\n1\nIdentifica, adequadamente, duas características do discurso lírico de Mensagem, mas \napenas uma delas fundamentada com a transcrição de um exemplo significativo.\nOU\nIdentifica, adequadamente, uma característica do discurso lírico de Mensagem, \nfundamentada com a transcrição de um exemplo significativo.\n4",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\n20\nScrevo meu livro à beira-mágoa.\nMeu coração não tem que ter.\nTenho meus olhos quentes de água.\nSó tu, Senhor, me dás viver.\nSó te sentir e te pensar\nMeus dias vácuos enche e doura.\nMas quando quererás voltar?\nQuando é o Rei? Quando é a Hora?\nQuando virás a ser o Cristo\nDe a quem morreu o falso Deus,\nE a despertar do mal que existo\nA Nova Terra e os Novos Céus?\nQuando virás, ó Encoberto,\nSonho das eras português,\nTornar-me mais que o sopro incerto\nDe um grande anseio que Deus fez?\nAh, quando quererás, voltando,\nFazer minha esperança amor?\nDa névoa e da saudade quando?\nQuando, meu Sonho e meu Senhor?\nFernando Pessoa, Mensagem, edição de Fernando Cabral Martins, \nLisboa, Assírio & Alvim, 1997, pp. 81-82."
+    },
+    {
+      "id": 10617,
+      "question_number": "4",
+      "statement": "4.\n As \nexpressões «Quer dizer» (linha 17) e «Dito de outro modo» (linha 21), seguidas de dois pontos, \nintroduzem, respetivamente, sequências textuais em que o autor\n \n(\na\n)\n apresenta um argumento novo e reforça as ideias anteriormente apresentadas.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+    },
+    {
+      "id": 10611,
+      "question_number": "5",
+      "statement": "5. Explique em que medida a afirmação «o tempo muda tão depressa...» (linhas 5 e 6), proferida por Madalena, \npode constituir um presságio de tragédia.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20906,
+          "letter": "B",
+          "text": "iterativo e perfetivo.",
+          "isCorrect": false
+        },
+        {
+          "id": 20907,
+          "letter": "C",
+          "text": "genérico e imperfetivo.",
+          "isCorrect": false
+        },
+        {
+          "id": 20908,
+          "letter": "D",
+          "text": "iterativo e imperfetivo.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 16 pontos\nPara explicar em que medida a afirmação proferida por Madalena pode constituir um presságio de tragédia, \ndevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ a preocupação de Madalena relativamente à instabilidade do tempo (alterações atmosféricas que \npoderão dificultar o regresso da família a casa, apesar de, até ao momento, o dia estar sereno) indicia, \nsimbolicamente, o receio de que também a sua vida (até então feliz) possa mudar;\n‒ a afirmação revela a intuição de uma desgraça iminente (possibilidade de D. João de Portugal regressar) \nque viria pôr fim à harmonia familiar.\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Explica em que medida a afirmação proferida por Madalena pode constituir um presságio \nde tragédia, desenvolvendo dois tópicos de resposta adequadamente. 10\n3\nExplica em que medida a afirmação proferida por Madalena pode constituir um presságio \nde tragédia, desenvolvendo um tópico de resposta adequadamente e outro com pequenas \nimprecisões e/ou omissões.\n8\n2\nExplica em que medida a afirmação proferida por Madalena pode constituir um presságio \nde tragédia, desenvolvendo um tópico de resposta adequadamente.\nOU\nExplica em que medida a afirmação proferida por Madalena pode constituir um presságio \nde tragédia, desenvolvendo dois tópicos de resposta, ambos com pequenas imprecisões \ne/ou omissões.\n5\n1\nExplica em que medida a afirmação proferida por Madalena pode constituir um presságio \nde tragédia, desenvolvendo um tópico de resposta com pequenas imprecisões e/ou \nomissões.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 4 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização, no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\n20\nScrevo meu livro à beira-mágoa.\nMeu coração não tem que ter.\nTenho meus olhos quentes de água.\nSó tu, Senhor, me dás viver.\nSó te sentir e te pensar\nMeus dias vácuos enche e doura.\nMas quando quererás voltar?\nQuando é o Rei? Quando é a Hora?\nQuando virás a ser o Cristo\nDe a quem morreu o falso Deus,\nE a despertar do mal que existo\nA Nova Terra e os Novos Céus?\nQuando virás, ó Encoberto,\nSonho das eras português,\nTornar-me mais que o sopro incerto\nDe um grande anseio que Deus fez?\nAh, quando quererás, voltando,\nFazer minha esperança amor?\nDa névoa e da saudade quando?\nQuando, meu Sonho e meu Senhor?\nFernando Pessoa, Mensagem, edição de Fernando Cabral Martins, \nLisboa, Assírio & Alvim, 1997, pp. 81-82."
+    },
+    {
+      "id": 10618,
+      "question_number": "5",
+      "statement": "5.\n As \nformas verbais presentes em «A intraduzibilidade de um termo é normal.» (linha 1) e em «Assim, o \ntermo ganhou uma extensão invulgar» (linha 20) têm, respetivamente, um valor aspetual\n \n(\na\n)\n genérico e perfetivo.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte a nota.\n5\n10\n15\n20\n25\n30\n35\nA intraduzibilidade de um termo é normal. Acontece constantemente. Cada língua divide a \nseu modo a realidade em parcelas que nomeia, e elas não se ajustam inteiramente ao recorte \ndas parcelas do real elaborado noutras línguas. Temos maçã e pero, enquanto em inglês há \nsó apple. Os anglo-americanos não se preocupavam com a distinção, para portugueses mais \nque óbvia. […] Por outro lado, para nós basta-nos o verbo «esperar», enquanto os ingleses \no subdividem em hope , expect e wait. Mas ninguém em Portugal espera menos só por não \nter acesso a essas distinções vocabulares, como ninguém confunde esperar o autocarro com \nesperar um bebé, ou esperar uma vida melhor para os filhos. […]\nA grande diferença é cultural. Se calhar os portugueses, por razões históricas diversas, \ntiveram inúmeras oportunidades para sofrer de saudades, a começar com as ausências \nprolongadas dos navegadores a partir de Quatrocentos. Mas não podemos afirmar isso ao de \nleve, sem estabelecer comparações: os espanhóis, por exemplo, dispersaram-se igualmente \npelo Globo e não criaram um termo equivalente com tanto peso. Os ingleses, um século e \ntanto depois, espalharam-se também pelos mares e continentes, aliás como os holandeses, e \nnenhum desses povos cunhou uma palavra única para expressar os sentimentos dos ausentes \nda pátria quando dos seus se lembravam, ou destes quando sentiam a falta dos embarcadiços. \nQuer dizer: são as culturas que criam os termos, os mantêm e desenvolvem, vá lá alguém \nsaber exatamente porquê. Todavia, não é a língua portuguesa que é mais saudosa que as \noutras, mas os portugueses que, por qualquer razão, insistem mais nesse sentimento. […]\nAssim, o termo ganhou uma extensão invulgar que as metáforas ainda alargaram mais. \nOra, em semântica, é regra fundamental que o significado é o uso. Dito de outro modo: para se \nsaber o que significa uma palavra ou uma expressão, analisa-se o contexto em que é usada. \nE, santo Deus!, quão vastos são os contextos de «saudade» na nossa cultura. Usa-a o fado \nem letras sobre amores destroçados que recordam momentos de idílio em comum; usa-a um \nfilho que chora a morte da mãe; como a usa um emigrante em carta para a família, ou um \nadulto revivendo os doces momentos da infância. […]\nÉ, pois, nessa polissemia desbragada do termo em tão variadas circunstâncias que ele \nadquire cargas semânticas cada vez mais intraduzíveis, porque em nenhuma outra língua um \ntermo semelhante foi tão frequentemente utilizado para cobrir tão diverso número de situações.\nNada disto envolve qualquer magia; está-se apenas em presença de uma impossibilidade \nlinguística de resumir tanta diversidade de usos e encontrar um equivalente em uma só palavra \nnoutra língua. Em parte porque os portugueses poderão ser mais sentimentais (saudosos) \ndo que outros povos (é possível), mas sobretudo porque tradicionalmente deram largas à \ncriatividade no uso do termo, sobretudo porque os poetas, mestres na liberdade com as \npalavras, lhe alargaram exponencialmente o sentido.\nOnésimo Teotónio Almeida, A Obsessão da Portugalidade, \nLisboa, Quetzal Editores, 2017, pp. 223-226.\nNota\ndesbragada (linha 27) – descomedida; excessiva; desenfreada."
+    },
+    {
+      "id": 10612,
       "question_number": "6",
       "statement": "6.\n Ao longo do excerto, Madalena repete oito vezes a palavra «hoje».\nJustifique \nos sentimentos manifestados por Madalena na sua última fala e relacione-os com a repetição \ndessa palavra.\n\nPart E C",
       "question_type": "essay",
@@ -196,7 +281,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6. .................................................................................................................................................... 8 pontos\na) Complemento direto; b) sujeito.\nNíveis descritores de desempenho Pontuação",
+      "criteriaText": "6. .................................................................................................................................................... 16 pontos\nPara justificar os sentimentos manifestados por Madalena, relacionando-os com a repetição da palavra \n«hoje», devem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n– Madalena sente culpa por se ter apaixonado por Manuel assim que o viu, ainda o primeiro marido estava \nvivo (tendo, por isso, pecado em pensamento), bem como ansiedade perante a dúvida que a atormenta \ndesde o início da peça, ou seja, que D. João esteja vivo (e que Deus a castigue pelo seu «pecado»);\n– a repetição da palavra «hoje» reforça o terror obsessivo de Madalena, que atribui um carácter fatídico \nàquele dia/reforça o pressentimento de uma desgraça iminente (por ação do destino).\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Justifica dois sentimentos manifestados por Madalena e relaciona-os com a repetição da \npalavra «hoje», numa resposta adequada. 10\n3\nJustifica dois sentimentos manifestados por Madalena e relaciona-os com a repetição da \npalavra «hoje», numa resposta com pequenas imprecisões e/ou omissões.\nOU\nJustifica um sentimento manifestado por Madalena e relaciona-o com a repetição da \npalavra «hoje», numa resposta adequada.\n8\n2\nJustifica um sentimento manifestado por Madalena e relaciona-o com a repetição da \npalavra «hoje», numa resposta com pequenas imprecisões e/ou omissões.\nOU\nJustifica, adequadamente, dois sentimentos manifestados por Madalena, sem os \nrelacionar com a repetição da palavra «hoje».\nOU\nExplicita, adequadamente, o sentido da repetição da palavra «hoje», sem relacionar essa \nrepetição com a justificação dos sentimentos manifestados por Madalena.\n5\n1\nJustifica, com pequenas imprecisões e/ou omissões, dois sentimentos manifestados \npor Madalena, sem os relacionar com a repetição da palavra «hoje».\nOU\nExplicita, com pequenas imprecisões e/ou omissões, o sentido da repetição da palavra \n«hoje», sem relacionar essa repetição com a justificação dos sentimentos manifestados \npor Madalena.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 5 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização, no âmbito da correção linguística (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -206,7 +291,28 @@
       "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\n20\nScrevo meu livro à beira-mágoa.\nMeu coração não tem que ter.\nTenho meus olhos quentes de água.\nSó tu, Senhor, me dás viver.\nSó te sentir e te pensar\nMeus dias vácuos enche e doura.\nMas quando quererás voltar?\nQuando é o Rei? Quando é a Hora?\nQuando virás a ser o Cristo\nDe a quem morreu o falso Deus,\nE a despertar do mal que existo\nA Nova Terra e os Novos Céus?\nQuando virás, ó Encoberto,\nSonho das eras português,\nTornar-me mais que o sopro incerto\nDe um grande anseio que Deus fez?\nAh, quando quererás, voltando,\nFazer minha esperança amor?\nDa névoa e da saudade quando?\nQuando, meu Sonho e meu Senhor?\nFernando Pessoa, Mensagem, edição de Fernando Cabral Martins, \nLisboa, Assírio & Alvim, 1997, pp. 81-82."
     },
     {
-      "id": 1576,
+      "id": 10613,
+      "question_number": "7",
+      "statement": "7. A figura do herói está presente em muitas obras estudadas ao longo do ensino secundário, embora a sua \nconstrução possa depender de diversos fatores.\nEscreva uma breve exposição na qual distinga o herói em Os Lusíadas, de Luís Vaz de Camões, do herói \nem Mensagem, de Fernando Pessoa.\nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um desenvolvim\nento no qual explicite, para cada uma das obras, uma característica que permita distinguir \no herói em Os Lusíadas do herói em Mensagem , fundamentando as características apresentadas em, \npelo menos, um exemplo significativo de cada uma das obras;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "7. .................................................................................................................................................... 16 pontos\nPara distinguir o herói em Os Lusíadas do herói em Mensagem, deve ser abordado um tópico relativo \na cada uma das obras. Os tópicos a seguir apresentados constituem apenas exemplos, podendo ser \nabordados outros igualmente relevantes.\nEm Os Lusíadas:\n‒ os heróis são apresentados na sua dimensão humana e histórica, o que é patente, por exemplo, nos \nprotagonistas da viagem marítima até à Índia, nomeadamente Vasco da Gama e os marinheiros, cujos \nfeitos permitiram o desvendamento dos mares desconhecidos;\n‒ os heróis são os portugueses que, vencendo os seus medos e todos os perigos, foram capazes de \nsuperar a própria condição humana e de ascender ao plano dos deuses, como se comprova, por \nexemplo, quando são recompensados na Ilha dos Amores.\nEm Mensagem:\n‒ os heróis não se inscrevem num tempo nem num espaço determinados, assumindo uma dimensão \nmítica/simbólica. É o caso de D. Sebastião, enquanto símbolo da ambição que poderá fazer renascer a \nglória da pátria;\n‒ os heróis situam-se na esfera da espiritualidade, como é o caso de D. Fernando, que age como \ninstrumento da vontade divina/de uma vontade superior.\n•  Aspetos de conteúdo (C) .................................................................................... 9 pontos\nNíveis descritores de desempenho Pontuação\n4 Explicita, adequadamente, uma característica do herói em cada uma das obras, \nfundamentando cada uma delas com, pelo menos, um exemplo significativo. 9\n3\nExplicita, adequadamente, uma característica do herói em cada uma das obras, mas \napenas fundamenta uma delas com, pelo menos, um exemplo significativo.\nOU\nExplicita uma característica do herói em cada uma das obras, adequadamente num dos \ncasos e com pequenas imprecisões e/ou omissões no outro, fundamentando cada uma \ndelas com, pelo menos, um exemplo significativo.\n7\n2\nExplicita uma característica do herói em cada uma das obras, ambas com pequenas \nimprecisões e/ou omissões, fundamentando cada uma delas com, pelo menos, um \nexemplo significativo.\nOU\nExplicita, adequadamente, uma característica do herói numa das obras, fundamentando \nessa característica com, pelo menos, um exemplo significativo.\nOU\nExplicita, adequadamente, uma característica do herói em cada uma das obras, sem as \nfundamentar com exemplos significativos.\n5\n1\nExplicita, com pequenas imprecisões e/ou omissões, uma característica do herói numa \ndas obras, fundamentando essa característica com, pelo menos, um exemplo significativo.\nOU\nExplicita, com pequenas imprecisões e/ou omissões, uma característica do herói em cada \numa das obras, sem as fundamentar com exemplos significativos.\n3\n\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 7 pontos\n• Estruturação do discurso1 ............................................................ 4 pontos\nNíveis descritores de desempenho Pontuação\n4\nEscreve um texto bem estruturado, constituído por três partes (introdução, desenvolvimento \ne conclusão) devidamente proporcionadas e assegura, adequadamente, a progressão e o \nencadeamento das ideias.\n4\n3\nEscreve um texto globalmente bem estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção ou apresentando falhas \npontuais no que diz respeito à progressão e ao encadeamento das ideias.\n3\n2\nEscreve um texto suficientemente estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e apresentando falhas \npontuais no que diz respeito à progressão e ao encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado, apresentando diversas falhas no que diz \nrespeito à progressão e ao encadeamento das ideias. 1\n• Correção linguística2 6 ................................................................... 3 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização, no âmbito da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 56 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\n20\nScrevo meu livro à beira-mágoa.\nMeu coração não tem que ter.\nTenho meus olhos quentes de água.\nSó tu, Senhor, me dás viver.\nSó te sentir e te pensar\nMeus dias vácuos enche e doura.\nMas quando quererás voltar?\nQuando é o Rei? Quando é a Hora?\nQuando virás a ser o Cristo\nDe a quem morreu o falso Deus,\nE a despertar do mal que existo\nA Nova Terra e os Novos Céus?\nQuando virás, ó Encoberto,\nSonho das eras português,\nTornar-me mais que o sopro incerto\nDe um grande anseio que Deus fez?\nAh, quando quererás, voltando,\nFazer minha esperança amor?\nDa névoa e da saudade quando?\nQuando, meu Sonho e meu Senhor?\nFernando Pessoa, Mensagem, edição de Fernando Cabral Martins, \nLisboa, Assírio & Alvim, 1997, pp. 81-82."
+    },
+    {
+      "id": 10619,
       "question_number": "7",
       "statement": "7.\n Classifique a oração sublinha\nda em «Ora, em semântica, é regra fundamental que o significado é o uso.» \n(linha 21).",
       "question_type": "open",
@@ -217,9 +323,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. .................................................................................................................................................... 8 pontos\n(Oração) subordinada substantiva completiva\nNíveis descritores de desempenho Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",

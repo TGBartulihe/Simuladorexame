@@ -4,60 +4,30 @@
   "subject": "Biologia e Geologia",
   "year": 2025,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 6,
+      "id": 1326,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 7,
+      "id": 1327,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 8,
+      "id": 1328,
       "name": "GRUPO III",
       "order": 2
-    },
-    {
-      "id": 9,
-      "name": "GRUPO I",
-      "order": 3
-    },
-    {
-      "id": 10,
-      "name": "GRUPO III",
-      "order": 4
     }
   ],
   "questions": [
     {
-      "id": 36,
+      "id": 9502,
       "question_number": "1",
-      "statement": "1. 2. 3. 6. 8. 9. 10. 11. 13. 14. 16. 18. 19. 20. 21. 1. 2. 2. 3. 5.\nCotação (em pontos) 8 8 8 8 8 9 8 8 8 8 12 8 8 9 9 8 8 8 8 9 168\nDestes 8 itens, \ncontribuem para \na classificação final \nda prova os 4 itens \ncujas respostas \nobtenham melhor \npontuação.",
+      "statement": "1. Identifique, de entre as afirmações relativas aos resultados obtidos e às conclusões que deles se podem \ntirar, as três afirmações corretas.\nEscreva, na folha de respostas, os números selecionados.\nI.\n A\n digestão do amido ocorre preferencialmente em meio ácido.\nII. A fervura da solução de pancreatina impediu a ação das enzimas.\nIII. Os \nresultados obtidos no tubo D comprovam que temperaturas próximas de 0 oC inibem a atividade \nenzimática de modo irreversível.\nIV. O resultado do tubo \nC evidencia a ocorrência de reações de hidrólise, com quebra de ligações glicosídicas.\nV. Os resultados obtidos nos tubos \nB e C, em conjunto, permitem concluir que a solução de pancreatina \npossui uma enzima responsável pela digestão do amido.",
       "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "1. 4.\nCotação (em pontos) 4 x 8 pontos 32\nTOTAL 200",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
-      "contextTitle": "Figura 5",
-      "contextText": "GRUPO III\nO Complexo Plutónico de Santa Eulália (CPSE), situado no Alto Alentejo, é um maciço granítico, \ncom uma área aflorante de cerca de 500 km 2 e com 8 km de profundidade, que se formou entre o \nCarbonífero (359-299 milhões de anos ‒ Ma) e o Pérmico (299-251 Ma), ou seja, nas fases mais \ntardias da Orogenia Varisca, que decorreu no Paleozoico (541-251 Ma). \nO CPSE apresenta uma estrutura anelar que resultou de dois episódios magmáticos. Num \nprimeiro momento, o magma mantélico ascendeu, originando os gabros e os dioritos ‒ grupo M \n(com cerca de 306 Ma). Associado a este processo, ocorreu fusão parcial de crusta e diferenciação \nmagmática, dando origem às rochas graníticas cinzentas ‒ grupo G1 (com cerca de 305 Ma). Num \nsegundo momento, magmas mantélicos ascenderam, provocaram a fusão parcial de rochas do \ngrupo M e originaram os granitos róseos ‒ grupo G0 (com cerca de 301 Ma).\nPresume-se que a tonalidade rosa dos granitos do grupo G0 resulte da impregnação de óxidos \nde ferro nos feldspatos potássicos, durante o processo de cristalização.\nO bloco-diagrama da Figura 5 representa o mapa geológico do CPSE e a interpretação em \nprofundidade da instalação de três maciços graníticos, de acordo com um dos modelos atualmente \npropostos. Este modelo permite relacionar a existência de falhas de desligamento, como a \nFalha Z, com o processo de ascensão de magmas e de instalação do CPSE e de outros dois \nmaciços graníticos de menores dimensões (1 e 2).\nGranitos róseos (G0)\nGranitos cinzentos dos Maciços de Ervedal (1)\ne de Fronteira (2) e G1 do CPSE\nGabros e dioritos (M)\nCorneanas (Cv)\nFalhas\nFalha Z\nDireção e sentido do movimento \ndos bordos do desligamento\nG1\nG1\nG1\nG1\nG0\nG0\n1\n2\nCPSE\nCv\nCv\nM\nDireção e sentido do movimento \ndos bordos do desligamento\n0 12 km\nFalha de Assumar\nM\nN\nN\nS\nE\nO\nFigura 5\nBaseado em: J. Lopes, Magmatismo Intrusivo no Ciclo Varisco (Alentejo NE, Portugal), Universidade \nde Évora, 2020; e em: C. Cruz et al., «New insights from an emplacement model for the Santa Eulália \nPlutonic Complex (SW Iberian Peninsula)», in Journal of the Geological Society, 2023."
-    },
-    {
-      "id": 37,
-      "question_number": "2",
-      "statement": "2.\n De acordo com os dados da Figura 5, no CPSE afloram rochas que resultaram de metamorfismo",
-      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -66,31 +36,52 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 109,
+          "id": 18814,
           "letter": "A",
-          "text": "de contacto, devido à ação de tensões litostáticas.",
+          "text": "ser maioritariamente constituído por rochas melanocráticas.",
           "isCorrect": false
         },
         {
-          "id": 110,
+          "id": 18815,
           "letter": "B",
-          "text": "de contacto e que têm textura não foliada.",
+          "text": "ser anterior à Falha de Assumar, de acordo com o princípio da intersecção.",
           "isCorrect": false
         },
         {
-          "id": 111,
+          "id": 18816,
           "letter": "C",
-          "text": "regional, devido à ação de tensões dirigidas.",
+          "text": "aflorar numa área afetada por falhas com orientações geralmente N-S.",
           "isCorrect": false
         },
         {
-          "id": 112,
+          "id": 18817,
           "letter": "D",
-          "text": "regional e que têm textura foliada.",
+          "text": "possuir granitos G1 que se formaram antes dos granitos G0.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "2 Apresenta, com rigor científico, apenas um dos elementos. 5",
+      "criteriaText": "1. .................................................................................................................................................... 8 pontos\nVersão 1 – (A); Versão 2 – (C)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Tabela 1",
+      "contextText": "GRUPO II\nO suco pancreático, produzido pelo pâncreas, contém enzimas que atuam no duodeno e \nparticipam no processo de digestão dos alimentos. \nCom o objetivo de identificar alguns dos fatores que podem influenciar a atividade enzimática, \nrealizou-se a experiência seguinte.\nProcedimento:\n1. Identificaram-se 6 tubos de ensaio com as letras de A a F.\n2. Prepararam-se os tubos de ensaio, de acordo com o procedimento expresso na Tabela 1.\n3. Colocaram-se 3 gotas de solução de Lugol1 em cada um dos seis tubos de ensaio.\n4. Os tubos A, B, C, E e F foram colocados em banho-maria, a 37 oC.\n5. O tubo D foi imediatamente colocado em gelo.\n6. Ao fim de 15 minutos, os tubos de ensaio foram retirados do banho-maria e do gelo e registou-se \na coloração observada.\n7. O tubo D foi posteriormente colocado em banho-maria, a 37 oC, durante 15 minutos.\n8. De seguida, realizou-se o teste com licor de Fehling 2 nos seis tubos de ensaio e registou-se a \ncoloração observada. \nA Tabela 1 apresenta os resultados obtidos em cada um dos tubos de ensaio.\nTabela 1\nProcedimento Resultados\nTubo Conteúdo dos tubos \nde ensaio\nResultados do teste \ncom solução de Lugol\nResultados do teste \ncom licor de Fehling\nA\n2 mL de água destilada\n+ 2 mL de solução de pancreatina3 Castanho-claro Não se forma um \nprecipitado cor de tijolo\nB\n2 mL de solução de cozimento \nde amido Azul-escuro Não se forma um \nprecipitado cor de tijolo\nC 2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina Castanho-claro Forma-se um \nprecipitado cor de tijolo\nD 2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina Azul-escuro\nApós os 15 minutos em \nbanho-maria, forma-se \num precipitado \ncor de tijolo\nE\n2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina, \npreviamente fervida\nAzul-escuro Não se forma um \nprecipitado cor de tijolo\nF\n2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina \n+ 1 mL de solução de ácido \nclorídrico (HCl) a 10% (m/V)\nAzul-escuro Não se forma um \nprecipitado cor de tijolo\nNotas:\n1 Solução de Lugol – indicador da presença de amido quando adquire uma cor azul-escura.\n2 Licor de Fehling – indicador da presença de glícidos simples quando dá origem a um precipitado cor de tijolo.\n3 Solução de pancreatina – extrato do pâncreas que contém enzimas."
+    },
+    {
+      "id": 9504,
+      "question_number": "1",
+      "statement": "1. A característica do CPSE passível de ser comprovada a partir da análise do Texto e da Figura 5 é",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -100,7 +91,74 @@
       "contextText": "GRUPO III\nO Complexo Plutónico de Santa Eulália (CPSE), situado no Alto Alentejo, é um maciço granítico, \ncom uma área aflorante de cerca de 500 km 2 e com 8 km de profundidade, que se formou entre o \nCarbonífero (359-299 milhões de anos ‒ Ma) e o Pérmico (299-251 Ma), ou seja, nas fases mais \ntardias da Orogenia Varisca, que decorreu no Paleozoico (541-251 Ma). \nO CPSE apresenta uma estrutura anelar que resultou de dois episódios magmáticos. Num \nprimeiro momento, o magma mantélico ascendeu, originando os gabros e os dioritos ‒ grupo M \n(com cerca de 306 Ma). Associado a este processo, ocorreu fusão parcial de crusta e diferenciação \nmagmática, dando origem às rochas graníticas cinzentas ‒ grupo G1 (com cerca de 305 Ma). Num \nsegundo momento, magmas mantélicos ascenderam, provocaram a fusão parcial de rochas do \ngrupo M e originaram os granitos róseos ‒ grupo G0 (com cerca de 301 Ma).\nPresume-se que a tonalidade rosa dos granitos do grupo G0 resulte da impregnação de óxidos \nde ferro nos feldspatos potássicos, durante o processo de cristalização.\nO bloco-diagrama da Figura 5 representa o mapa geológico do CPSE e a interpretação em \nprofundidade da instalação de três maciços graníticos, de acordo com um dos modelos atualmente \npropostos. Este modelo permite relacionar a existência de falhas de desligamento, como a \nFalha Z, com o processo de ascensão de magmas e de instalação do CPSE e de outros dois \nmaciços graníticos de menores dimensões (1 e 2).\nGranitos róseos (G0)\nGranitos cinzentos dos Maciços de Ervedal (1)\ne de Fronteira (2) e G1 do CPSE\nGabros e dioritos (M)\nCorneanas (Cv)\nFalhas\nFalha Z\nDireção e sentido do movimento \ndos bordos do desligamento\nG1\nG1\nG1\nG1\nG0\nG0\n1\n2\nCPSE\nCv\nCv\nM\nDireção e sentido do movimento \ndos bordos do desligamento\n0 12 km\nFalha de Assumar\nM\nN\nN\nS\nE\nO\nFigura 5\nBaseado em: J. Lopes, Magmatismo Intrusivo no Ciclo Varisco (Alentejo NE, Portugal), Universidade \nde Évora, 2020; e em: C. Cruz et al., «New insights from an emplacement model for the Santa Eulália \nPlutonic Complex (SW Iberian Peninsula)», in Journal of the Geological Society, 2023."
     },
     {
-      "id": 38,
+      "id": 9503,
+      "question_number": "2",
+      "statement": "2.\n No ser humano, o tubo digestivo é",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 18818,
+          "letter": "A",
+          "text": "de contacto, devido à ação de tensões litostáticas.",
+          "isCorrect": false
+        },
+        {
+          "id": 18819,
+          "letter": "B",
+          "text": "de contacto e que têm textura não foliada.",
+          "isCorrect": false
+        },
+        {
+          "id": 18820,
+          "letter": "C",
+          "text": "regional, devido à ação de tensões dirigidas.",
+          "isCorrect": false
+        },
+        {
+          "id": 18821,
+          "letter": "D",
+          "text": "regional e que têm textura foliada.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. .................................................................................................................................................... 8 pontos\nVersão 1 – II, IV e V.\nVersão 2 – I, III e IV.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Tabela 1",
+      "contextText": "GRUPO II\nO suco pancreático, produzido pelo pâncreas, contém enzimas que atuam no duodeno e \nparticipam no processo de digestão dos alimentos. \nCom o objetivo de identificar alguns dos fatores que podem influenciar a atividade enzimática, \nrealizou-se a experiência seguinte.\nProcedimento:\n1. Identificaram-se 6 tubos de ensaio com as letras de A a F.\n2. Prepararam-se os tubos de ensaio, de acordo com o procedimento expresso na Tabela 1.\n3. Colocaram-se 3 gotas de solução de Lugol1 em cada um dos seis tubos de ensaio.\n4. Os tubos A, B, C, E e F foram colocados em banho-maria, a 37 oC.\n5. O tubo D foi imediatamente colocado em gelo.\n6. Ao fim de 15 minutos, os tubos de ensaio foram retirados do banho-maria e do gelo e registou-se \na coloração observada.\n7. O tubo D foi posteriormente colocado em banho-maria, a 37 oC, durante 15 minutos.\n8. De seguida, realizou-se o teste com licor de Fehling 2 nos seis tubos de ensaio e registou-se a \ncoloração observada. \nA Tabela 1 apresenta os resultados obtidos em cada um dos tubos de ensaio.\nTabela 1\nProcedimento Resultados\nTubo Conteúdo dos tubos \nde ensaio\nResultados do teste \ncom solução de Lugol\nResultados do teste \ncom licor de Fehling\nA\n2 mL de água destilada\n+ 2 mL de solução de pancreatina3 Castanho-claro Não se forma um \nprecipitado cor de tijolo\nB\n2 mL de solução de cozimento \nde amido Azul-escuro Não se forma um \nprecipitado cor de tijolo\nC 2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina Castanho-claro Forma-se um \nprecipitado cor de tijolo\nD 2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina Azul-escuro\nApós os 15 minutos em \nbanho-maria, forma-se \num precipitado \ncor de tijolo\nE\n2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina, \npreviamente fervida\nAzul-escuro Não se forma um \nprecipitado cor de tijolo\nF\n2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina \n+ 1 mL de solução de ácido \nclorídrico (HCl) a 10% (m/V)\nAzul-escuro Não se forma um \nprecipitado cor de tijolo\nNotas:\n1 Solução de Lugol – indicador da presença de amido quando adquire uma cor azul-escura.\n2 Licor de Fehling – indicador da presença de glícidos simples quando dá origem a um precipitado cor de tijolo.\n3 Solução de pancreatina – extrato do pâncreas que contém enzimas."
+    },
+    {
+      "id": 9505,
+      "question_number": "2",
+      "statement": "2.\n De acordo com os dados da Figura 5, no CPSE afloram rochas que resultaram de metamorfismo",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO III\nO Complexo Plutónico de Santa Eulália (CPSE), situado no Alto Alentejo, é um maciço granítico, \ncom uma área aflorante de cerca de 500 km 2 e com 8 km de profundidade, que se formou entre o \nCarbonífero (359-299 milhões de anos ‒ Ma) e o Pérmico (299-251 Ma), ou seja, nas fases mais \ntardias da Orogenia Varisca, que decorreu no Paleozoico (541-251 Ma). \nO CPSE apresenta uma estrutura anelar que resultou de dois episódios magmáticos. Num \nprimeiro momento, o magma mantélico ascendeu, originando os gabros e os dioritos ‒ grupo M \n(com cerca de 306 Ma). Associado a este processo, ocorreu fusão parcial de crusta e diferenciação \nmagmática, dando origem às rochas graníticas cinzentas ‒ grupo G1 (com cerca de 305 Ma). Num \nsegundo momento, magmas mantélicos ascenderam, provocaram a fusão parcial de rochas do \ngrupo M e originaram os granitos róseos ‒ grupo G0 (com cerca de 301 Ma).\nPresume-se que a tonalidade rosa dos granitos do grupo G0 resulte da impregnação de óxidos \nde ferro nos feldspatos potássicos, durante o processo de cristalização.\nO bloco-diagrama da Figura 5 representa o mapa geológico do CPSE e a interpretação em \nprofundidade da instalação de três maciços graníticos, de acordo com um dos modelos atualmente \npropostos. Este modelo permite relacionar a existência de falhas de desligamento, como a \nFalha Z, com o processo de ascensão de magmas e de instalação do CPSE e de outros dois \nmaciços graníticos de menores dimensões (1 e 2).\nGranitos róseos (G0)\nGranitos cinzentos dos Maciços de Ervedal (1)\ne de Fronteira (2) e G1 do CPSE\nGabros e dioritos (M)\nCorneanas (Cv)\nFalhas\nFalha Z\nDireção e sentido do movimento \ndos bordos do desligamento\nG1\nG1\nG1\nG1\nG0\nG0\n1\n2\nCPSE\nCv\nCv\nM\nDireção e sentido do movimento \ndos bordos do desligamento\n0 12 km\nFalha de Assumar\nM\nN\nN\nS\nE\nO\nFigura 5\nBaseado em: J. Lopes, Magmatismo Intrusivo no Ciclo Varisco (Alentejo NE, Portugal), Universidade \nde Évora, 2020; e em: C. Cruz et al., «New insights from an emplacement model for the Santa Eulália \nPlutonic Complex (SW Iberian Peninsula)», in Journal of the Geological Society, 2023."
+    },
+    {
+      "id": 9506,
       "question_number": "3",
       "statement": "3.\n T\nendo em conta a composição química e mineralógica, os granitos, comparativamente aos gabros,",
       "question_type": "multiple_choice",
@@ -112,31 +170,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 113,
+          "id": 18822,
           "letter": "A",
           "text": "fundem a temperaturas mais elevadas.",
           "isCorrect": false
         },
         {
-          "id": 114,
+          "id": 18823,
           "letter": "B",
           "text": "apresentam maior teor de plagióclases cálcicas.",
           "isCorrect": false
         },
         {
-          "id": 115,
+          "id": 18824,
           "letter": "C",
           "text": "possuem menor teor de minerais ferromagnesianos.",
           "isCorrect": false
         },
         {
-          "id": 116,
+          "id": 18825,
           "letter": "D",
           "text": "têm uma menor percentagem de sílica.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "3 Apresenta, com falhas no rigor científico, os dois elementos. 7",
+      "criteriaText": "3. .................................................................................................................................................... 8 pontos\nVersão 1 – B, C, A, D, E\nVersão 2 – D, A, E, C, B",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -146,7 +204,7 @@
       "contextText": "GRUPO III\nO Complexo Plutónico de Santa Eulália (CPSE), situado no Alto Alentejo, é um maciço granítico, \ncom uma área aflorante de cerca de 500 km 2 e com 8 km de profundidade, que se formou entre o \nCarbonífero (359-299 milhões de anos ‒ Ma) e o Pérmico (299-251 Ma), ou seja, nas fases mais \ntardias da Orogenia Varisca, que decorreu no Paleozoico (541-251 Ma). \nO CPSE apresenta uma estrutura anelar que resultou de dois episódios magmáticos. Num \nprimeiro momento, o magma mantélico ascendeu, originando os gabros e os dioritos ‒ grupo M \n(com cerca de 306 Ma). Associado a este processo, ocorreu fusão parcial de crusta e diferenciação \nmagmática, dando origem às rochas graníticas cinzentas ‒ grupo G1 (com cerca de 305 Ma). Num \nsegundo momento, magmas mantélicos ascenderam, provocaram a fusão parcial de rochas do \ngrupo M e originaram os granitos róseos ‒ grupo G0 (com cerca de 301 Ma).\nPresume-se que a tonalidade rosa dos granitos do grupo G0 resulte da impregnação de óxidos \nde ferro nos feldspatos potássicos, durante o processo de cristalização.\nO bloco-diagrama da Figura 5 representa o mapa geológico do CPSE e a interpretação em \nprofundidade da instalação de três maciços graníticos, de acordo com um dos modelos atualmente \npropostos. Este modelo permite relacionar a existência de falhas de desligamento, como a \nFalha Z, com o processo de ascensão de magmas e de instalação do CPSE e de outros dois \nmaciços graníticos de menores dimensões (1 e 2).\nGranitos róseos (G0)\nGranitos cinzentos dos Maciços de Ervedal (1)\ne de Fronteira (2) e G1 do CPSE\nGabros e dioritos (M)\nCorneanas (Cv)\nFalhas\nFalha Z\nDireção e sentido do movimento \ndos bordos do desligamento\nG1\nG1\nG1\nG1\nG0\nG0\n1\n2\nCPSE\nCv\nCv\nM\nDireção e sentido do movimento \ndos bordos do desligamento\n0 12 km\nFalha de Assumar\nM\nN\nN\nS\nE\nO\nFigura 5\nBaseado em: J. Lopes, Magmatismo Intrusivo no Ciclo Varisco (Alentejo NE, Portugal), Universidade \nde Évora, 2020; e em: C. Cruz et al., «New insights from an emplacement model for the Santa Eulália \nPlutonic Complex (SW Iberian Peninsula)», in Journal of the Geological Society, 2023."
     },
     {
-      "id": 39,
+      "id": 9507,
       "question_number": "4",
       "statement": "4.\n Uma das hipóteses para a formação do granito \nróseo – grupo G0 – considera que este granito resultou da \nascensão de um magma que provocou fusão parcial de crusta, alterando a composição desse magma.\nA presença de feldspatos róseos no granito do grupo G0 pode ser um argumento",
       "question_type": "multiple_choice",
@@ -158,31 +216,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 117,
+          "id": 18826,
           "letter": "A",
           "text": "a favor desta hipótese, uma vez que o magma se tornou mais rico em ferro com origem na fusão das rochas do grupo M.",
           "isCorrect": false
         },
         {
-          "id": 118,
+          "id": 18827,
           "letter": "B",
           "text": "a favor desta hipótese, uma vez que a diferenciação magmática torna o magma menos rico em sílica.",
           "isCorrect": false
         },
         {
-          "id": 119,
+          "id": 18828,
           "letter": "C",
           "text": "contra esta hipótese, uma vez que, por cristalização fracionada, os feldspatos são dos últimos minerais a cristalizar.",
           "isCorrect": false
         },
         {
-          "id": 120,
+          "id": 18829,
           "letter": "D",
           "text": "contra esta hipótese, uma vez que o magma crustal e o magma mantélico são igualmente ricos em ferro.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "4 Apresenta, com rigor científico, os dois elementos. 9",
+      "criteriaText": "4. a 7. ............................................................... (4 × 8 pontos) ....................................................... 32 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -192,9 +250,9 @@
       "contextText": "GRUPO III\nO Complexo Plutónico de Santa Eulália (CPSE), situado no Alto Alentejo, é um maciço granítico, \ncom uma área aflorante de cerca de 500 km 2 e com 8 km de profundidade, que se formou entre o \nCarbonífero (359-299 milhões de anos ‒ Ma) e o Pérmico (299-251 Ma), ou seja, nas fases mais \ntardias da Orogenia Varisca, que decorreu no Paleozoico (541-251 Ma). \nO CPSE apresenta uma estrutura anelar que resultou de dois episódios magmáticos. Num \nprimeiro momento, o magma mantélico ascendeu, originando os gabros e os dioritos ‒ grupo M \n(com cerca de 306 Ma). Associado a este processo, ocorreu fusão parcial de crusta e diferenciação \nmagmática, dando origem às rochas graníticas cinzentas ‒ grupo G1 (com cerca de 305 Ma). Num \nsegundo momento, magmas mantélicos ascenderam, provocaram a fusão parcial de rochas do \ngrupo M e originaram os granitos róseos ‒ grupo G0 (com cerca de 301 Ma).\nPresume-se que a tonalidade rosa dos granitos do grupo G0 resulte da impregnação de óxidos \nde ferro nos feldspatos potássicos, durante o processo de cristalização.\nO bloco-diagrama da Figura 5 representa o mapa geológico do CPSE e a interpretação em \nprofundidade da instalação de três maciços graníticos, de acordo com um dos modelos atualmente \npropostos. Este modelo permite relacionar a existência de falhas de desligamento, como a \nFalha Z, com o processo de ascensão de magmas e de instalação do CPSE e de outros dois \nmaciços graníticos de menores dimensões (1 e 2).\nGranitos róseos (G0)\nGranitos cinzentos dos Maciços de Ervedal (1)\ne de Fronteira (2) e G1 do CPSE\nGabros e dioritos (M)\nCorneanas (Cv)\nFalhas\nFalha Z\nDireção e sentido do movimento \ndos bordos do desligamento\nG1\nG1\nG1\nG1\nG0\nG0\n1\n2\nCPSE\nCv\nCv\nM\nDireção e sentido do movimento \ndos bordos do desligamento\n0 12 km\nFalha de Assumar\nM\nN\nN\nS\nE\nO\nFigura 5\nBaseado em: J. Lopes, Magmatismo Intrusivo no Ciclo Varisco (Alentejo NE, Portugal), Universidade \nde Évora, 2020; e em: C. Cruz et al., «New insights from an emplacement model for the Santa Eulália \nPlutonic Complex (SW Iberian Peninsula)», in Journal of the Geological Society, 2023."
     },
     {
-      "id": 40,
+      "id": 9508,
       "question_number": "5",
-      "statement": "5.\n Explique, \nfazendo referência aos dados da Figura 5, de que modo as tensões de cisalhamento que atuaram \nsobre a Falha Z contribuíram para a instalação dos maciços graníticos representados (CPSE, Ervedal e \nFronteira) e por que razão estes se encontram alinhados segundo um eixo E-O.\nFIM\n\nCOTAÇÕES\nAs pontuações obtidas \nnas respostas a estes \n20 itens da \nprova contribuem \nobrigatoriamente para \na classificação final.\nGrupo\nSubtotal\nI II III",
+      "statement": "5.\n Explique, \nfazendo referência aos dados da Figura 5, de que modo as tensões de cisalhamento que atuaram \nsobre a Falha Z contribuíram para a instalação dos maciços graníticos representados (CPSE, Ervedal e \nFronteira) e por que razão estes se encontram alinhados segundo um eixo E-O.",
       "question_type": "essay",
       "max_points": null,
       "difficulty": null,
@@ -203,7 +261,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5. .................................................................................................................................................... 9 pontos\nExplica de que modo as tensões de cisalhamento contribuíram para a instalação dos maciços graníticos \n(A) e por que razão estes se encontram alinhados segundo um eixo E-O (B).\n(A) As tensões de cisalhamento que atuaram sobre a falha Z provocaram a movimentação horizontal dos \nblocos da falha, favorecendo a ascensão de magmas que formaram os maciços graníticos.\n(B) A falha Z apresenta uma direção E-O, o que justifica o alinhamento dos diferentes maciços.\nNível Descritor de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": "5. .................................................................................................................................................... 9 pontos\nExplica de que modo as tensões de cisalhamento contribuíram para a instalação dos maciços graníticos \n(A) e por que razão estes se encontram alinhados segundo um eixo E-O (B).\n(A) As tensões de cisalhamento que atuaram sobre a falha Z provocaram a movimentação horizontal dos \nblocos da falha, favorecendo a ascensão de magmas que formaram os maciços graníticos.\n(B) A falha Z apresenta uma direção E-O, o que justifica o alinhamento dos diferentes maciços.\nNível Descritor de desempenho do conteúdo e do rigor científico Pontuação\n4 Apresenta, com rigor científico, os dois elementos. 9\n3 Apresenta, com falhas no rigor científico, os dois elementos. 7\n2 Apresenta, com rigor científico, apenas um dos elementos. 5\n1 Apresenta, com falhas no rigor científico, apenas um dos elementos. 3\nCOTAÇÕES\nAs pontuações obtidas \nnas respostas a estes \n20 itens da \nprova contribuem \nobrigatoriamente para \na classificação final.\nGrupo\nSubtotal\nI II III",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -213,430 +271,7 @@
       "contextText": "GRUPO III\nO Complexo Plutónico de Santa Eulália (CPSE), situado no Alto Alentejo, é um maciço granítico, \ncom uma área aflorante de cerca de 500 km 2 e com 8 km de profundidade, que se formou entre o \nCarbonífero (359-299 milhões de anos ‒ Ma) e o Pérmico (299-251 Ma), ou seja, nas fases mais \ntardias da Orogenia Varisca, que decorreu no Paleozoico (541-251 Ma). \nO CPSE apresenta uma estrutura anelar que resultou de dois episódios magmáticos. Num \nprimeiro momento, o magma mantélico ascendeu, originando os gabros e os dioritos ‒ grupo M \n(com cerca de 306 Ma). Associado a este processo, ocorreu fusão parcial de crusta e diferenciação \nmagmática, dando origem às rochas graníticas cinzentas ‒ grupo G1 (com cerca de 305 Ma). Num \nsegundo momento, magmas mantélicos ascenderam, provocaram a fusão parcial de rochas do \ngrupo M e originaram os granitos róseos ‒ grupo G0 (com cerca de 301 Ma).\nPresume-se que a tonalidade rosa dos granitos do grupo G0 resulte da impregnação de óxidos \nde ferro nos feldspatos potássicos, durante o processo de cristalização.\nO bloco-diagrama da Figura 5 representa o mapa geológico do CPSE e a interpretação em \nprofundidade da instalação de três maciços graníticos, de acordo com um dos modelos atualmente \npropostos. Este modelo permite relacionar a existência de falhas de desligamento, como a \nFalha Z, com o processo de ascensão de magmas e de instalação do CPSE e de outros dois \nmaciços graníticos de menores dimensões (1 e 2).\nGranitos róseos (G0)\nGranitos cinzentos dos Maciços de Ervedal (1)\ne de Fronteira (2) e G1 do CPSE\nGabros e dioritos (M)\nCorneanas (Cv)\nFalhas\nFalha Z\nDireção e sentido do movimento \ndos bordos do desligamento\nG1\nG1\nG1\nG1\nG0\nG0\n1\n2\nCPSE\nCv\nCv\nM\nDireção e sentido do movimento \ndos bordos do desligamento\n0 12 km\nFalha de Assumar\nM\nN\nN\nS\nE\nO\nFigura 5\nBaseado em: J. Lopes, Magmatismo Intrusivo no Ciclo Varisco (Alentejo NE, Portugal), Universidade \nde Évora, 2020; e em: C. Cruz et al., «New insights from an emplacement model for the Santa Eulália \nPlutonic Complex (SW Iberian Peninsula)», in Journal of the Geological Society, 2023."
     },
     {
-      "id": 41,
-      "question_number": "6",
-      "statement": "6. Ao fim de 15 minutos, os tubos de ensaio foram retirados do banho-maria e do gelo e registou-se \na coloração observada.",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": null,
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nO suco pancreático, produzido pelo pâncreas, contém enzimas que atuam no duodeno e \nparticipam no processo de digestão dos alimentos. \nCom o objetivo de identificar alguns dos fatores que podem influenciar a atividade enzimática, \nrealizou-se a experiência seguinte.\nProcedimento:"
-    },
-    {
-      "id": 42,
-      "question_number": "7",
-      "statement": "7. Ao longo do tempo, a região montanhosa dos Alpes tem sido afetada por deslizamentos de terras, alguns \ndos quais com impactos devastadores.\nEstudos recentes têm revelado que estes deslizamentos podem ser desencadeados pela atividade \nsismotectónica da região, concentrada no interior da placa Eurasiática, com hipocentros entre 5 e 10 km \nde profundidade.\nBaseado em: P. Oswald et al., «Seismic control of large prehistoric rockslides in the Eastern Alps», \nin Nature Communications, 12, 2021.\nConsiderando a informação anterior, os sismos tectónicos nos Alpes são, maioritariamente,",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 77,
-          "letter": "A",
-          "text": "interplaca, e a sua magnitude é influenciada pela inclinaçã o das encostas.",
-          "isCorrect": false
-        },
-        {
-          "id": 78,
-          "letter": "B",
-          "text": "intraplaca, e a sua magnitude é influenciada pela instabilidade dos sedimentos na região.",
-          "isCorrect": false
-        },
-        {
-          "id": 79,
-          "letter": "C",
-          "text": "interplaca, e a sua intensidade é influenciada pelos deslizamentos de terras nas encostas.",
-          "isCorrect": false
-        },
-        {
-          "id": 80,
-          "letter": "D",
-          "text": "intraplaca, e a sua intensidade é influenciada pela litologia da região.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": null,
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 43,
-      "question_number": "8",
-      "statement": "8. De seguida, realizou-se o teste com licor de Fehling 2 nos seis tubos de ensaio e registou-se a \ncoloração observada. \nA Tabela 1 apresenta os resultados obtidos em cada um dos tubos de ensaio.\nTabela 1\nProcedimento Resultados\nTubo Conteúdo dos tubos \nde ensaio\nResultados do teste \ncom solução de Lugol\nResultados do teste \ncom licor de Fehling\nA\n2 mL de água destilada\n+ 2 mL de solução de pancreatina3 Castanho-claro Não se forma um \nprecipitado cor de tijolo\nB\n2 mL de solução de cozimento \nde amido Azul-escuro Não se forma um \nprecipitado cor de tijolo\nC 2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina Castanho-claro Forma-se um \nprecipitado cor de tijolo\nD 2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina Azul-escuro\nApós os 15 minutos em \nbanho-maria, forma-se \num precipitado \ncor de tijolo\nE\n2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina, \npreviamente fervida\nAzul-escuro Não se forma um \nprecipitado cor de tijolo\nF\n2 mL de solução de cozimento de amido \n+ 2 mL de solução de pancreatina \n+ 1 mL de solução de ácido \nclorídrico (HCl) a 10% (m/V)\nAzul-escuro Não se forma um \nprecipitado cor de tijolo\nNotas:\n1 Solução de Lugol – indicador da presença de amido quando adquire uma cor azul-escura.\n2 Licor de Fehling – indicador da presença de glícidos simples quando dá origem a um precipitado cor de tijolo.\n3 Solução de pancreatina – extrato do pâncreas que contém enzimas.",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "8. .................................................................................................................................................... 8 pontos\nVersão 1 – (a) \" (5); (b) \" (2); (c) \" (4).\nVersão 2 – (a) \" (2); (b) \" (4); (c) \" (5).",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nO suco pancreático, produzido pelo pâncreas, contém enzimas que atuam no duodeno e \nparticipam no processo de digestão dos alimentos. \nCom o objetivo de identificar alguns dos fatores que podem influenciar a atividade enzimática, \nrealizou-se a experiência seguinte.\nProcedimento:"
-    },
-    {
-      "id": 44,
-      "question_number": "9",
-      "statement": "9.\n Relativamente ao sal-gema explorado em Hallstätt, considere as informações seguintes:\nInformação \n1 ‒ A subida do sal-gema ocorreu antes da deposição dos calcários da Formação de Plassen.\nInformação 2 ‒ O sal é explorado em galerias que se encontram a mais de 514 metros acima do nível do mar.\nJustifique as afirmações referidas, apresentando um dado da Figura 1B que apoie a Informação 1 e um \ndado do Texto 1 que explique a Informação 2.\n\nTexto 2\nA mina de sal de Hallstätt, além de oferecer um dos registos mais antigos e contínuos da \nmineração subterrânea de sal, tem contribuído para o conhecimento dos hábitos alimentares dos \nmineiros através dos excrementos humanos encontrados (paleofezes). \nAs paleofezes recolhidas na mina foram datadas pelo método 14C. As idades estimadas \ncorrespondem aos intervalos de tempo: 1301-1121 a. C. (Idade do Bronze), 650-544 a. C. (Idade \ndo Ferro) e 1720-1783 d. C. (Idade Moderna), o que está de acordo com os períodos de utilização \nda mina.\nA análise microscópica e molecular das amostras de paleofezes da Idade do Bronze e da \nIdade do Ferro revelou que a dieta destes mineiros consistia essencialmente em cereais, sendo \ncomplementada com frutos silvestres, leguminosas, carnes bovinas e de javali. \nNuma das amostras da Idade do Ferro, foi identificada uma enorme abundância de \nSaccharomyces cerevisiae, um fungo unicelular que apresenta reprodução sexuada e reprodução \nassexuada e que é usado, atualmente, no processamento de alimentos. Foram identificadas \nproteínas envolvidas nas vias de fermentação desta levedura e também o gene RTM1, que é usado \ncomo marcador das variedades de leveduras utilizadas na produção de cerveja, comprovando-se \nassim que, nesta altura, esta bebida já era consumida.\nA Figura 3 representa, esquematicamente, o ciclo de vida de Saccharomyces cerevisiae.\nesporo\nconjugação\nX Y\nFigura 3\nBaseado em: F. Maixner et al., «Hallstätt miners consumed blue cheese and beer during \nthe Iron Age and retained a non-Westernized gut microbiome until the Baroque period», in Current Biology, n.º 31, \n2021; e em: J. Mell e S. Burgess, «Yeast as a model genetic organism», in Encyclopedia of Life Sciences, 2002.",
-      "question_type": "essay",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 9 pontos\nJustifica as informações relativas ao sal-gema de Hallstätt, apresentando um dado que apoia a \nInformação 1 (A) e um dado que explica a Informação 2 (B).\n(A) A superfície de erosão evidencia que o sal-gema esteve exposto (OU aflorou) antes da deposição dos \ncalcários da Formação de Plassen.\nOU\nEntre a Formação de Haselgebirge e a Formação de Plassen não estão presentes (por terem sido \ndeformadas e erodidas) as rochas carbonatadas do Triássico nem as rochas carbonatadas do \nJurássico mais antigas do que as da Formação de Plassen.\n(B)\n A convergência das placas tectónicas que deu origem aos Alpes contribuiu para a \ndeformação/compressão de rochas da região, que, hoje, se encontram a altitude elevada.\nNível Descritor de desempenho do conteúdo e do rigor científico Pontuação",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 45,
-      "question_number": "10",
-      "statement": "10. A presença de carne bovina na dieta dos mineiros foi detetada através da análise de várias proteínas, \nentre as quais a hemoglobina. Nos bovinos, o fornecimento de oxigénio às células é feito através \nde um sistema de transporte",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 81,
-          "letter": "A",
-          "text": "aberto, após ter ocorrido hematose pulmonar .",
-          "isCorrect": true
-        },
-        {
-          "id": 82,
-          "letter": "B",
-          "text": "fechado, com circulação dupla e completa.",
-          "isCorrect": true
-        },
-        {
-          "id": 83,
-          "letter": "C",
-          "text": "aberto, em que a hemoglobina é transportada na hemolinfa.",
-          "isCorrect": false
-        },
-        {
-          "id": 84,
-          "letter": "D",
-          "text": "fechado, cujo órgão propulsor está dividido em três cavidades.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "Item 10. 11. 12. 13. 14.\nVersão 1 (B) (C) (A) (C) (B)\nVersão 2 (A) (D) (B) (B) (C)",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 46,
-      "question_number": "11",
-      "statement": "11. Selecione a opção que interpreta corretamente o ciclo de vida de Saccharomyces cerevisiae, representado \nna Figura 3.",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 85,
-          "letter": "A",
-          "text": "A conjugação dá início à fase haploide.",
-          "isCorrect": false
-        },
-        {
-          "id": 86,
-          "letter": "B",
-          "text": "Os esporos dão origem a leveduras diploides.",
-          "isCorrect": false
-        },
-        {
-          "id": 87,
-          "letter": "C",
-          "text": "A gemulação permite a manutenção da ploidia.",
-          "isCorrect": true
-        },
-        {
-          "id": 88,
-          "letter": "D",
-          "text": "Os esporos resultam de mitoses sucessivas.",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 62/2023, de 25 de julho\nCritérios de Classificação 6 Páginas\nCRITÉRIOS GERAIS DE CLASSIFICAÇÃO\nA classificação a atribuir a cada resposta resulta da aplicação dos critérios gerais e dos critérios específicos \napresentados para cada item e é expressa por um número inteiro.\nA ausência de indicação inequívoca da versão da prova implica a classificação com zero pontos das respostas \naos itens de seleção.\nAs respostas ilegíveis ou que não possam ser claramente identificadas são classificadas com zero pontos.\nEm caso de omissão ou de engano na identificação de uma resposta, esta pode ser classificada se for \npossível identificar inequivocamente o item a que diz respeito.\nSe for apresentada mais do que uma resposta ao mesmo item, só é classificada a resposta que surgir em \nprimeiro lugar.\nITENS DE SELEÇÃO\nAs respostas aos itens de seleção podem ser classificadas de forma dicotómica ou por níveis de desempenho, \nde acordo com os critérios específicos. No primeiro caso, a pontuação só é atribuída às respostas corretas, \nsendo todas as outras respostas classificadas com zero pontos. No caso da classificação por níveis de \ndesempenho, a cada nível corresponde uma dada pontuação, de acordo com os critérios específicos.\nNas respostas aos itens de seleção, a transcrição do texto da opção escolhida é considerada equivalente à \nindicação da letra ou do número correspondente.\nITENS DE CONSTRUÇÃO\nNos itens de resposta restrita, os critérios de classificação estão organizados por níveis de desempenho. A \ncada nível de desempenho corresponde uma dada pontuação. Se permanecerem dúvidas quanto ao nível a \natribuir, deve optar-se pelo nível mais elevado de entre os dois tidos em consideração. Qualquer resposta que \nnão atinja o nível 1 de desempenho é classificada com zero pontos.\nOs itens de resposta restrita são classificados tendo em conta o conteúdo e o rigor científico.\nSão consideradas falhas no rigor científico a utilização inadequada ou imprecisa de termos, de conceitos ou \nde processos, assim como o incumprimento das normas de nomenclatura binominal.\nAs respostas que não apresentem exatamente os termos ou expressões constantes nos critérios específicos \nde classificação são classificadas em igualdade de circunstâncias com aquelas que os apresentem, desde \nque o seu conteúdo seja cientificamente válido, adequado ao solicitado e enquadrado pelos documentos \ncurriculares de referência.\nOs elementos que, numa resposta, evidenciem contradição não devem ser considerados para efeitos de \nclassificação.\n\nCRITÉRIOS ESPECÍFICOS DE CLASSIFICAÇÃO\nGRUPO I",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 47,
-      "question_number": "12",
-      "statement": "12.\n No decurso do ciclo celular mitótico, ocorre",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 89,
-          "letter": "A",
-          "text": "produção de biomoléculas durante a fase G1.",
-          "isCorrect": true
-        },
-        {
-          "id": 90,
-          "letter": "B",
-          "text": "duplicação do número de cromatídeos durante a prófase.",
-          "isCorrect": true
-        },
-        {
-          "id": 91,
-          "letter": "C",
-          "text": "condensação da cromatina durante a fase S.",
-          "isCorrect": false
-        },
-        {
-          "id": 92,
-          "letter": "D",
-          "text": "separação de cromatídeos-irmãos durante a metáfase.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": null,
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 48,
-      "question_number": "13",
-      "statement": "13.\n O gene R\nTM1 corresponde a uma sequência de",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 93,
-          "letter": "A",
-          "text": "nucleótidos de adenina, uracilo, guanina e citosina.",
-          "isCorrect": false
-        },
-        {
-          "id": 94,
-          "letter": "B",
-          "text": "ribonucleótidos unidos por ligações peptídicas.",
-          "isCorrect": true
-        },
-        {
-          "id": 95,
-          "letter": "C",
-          "text": "desoxirribonucleótidos unidos por ligações fosfodiéster .",
-          "isCorrect": true
-        },
-        {
-          "id": 96,
-          "letter": "D",
-          "text": "monómeros formados exclusivamente por C, H, O e P .",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": null,
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 49,
-      "question_number": "14",
-      "statement": "14.\n Segundo \no sistema de classificação de Whittaker modificado, as leveduras pertencem ao reino Fungi. \nEste reino integra organismos que apresentam",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 97,
-          "letter": "A",
-          "text": "unicelularidade e DNA circular no nucleoide.",
-          "isCorrect": false
-        },
-        {
-          "id": 98,
-          "letter": "B",
-          "text": "células eucarióticas e nutrição por absorção.",
-          "isCorrect": true
-        },
-        {
-          "id": 99,
-          "letter": "C",
-          "text": "reduzida diferenciação celular e células procarióticas.",
-          "isCorrect": true
-        },
-        {
-          "id": 100,
-          "letter": "D",
-          "text": "heterotrofia por ingestão e células com parede celular .",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": null,
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 50,
-      "question_number": "15",
-      "statement": "15.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos relacionados com o processo fermentativo realizado por Saccharomyces cerevisiae.\nEscreva, na folha de respostas, a sequência correta das letras.\nA.\n Formação de moléculas de \nATP.\nB.\n Fosforilação da glicose. \nC.\n Formação de moléculas de etanol.\nD.\n Formação de moléculas de ácido pirúvico.\nE. \n Obtenção de glicose a partir da hidrólise de polissacáridos.",
-      "question_type": "ordering",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "15. .................................................................................................................................................. 8 pontos\nVersão 1 – E, B, A, D, C\nVersão 2 – C, A, D, E, B",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 51,
-      "question_number": "16",
-      "statement": "16.\n Nas camadas superiores da atmosfera, por ação dos raios cósmicos sobre o nitrogénio, forma-se 14C, um \nisótopo radioativo. Posteriormente, o 14C reage com o O2 atmosférico e origina 14CO2 . \nExplique por que razão é possível utilizar o 14C na datação de matéria orgânica de origem vegetal e de \nmatéria orgânica de origem animal presente nas paleofezes.\nNa sua resposta, faça referência às características do 14C que permitem utilizá-lo na datação.\n\nTexto 3\nOs resultados das análises às paleofezes dos mineiros de Hallstätt mostram que a dieta das \npopulações ocidentalizadas modernas sofreu profundas alterações ao longo do tempo. Atualmente, \no consumo de sal, de açúcar e de gordura em excesso afeta negativamente a saúde das populações \ne agrava o risco de desenvolvimento de doenças cardiovasculares, a principal causa de morte em \ntodo o mundo.\nNos últimos anos, a Salicor nia, uma planta suculenta que cresce em zonas salinas, \ntem despertado interesse pelos seus potenciais benefícios nutricionais.\nO ambiente salino impõe dois problemas aos tecidos vegetais: o défice hídrico resultante \nde concentrações relativamente altas de soluto no solo e o efeito tóxico do aumento do Na\n+ no \ncitosol. Em células de Salicor nia, para contrariar a entrada de Na + de forma passiva, existem \ntransportadores antiporte1 Na+/H+, na membrana plasmática e no tonoplasto (membrana do vacúolo), \nque transportam ativamente o Na + para fora da célula e para dentro do vacúolo, respetivamente. \nA atividade destes transportadores antiporte depende do gradiente de protões (H +) gerado pela \nH+-ATPase.\nConsiderando a possibilidade do uso de Salicor nia como substituto do sal purificado na alimentação \nhumana, foi realizado um estudo in vivo para avaliar os efeitos da ingestão de Salicor nia europaea \nna pressão arterial. Foram selecionados ratos jovens com pressão arterial normal (PAN) e ratos \njovens hipertensos espontâneos (HE). Após um período de adaptação, os ratos foram divididos em \nseis grupos (10 ratos em cada grupo) e submetidos a uma dieta diferenciada, durante seis semanas: \n•  Grupo RC-PAN – ratos com pressão arterial normal alimentados com ração comum.\n•  Grupo RC-HE – ratos hipertensos alimentados com ração comum.\n•  Grupo SP-PAN – ratos com pressão arterial normal submetidos a uma dieta rica em sal purificado.\n•  Grupo SP-HE – ratos hipertensos submetidos a uma dieta rica em sal purificado.\n•  Grupo SE-PAN – ratos com pressão arterial normal submetidos a uma dieta com S. europaea.\n•  Grupo SE-HE – ratos hipertensos submetidos a uma dieta com S. europaea.\nA quantidade de sódio administrado, através do sal purificado ou de S. europaea, foi equivalente \npara os vários grupos de tipo SP e SE.\nO Gráfico I apresenta o efeito da dieta na pressão arterial média de ratos com pressão arterial \nnormal. O Gráfico II apresenta o efeito da dieta na pressão arterial média de ratos hipertensos.\nNota:\n1 Transportadores antiporte – transportadores membranares que transportam, em simultâneo e em sentido contrário, dois iões do mesmo \nsinal, por exemplo, um catião e um ião H+. \n\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\nBaseado em: S. Cárdenas-Pérez et al., «An overview of the emerging trends of the Salicor nia L. genus as a sustainable crop», \nin Environmental and Experimental Botany, n.º 191, 2021; e em: N. Panth et al., «Protective effect of Salicor nia europaea extracts \non high salt intake-induced vascular dysfunction and hypertension», in International Journal of Molecular Sciences, n.º 17, 2016.",
-      "question_type": "essay",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "16. .................................................................................................................................................. 12 pontos\nExplica por que razão é possível utilizar o isótopo 14C na datação de matéria orgânica de origem \nvegetal e de matéria orgânica de origem animal, referindo o decaimento radioativo do isótopo (A), a \nincorporação de 14CO2 pelos organismos fotossintéticos (B) e a transferência de matéria orgânica para \nos organismos heterotróficos (C).\n(A) O 14C é um isótopo radioativo que decai ao longo do tempo, pelo que a sua quantificação permite \ndeterminar a idade da matéria orgânica.\n(B) As plantas absorvem 14CO2 da atmosfera e incorporam o 14C nas moléculas orgânicas que sintetizam.\n(C) A matéria orgânica produzida pelas plantas serve de alimento aos animais, sendo utilizada para a \nsíntese das suas próprias moléculas orgânicas, que também apresentam 14C.\nNível Descritor de desempenho do conteúdo e do rigor científico Pontuação",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 52,
-      "question_number": "17",
-      "statement": "17. Identifique, de entre as afirmações relativas ao procedimento experimental e aos resultados obtidos, as \ntrês afirmações corretas.\nEscreva, na folha de respostas, os números selecionados.\nI. Uma das variáveis dependentes é a quantidade de sód\nio adicionado à ração diária.\nII. O grupo RC-P\nAN serve de controlo da experiência.\nIII. \n A\n ingestão de sal purificado promove o aumento da pressão arterial tanto em ratos com pressão \narterial normal como em ratos hipertensos.\nIV. \n A\n utilização de Salicor nia na alimentação apresenta maior contributo para o desenvolvimento de \nhipertensão, comparativamente com a utilização de sal purificado. \nV. \n A\n inclusão de 10 ratos em cada grupo contribuiu para aumentar a fiabilidade dos resultados.\nGráfico\n \nI Gráfico\n \nII",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "17. .................................................................................................................................................. 8 pontos\nVersão 1 – II, III e V.\nVersão 2 – I, II e IV.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 53,
-      "question_number": "18",
-      "statement": "18. A Figura 4 representa, de forma esquemática, os transportadores antiporte Na +/H+ e as H +-ATPase em \ncélulas de Salicor nia.\nATD\ntransportador antiporte\nNa+\nmembrana\nplasmática\n H +\ncitosol\n H + - ATPase H +\nATP\n H +\nADP+Pi Na+\nvacúolo\nATP\n H +\nADP+Pi\nFigura 4\nComplete o texto seguinte, selecionando a opção adequada a cada espaço.\nEscreva, na folha de respostas, cada uma das letras, seguida do número que corresponde à opção \nselecionada.\nO transporte de iões desde a raiz até à parte aérea das plantas do género Salicor nia ocorre \nao longo de\n a) . \nA entrada de Na+ nas células envolve proteínas transportadoras que \nse encontram integradas numa bicamada de fosfolípidos, moléculas cuja região apolar tem \ncarácter b) . A entrada de Na+ torna o conteúdo vacuolar c) . O gradiente de \nprotões é mantido pela H+-ATPase através de d) .\na) b) c) d)",
-      "question_type": "completion",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "18. .................................................................................................................................................. 8 pontos\nVersão 1 – a) \" 2; b) \" 3; c) \" 2; d) \" 1.\nVersão 2 – a) \" 3; b) \" 1; c) \" 3; d) \" 2.\nNível Descritor de desempenho Pontuação",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
-    },
-    {
-      "id": 54,
+      "id": 9499,
       "question_number": "19",
       "statement": "19. Associe cada um dos processos metabólicos, apresentados na Coluna I, ao organelo onde ocorre, que \nconsta na Coluna II.\nA cada letra corresponde apenas um número.\nEscreva, na folha de respostas, cada uma das letras, seguida do número correspondente.\nCOLUNA I COLUNA II\n(a) Utilização de molécula s NADPH numa sequência de reações \ndesignada por ciclo de Calvin.\n(b)\n Participaçã\no na digestão intracelular.\n(c)\n Produção de energia em \nvias catabólicas, na presença de oxigénio.\n(1) Cloroplasto\n(2)\n Complexo de Golgi\n(3)\n \nLisossoma\n(4)\n \nMitocôndria\n(5)\n \nNúcleo",
       "question_type": "matching",
@@ -654,10 +289,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
+      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0\n\n1. A formação da bacia sedimentar onde ocorreu a deposição de sal na região de Hallstätt esteve associada\n \n(A)\n à existência de forças distensivas.\n \n(B)\n à formação do supercontinente Pangeia.\n \n(C)\n à existência de uma zona de subdução.\n \n(D)\n à formação da cordilheira dos \nAlpes.\n2.\n Identifique, \nde entre as afirmações relativas à geologia da região de Hallstätt, as três afirmações corretas, \nconsiderando as informações do Texto 1 e da Figura 1B.\nEscreva, na folha de respostas, os números selecionados.\nI.\n \n A norte da mina, a falha vertical é anterior ao dobramento das rochas do Triássico.\nII.\n \nA Formação de Haselgebirge é constituída por rochas sedimentares detríticas e quimiogénicas.\nIII.\n \nA mina de sal encontra-se na Formação de Haselgebirge, a mais recente da região.\nIV.\n \nO princípio da sobreposição não se aplica no local identificado com a letra X no corte geológico.\nV. \n O depósito de sal esteve coberto pelo mar, durante o Triássico.\n3.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência \nde acontecimentos relacionados com a formação e a evolução do corpo salino de Hallstätt.\nEscreva, na folha de respostas, a sequência correta das letras.\nA.\n Deposição de sal.\nB.\n Formação da Pangeia. \nC.\n Instalação de uma bacia sedimentar\n.\nD.\n Formação dos calcários da Formação de Plassen.\nE. \n Formação dos Alpes.\n4.\n As fases iniciais \nda exploração do sal ocorreram à superfície, em locais onde existiam fontes salinas. \nAs águas que emergiam dessas fontes resultavam da circulação em profundidade, onde atravessavam os \nevaporitos e se enriqueciam em vários iões, nomeadamente em iões de sódio. Nas proximidades dessas \nfontes, as plantas eram escassas.\nBaseado em: A. Kern et al., Kingdom of Salt, 7000 years of Hallstätt, Natural History Museum, 2009.\nDe acordo com os dados, a elevada concentração de iões de sódio existente no solo resultou da dissolução\n \n(A)\n do sal-gema, o que prejudicou a sobrevivência de organis\nmos multicelulares.\n \n(B)\n do gesso, o que prejudicou a sobrevivência de organismos procariontes.\n \n(C)\n do gesso, o que prejudicou a sobrevivência de organismos autotróficos.\n \n(D)\n do sal-gema, o que prejudicou a sobrevivência de organismos unicelulares.\n\n5. A Figura 2 mostra uma fotografia do sal-gema de Hallstätt numa parede da mina.\nN\nS\nE\nO\nFigura 2\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\nConsiderando a orientação da dobra representada na Figura 2, pode inferir-se que esta resultou da atuação \nde tensões \n \n(A)\n compressivas, com direção N-S.\n \n(B)\n compressivas, com direção E-O. \n \n(C)\n distensivas, com direção N-S. \n \n(D)\n distensivas, com direção E-O.\n6.\n A\n jazida de sal-gema de Hallstätt constitui uma reserva, porque\n \n(A)\n está a pequena profundidade.\n \n(B)\n fornece mais do que um mineral.\n \n(C)\n é economicamente viável.\n \n(D)\n ocupa uma área extensa.\n\n7. Ao longo do tempo, a região montanhosa dos Alpes tem sido afetada por deslizamentos de terras, alguns \ndos quais com impactos devastadores.\nEstudos recentes têm revelado que estes deslizamentos podem ser desencadeados pela atividade \nsismotectónica da região, concentrada no interior da placa Eurasiática, com hipocentros entre 5 e 10 km \nde profundidade.\nBaseado em: P. Oswald et al., «Seismic control of large prehistoric rockslides in the Eastern Alps», \nin Nature Communications, 12, 2021.\nConsiderando a informação anterior, os sismos tectónicos nos Alpes são, maioritariamente,\n \n(A)\n interplaca, e a sua magnitude é influenciada pela inclinaçã\no das encostas.\n \n(B)\n intraplaca, e a sua magnitude é influenciada pela instabilidade dos sedimentos na região.\n \n(C)\n interplaca, e a sua intensidade é influenciada pelos deslizamentos de terras nas encostas.\n \n(D)\n intraplaca, e a sua intensidade é influenciada pela litologia da região.\n8.\n Associe \ncada uma das afirmações relativas a zonas da estrutura interna da Terra, apresentadas na \nColuna I, à designação correspondente, que consta na Coluna II.\nA cada letra corresponde apenas um número.\nEscreva, na folha de respostas, cada uma das letras, seguida do número correspondente.\nCOLUNA I COLUNA II\n(a) Zona atravessada unicam ente por ondas sísmicas longitudinais.\n(b)\n Zona constituída essencialmente por rochas ricas em \nalumínio e sílica.\n(c)\n Zona delim\nitada na sua base pela descontinuidade de Gutenberg.\n(1)\n \nAstenosfera\n(2) Crusta continental\n(3)\n \nLitosfera\n(4)\n \nMesosfera\n(5)\n \nNúcleo externo\n9.\n Relativamente ao sal-gema explorado em Hallstätt, considere as informações seguintes:\nInformação \n1 ‒ A subida do sal-gema ocorreu antes da deposição dos calcários da Formação de Plassen.\nInformação 2 ‒ O sal é explorado em galerias que se encontram a mais de 514 metros acima do nível do mar.\nJustifique as afirmações referidas, apresentando um dado da Figura 1B que apoie a Informação 1 e um \ndado do Texto 1 que explique a Informação 2.\n\nTexto 2\nA mina de sal de Hallstätt, além de oferecer um dos registos mais antigos e contínuos da \nmineração subterrânea de sal, tem contribuído para o conhecimento dos hábitos alimentares dos \nmineiros através dos excrementos humanos encontrados (paleofezes). \nAs paleofezes recolhidas na mina foram datadas pelo método 14C. As idades estimadas \ncorrespondem aos intervalos de tempo: 1301-1121 a. C. (Idade do Bronze), 650-544 a. C. (Idade \ndo Ferro) e 1720-1783 d. C. (Idade Moderna), o que está de acordo com os períodos de utilização \nda mina.\nA análise microscópica e molecular das amostras de paleofezes da Idade do Bronze e da \nIdade do Ferro revelou que a dieta destes mineiros consistia essencialmente em cereais, sendo \ncomplementada com frutos silvestres, leguminosas, carnes bovinas e de javali. \nNuma das amostras da Idade do Ferro, foi identificada uma enorme abundância de \nSaccharomyces cerevisiae, um fungo unicelular que apresenta reprodução sexuada e reprodução \nassexuada e que é usado, atualmente, no processamento de alimentos. Foram identificadas \nproteínas envolvidas nas vias de fermentação desta levedura e também o gene RTM1, que é usado \ncomo marcador das variedades de leveduras utilizadas na produção de cerveja, comprovando-se \nassim que, nesta altura, esta bebida já era consumida.\nA Figura 3 representa, esquematicamente, o ciclo de vida de Saccharomyces cerevisiae.\nesporo\nconjugação\nX Y\nFigura 3\nBaseado em: F. Maixner et al., «Hallstätt miners consumed blue cheese and beer during \nthe Iron Age and retained a non-Westernized gut microbiome until the Baroque period», in Current Biology, n.º 31, \n2021; e em: J. Mell e S. Burgess, «Yeast as a model genetic organism», in Encyclopedia of Life Sciences, 2002.\n10. A presença de carne bovina na dieta dos mineiros foi detetada através da análise de várias proteínas, \nentre as quais a hemoglobina. Nos bovinos, o fornecimento de oxigénio às células é feito através \nde um sistema de transporte\n \n(A)\n aberto, após ter ocorrido hematose pulmonar\n.\n \n(B)\n fechado, com circulação dupla e completa.\n \n(C)\n aberto, em que a hemoglobina é transportada na hemolinfa.\n \n(D)\n fechado, cujo órgão propulsor está dividido em três cavidades.\n\n11. Selecione a opção que interpreta corretamente o ciclo de vida de Saccharomyces cerevisiae, representado \nna Figura 3.\n \n(A)\n A\n conjugação dá início à fase haploide.\n \n(B)\n Os esporos dão origem a leveduras diploides.\n \n(C)\n A\n gemulação permite a manutenção da ploidia. \n \n(D)\n Os esporos resultam de mitoses sucessivas.\n12.\n No decurso do ciclo celular mitótico, ocorre\n \n(A)\n produção de biomoléculas durante a fase G1.\n \n(B)\n duplicação do número de cromatídeos durante a prófase.\n \n(C)\n condensação da cromatina durante a fase S.\n \n(D)\n separação de cromatídeos-irmãos durante a metáfase.\n13.\n O gene R\nTM1 corresponde a uma sequência de\n \n(A)\n nucleótidos de adenina, uracilo, guanina e citosina.\n \n(B)\n ribonucleótidos unidos por ligações peptídicas.\n \n(C)\n desoxirribonucleótidos unidos por ligações fosfodiéster\n.\n \n(D)\n monómeros formados exclusivamente por C, H, O e P\n.\n14.\n Segundo \no sistema de classificação de Whittaker modificado, as leveduras pertencem ao reino Fungi. \nEste reino integra organismos que apresentam\n \n(A)\n unicelularidade e DNA\n circular no nucleoide.\n \n(B)\n células eucarióticas e nutrição por absorção.\n \n(C)\n reduzida diferenciação celular e células procarióticas. \n \n(D)\n heterotrofia por ingestão e células com parede celular\n.\n15.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos relacionados com o processo fermentativo realizado por Saccharomyces cerevisiae.\nEscreva, na folha de respostas, a sequência correta das letras.\nA.\n Formação de moléculas de \nATP.\nB.\n Fosforilação da glicose. \nC.\n Formação de moléculas de etanol.\nD.\n Formação de moléculas de ácido pirúvico.\nE. \n Obtenção de glicose a partir da hidrólise de polissacáridos.\n16.\n Nas camadas superiores da atmosfera, por ação dos raios cósmicos sobre o nitrogénio, forma-se 14C, um \nisótopo radioativo. Posteriormente, o 14C reage com o O2 atmosférico e origina 14CO2 . \nExplique por que razão é possível utilizar o 14C na datação de matéria orgânica de origem vegetal e de \nmatéria orgânica de origem animal presente nas paleofezes.\nNa sua resposta, faça referência às características do 14C que permitem utilizá-lo na datação.\n\nTexto 3\nOs resultados das análises às paleofezes dos mineiros de Hallstätt mostram que a dieta das \npopulações ocidentalizadas modernas sofreu profundas alterações ao longo do tempo. Atualmente, \no consumo de sal, de açúcar e de gordura em excesso afeta negativamente a saúde das populações \ne agrava o risco de desenvolvimento de doenças cardiovasculares, a principal causa de morte em \ntodo o mundo.\nNos últimos anos, a Salicor nia, uma planta suculenta que cresce em zonas salinas, \ntem despertado interesse pelos seus potenciais benefícios nutricionais.\nO ambiente salino impõe dois problemas aos tecidos vegetais: o défice hídrico resultante \nde concentrações relativamente altas de soluto no solo e o efeito tóxico do aumento do Na\n+ no \ncitosol. Em células de Salicor nia, para contrariar a entrada de Na + de forma passiva, existem \ntransportadores antiporte1 Na+/H+, na membrana plasmática e no tonoplasto (membrana do vacúolo), \nque transportam ativamente o Na + para fora da célula e para dentro do vacúolo, respetivamente. \nA atividade destes transportadores antiporte depende do gradiente de protões (H +) gerado pela \nH+-ATPase.\nConsiderando a possibilidade do uso de Salicor nia como substituto do sal purificado na alimentação \nhumana, foi realizado um estudo in vivo para avaliar os efeitos da ingestão de Salicor nia europaea \nna pressão arterial. Foram selecionados ratos jovens com pressão arterial normal (PAN) e ratos \njovens hipertensos espontâneos (HE). Após um período de adaptação, os ratos foram divididos em \nseis grupos (10 ratos em cada grupo) e submetidos a uma dieta diferenciada, durante seis semanas: \n•  Grupo RC-PAN – ratos com pressão arterial normal alimentados com ração comum.\n•  Grupo RC-HE – ratos hipertensos alimentados com ração comum.\n•  Grupo SP-PAN – ratos com pressão arterial normal submetidos a uma dieta rica em sal purificado.\n•  Grupo SP-HE – ratos hipertensos submetidos a uma dieta rica em sal purificado.\n•  Grupo SE-PAN – ratos com pressão arterial normal submetidos a uma dieta com S. europaea.\n•  Grupo SE-HE – ratos hipertensos submetidos a uma dieta com S. europaea.\nA quantidade de sódio administrado, através do sal purificado ou de S. europaea, foi equivalente \npara os vários grupos de tipo SP e SE.\nO Gráfico I apresenta o efeito da dieta na pressão arterial média de ratos com pressão arterial \nnormal. O Gráfico II apresenta o efeito da dieta na pressão arterial média de ratos hipertensos.\nNota:\n1 Transportadores antiporte – transportadores membranares que transportam, em simultâneo e em sentido contrário, dois iões do mesmo \nsinal, por exemplo, um catião e um ião H+. \n\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\nBaseado em: S. Cárdenas-Pérez et al., «An overview of the emerging trends of the Salicor nia L. genus as a sustainable crop», \nin Environmental and Experimental Botany, n.º 191, 2021; e em: N. Panth et al., «Protective effect of Salicor nia europaea extracts \non high salt intake-induced vascular dysfunction and hypertension», in International Journal of Molecular Sciences, n.º 17, 2016.\n17. Identifique, de entre as afirmações relativas ao procedimento experimental e aos resultados obtidos, as \ntrês afirmações corretas.\nEscreva, na folha de respostas, os números selecionados.\nI. Uma das variáveis dependentes é a quantidade de sód\nio adicionado à ração diária.\nII. O grupo RC-P\nAN serve de controlo da experiência.\nIII. \n A\n ingestão de sal purificado promove o aumento da pressão arterial tanto em ratos com pressão \narterial normal como em ratos hipertensos.\nIV. \n A\n utilização de Salicor nia na alimentação apresenta maior contributo para o desenvolvimento de \nhipertensão, comparativamente com a utilização de sal purificado. \nV. \n A\n inclusão de 10 ratos em cada grupo contribuiu para aumentar a fiabilidade dos resultados.\nGráfico\n \nI Gráfico\n \nII\n\n18. A Figura 4 representa, de forma esquemática, os transportadores antiporte Na +/H+ e as H +-ATPase em \ncélulas de Salicor nia.\nATD\ntransportador antiporte\nNa+\nmembrana\nplasmática\n H +\ncitosol\n H + - ATPase H +\nATP\n H +\nADP+Pi Na+\nvacúolo\nATP\n H +\nADP+Pi\nFigura 4\nComplete o texto seguinte, selecionando a opção adequada a cada espaço.\nEscreva, na folha de respostas, cada uma das letras, seguida do número que corresponde à opção \nselecionada.\nO transporte de iões desde a raiz até à parte aérea das plantas do género Salicor nia ocorre \nao longo de\n a) . \nA entrada de Na+ nas células envolve proteínas transportadoras que \nse encontram integradas numa bicamada de fosfolípidos, moléculas cuja região apolar tem \ncarácter b) . A entrada de Na+ torna o conteúdo vacuolar c) . O gradiente de \nprotões é mantido pela H+-ATPase através de d) .\na) b) c) d)\n1.\n células dos tubos crivosos\n2.\n elementos de vaso\n3.\n células de companhia\n \n1.\n anfipático\n2.\n \nhidrofílico\n3.\n \nhidrofóbico\n1.\n \nhipotónico\n2.\n \nhipertónico\n3.\n \nisotónico"
     },
     {
-      "id": 55,
+      "id": 9500,
       "question_number": "20",
       "statement": "20.\n O elevado \nteor de sal encontrado em plantas do género Salicor nia resulta da sua capacidade de armazenar \nsódio nas células, sem que este interfira no metabolismo celular. \nExplique, na perspetiva darwinista, a proliferação de plantas tolerantes à salinidade, como a Salicor nia.",
       "question_type": "essay",
@@ -668,17 +303,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "20 itens da \nprova contribuem \nobrigatoriamente para \na classificação final.\nGrupo\nSubtotal\nI II III",
+      "criteriaText": "20. .................................................................................................................................................. 9 pontos\nExplica, na perspetiva darwinista, o processo evolutivo que conduziu à proliferação de plantas tolerantes \nà salinidade, referindo a variabilidade de características existente numa população (A), a função do \nambiente na seleção natural (B) e a relação entre a reprodução diferencial e o aumento do número de \nplantas tolerantes à salinidade (C).\n(A) Entre os indivíduos de uma população ancestral de plantas, existia variabilidade relativamente \nà tolerância à salinidade (OU à sua capacidade de armazenar sódio nas células, sem que este \ninterferisse no metabolismo celular).\n(B)\n O aumento da salinidade do solo conduziu à seleção natural (OU sobrevivência diferencial) das \nplantas tolerantes à salinidade.\n(C)\n A reprodução diferencial conduziu ao aumento do número de plantas tolerantes à salinidade. \nNível Descritor de desempenho do conteúdo e do rigor científico Pontuação\n5 Apresenta, com rigor científico, os três elementos. 9\n4 Apresenta, com falhas no rigor científico, os três elementos. 7\n3 Apresenta, com rigor científico, apenas dois dos elementos. 6\n2 Apresenta, com falhas no rigor científico, apenas dois dos elementos. 4\n1 Apresenta, com rigor científico, apenas um dos elementos. 3",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
+      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0\n\n1. A formação da bacia sedimentar onde ocorreu a deposição de sal na região de Hallstätt esteve associada\n \n(A)\n à existência de forças distensivas.\n \n(B)\n à formação do supercontinente Pangeia.\n \n(C)\n à existência de uma zona de subdução.\n \n(D)\n à formação da cordilheira dos \nAlpes.\n2.\n Identifique, \nde entre as afirmações relativas à geologia da região de Hallstätt, as três afirmações corretas, \nconsiderando as informações do Texto 1 e da Figura 1B.\nEscreva, na folha de respostas, os números selecionados.\nI.\n \n A norte da mina, a falha vertical é anterior ao dobramento das rochas do Triássico.\nII.\n \nA Formação de Haselgebirge é constituída por rochas sedimentares detríticas e quimiogénicas.\nIII.\n \nA mina de sal encontra-se na Formação de Haselgebirge, a mais recente da região.\nIV.\n \nO princípio da sobreposição não se aplica no local identificado com a letra X no corte geológico.\nV. \n O depósito de sal esteve coberto pelo mar, durante o Triássico.\n3.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência \nde acontecimentos relacionados com a formação e a evolução do corpo salino de Hallstätt.\nEscreva, na folha de respostas, a sequência correta das letras.\nA.\n Deposição de sal.\nB.\n Formação da Pangeia. \nC.\n Instalação de uma bacia sedimentar\n.\nD.\n Formação dos calcários da Formação de Plassen.\nE. \n Formação dos Alpes.\n4.\n As fases iniciais \nda exploração do sal ocorreram à superfície, em locais onde existiam fontes salinas. \nAs águas que emergiam dessas fontes resultavam da circulação em profundidade, onde atravessavam os \nevaporitos e se enriqueciam em vários iões, nomeadamente em iões de sódio. Nas proximidades dessas \nfontes, as plantas eram escassas.\nBaseado em: A. Kern et al., Kingdom of Salt, 7000 years of Hallstätt, Natural History Museum, 2009.\nDe acordo com os dados, a elevada concentração de iões de sódio existente no solo resultou da dissolução\n \n(A)\n do sal-gema, o que prejudicou a sobrevivência de organis\nmos multicelulares.\n \n(B)\n do gesso, o que prejudicou a sobrevivência de organismos procariontes.\n \n(C)\n do gesso, o que prejudicou a sobrevivência de organismos autotróficos.\n \n(D)\n do sal-gema, o que prejudicou a sobrevivência de organismos unicelulares.\n\n5. A Figura 2 mostra uma fotografia do sal-gema de Hallstätt numa parede da mina.\nN\nS\nE\nO\nFigura 2\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\nConsiderando a orientação da dobra representada na Figura 2, pode inferir-se que esta resultou da atuação \nde tensões \n \n(A)\n compressivas, com direção N-S.\n \n(B)\n compressivas, com direção E-O. \n \n(C)\n distensivas, com direção N-S. \n \n(D)\n distensivas, com direção E-O.\n6.\n A\n jazida de sal-gema de Hallstätt constitui uma reserva, porque\n \n(A)\n está a pequena profundidade.\n \n(B)\n fornece mais do que um mineral.\n \n(C)\n é economicamente viável.\n \n(D)\n ocupa uma área extensa.\n\n7. Ao longo do tempo, a região montanhosa dos Alpes tem sido afetada por deslizamentos de terras, alguns \ndos quais com impactos devastadores.\nEstudos recentes têm revelado que estes deslizamentos podem ser desencadeados pela atividade \nsismotectónica da região, concentrada no interior da placa Eurasiática, com hipocentros entre 5 e 10 km \nde profundidade.\nBaseado em: P. Oswald et al., «Seismic control of large prehistoric rockslides in the Eastern Alps», \nin Nature Communications, 12, 2021.\nConsiderando a informação anterior, os sismos tectónicos nos Alpes são, maioritariamente,\n \n(A)\n interplaca, e a sua magnitude é influenciada pela inclinaçã\no das encostas.\n \n(B)\n intraplaca, e a sua magnitude é influenciada pela instabilidade dos sedimentos na região.\n \n(C)\n interplaca, e a sua intensidade é influenciada pelos deslizamentos de terras nas encostas.\n \n(D)\n intraplaca, e a sua intensidade é influenciada pela litologia da região.\n8.\n Associe \ncada uma das afirmações relativas a zonas da estrutura interna da Terra, apresentadas na \nColuna I, à designação correspondente, que consta na Coluna II.\nA cada letra corresponde apenas um número.\nEscreva, na folha de respostas, cada uma das letras, seguida do número correspondente.\nCOLUNA I COLUNA II\n(a) Zona atravessada unicam ente por ondas sísmicas longitudinais.\n(b)\n Zona constituída essencialmente por rochas ricas em \nalumínio e sílica.\n(c)\n Zona delim\nitada na sua base pela descontinuidade de Gutenberg.\n(1)\n \nAstenosfera\n(2) Crusta continental\n(3)\n \nLitosfera\n(4)\n \nMesosfera\n(5)\n \nNúcleo externo\n9.\n Relativamente ao sal-gema explorado em Hallstätt, considere as informações seguintes:\nInformação \n1 ‒ A subida do sal-gema ocorreu antes da deposição dos calcários da Formação de Plassen.\nInformação 2 ‒ O sal é explorado em galerias que se encontram a mais de 514 metros acima do nível do mar.\nJustifique as afirmações referidas, apresentando um dado da Figura 1B que apoie a Informação 1 e um \ndado do Texto 1 que explique a Informação 2.\n\nTexto 2\nA mina de sal de Hallstätt, além de oferecer um dos registos mais antigos e contínuos da \nmineração subterrânea de sal, tem contribuído para o conhecimento dos hábitos alimentares dos \nmineiros através dos excrementos humanos encontrados (paleofezes). \nAs paleofezes recolhidas na mina foram datadas pelo método 14C. As idades estimadas \ncorrespondem aos intervalos de tempo: 1301-1121 a. C. (Idade do Bronze), 650-544 a. C. (Idade \ndo Ferro) e 1720-1783 d. C. (Idade Moderna), o que está de acordo com os períodos de utilização \nda mina.\nA análise microscópica e molecular das amostras de paleofezes da Idade do Bronze e da \nIdade do Ferro revelou que a dieta destes mineiros consistia essencialmente em cereais, sendo \ncomplementada com frutos silvestres, leguminosas, carnes bovinas e de javali. \nNuma das amostras da Idade do Ferro, foi identificada uma enorme abundância de \nSaccharomyces cerevisiae, um fungo unicelular que apresenta reprodução sexuada e reprodução \nassexuada e que é usado, atualmente, no processamento de alimentos. Foram identificadas \nproteínas envolvidas nas vias de fermentação desta levedura e também o gene RTM1, que é usado \ncomo marcador das variedades de leveduras utilizadas na produção de cerveja, comprovando-se \nassim que, nesta altura, esta bebida já era consumida.\nA Figura 3 representa, esquematicamente, o ciclo de vida de Saccharomyces cerevisiae.\nesporo\nconjugação\nX Y\nFigura 3\nBaseado em: F. Maixner et al., «Hallstätt miners consumed blue cheese and beer during \nthe Iron Age and retained a non-Westernized gut microbiome until the Baroque period», in Current Biology, n.º 31, \n2021; e em: J. Mell e S. Burgess, «Yeast as a model genetic organism», in Encyclopedia of Life Sciences, 2002.\n10. A presença de carne bovina na dieta dos mineiros foi detetada através da análise de várias proteínas, \nentre as quais a hemoglobina. Nos bovinos, o fornecimento de oxigénio às células é feito através \nde um sistema de transporte\n \n(A)\n aberto, após ter ocorrido hematose pulmonar\n.\n \n(B)\n fechado, com circulação dupla e completa.\n \n(C)\n aberto, em que a hemoglobina é transportada na hemolinfa.\n \n(D)\n fechado, cujo órgão propulsor está dividido em três cavidades.\n\n11. Selecione a opção que interpreta corretamente o ciclo de vida de Saccharomyces cerevisiae, representado \nna Figura 3.\n \n(A)\n A\n conjugação dá início à fase haploide.\n \n(B)\n Os esporos dão origem a leveduras diploides.\n \n(C)\n A\n gemulação permite a manutenção da ploidia. \n \n(D)\n Os esporos resultam de mitoses sucessivas.\n12.\n No decurso do ciclo celular mitótico, ocorre\n \n(A)\n produção de biomoléculas durante a fase G1.\n \n(B)\n duplicação do número de cromatídeos durante a prófase.\n \n(C)\n condensação da cromatina durante a fase S.\n \n(D)\n separação de cromatídeos-irmãos durante a metáfase.\n13.\n O gene R\nTM1 corresponde a uma sequência de\n \n(A)\n nucleótidos de adenina, uracilo, guanina e citosina.\n \n(B)\n ribonucleótidos unidos por ligações peptídicas.\n \n(C)\n desoxirribonucleótidos unidos por ligações fosfodiéster\n.\n \n(D)\n monómeros formados exclusivamente por C, H, O e P\n.\n14.\n Segundo \no sistema de classificação de Whittaker modificado, as leveduras pertencem ao reino Fungi. \nEste reino integra organismos que apresentam\n \n(A)\n unicelularidade e DNA\n circular no nucleoide.\n \n(B)\n células eucarióticas e nutrição por absorção.\n \n(C)\n reduzida diferenciação celular e células procarióticas. \n \n(D)\n heterotrofia por ingestão e células com parede celular\n.\n15.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos relacionados com o processo fermentativo realizado por Saccharomyces cerevisiae.\nEscreva, na folha de respostas, a sequência correta das letras.\nA.\n Formação de moléculas de \nATP.\nB.\n Fosforilação da glicose. \nC.\n Formação de moléculas de etanol.\nD.\n Formação de moléculas de ácido pirúvico.\nE. \n Obtenção de glicose a partir da hidrólise de polissacáridos.\n16.\n Nas camadas superiores da atmosfera, por ação dos raios cósmicos sobre o nitrogénio, forma-se 14C, um \nisótopo radioativo. Posteriormente, o 14C reage com o O2 atmosférico e origina 14CO2 . \nExplique por que razão é possível utilizar o 14C na datação de matéria orgânica de origem vegetal e de \nmatéria orgânica de origem animal presente nas paleofezes.\nNa sua resposta, faça referência às características do 14C que permitem utilizá-lo na datação.\n\nTexto 3\nOs resultados das análises às paleofezes dos mineiros de Hallstätt mostram que a dieta das \npopulações ocidentalizadas modernas sofreu profundas alterações ao longo do tempo. Atualmente, \no consumo de sal, de açúcar e de gordura em excesso afeta negativamente a saúde das populações \ne agrava o risco de desenvolvimento de doenças cardiovasculares, a principal causa de morte em \ntodo o mundo.\nNos últimos anos, a Salicor nia, uma planta suculenta que cresce em zonas salinas, \ntem despertado interesse pelos seus potenciais benefícios nutricionais.\nO ambiente salino impõe dois problemas aos tecidos vegetais: o défice hídrico resultante \nde concentrações relativamente altas de soluto no solo e o efeito tóxico do aumento do Na\n+ no \ncitosol. Em células de Salicor nia, para contrariar a entrada de Na + de forma passiva, existem \ntransportadores antiporte1 Na+/H+, na membrana plasmática e no tonoplasto (membrana do vacúolo), \nque transportam ativamente o Na + para fora da célula e para dentro do vacúolo, respetivamente. \nA atividade destes transportadores antiporte depende do gradiente de protões (H +) gerado pela \nH+-ATPase.\nConsiderando a possibilidade do uso de Salicor nia como substituto do sal purificado na alimentação \nhumana, foi realizado um estudo in vivo para avaliar os efeitos da ingestão de Salicor nia europaea \nna pressão arterial. Foram selecionados ratos jovens com pressão arterial normal (PAN) e ratos \njovens hipertensos espontâneos (HE). Após um período de adaptação, os ratos foram divididos em \nseis grupos (10 ratos em cada grupo) e submetidos a uma dieta diferenciada, durante seis semanas: \n•  Grupo RC-PAN – ratos com pressão arterial normal alimentados com ração comum.\n•  Grupo RC-HE – ratos hipertensos alimentados com ração comum.\n•  Grupo SP-PAN – ratos com pressão arterial normal submetidos a uma dieta rica em sal purificado.\n•  Grupo SP-HE – ratos hipertensos submetidos a uma dieta rica em sal purificado.\n•  Grupo SE-PAN – ratos com pressão arterial normal submetidos a uma dieta com S. europaea.\n•  Grupo SE-HE – ratos hipertensos submetidos a uma dieta com S. europaea.\nA quantidade de sódio administrado, através do sal purificado ou de S. europaea, foi equivalente \npara os vários grupos de tipo SP e SE.\nO Gráfico I apresenta o efeito da dieta na pressão arterial média de ratos com pressão arterial \nnormal. O Gráfico II apresenta o efeito da dieta na pressão arterial média de ratos hipertensos.\nNota:\n1 Transportadores antiporte – transportadores membranares que transportam, em simultâneo e em sentido contrário, dois iões do mesmo \nsinal, por exemplo, um catião e um ião H+. \n\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\nBaseado em: S. Cárdenas-Pérez et al., «An overview of the emerging trends of the Salicor nia L. genus as a sustainable crop», \nin Environmental and Experimental Botany, n.º 191, 2021; e em: N. Panth et al., «Protective effect of Salicor nia europaea extracts \non high salt intake-induced vascular dysfunction and hypertension», in International Journal of Molecular Sciences, n.º 17, 2016.\n17. Identifique, de entre as afirmações relativas ao procedimento experimental e aos resultados obtidos, as \ntrês afirmações corretas.\nEscreva, na folha de respostas, os números selecionados.\nI. Uma das variáveis dependentes é a quantidade de sód\nio adicionado à ração diária.\nII. O grupo RC-P\nAN serve de controlo da experiência.\nIII. \n A\n ingestão de sal purificado promove o aumento da pressão arterial tanto em ratos com pressão \narterial normal como em ratos hipertensos.\nIV. \n A\n utilização de Salicor nia na alimentação apresenta maior contributo para o desenvolvimento de \nhipertensão, comparativamente com a utilização de sal purificado. \nV. \n A\n inclusão de 10 ratos em cada grupo contribuiu para aumentar a fiabilidade dos resultados.\nGráfico\n \nI Gráfico\n \nII\n\n18. A Figura 4 representa, de forma esquemática, os transportadores antiporte Na +/H+ e as H +-ATPase em \ncélulas de Salicor nia.\nATD\ntransportador antiporte\nNa+\nmembrana\nplasmática\n H +\ncitosol\n H + - ATPase H +\nATP\n H +\nADP+Pi Na+\nvacúolo\nATP\n H +\nADP+Pi\nFigura 4\nComplete o texto seguinte, selecionando a opção adequada a cada espaço.\nEscreva, na folha de respostas, cada uma das letras, seguida do número que corresponde à opção \nselecionada.\nO transporte de iões desde a raiz até à parte aérea das plantas do género Salicor nia ocorre \nao longo de\n a) . \nA entrada de Na+ nas células envolve proteínas transportadoras que \nse encontram integradas numa bicamada de fosfolípidos, moléculas cuja região apolar tem \ncarácter b) . A entrada de Na+ torna o conteúdo vacuolar c) . O gradiente de \nprotões é mantido pela H+-ATPase através de d) .\na) b) c) d)\n1.\n células dos tubos crivosos\n2.\n elementos de vaso\n3.\n células de companhia\n \n1.\n anfipático\n2.\n \nhidrofílico\n3.\n \nhidrofóbico\n1.\n \nhipotónico\n2.\n \nhipertónico\n3.\n \nisotónico"
     },
     {
-      "id": 56,
+      "id": 9501,
       "question_number": "21",
       "statement": "21.\n Explique \nde que forma a ocorrência de uma mutação nos genes que codificam a H +-ATPase pode ter \nconsequências no desenvolvimento das plantas do género Salicor nia em ambientes salinos, tendo em \nconta a informação do Texto 3 e da Figura 4.\nNa sua resposta, considere que a mutação torna a H+-ATPase não funcional.",
       "question_type": "essay",
@@ -689,14 +324,14 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "21. .................................................................................................................................................. 9 pontos\nExplica que uma mutação nos genes que codificam a H +-ATPase pode ter consequências no \ndesenvolvimento das plantas do género Salicornia em ambientes salinos, referindo que o movimento \ndos iões H+ contra o gradiente de concentração não se realiza (A) e que ocorre acumulação de Na + no \ncitosol (B).\n(A) O transporte de H + contra o gradiente de concentração (OU para fora da célula e para dentro do \nvacúolo) não se realiza.\n(B) Uma vez que o transporte de Na + está dependente do transporte de H +, ocorre um aumento da \nconcentração de Na+ no citosol que, por ser tóxico, compromete o desenvolvimento das plantas.\nNível Descritor de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": "21. .................................................................................................................................................. 9 pontos\nExplica que uma mutação nos genes que codificam a H +-ATPase pode ter consequências no \ndesenvolvimento das plantas do género Salicornia em ambientes salinos, referindo que o movimento \ndos iões H+ contra o gradiente de concentração não se realiza (A) e que ocorre acumulação de Na + no \ncitosol (B).\n(A) O transporte de H + contra o gradiente de concentração (OU para fora da célula e para dentro do \nvacúolo) não se realiza.\n(B) Uma vez que o transporte de Na + está dependente do transporte de H +, ocorre um aumento da \nconcentração de Na+ no citosol que, por ser tóxico, compromete o desenvolvimento das plantas.\nNível Descritor de desempenho do conteúdo e do rigor científico Pontuação\n4 Apresenta, com rigor científico, os dois elementos. 9\n3 Apresenta, com falhas no rigor científico, os dois elementos. 7\n2 Apresenta, com rigor científico, apenas um dos elementos. 5\n1 Apresenta, com falhas no rigor científico, apenas um dos elementos. 3\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0"
+      "contextText": "GRUPO I\nTexto 1\nA mina de sal mais antiga do mundo, Património da Humanidade desde 1997, localiza-se na \nÁustria, na região de Hallstätt, uma pequena localidade situada no sopé das montanhas dos Alpes. \nNesta mina, explora-se o sal-gema, há 3500 anos. A Figura 1A apresenta a localização da mina de \nHallstätt.\nOs depósitos de sal de Hallstätt começaram a formar-se numa bacia de sedimentação pouco \nprofunda, associada à fragmentação da Pangeia. Posteriormente, nesta bacia, devido a mudanças \nnas condições de sedimentação, depositaram-se carbonatos. Antes do final do Jurássico, \no sal-gema, por se tratar de uma rocha pouco densa e com elevada plasticidade, ascendeu, \nsobrepondo-se a outras rochas mais recentes. Mais tarde, essencialmente no Cenozoico, na \nsequência dos movimentos tectónicos entre as placas Africana e Eurasiática, esta bacia fechou e \ndeu-se início à formação dos Alpes, ocorrendo deformação de rochas da região.\nNos depósitos salinos de Hallstätt, podem encontrar-se bandas de sal-gema, alternadas com \narenito, argila e gesso, que constituem a Formação de Haselgebirge, formada durante o Pérmico \nSuperior e o Triássico Inferior.\nA Figura 1B representa um corte geológico da região de Hallstätt que inclui a mina de sal-gema.\nMar Adriático\nBerna\nZurique Hallstätt\nMilão\nÁustria\nN\nN\n2000 m\n1000 m\n0 m\n(1953 m)\nPlassen S\nX\nQuaternário\n(Depósitos aluviais\ne outros detritos)\nFalhas e sentido do movimento\nMina de sal\nPaleozoico\nCenozoico\nMesozoico\nJurássico\n(Rochas carbonatadas)\nJurássico\n(Rochas carbonatadas\n – Formação de Plassen)\nTriássico\n(Rochas carbonatadas)\nTriássico\nPérmico\nFormação de\nHaselgebirge\nSuperfície de erosão1000 m0\nFigura 1\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\n1A\n1B\n200 km0\n\n1. A formação da bacia sedimentar onde ocorreu a deposição de sal na região de Hallstätt esteve associada\n \n(A)\n à existência de forças distensivas.\n \n(B)\n à formação do supercontinente Pangeia.\n \n(C)\n à existência de uma zona de subdução.\n \n(D)\n à formação da cordilheira dos \nAlpes.\n2.\n Identifique, \nde entre as afirmações relativas à geologia da região de Hallstätt, as três afirmações corretas, \nconsiderando as informações do Texto 1 e da Figura 1B.\nEscreva, na folha de respostas, os números selecionados.\nI.\n \n A norte da mina, a falha vertical é anterior ao dobramento das rochas do Triássico.\nII.\n \nA Formação de Haselgebirge é constituída por rochas sedimentares detríticas e quimiogénicas.\nIII.\n \nA mina de sal encontra-se na Formação de Haselgebirge, a mais recente da região.\nIV.\n \nO princípio da sobreposição não se aplica no local identificado com a letra X no corte geológico.\nV. \n O depósito de sal esteve coberto pelo mar, durante o Triássico.\n3.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência \nde acontecimentos relacionados com a formação e a evolução do corpo salino de Hallstätt.\nEscreva, na folha de respostas, a sequência correta das letras.\nA.\n Deposição de sal.\nB.\n Formação da Pangeia. \nC.\n Instalação de uma bacia sedimentar\n.\nD.\n Formação dos calcários da Formação de Plassen.\nE. \n Formação dos Alpes.\n4.\n As fases iniciais \nda exploração do sal ocorreram à superfície, em locais onde existiam fontes salinas. \nAs águas que emergiam dessas fontes resultavam da circulação em profundidade, onde atravessavam os \nevaporitos e se enriqueciam em vários iões, nomeadamente em iões de sódio. Nas proximidades dessas \nfontes, as plantas eram escassas.\nBaseado em: A. Kern et al., Kingdom of Salt, 7000 years of Hallstätt, Natural History Museum, 2009.\nDe acordo com os dados, a elevada concentração de iões de sódio existente no solo resultou da dissolução\n \n(A)\n do sal-gema, o que prejudicou a sobrevivência de organis\nmos multicelulares.\n \n(B)\n do gesso, o que prejudicou a sobrevivência de organismos procariontes.\n \n(C)\n do gesso, o que prejudicou a sobrevivência de organismos autotróficos.\n \n(D)\n do sal-gema, o que prejudicou a sobrevivência de organismos unicelulares.\n\n5. A Figura 2 mostra uma fotografia do sal-gema de Hallstätt numa parede da mina.\nN\nS\nE\nO\nFigura 2\nBaseado em: A. Schorn e F. Neubauer, «The structure of the Hallstätt evaporite body (Northern Calcareous Alps, Austria)», \n in Journal of Structural Geology, 60, Elsevier, 2014.\nConsiderando a orientação da dobra representada na Figura 2, pode inferir-se que esta resultou da atuação \nde tensões \n \n(A)\n compressivas, com direção N-S.\n \n(B)\n compressivas, com direção E-O. \n \n(C)\n distensivas, com direção N-S. \n \n(D)\n distensivas, com direção E-O.\n6.\n A\n jazida de sal-gema de Hallstätt constitui uma reserva, porque\n \n(A)\n está a pequena profundidade.\n \n(B)\n fornece mais do que um mineral.\n \n(C)\n é economicamente viável.\n \n(D)\n ocupa uma área extensa.\n\n7. Ao longo do tempo, a região montanhosa dos Alpes tem sido afetada por deslizamentos de terras, alguns \ndos quais com impactos devastadores.\nEstudos recentes têm revelado que estes deslizamentos podem ser desencadeados pela atividade \nsismotectónica da região, concentrada no interior da placa Eurasiática, com hipocentros entre 5 e 10 km \nde profundidade.\nBaseado em: P. Oswald et al., «Seismic control of large prehistoric rockslides in the Eastern Alps», \nin Nature Communications, 12, 2021.\nConsiderando a informação anterior, os sismos tectónicos nos Alpes são, maioritariamente,\n \n(A)\n interplaca, e a sua magnitude é influenciada pela inclinaçã\no das encostas.\n \n(B)\n intraplaca, e a sua magnitude é influenciada pela instabilidade dos sedimentos na região.\n \n(C)\n interplaca, e a sua intensidade é influenciada pelos deslizamentos de terras nas encostas.\n \n(D)\n intraplaca, e a sua intensidade é influenciada pela litologia da região.\n8.\n Associe \ncada uma das afirmações relativas a zonas da estrutura interna da Terra, apresentadas na \nColuna I, à designação correspondente, que consta na Coluna II.\nA cada letra corresponde apenas um número.\nEscreva, na folha de respostas, cada uma das letras, seguida do número correspondente.\nCOLUNA I COLUNA II\n(a) Zona atravessada unicam ente por ondas sísmicas longitudinais.\n(b)\n Zona constituída essencialmente por rochas ricas em \nalumínio e sílica.\n(c)\n Zona delim\nitada na sua base pela descontinuidade de Gutenberg.\n(1)\n \nAstenosfera\n(2) Crusta continental\n(3)\n \nLitosfera\n(4)\n \nMesosfera\n(5)\n \nNúcleo externo\n9.\n Relativamente ao sal-gema explorado em Hallstätt, considere as informações seguintes:\nInformação \n1 ‒ A subida do sal-gema ocorreu antes da deposição dos calcários da Formação de Plassen.\nInformação 2 ‒ O sal é explorado em galerias que se encontram a mais de 514 metros acima do nível do mar.\nJustifique as afirmações referidas, apresentando um dado da Figura 1B que apoie a Informação 1 e um \ndado do Texto 1 que explique a Informação 2.\n\nTexto 2\nA mina de sal de Hallstätt, além de oferecer um dos registos mais antigos e contínuos da \nmineração subterrânea de sal, tem contribuído para o conhecimento dos hábitos alimentares dos \nmineiros através dos excrementos humanos encontrados (paleofezes). \nAs paleofezes recolhidas na mina foram datadas pelo método 14C. As idades estimadas \ncorrespondem aos intervalos de tempo: 1301-1121 a. C. (Idade do Bronze), 650-544 a. C. (Idade \ndo Ferro) e 1720-1783 d. C. (Idade Moderna), o que está de acordo com os períodos de utilização \nda mina.\nA análise microscópica e molecular das amostras de paleofezes da Idade do Bronze e da \nIdade do Ferro revelou que a dieta destes mineiros consistia essencialmente em cereais, sendo \ncomplementada com frutos silvestres, leguminosas, carnes bovinas e de javali. \nNuma das amostras da Idade do Ferro, foi identificada uma enorme abundância de \nSaccharomyces cerevisiae, um fungo unicelular que apresenta reprodução sexuada e reprodução \nassexuada e que é usado, atualmente, no processamento de alimentos. Foram identificadas \nproteínas envolvidas nas vias de fermentação desta levedura e também o gene RTM1, que é usado \ncomo marcador das variedades de leveduras utilizadas na produção de cerveja, comprovando-se \nassim que, nesta altura, esta bebida já era consumida.\nA Figura 3 representa, esquematicamente, o ciclo de vida de Saccharomyces cerevisiae.\nesporo\nconjugação\nX Y\nFigura 3\nBaseado em: F. Maixner et al., «Hallstätt miners consumed blue cheese and beer during \nthe Iron Age and retained a non-Westernized gut microbiome until the Baroque period», in Current Biology, n.º 31, \n2021; e em: J. Mell e S. Burgess, «Yeast as a model genetic organism», in Encyclopedia of Life Sciences, 2002.\n10. A presença de carne bovina na dieta dos mineiros foi detetada através da análise de várias proteínas, \nentre as quais a hemoglobina. Nos bovinos, o fornecimento de oxigénio às células é feito através \nde um sistema de transporte\n \n(A)\n aberto, após ter ocorrido hematose pulmonar\n.\n \n(B)\n fechado, com circulação dupla e completa.\n \n(C)\n aberto, em que a hemoglobina é transportada na hemolinfa.\n \n(D)\n fechado, cujo órgão propulsor está dividido em três cavidades.\n\n11. Selecione a opção que interpreta corretamente o ciclo de vida de Saccharomyces cerevisiae, representado \nna Figura 3.\n \n(A)\n A\n conjugação dá início à fase haploide.\n \n(B)\n Os esporos dão origem a leveduras diploides.\n \n(C)\n A\n gemulação permite a manutenção da ploidia. \n \n(D)\n Os esporos resultam de mitoses sucessivas.\n12.\n No decurso do ciclo celular mitótico, ocorre\n \n(A)\n produção de biomoléculas durante a fase G1.\n \n(B)\n duplicação do número de cromatídeos durante a prófase.\n \n(C)\n condensação da cromatina durante a fase S.\n \n(D)\n separação de cromatídeos-irmãos durante a metáfase.\n13.\n O gene R\nTM1 corresponde a uma sequência de\n \n(A)\n nucleótidos de adenina, uracilo, guanina e citosina.\n \n(B)\n ribonucleótidos unidos por ligações peptídicas.\n \n(C)\n desoxirribonucleótidos unidos por ligações fosfodiéster\n.\n \n(D)\n monómeros formados exclusivamente por C, H, O e P\n.\n14.\n Segundo \no sistema de classificação de Whittaker modificado, as leveduras pertencem ao reino Fungi. \nEste reino integra organismos que apresentam\n \n(A)\n unicelularidade e DNA\n circular no nucleoide.\n \n(B)\n células eucarióticas e nutrição por absorção.\n \n(C)\n reduzida diferenciação celular e células procarióticas. \n \n(D)\n heterotrofia por ingestão e células com parede celular\n.\n15.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos relacionados com o processo fermentativo realizado por Saccharomyces cerevisiae.\nEscreva, na folha de respostas, a sequência correta das letras.\nA.\n Formação de moléculas de \nATP.\nB.\n Fosforilação da glicose. \nC.\n Formação de moléculas de etanol.\nD.\n Formação de moléculas de ácido pirúvico.\nE. \n Obtenção de glicose a partir da hidrólise de polissacáridos.\n16.\n Nas camadas superiores da atmosfera, por ação dos raios cósmicos sobre o nitrogénio, forma-se 14C, um \nisótopo radioativo. Posteriormente, o 14C reage com o O2 atmosférico e origina 14CO2 . \nExplique por que razão é possível utilizar o 14C na datação de matéria orgânica de origem vegetal e de \nmatéria orgânica de origem animal presente nas paleofezes.\nNa sua resposta, faça referência às características do 14C que permitem utilizá-lo na datação.\n\nTexto 3\nOs resultados das análises às paleofezes dos mineiros de Hallstätt mostram que a dieta das \npopulações ocidentalizadas modernas sofreu profundas alterações ao longo do tempo. Atualmente, \no consumo de sal, de açúcar e de gordura em excesso afeta negativamente a saúde das populações \ne agrava o risco de desenvolvimento de doenças cardiovasculares, a principal causa de morte em \ntodo o mundo.\nNos últimos anos, a Salicor nia, uma planta suculenta que cresce em zonas salinas, \ntem despertado interesse pelos seus potenciais benefícios nutricionais.\nO ambiente salino impõe dois problemas aos tecidos vegetais: o défice hídrico resultante \nde concentrações relativamente altas de soluto no solo e o efeito tóxico do aumento do Na\n+ no \ncitosol. Em células de Salicor nia, para contrariar a entrada de Na + de forma passiva, existem \ntransportadores antiporte1 Na+/H+, na membrana plasmática e no tonoplasto (membrana do vacúolo), \nque transportam ativamente o Na + para fora da célula e para dentro do vacúolo, respetivamente. \nA atividade destes transportadores antiporte depende do gradiente de protões (H +) gerado pela \nH+-ATPase.\nConsiderando a possibilidade do uso de Salicor nia como substituto do sal purificado na alimentação \nhumana, foi realizado um estudo in vivo para avaliar os efeitos da ingestão de Salicor nia europaea \nna pressão arterial. Foram selecionados ratos jovens com pressão arterial normal (PAN) e ratos \njovens hipertensos espontâneos (HE). Após um período de adaptação, os ratos foram divididos em \nseis grupos (10 ratos em cada grupo) e submetidos a uma dieta diferenciada, durante seis semanas: \n•  Grupo RC-PAN – ratos com pressão arterial normal alimentados com ração comum.\n•  Grupo RC-HE – ratos hipertensos alimentados com ração comum.\n•  Grupo SP-PAN – ratos com pressão arterial normal submetidos a uma dieta rica em sal purificado.\n•  Grupo SP-HE – ratos hipertensos submetidos a uma dieta rica em sal purificado.\n•  Grupo SE-PAN – ratos com pressão arterial normal submetidos a uma dieta com S. europaea.\n•  Grupo SE-HE – ratos hipertensos submetidos a uma dieta com S. europaea.\nA quantidade de sódio administrado, através do sal purificado ou de S. europaea, foi equivalente \npara os vários grupos de tipo SP e SE.\nO Gráfico I apresenta o efeito da dieta na pressão arterial média de ratos com pressão arterial \nnormal. O Gráfico II apresenta o efeito da dieta na pressão arterial média de ratos hipertensos.\nNota:\n1 Transportadores antiporte – transportadores membranares que transportam, em simultâneo e em sentido contrário, dois iões do mesmo \nsinal, por exemplo, um catião e um ião H+. \n\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\n \n100\n120\n140\n160\n80\n60\n00\n100\n120\n80\n60\n140\nGrupos\nRC-HE SP-HE SE-HE\n160Pressão arterial média (mmHg)\nPressão arterial média (mmHg)\nGrupos\nRC-PAN SP-PAN SE-PAN\nBaseado em: S. Cárdenas-Pérez et al., «An overview of the emerging trends of the Salicor nia L. genus as a sustainable crop», \nin Environmental and Experimental Botany, n.º 191, 2021; e em: N. Panth et al., «Protective effect of Salicor nia europaea extracts \non high salt intake-induced vascular dysfunction and hypertension», in International Journal of Molecular Sciences, n.º 17, 2016.\n17. Identifique, de entre as afirmações relativas ao procedimento experimental e aos resultados obtidos, as \ntrês afirmações corretas.\nEscreva, na folha de respostas, os números selecionados.\nI. Uma das variáveis dependentes é a quantidade de sód\nio adicionado à ração diária.\nII. O grupo RC-P\nAN serve de controlo da experiência.\nIII. \n A\n ingestão de sal purificado promove o aumento da pressão arterial tanto em ratos com pressão \narterial normal como em ratos hipertensos.\nIV. \n A\n utilização de Salicor nia na alimentação apresenta maior contributo para o desenvolvimento de \nhipertensão, comparativamente com a utilização de sal purificado. \nV. \n A\n inclusão de 10 ratos em cada grupo contribuiu para aumentar a fiabilidade dos resultados.\nGráfico\n \nI Gráfico\n \nII\n\n18. A Figura 4 representa, de forma esquemática, os transportadores antiporte Na +/H+ e as H +-ATPase em \ncélulas de Salicor nia.\nATD\ntransportador antiporte\nNa+\nmembrana\nplasmática\n H +\ncitosol\n H + - ATPase H +\nATP\n H +\nADP+Pi Na+\nvacúolo\nATP\n H +\nADP+Pi\nFigura 4\nComplete o texto seguinte, selecionando a opção adequada a cada espaço.\nEscreva, na folha de respostas, cada uma das letras, seguida do número que corresponde à opção \nselecionada.\nO transporte de iões desde a raiz até à parte aérea das plantas do género Salicor nia ocorre \nao longo de\n a) . \nA entrada de Na+ nas células envolve proteínas transportadoras que \nse encontram integradas numa bicamada de fosfolípidos, moléculas cuja região apolar tem \ncarácter b) . A entrada de Na+ torna o conteúdo vacuolar c) . O gradiente de \nprotões é mantido pela H+-ATPase através de d) .\na) b) c) d)\n1.\n células dos tubos crivosos\n2.\n elementos de vaso\n3.\n células de companhia\n \n1.\n anfipático\n2.\n \nhidrofílico\n3.\n \nhidrofóbico\n1.\n \nhipotónico\n2.\n \nhipertónico\n3.\n \nisotónico"
     }
   ]
 }

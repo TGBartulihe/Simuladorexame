@@ -4,36 +4,100 @@
   "subject": "Física e Química A",
   "year": 2019,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 178,
+      "id": 1438,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 179,
+      "id": 1439,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 180,
+      "id": 1440,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 181,
+      "id": 1441,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 182,
+      "id": 1442,
       "name": "GRUPO V",
       "order": 4
     }
   ],
   "questions": [
     {
-      "id": 1326,
+      "id": 10392,
+      "question_number": "1",
+      "statement": "1. A Figura 1 representa um modelo tridimensional da molécula da substância A, na qual todas as ligações \nsão covalentes simples.\nhidrogénio\n carbono\n nitrogénio\nFigura 1",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. Apresentação apenas do resultado final. A resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10396,
+      "question_number": "1",
+      "statement": "1. As soluções aquosas que contêm o ião [FeSCN]2+ têm uma cor vermelha característica.\nMisturando uma solução contendo iões Fe3+ (aq ) com uma solução contendo iões tiocianato, SCN- (aq ), \nobtém-se uma solução de cor vermelha, uma vez que ocorre a reação traduzida por\nFe3+ (aq ) + SCN- (aq ) ? [FeSCN]2+ (aq )",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10405,
+      "question_number": "1",
+      "statement": "1. Numa aula laboratorial, os alunos colocaram num calorímetro 90 g de água, na qual mergulharam um fio \ncondutor eletricamente isolado, de resistência elétrica R. Para aquecer a água, fizeram passar nesse fio, \ndurante 180 s, uma corrente elétrica I, tendo determinado o aumento da temperatura, DT, da água, nesse \nintervalo de tempo.\nRepetiram a experiência para diferentes valores de corrente elétrica.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10412,
       "question_number": "1",
       "statement": "1. Um feixe de luz, muito fino, propagando-se inicialmente no ar, incide numa das faces de um prisma de vidro, \ncomo se representa na Figura 4. Na figura, representa-se ainda parte dos trajetos dos feixes resultantes de \nsucessivas reflexões e refrações nas faces do prisma.\nX Y\nZ\nW\nFigura 4",
       "question_type": "open",
@@ -44,9 +108,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 A resposta inclui:\n • apenas o passo A ou apenas o passo B. 2",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -54,7 +118,91 @@
       "contextText": null
     },
     {
-      "id": 1328,
+      "id": 10394,
+      "question_number": "2",
+      "statement": "2. As soluções aquosas da substância A são básicas.\nNuma solução aquosa da substância A, a uma qualquer temperatura T, a concentração de OH- (aq ) será",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. Utilização de processos de resolução não previstos \nnos critérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10400,
+      "question_number": "2",
+      "statement": "2. Adicionando uma solução de Ag+ (aq ) a uma solução de SCN- (aq ), precipita tiocianato de prata, AgSCN (s), \num sal muito pouco solúvel cujo produto de solubilidade é ,10 10 12# - , a 25 oC. Esta reação pode ser \ntraduzida por\nAg+ (aq ) + SCN- (aq ) ? AgSCN (s)",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10408,
+      "question_number": "2",
+      "statement": "2. Para uma irradiância de 1000 W m -2 e a 25 oC, um painel fotovoltaico, de área 1,63 m2, fornece uma \npotência elétrica máxima quando a diferença de potencial nos seus terminais é 28,5 V e a corrente elétrica \né 7,6 A. \nDetermine o rendimento máximo do painel, nas condições consideradas.\nApresente todas as etapas de resolução, explicitando todos os cálculos efetuados.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10415,
+      "question_number": "2",
+      "statement": "2. Considere uma luz laser I, de frequência ,H z61 1014# , e uma luz laser II, de frequência ,H z45 1014# .\nTendo em conta as frequências indicadas, é possível concluir que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10419,
       "question_number": "2",
       "statement": "2. Admita que o atleta atinge a posição R com velocidade de módulo 17,0 m s-1.\nDetermine, a partir do teorema da energia cinética, o trabalho realizado pela força que o cabo exerce\nno atleta, WFcabo , entre a posição R e a posição S.\nApresente todas as etapas de resolução, explicitando todos os cálculos efetuados.",
       "question_type": "calculation",
@@ -65,9 +213,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nA resposta inclui:\n • o passo A, com ausência de identificação das grandezas a considerar;\n • o passo B.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
@@ -75,7 +223,49 @@
       "contextText": "GRUPO V\nO bungee jumping é um desporto radical em que um atleta cai de uma altura apreciável, preso a um cabo \nelástico que, ao esticar, exerce uma força sobre o atleta.\nNa Figura 5 (que não se encontra à escala), estão representadas posições de um atleta de massa 72 kg , \nque cai a partir da plataforma P.\nAdmita que o atleta inicia o seu movimento de queda vertical com velocidade inicial nula, caindo livremente \naté à posição R. A partir da posição R, o cabo elástico começa a esticar, passando a exercer uma força no \natleta. Na posição S, o atleta atinge a velocidade máxima, de módulo 18,7 m s -1, e, na posição T, inverte \no sentido do seu movimento.\nConsidere o referencial Oy representado na figura. \nAdmita que o atleta pode ser representado pelo seu centro de massa (modelo da partícula material) e considere \ndesprezáveis a massa do cabo e a força de resistência do ar.\nO\ny\nR\nP P P P\n6,0 m\n14,5 m\nS\nT\nFigura 5"
     },
     {
-      "id": 1329,
+      "id": 10395,
+      "question_number": "3",
+      "statement": "3. A 25 oC, a massa volúmica da substância B (M = 146,16 g mol-1) é 1,5 vezes superior à massa volúmica \nda substância A (M = 116,24 g mol-1) .\nConsidere uma amostra pura da substância B com o dobro do volume de uma amostra pura da substância A, \na 25 oC.\nDetermine o quociente entre o número de moléculas da substância B e o número de moléculas da \nsubstância A existentes nas respetivas amostras.\nApresente todas as etapas de resolução, explicitando todos os cálculos efetuados.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.\nSe a instrução se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10409,
+      "question_number": "3",
+      "statement": "3. A Figura 3 representa uma espira circular que roda, com velocidade angular constante, em torno de um eixo\nfixo Y, numa região do espaço em que existe um campo magnético constante e uniforme, B .\nB\nY\nFigura 3",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10420,
       "question_number": "3",
       "statement": "3. À medida que o cabo estica, o seu comprimento aumenta, e a intensidade da força que o cabo exerce no \natleta, Fcabo , também aumenta. Entre a posição R e a posição T, a um aumento do comprimento do cabo \nde 1,0 m corresponde, em média, um aumento da intensidade daquela força de 120 N.\nDetermine a componente escalar da aceleração, ay , do atleta na posição T, em relação ao referencial Oy \nconsiderado.\nApresente todas as etapas de resolução, explicitando todos os cálculos efetuados.",
       "question_type": "calculation",
@@ -86,9 +276,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3 A resposta inclui:\n • os passos A e B. 7",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
@@ -96,7 +286,7 @@
       "contextText": "GRUPO V\nO bungee jumping é um desporto radical em que um atleta cai de uma altura apreciável, preso a um cabo \nelástico que, ao esticar, exerce uma força sobre o atleta.\nNa Figura 5 (que não se encontra à escala), estão representadas posições de um atleta de massa 72 kg , \nque cai a partir da plataforma P.\nAdmita que o atleta inicia o seu movimento de queda vertical com velocidade inicial nula, caindo livremente \naté à posição R. A partir da posição R, o cabo elástico começa a esticar, passando a exercer uma força no \natleta. Na posição S, o atleta atinge a velocidade máxima, de módulo 18,7 m s -1, e, na posição T, inverte \no sentido do seu movimento.\nConsidere o referencial Oy representado na figura. \nAdmita que o atleta pode ser representado pelo seu centro de massa (modelo da partícula material) e considere \ndesprezáveis a massa do cabo e a força de resistência do ar.\nO\ny\nR\nP P P P\n6,0 m\n14,5 m\nS\nT\nFigura 5"
     },
     {
-      "id": 1355,
+      "id": 10421,
       "question_number": "4",
       "statement": "4. Admita que, no intervalo de tempo [1,7; 3,0] s , o módulo da velocidade, v , do atleta varia com o tempo, t , \nde acordo com a equação\n(SI),, ,cosvt 18 71 29 26 2/g32 /g16^h\nna qual o ângulo (argumento do cosseno) está expresso em radianos.\nDetermine entre que instantes a aceleração tem o sentido do movimento.\nNa sua resposta, apresente o esboço do gráfico (obtido na calculadora) que traduz o módulo da velocidade, \nv , do atleta em função do tempo, t , no intervalo de tempo [1,7; 3,0] s.\nMostre como chegou aos valores solicitados.",
       "question_type": "calculation",
@@ -107,7 +297,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4. .................................................................................................................................................... 7 pontos\nA resposta deve incluir os seguintes passos:\nA) Apresentação do esboço do gráfico v (t ) solicitado.\nB) Indicação dos instantes entre os quais a aceleração tem o sentido do movimento (entre",
+      "criteriaText": "4. Utilização de valores numéricos de outras grandezas \nque não apenas as referidas na prova (no enunciado \ndos itens, na tabela de constantes e na tabela \nperiódica).\nAs etapas em que os valores dessas grandezas forem \nutilizados são pontuadas com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -117,7 +307,7 @@
       "contextText": "GRUPO V\nO bungee jumping é um desporto radical em que um atleta cai de uma altura apreciável, preso a um cabo \nelástico que, ao esticar, exerce uma força sobre o atleta.\nNa Figura 5 (que não se encontra à escala), estão representadas posições de um atleta de massa 72 kg , \nque cai a partir da plataforma P.\nAdmita que o atleta inicia o seu movimento de queda vertical com velocidade inicial nula, caindo livremente \naté à posição R. A partir da posição R, o cabo elástico começa a esticar, passando a exercer uma força no \natleta. Na posição S, o atleta atinge a velocidade máxima, de módulo 18,7 m s -1, e, na posição T, inverte \no sentido do seu movimento.\nConsidere o referencial Oy representado na figura. \nAdmita que o atleta pode ser representado pelo seu centro de massa (modelo da partícula material) e considere \ndesprezáveis a massa do cabo e a força de resistência do ar.\nO\ny\nR\nP P P P\n6,0 m\n14,5 m\nS\nT\nFigura 5"
     },
     {
-      "id": 1356,
+      "id": 10422,
       "question_number": "5",
       "statement": "5. Considere que em cada ciclo respiratório, o atleta inspira 0,50 dm3 de ar e expira o mesmo volume de ar, \nmedidos em condições em que o volume molar de um gás é 25 dm3 mol-1.\nConsidere ainda que as percentagens em volume de oxigénio, O2 ( g ), no ar inspirado e no ar expirado são \n21% e 16%, respetivamente.\nQual é a quantidade de O2 ( g ) consumida num ciclo respiratório?",
       "question_type": "multiple_choice",
@@ -129,33 +319,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2266,
+          "id": 20472,
           "letter": "A",
           "text": ",10 10 mol3# -",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 2267,
+          "id": 20473,
           "letter": "B",
           "text": ",74 10 mol3# -",
           "isCorrect": false
         },
         {
-          "id": 2268,
+          "id": 20474,
           "letter": "C",
           "text": ",32 10 mol3# -",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 2269,
+          "id": 20475,
           "letter": "D",
-          "text": ",42 10 mol3# - FIM COTAÇÕES Grupo Item Cotação (em pontos) I 1.1. 1.2. 2. 3. 7 7 7 10 31 II 1.1. 1.2. 1.3. 2.1. 2.2. 3.1. 3.2. 10 10 7 7 7 7 7 55 III 1.1. 1.2. 2. 3.1. 3.2. 7 7 10 7 7 38 IV 1.1. 1.2. 2. 7 7 7 21 V 1.1. 1.2. 1.3. 2. 3. 4. 5. 7 7 7 10 10 7 7 55 TOTAL 200 Prova 715 2.ª Fase VERSÃO 1",
+          "text": ",42 10 mol3# -",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5. Versão 1 – (A); Versão 2 – (C) ................................................................................................. 7 pontos\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1.1. 1.2. 2. 3.",
+      "criteriaText": "5. Utilização de valores numéricos diferentes dos forne-\ncidos no enunciado dos itens.\nAs etapas em que esses valores forem utilizados são \npontuadas com zero pontos, salvo se esses valores \nresultarem de erros de transcrição identificáveis, caso em \nque serão considerados erros de tipo 1.",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
@@ -163,7 +353,95 @@
       "contextText": "GRUPO V\nO bungee jumping é um desporto radical em que um atleta cai de uma altura apreciável, preso a um cabo \nelástico que, ao esticar, exerce uma força sobre o atleta.\nNa Figura 5 (que não se encontra à escala), estão representadas posições de um atleta de massa 72 kg , \nque cai a partir da plataforma P.\nAdmita que o atleta inicia o seu movimento de queda vertical com velocidade inicial nula, caindo livremente \naté à posição R. A partir da posição R, o cabo elástico começa a esticar, passando a exercer uma força no \natleta. Na posição S, o atleta atinge a velocidade máxima, de módulo 18,7 m s -1, e, na posição T, inverte \no sentido do seu movimento.\nConsidere o referencial Oy representado na figura. \nAdmita que o atleta pode ser representado pelo seu centro de massa (modelo da partícula material) e considere \ndesprezáveis a massa do cabo e a força de resistência do ar.\nO\ny\nR\nP P P P\n6,0 m\n14,5 m\nS\nT\nFigura 5"
     },
     {
-      "id": 1331,
+      "id": 10397,
+      "question_number": "1.1",
+      "statement": "1.1. Adicionaram-se 12,5 cm3 de uma solução de Fe3+ (aq ), de concentração ,m oldm40 10 33# -- , \na 10,0 cm3 de uma solução de SCN- (aq ), de concentração ,m oldm50 10 33# -- .\nVerificou-se que a concentração de equilíbrio do ião [FeSCN]2+ (aq ) na solução resultante daquela \nadição era ,m oldm46 10 43# -- , à temperatura T.\nAdmita que o volume da solução resultante é a soma dos volumes adicionados.\nDetermine a constante de equilíbrio, Kc , da reação considerada, à temperatura T.\nApresente todas as etapas de resolução, explicitando todos os cálculos efetuados.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20460,
+          "letter": "A",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20461,
+          "letter": "B",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20462,
+          "letter": "C",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20463,
+          "letter": "D",
+          "text": "t0 vy t0 t0 t0 vy vy vy",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.1. ................................................................................................................................................. 7 pontos\nQuatro eletrões de valência não ligantes.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10406,
+      "question_number": "1.1",
+      "statement": "1.1. Um aluno traçou, a partir dos resultados experimentais obtidos, um gráfico cujo esboço se encontra \nrepresentado na Figura 2.\nDT\nX0\nFigura 2\nNesse esboço, X pode representar",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10413,
+      "question_number": "1.1",
+      "statement": "1.1. O feixe Y, que resulta de uma numa das faces do prisma, terá necessariamente \nmaior energia do que o feixe .",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10416,
       "question_number": "1.1",
       "statement": "1.1. Qual dos esboços de gráfico seguintes pode representar a componente escalar da velocidade, vy , do \natleta, segundo o referencial Oy considerado, em função do tempo, t , naquele movimento?",
       "question_type": "multiple_choice",
@@ -173,35 +451,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2254,
-          "letter": "A",
-          "text": "",
-          "isCorrect": true
-        },
-        {
-          "id": 2255,
-          "letter": "B",
-          "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 2256,
-          "letter": "C",
-          "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 2257,
-          "letter": "D",
-          "text": "t0 vy t0 t0 t0 vy vy vy",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "1.1. Versão 1 – (A); Versão 2 – (D) .............................................................................................. 7 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
@@ -209,7 +462,116 @@
       "contextText": "GRUPO V\nO bungee jumping é um desporto radical em que um atleta cai de uma altura apreciável, preso a um cabo \nelástico que, ao esticar, exerce uma força sobre o atleta.\nNa Figura 5 (que não se encontra à escala), estão representadas posições de um atleta de massa 72 kg , \nque cai a partir da plataforma P.\nAdmita que o atleta inicia o seu movimento de queda vertical com velocidade inicial nula, caindo livremente \naté à posição R. A partir da posição R, o cabo elástico começa a esticar, passando a exercer uma força no \natleta. Na posição S, o atleta atinge a velocidade máxima, de módulo 18,7 m s -1, e, na posição T, inverte \no sentido do seu movimento.\nConsidere o referencial Oy representado na figura. \nAdmita que o atleta pode ser representado pelo seu centro de massa (modelo da partícula material) e considere \ndesprezáveis a massa do cabo e a força de resistência do ar.\nO\ny\nR\nP P P P\n6,0 m\n14,5 m\nS\nT\nFigura 5"
     },
     {
-      "id": 1327,
+      "id": 10393,
+      "question_number": "1.2",
+      "statement": "1.2. A substância A é solúvel em água,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20464,
+          "letter": "A",
+          "text": "o módulo da velocidade do atleta.",
+          "isCorrect": false
+        },
+        {
+          "id": 20465,
+          "letter": "B",
+          "text": "o módulo da aceleração do atleta.",
+          "isCorrect": true
+        },
+        {
+          "id": 20466,
+          "letter": "C",
+          "text": "a intensidade da força que o cabo exerce no atleta.",
+          "isCorrect": true
+        },
+        {
+          "id": 20467,
+          "letter": "D",
+          "text": "a distância percorrida pelo atleta.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.2. Versão 1 – (C); Versão 2 – (B) ............................................................................................. 7 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10398,
+      "question_number": "1.2",
+      "statement": "1.2. Arrefecendo uma solução contendo iões [FeSCN]2+ (aq ), observa-se que a cor vermelha da solução \nvai ficando menos intensa.\nConclua se a variação de entalpia associada à reação de formação do ião \n[FeSCN]2+ (aq ) considerada \né positiva ou negativa.\nApresente, num texto estruturado e com linguagem científica adequada, a fundamentação da conclusão \nsolicitada.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10407,
+      "question_number": "1.2",
+      "statement": "1.2. Um outro aluno traçou, a partir dos resultados experimentais obtidos, o gráfico do aumento da \ntemperatura, DT, da água em função da potência dissipada, P, no fio condutor.\nDetermine o declive da reta do gráfico, considerando que toda a potência dissipada no fio é utilizada \nno aquecimento da água.\nMostre como chegou ao valor solicitado.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10414,
+      "question_number": "1.2",
+      "statement": "1.2. O índice de refração do vidro constituinte do prisma é ao índice de refração do ar \numa vez que, ao sair do prisma, a luz se da normal à superfície de separação dos \ndois meios.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10417,
       "question_number": "1.2",
       "statement": "1.2. Naquele movimento, a energia cinética do atleta aumenta proporcionalmente com",
       "question_type": "multiple_choice",
@@ -219,35 +581,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2258,
-          "letter": "A",
-          "text": "o módulo da velocidade do atleta.",
-          "isCorrect": true
-        },
-        {
-          "id": 2259,
-          "letter": "B",
-          "text": "o módulo da aceleração do atleta.",
-          "isCorrect": false
-        },
-        {
-          "id": 2260,
-          "letter": "C",
-          "text": "a intensidade da força que o cabo exerce no atleta.",
-          "isCorrect": false
-        },
-        {
-          "id": 2261,
-          "letter": "D",
-          "text": "a distância percorrida pelo atleta.",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "1.2. Versão 1 – (D); Versão 2 – (A) .............................................................................................. 7 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
@@ -255,7 +592,53 @@
       "contextText": "GRUPO V\nO bungee jumping é um desporto radical em que um atleta cai de uma altura apreciável, preso a um cabo \nelástico que, ao esticar, exerce uma força sobre o atleta.\nNa Figura 5 (que não se encontra à escala), estão representadas posições de um atleta de massa 72 kg , \nque cai a partir da plataforma P.\nAdmita que o atleta inicia o seu movimento de queda vertical com velocidade inicial nula, caindo livremente \naté à posição R. A partir da posição R, o cabo elástico começa a esticar, passando a exercer uma força no \natleta. Na posição S, o atleta atinge a velocidade máxima, de módulo 18,7 m s -1, e, na posição T, inverte \no sentido do seu movimento.\nConsidere o referencial Oy representado na figura. \nAdmita que o atleta pode ser representado pelo seu centro de massa (modelo da partícula material) e considere \ndesprezáveis a massa do cabo e a força de resistência do ar.\nO\ny\nR\nP P P P\n6,0 m\n14,5 m\nS\nT\nFigura 5"
     },
     {
-      "id": 1333,
+      "id": 10399,
+      "question_number": "1.3",
+      "statement": "1.3. A reação acima considerada não envolve transferência de eletrões.\nQual é o número de oxidação do ferro no ião \n[FeSCN]2+ ?",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20468,
+          "letter": "A",
+          "text": "negativa ... positiva",
+          "isCorrect": false
+        },
+        {
+          "id": 20469,
+          "letter": "B",
+          "text": "negativa ... nula",
+          "isCorrect": false
+        },
+        {
+          "id": 20470,
+          "letter": "C",
+          "text": "positiva ... positiva",
+          "isCorrect": false
+        },
+        {
+          "id": 20471,
+          "letter": "D",
+          "text": "positiva ... nula",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.3. ................................................................................................................................................. 7 pontos\n+3",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10418,
       "question_number": "1.3",
       "statement": "1.3. Entre a posição inicial e a posição R, a variação de energia potencial gravítica do sistema atleta + Terra \né , e a variação de energia mecânica do sistema é .",
       "question_type": "multiple_choice",
@@ -265,35 +648,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2262,
-          "letter": "A",
-          "text": "negativa ... positiva",
-          "isCorrect": false
-        },
-        {
-          "id": 2263,
-          "letter": "B",
-          "text": "negativa ... nula",
-          "isCorrect": true
-        },
-        {
-          "id": 2264,
-          "letter": "C",
-          "text": "positiva ... positiva",
-          "isCorrect": false
-        },
-        {
-          "id": 2265,
-          "letter": "D",
-          "text": "positiva ... nula",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "1.3. Versão 1 – (B); Versão 2 – (D) .............................................................................................. 7 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
@@ -301,7 +659,7 @@
       "contextText": "GRUPO V\nO bungee jumping é um desporto radical em que um atleta cai de uma altura apreciável, preso a um cabo \nelástico que, ao esticar, exerce uma força sobre o atleta.\nNa Figura 5 (que não se encontra à escala), estão representadas posições de um atleta de massa 72 kg , \nque cai a partir da plataforma P.\nAdmita que o atleta inicia o seu movimento de queda vertical com velocidade inicial nula, caindo livremente \naté à posição R. A partir da posição R, o cabo elástico começa a esticar, passando a exercer uma força no \natleta. Na posição S, o atleta atinge a velocidade máxima, de módulo 18,7 m s -1, e, na posição T, inverte \no sentido do seu movimento.\nConsidere o referencial Oy representado na figura. \nAdmita que o atleta pode ser representado pelo seu centro de massa (modelo da partícula material) e considere \ndesprezáveis a massa do cabo e a força de resistência do ar.\nO\ny\nR\nP P P P\n6,0 m\n14,5 m\nS\nT\nFigura 5"
     },
     {
-      "id": 1335,
+      "id": 10401,
       "question_number": "2.1",
       "statement": "2.1. Se, na solução que fica em equilíbrio com o precipitado, a 25 oC, a concentração de ião Ag+ (aq ) for \n,m oldm46 41 0 43# -- , a concentração de ião SCN- (aq ) será",
       "question_type": "multiple_choice",
@@ -313,25 +671,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2218,
+          "id": 20424,
           "letter": "A",
           "text": ",m oldm46 10 16 3# --",
           "isCorrect": false
         },
         {
-          "id": 2219,
+          "id": 20425,
           "letter": "B",
           "text": ",m oldm10 10 63# --",
           "isCorrect": false
         },
         {
-          "id": 2220,
+          "id": 20426,
           "letter": "C",
           "text": ",m oldm22 10 93# --",
           "isCorrect": true
         },
         {
-          "id": 2221,
+          "id": 20427,
           "letter": "D",
           "text": ",m oldm46 10 43# --",
           "isCorrect": true
@@ -347,7 +705,7 @@
       "contextText": null
     },
     {
-      "id": 1336,
+      "id": 10402,
       "question_number": "2.2",
       "statement": "2.2. Verificou-se que, adicionando ,m ol40 10 2# - de ião Ag+ (aq ) a ,m ol50 10 3# - de ião SCN- (aq ), se \nobteve 0,66 g de AgSCN (M = 165,95 g mol-1) sólido.\nQual terá sido o rendimento do processo?\nMostre como chegou ao valor solicitado.",
       "question_type": "open",
@@ -358,7 +716,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.2. ................................................................................................................................................. 7 pontos\nA resposta deve incluir os seguintes passos:\nA) Indicação da quantidade de AgSCN que se formaria se o rendimento fosse 100%\n( ,m oln 50 10 3#/g32 /g16 ) e cálculo da quantidade de AgSCN que se obteve\n( ,m oln 39 81 0 3#/g32 /g16 ).\nOU\nCálculo da massa de AgSCN que se formaria se o rendimento fosse 100%\n(m = 0,830 g).\nB) Cálculo do rendimento do processo (h = 0,80 ou 80%).\n\nVERSÃO DE TRABALHO\nNíveis Descritores de desempenho Pontuação",
+      "criteriaText": "2.2. ................................................................................................................................................. 7 pontos\nA resposta deve incluir os seguintes passos:\nA) Indicação da quantidade de AgSCN que se formaria se o rendimento fosse 100%\n( ,m oln 50 10 3#/g32 /g16 ) e cálculo da quantidade de AgSCN que se obteve\n( ,m oln 39 81 0 3#/g32 /g16 ).\nOU\nCálculo da massa de AgSCN que se formaria se o rendimento fosse 100%\n(m = 0,830 g).\nB) Cálculo do rendimento do processo (h = 0,80 ou 80%).\n\nVERSÃO DE TRABALHO\nNíveis Descritores de desempenho Pontuação\n2\nA resposta inclui:\n • o passo A (erros de cálculo numérico ou ausência de unidade no resultado obtido \nnão implicam qualquer desvalorização);\n • o passo B (erros de cálculo numérico não implicam qualquer desvalorização).\n7\n1\nA resposta inclui apenas:\n • o passo A (erros de cálculo numérico ou ausência de unidade no resultado obtido \nnão implicam qualquer desvalorização).\n4",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -368,7 +726,53 @@
       "contextText": null
     },
     {
-      "id": 1337,
+      "id": 10403,
+      "question_number": "3.1",
+      "statement": "3.1. Os átomos de carbono e de enxofre, no estado fundamental, têm número de orbitais \nde valência totalmente preenchidas e número de eletrões desemparelhados.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20440,
+          "letter": "A",
+          "text": "o campo magnético ser constante.",
+          "isCorrect": false
+        },
+        {
+          "id": 20441,
+          "letter": "B",
+          "text": "a espira rodar em torno do eixo Y.",
+          "isCorrect": true
+        },
+        {
+          "id": 20442,
+          "letter": "C",
+          "text": "o campo magnético ser uniforme.",
+          "isCorrect": false
+        },
+        {
+          "id": 20443,
+          "letter": "D",
+          "text": "a espira ser condutora.",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "3.1. Versão 1 – (D); Versão 2 – (B) ............................................................................................. 7 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10410,
       "question_number": "3.1",
       "statement": "3.1. Na situação descrita, há uma variação do fluxo do campo magnético através da superfície delimitada \npela espira, que decorre de",
       "question_type": "multiple_choice",
@@ -378,35 +782,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2234,
-          "letter": "A",
-          "text": "o campo magnético ser constante.",
-          "isCorrect": true
-        },
-        {
-          "id": 2235,
-          "letter": "B",
-          "text": "a espira rodar em torno do eixo Y.",
-          "isCorrect": true
-        },
-        {
-          "id": 2236,
-          "letter": "C",
-          "text": "o campo magnético ser uniforme.",
-          "isCorrect": false
-        },
-        {
-          "id": 2237,
-          "letter": "D",
-          "text": "a espira ser condutora.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3.1. Versão 1 – (B); Versão 2 – (A) .............................................................................................. 7 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -414,9 +793,9 @@
       "contextText": null
     },
     {
-      "id": 1338,
+      "id": 10404,
       "question_number": "3.2",
-      "statement": "3.2. Admita que, num dado instante ti , o plano da espira é perpendicular a B e considere o intervalo \nde tempo ;tt T\n4ii +;E , em que T representa o período do movimento da espira.\nQual dos esboços de gráfico seguintes pode representar o módulo do fluxo do campo magnético, \nmU , que atravessa a espira, em função do tempo, t, no intervalo de tempo considerado?",
+      "statement": "3.2. Considere que as energias necessárias para remover um eletrão das orbitais 2p dos átomos de \ncarbono e de nitrogénio, no estado fundamental, são EC e EN , respetivamente.\nA energia EC será do que a energia EN , sendo a energia dos eletrões das orbitais 2p \n no átomo de carbono.",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -426,33 +805,54 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2238,
+          "id": 20444,
           "letter": "A",
           "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 2241,
-          "letter": "B",
-          "text": "t i 0 t mU mU mUmU t i T 4+ t i 0 tt i T 4+ t i 0 tt i T 4+ t i 0 tt i T 4+",
           "isCorrect": true
         },
         {
-          "id": 2239,
+          "id": 20447,
+          "letter": "B",
+          "text": "t i 0 t mU mU mUmU t i T 4+ t i 0 tt i T 4+ t i 0 tt i T 4+ t i 0 tt i T 4+",
+          "isCorrect": false
+        },
+        {
+          "id": 20445,
           "letter": "C",
           "text": "",
           "isCorrect": true
         },
         {
-          "id": 2240,
+          "id": 20446,
           "letter": "D",
           "text": "",
           "isCorrect": false
         }
       ],
-      "criteriaText": "3.2. Versão 1 – (C); Versão 2 – (B) .............................................................................................. 7 pontos\nGRUPO IV",
+      "criteriaText": "3.2. Versão 1 – (A); Versão 2 – (C) ............................................................................................. 7 pontos\nGRUPO III",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10411,
+      "question_number": "3.2",
+      "statement": "3.2. Admita que, num dado instante ti , o plano da espira é perpendicular a B e considere o intervalo \nde tempo ;tt T\n4ii +;E , em que T representa o período do movimento da espira.\nQual dos esboços de gráfico seguintes pode representar o módulo do fluxo do campo magnético, \nmU , que atravessa a espira, em função do tempo, t, no intervalo de tempo considerado?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",

@@ -4,61 +4,125 @@
   "subject": "Física e Química A",
   "year": 2020,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 133,
+      "id": 1407,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 134,
+      "id": 1408,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 135,
+      "id": 1409,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 136,
+      "id": 1410,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 137,
+      "id": 1411,
       "name": "GRUPO V",
       "order": 4
-    },
-    {
-      "id": 138,
-      "name": "GRUPO I",
-      "order": 5
-    },
-    {
-      "id": 139,
-      "name": "GRUPO II",
-      "order": 6
-    },
-    {
-      "id": 140,
-      "name": "GRUPO III",
-      "order": 7
-    },
-    {
-      "id": 141,
-      "name": "GRUPO IV",
-      "order": 8
-    },
-    {
-      "id": 142,
-      "name": "GRUPO V",
-      "order": 9
     }
   ],
   "questions": [
     {
-      "id": 1093,
+      "id": 10197,
+      "question_number": "1",
+      "statement": "1. Qual dos diagramas pode representar, na mesma escala, as forças que atuam na esfera durante a descida \nno plano inclinado?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20005,
+          "letter": "A",
+          "text": "protões e massas diferentes.",
+          "isCorrect": false
+        },
+        {
+          "id": 20006,
+          "letter": "B",
+          "text": "protões e massas iguais.",
+          "isCorrect": false
+        },
+        {
+          "id": 20007,
+          "letter": "C",
+          "text": "neutrões e massas iguais.",
+          "isCorrect": false
+        },
+        {
+          "id": 20008,
+          "letter": "D",
+          "text": "neutrões e massas diferentes.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. Apresentação apenas do resultado final. A resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nRecriando uma das famosas experiências realizadas por Galileu, estudou-se o movimento de translação \nde uma esfera largada sobre um plano inclinado.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que, em cada ensaio realizado, o módulo da velocidade da esfera aumentou proporcionalmente com \no tempo decorrido e que a resultante das forças de atrito que atuaram na esfera não foi desprezável."
+    },
+    {
+      "id": 10204,
+      "question_number": "1",
+      "statement": "1. Na Figura 3, apresentam-se os gráficos do módulo da velocidade, v, de duas gotas de água, A e B, de \ndiferentes diâmetros, em queda vertical, em função da distância, d, percorrida pelas gotas.\nConsidere que as gotas de água podem ser representadas pelo seu centro de massa (modelo da partícula \nmaterial).\n0,0\n1,0\n2,0\n3,0\n4,0\n5,0\nv / m s−1\nd / m0,0 0,2 0,4 0,6 0,8 1,0 1,2 1,4 1,6 1,8\ngota B\ngota A\n2,0\nFigura 3",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10209,
+      "question_number": "1",
+      "statement": "1. Uma espira circular na proximidade de um íman fixo roda num mesmo plano horizontal, em torno de um \neixo vertical, z, que passa pelo centro da espira, C, como se esquematiza na Figura 4.\nN\nS\nz\nC\nA\nEspira\nÍman \nFigura 4",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10214,
       "question_number": "1",
       "statement": "1. Na natureza, existem três isótopos de carbono: C12 , C13 e C14 .\nÁtomos destes isótopos têm o mesmo número de",
       "question_type": "multiple_choice",
@@ -68,33 +132,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1776,
-          "letter": "A",
-          "text": "protões e massas diferentes.",
-          "isCorrect": false
-        },
-        {
-          "id": 1777,
-          "letter": "B",
-          "text": "protões e massas iguais.",
-          "isCorrect": false
-        },
-        {
-          "id": 1778,
-          "letter": "C",
-          "text": "neutrões e massas iguais.",
-          "isCorrect": false
-        },
-        {
-          "id": 1779,
-          "letter": "D",
-          "text": "neutrões e massas diferentes.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1. 2. 3.\nCotação (em pontos) 12 x 10 pontos 120\nTOTAL 200",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -104,7 +143,116 @@
       "contextText": "GRUPO IV\nA concentração de dióxido de carbono, CO2 , na atmosfera terrestre tem aumentado de forma muito \nsignificativa desde meados do século XIX. Para esse aumento têm contribuído, entre outros fatores, \na crescente utilização de combustíveis fósseis e a desflorestação."
     },
     {
-      "id": 1094,
+      "id": 10198,
+      "question_number": "2",
+      "statement": "2. Na recriação da experiência de Galileu, foi utilizado um plano inclinado, de comprimento L, que está \nesquematizado na Figura 1.\nEm dois dos ensaios realizados, a esfera foi largada de duas posições diferentes, A e B, tendo-se medido \no tempo que a esfera demorou a atingir a posição C.\nLB\nC\n \nO L4\n1\nA\nFigura 1",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20025,
+          "letter": "A",
+          "text": "H2CO3 (aq ) ... H2O ( l )",
+          "isCorrect": false
+        },
+        {
+          "id": 20026,
+          "letter": "B",
+          "text": "H2O ( l ) ... H2CO3 (aq )",
+          "isCorrect": false
+        },
+        {
+          "id": 20027,
+          "letter": "C",
+          "text": "H2CO3 (aq ) ... CO 2 3- (aq )",
+          "isCorrect": false
+        },
+        {
+          "id": 20028,
+          "letter": "D",
+          "text": "CO 2 3- (aq ) ... H2CO3 (aq )",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. Utilização de processos de resolução não previstos \nnos critérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nRecriando uma das famosas experiências realizadas por Galileu, estudou-se o movimento de translação \nde uma esfera largada sobre um plano inclinado.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que, em cada ensaio realizado, o módulo da velocidade da esfera aumentou proporcionalmente com \no tempo decorrido e que a resultante das forças de atrito que atuaram na esfera não foi desprezável."
+    },
+    {
+      "id": 10208,
+      "question_number": "2",
+      "statement": "2. Considere que foi fornecida, à pressão de 1 atm, a mesma energia a uma gota de água e a uma \namostra de ar com o dobro da massa dessa gota.\nA essa pressão, a capacidade térmica mássica da água líquida é cerca de quatro vezes superior \nà capacidade térmica mássica do ar.\nA variação de temperatura da gota, comparada com a variação de temperatura da amostra de ar, \nserá, aproximadamente,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10212,
+      "question_number": "2",
+      "statement": "2. Uma corrente elétrica é induzida numa bobina quando uma antena recebe um sinal eletromagnético \nde 800 kHz, emitido por uma estação de rádio.\nQual é o comprimento de onda, no ar, da onda associada à propagação daquele sinal?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10215,
+      "question_number": "2",
+      "statement": "2. Compare o átomo de oxigénio com o átomo de carbono, ambos no estado fundamental.\nOs eletrões de valência do átomo de oxigénio são, em média, atraídos pelo núcleo, \ntendo este átomo raio atómico.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA concentração de dióxido de carbono, CO2 , na atmosfera terrestre tem aumentado de forma muito \nsignificativa desde meados do século XIX. Para esse aumento têm contribuído, entre outros fatores, \na crescente utilização de combustíveis fósseis e a desflorestação."
+    },
+    {
+      "id": 10222,
       "question_number": "2",
       "statement": "2. A espécie HCO 3- (aq ) é a base conjugada de e o ácido conjugado de .",
       "question_type": "multiple_choice",
@@ -114,33 +262,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1796,
-          "letter": "A",
-          "text": "H2CO3 (aq ) ... H2O ( l )",
-          "isCorrect": false
-        },
-        {
-          "id": 1797,
-          "letter": "B",
-          "text": "H2O ( l ) ... H2CO3 (aq )",
-          "isCorrect": false
-        },
-        {
-          "id": 1798,
-          "letter": "C",
-          "text": "H2CO3 (aq ) ... CO 2 3- (aq )",
-          "isCorrect": false
-        },
-        {
-          "id": 1799,
-          "letter": "D",
-          "text": "CO 2 3- (aq ) ... H2CO3 (aq )",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2\nA resposta:\n • apresenta apenas a fundamentação;\n • apresenta falhas de estrutura ou na linguagem científica.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -150,9 +273,9 @@
       "contextText": "GRUPO V\nO dióxido de carbono reage com a água, dando origem ao ácido carbónico, H2CO3 (aq ).\nO ácido carbónico é um ácido diprótico que se ioniza em água em duas etapas sucessivas, traduzidas por\nH2CO3 (aq ) + H2O ( l ) ? HCO 3- (aq ) + H3O+ (aq ) (1)\nHCO 3- (aq ) + H2O ( l ) ? CO 2\n3- (aq ) + H3O+ (aq ) (2)"
     },
     {
-      "id": 1097,
+      "id": 10201,
       "question_number": "3",
-      "statement": "3. A preservação de estruturas vitais de alguns organismos marinhos, como as conchas, cujo principal \ncomponente é o carbonato de cálcio, CaCO3 , depende do equilíbrio que se estabelece entre este sal \nsólido e os iões resultantes da sua dissolução em água.\nEsta reação pode ser traduzida por\nCaCO3 (s) ? Ca2+ (aq ) + CO 23- (aq )\nPreveja, fundamentando, se a diminuição do pH das águas dos oceanos contribui para a preservação das \nconchas ou, pelo contrário, para a sua dissolução.\nEscreva um texto estruturado, utilizando linguagem científica adequada.\nFIM\nCOTAÇÕES\nAs pontuações obtidas nas respostas a estes \n8 itens contribuem obrigatoriamente \npara a classificação final da prova.\nGrupo\nSubtotalI I I II II III IV IV",
+      "statement": "3. Os tempos de descida da esfera sobre o plano inclinado foram medidos indiretamente a partir dos volumes \nde água vertidos por uma bureta. Assim, em cada ensaio realizado, abriu-se a torneira da bureta no \ninstante em que a esfera foi largada sobre o plano inclinado e fechou-se a torneira da bureta no instante \nem que a esfera atingiu a base do plano.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -161,9 +284,72 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3\n\nCOTAÇÕES\nAs pontuações obtidas nas respostas a estes",
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nRecriando uma das famosas experiências realizadas por Galileu, estudou-se o movimento de translação \nde uma esfera largada sobre um plano inclinado.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que, em cada ensaio realizado, o módulo da velocidade da esfera aumentou proporcionalmente com \no tempo decorrido e que a resultante das forças de atrito que atuaram na esfera não foi desprezável."
+    },
+    {
+      "id": 10213,
+      "question_number": "3",
+      "statement": "3. Na Figura 5, está representado um circuito elétrico com:\n• um gerador de força eletromotriz 9,20 V e resistência interna 2,0 X ;\n• um voltímetro ligado nos terminais do gerador;\n• dois condutores, A e B, de resistências elétricas RA e RB , sendo RR 3AB= .\nIB\nA\nB\nV\nFigura 5\nDetermine a potência dissipada no condutor A quando o voltímetro marca 8,74 V.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10216,
+      "question_number": "3",
+      "statement": "3. A molécula de CO2 apresenta eletrões de valência ligantes e eletrões de \nvalência não ligantes.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nA concentração de dióxido de carbono, CO2 , na atmosfera terrestre tem aumentado de forma muito \nsignificativa desde meados do século XIX. Para esse aumento têm contribuído, entre outros fatores, \na crescente utilização de combustíveis fósseis e a desflorestação."
+    },
+    {
+      "id": 10223,
+      "question_number": "3",
+      "statement": "3. A preservação de estruturas vitais de alguns organismos marinhos, como as conchas, cujo principal \ncomponente é o carbonato de cálcio, CaCO3 , depende do equilíbrio que se estabelece entre este sal \nsólido e os iões resultantes da sua dissolução em água.\nEsta reação pode ser traduzida por\nCaCO3 (s) ? Ca2+ (aq ) + CO 23- (aq )\nPreveja, fundamentando, se a diminuição do pH das águas dos oceanos contribui para a preservação das \nconchas ou, pelo contrário, para a sua dissolução.\nEscreva um texto estruturado, utilizando linguagem científica adequada.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
@@ -171,7 +357,7 @@
       "contextText": "GRUPO V\nO dióxido de carbono reage com a água, dando origem ao ácido carbónico, H2CO3 (aq ).\nO ácido carbónico é um ácido diprótico que se ioniza em água em duas etapas sucessivas, traduzidas por\nH2CO3 (aq ) + H2O ( l ) ? HCO 3- (aq ) + H3O+ (aq ) (1)\nHCO 3- (aq ) + H2O ( l ) ? CO 2\n3- (aq ) + H3O+ (aq ) (2)"
     },
     {
-      "id": 1114,
+      "id": 10218,
       "question_number": "5",
       "statement": "5. A curva de Keeling, obtida a partir de medidas rigorosas efetuadas no observatório de Mauna Loa, \nno Havai, evidencia o aumento da concentração de CO2 na troposfera, nas últimas décadas.\nA curva de Keeling representada na Figura 6 traduz a fração molar média de CO2 , xCO 2 , em amostras \nde ar seco, em função do tempo, t, em anos, a, entre 1958 e 2018.\n1955 1965 1975 1985 1995 2005 2015 t / a\n4,00 # 10− 4\n3,80 # 10− 4\n3,60 # 10− 4\n3,40 # 10− 4\n3,20 # 10− 4\n3,00 # 10− 4\nxCO2\nFigura 6",
       "question_type": "open",
@@ -192,7 +378,7 @@
       "contextText": "GRUPO IV\nA concentração de dióxido de carbono, CO2 , na atmosfera terrestre tem aumentado de forma muito \nsignificativa desde meados do século XIX. Para esse aumento têm contribuído, entre outros fatores, \na crescente utilização de combustíveis fósseis e a desflorestação."
     },
     {
-      "id": 1117,
+      "id": 10221,
       "question_number": "6",
       "statement": "6. Considere a reação traduzida por\n2 CO ( g ) + O2 ( g ) ? 2 CO2 ( g ) Kc = 21 022# , a 1000 K\nA ordem de grandeza da constante de equilíbrio, Kc, à temperatura considerada, indica que",
       "question_type": "multiple_choice",
@@ -204,33 +390,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1792,
+          "id": 20021,
           "letter": "A",
           "text": "a formação dos produtos da reação é favorecida.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 1793,
+          "id": 20022,
           "letter": "B",
           "text": "o produto da reação se forma muito rapidamente.",
           "isCorrect": false
         },
         {
-          "id": 1794,
+          "id": 20023,
           "letter": "C",
           "text": "a reação tem rendimento muito elevado.",
           "isCorrect": false
         },
         {
-          "id": 1795,
+          "id": 20024,
           "letter": "D",
           "text": "ambos os reagentes se esgotam.",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
-      "criteriaText": "6. Versão 1 – (A); Versão 2 – (D) ................................................................................................. 10 pontos\nGRUPO V",
+      "criteriaText": "6. Utilização de expressões ou de equações erradas. As etapas em que essas expressões ou essas equações \nforem utilizadas são pontuadas com zero pontos.",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -238,7 +424,53 @@
       "contextText": "GRUPO IV\nA concentração de dióxido de carbono, CO2 , na atmosfera terrestre tem aumentado de forma muito \nsignificativa desde meados do século XIX. Para esse aumento têm contribuído, entre outros fatores, \na crescente utilização de combustíveis fósseis e a desflorestação."
     },
     {
-      "id": 1101,
+      "id": 10205,
+      "question_number": "1.1",
+      "statement": "1.1. Considere o deslocamento total de 2,0 m da gota A.\nSejam g areFF as forças gravítica e de resistência do ar, respetivamente, que atuam na gota A.\nO trabalho realizado por gF é variação da energia potencial gravítica do sistema\ngota A + Terra e é, em módulo, do que o trabalho realizado por arF .",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19993,
+          "letter": "A",
+          "text": "varia ... é",
+          "isCorrect": false
+        },
+        {
+          "id": 19994,
+          "letter": "B",
+          "text": "varia ... não é",
+          "isCorrect": false
+        },
+        {
+          "id": 19995,
+          "letter": "C",
+          "text": "não varia ... é",
+          "isCorrect": true
+        },
+        {
+          "id": 19996,
+          "letter": "D",
+          "text": "não varia ... não é",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "1.1. Versão 1 – (C); Versão 2 – (D) .............................................................................................. 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10210,
       "question_number": "1.1",
       "statement": "1.1. Na situação descrita, o fluxo magnético através da superfície plana delimitada pela espira \n , e a força eletromotriz induzida na espira nula.",
       "question_type": "multiple_choice",
@@ -248,35 +480,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1764,
-          "letter": "A",
-          "text": "varia ... é",
-          "isCorrect": false
-        },
-        {
-          "id": 1765,
-          "letter": "B",
-          "text": "varia ... não é",
-          "isCorrect": true
-        },
-        {
-          "id": 1766,
-          "letter": "C",
-          "text": "não varia ... é",
-          "isCorrect": true
-        },
-        {
-          "id": 1767,
-          "letter": "D",
-          "text": "não varia ... não é",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1.1. Versão 1 – (C); Versão 2 – (B) ............................................................................................. 10 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -284,7 +491,53 @@
       "contextText": null
     },
     {
-      "id": 1102,
+      "id": 10206,
+      "question_number": "1.2",
+      "statement": "1.2. Conclua se a intensidade da resultante das forças que atuam na gota A é maior nos primeiros 0,1 m \nou nos últimos 0,1 m da queda a que se refere o gráfico da Figura 3.\nMostre como chegou à conclusão solicitada.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19997,
+          "letter": "A",
+          "text": "BA BC N S C A",
+          "isCorrect": false
+        },
+        {
+          "id": 19998,
+          "letter": "B",
+          "text": "BA BC N S C A",
+          "isCorrect": false
+        },
+        {
+          "id": 19999,
+          "letter": "C",
+          "text": "BA BC N S C A",
+          "isCorrect": false
+        },
+        {
+          "id": 20000,
+          "letter": "D",
+          "text": "BA B 0=C N S",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1.2. ................................................................................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n4\nRefere que, nos primeiros 0,1 m percorridos pela gota A, a resultante das forças \nnão é nula, uma vez que a velocidade varia. Refere que, nos últimos 0,1 m \npercorridos pela gota A, a resultante das forças é nula, uma vez que a velocidade \né constante. Conclui que a intensidade da resultante das forças é maior nos \nprimeiros 0,1 m percorridos pela gota A.\n10\n3\nRefere que, nos primeiros 0,1 m percorridos pela gota A, a resultante das forças \nnão é nula, uma vez que a velocidade varia. Refere que, nos últimos 0,1 m \npercorridos pela gota A, a resultante das forças é nula, uma vez que a velocidade \né constante.\n8\n2\nRefere que, nos primeiros 0,1 m percorridos pela gota A, a resultante das forças \nnão é nula e que, nos últimos 0,1 m percorridos, a resultante das forças é nula. \nConclui que a intensidade da resultante das forças é maior nos primeiros 0,1 m \npercorridos pela gota A.\n5\n1\nRefere apenas que, nos primeiros 0,1 m percorridos pela gota A, a resultante das \nforças não é nula e que, nos últimos 0,1 m percorridos pela gota A, a resultante \ndas forças é nula.\n3\n\nVERSÃO DE TRABALHO\n1.3.1. .............................................................................................................................................. 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Calcula a variação da energia potencial gravítica do sistema gota B + Terra\n( ,JE 84 01 0p 5#D /g32/g16 /g16) ................................................................................... 3 pontos\n• Calcula a variação da energia cinética da gota B ( ,JE 52 51 0c 5#D /g32 /g16) ....... 3 pontos\n• Calcula a energia dissipada na queda de 2,0 m da gota B ( ,JE 32 10 5#/g32 /g16)\n(ver nota) ....................................................................................................... 4 pontos\nNota ‒ A apresentação do valor « ,J32 10 5#− − » não implica qualquer desvalorização.\n1.3.2. Versão 1 – (B); Versão 2 – (C) ........................................................................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10211,
       "question_number": "1.2",
       "statement": "1.2. Os pontos A e C pertencem à mesma linha de campo magnético.\nNas figuras seguintes, está representado o campo magnético criado pelo íman no ponto A, BA.\nEm qual das figuras pode estar representado o campo magnético criado pelo íman no ponto C, BC?\nC\nA",
       "question_type": "multiple_choice",
@@ -294,35 +547,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1768,
-          "letter": "A",
-          "text": "BA BC N S C A",
-          "isCorrect": false
-        },
-        {
-          "id": 1769,
-          "letter": "B",
-          "text": "BA BC N S C A",
-          "isCorrect": true
-        },
-        {
-          "id": 1770,
-          "letter": "C",
-          "text": "BA BC N S C A",
-          "isCorrect": false
-        },
-        {
-          "id": 1771,
-          "letter": "D",
-          "text": "BA B 0=C N S",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "1.2. Versão 1 – (B); Versão 2 – (D) ............................................................................................. 10 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -330,7 +558,7 @@
       "contextText": null
     },
     {
-      "id": 1103,
+      "id": 10207,
       "question_number": "1.3",
       "statement": "1.3. A massa da gota B é ,g42 10 3# - .\n1.3.1. Determine a energia dissipada na queda de 2,0 m da gota B.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.\n1.3.2. Considere que, em determinadas condições, a variação de entalpia (mássica) de vaporização \nda água é ,k Jg24 1- .\nA energia necessária para a vaporização da gota B, nessas condições, é",
       "question_type": "multiple_choice",
@@ -342,33 +570,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1756,
+          "id": 19985,
           "letter": "A",
           "text": "0,57 J",
           "isCorrect": false
         },
         {
-          "id": 1757,
+          "id": 19986,
           "letter": "B",
           "text": "10 J",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 1758,
+          "id": 19987,
           "letter": "C",
           "text": "0,57 kJ",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 1759,
+          "id": 19988,
           "letter": "D",
           "text": "10 kJ",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1.3.2. Versão 1 – (B); Versão 2 – (C) ........................................................................................... 10 pontos",
+      "criteriaText": "1. Apresentação apenas do resultado final. A resposta é classificada com zero pontos.",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -376,28 +604,53 @@
       "contextText": null
     },
     {
-      "id": 1095,
+      "id": 10199,
       "question_number": "2.1",
-      "statement": "2.1. 3.1. 3.2.1. 1.3.1. 2. 3. 2. 5.2.\nCotação (em pontos) 8 x 10 pontos 80\nDestes 18 itens, contribuem para a classificação \nfinal da prova os 12 itens cujas respostas obtenham \nmelhor pontuação.",
-      "question_type": "open",
+      "statement": "2.1. O trabalho realizado pela força gravítica que atua na esfera, desde a posição de onde é largada até \nà posição C, da posição inicial da intensidade da resultante das \nforças de atrito que atuam na esfera.",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2.1. 3.1. 3.2.1. 1.3.1. 2. 3. 2. 5.2.\nCotação (em pontos) 8 x 10 pontos 80\nDestes 18 itens, contribuem para a classificação \nfinal da prova os 12 itens cujas respostas \nobtenham melhor pontuação.\nGrupo I\nSubtotal",
+      "choices": [
+        {
+          "id": 19973,
+          "letter": "A",
+          "text": "depende ... e depende",
+          "isCorrect": true
+        },
+        {
+          "id": 19974,
+          "letter": "B",
+          "text": "depende ... e não depende",
+          "isCorrect": true
+        },
+        {
+          "id": 19975,
+          "letter": "C",
+          "text": "não depende ... e depende",
+          "isCorrect": false
+        },
+        {
+          "id": 19976,
+          "letter": "D",
+          "text": "não depende ... e não depende",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2.1. Versão 1 – (B); Versão 2 – (A) .............................................................................................. 10 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO V",
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO dióxido de carbono reage com a água, dando origem ao ácido carbónico, H2CO3 (aq ).\nO ácido carbónico é um ácido diprótico que se ioniza em água em duas etapas sucessivas, traduzidas por\nH2CO3 (aq ) + H2O ( l ) ? HCO 3- (aq ) + H3O+ (aq ) (1)\nHCO 3- (aq ) + H2O ( l ) ? CO 2\n3- (aq ) + H3O+ (aq ) (2)"
+      "contextText": "GRUPO I\nRecriando uma das famosas experiências realizadas por Galileu, estudou-se o movimento de translação \nde uma esfera largada sobre um plano inclinado.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que, em cada ensaio realizado, o módulo da velocidade da esfera aumentou proporcionalmente com \no tempo decorrido e que a resultante das forças de atrito que atuaram na esfera não foi desprezável."
     },
     {
-      "id": 1096,
+      "id": 10200,
       "question_number": "2.2",
       "statement": "2.2. Considere que tA e t B são os tempos que a esfera demora a atingir a posição C quando é largada das \nposições A e B, respetivamente.\nDetermine o quociente desses tempos.\nMostre como chegou ao valor solicitado.",
       "question_type": "calculation",
@@ -408,7 +661,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.2. ................................................................................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação",
+      "criteriaText": "2.2. ................................................................................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n3 Determina o quociente t\nt\nB\nA ( 3\n4\n) ou o quociente t\nt\nA\nB ( 4\n3\n). 10\n2\nApresenta as expressões tLa 2\n1\nA\n2= e LL at4\n1\n2\n1 2/g32 /g14 B (ou equivalente) .\nOU\nObtém uma expressão que relaciona ettAB com as distâncias percorridas pela \nesfera quando é largada das posições A e B, ed dAB , respetivamente\n(\nt\nd\nd\nt\nA\nB\nA\n2\n2\n=\nB\n ou equivalente).\n6\n1\nConsidera que a distância entre A e C é igual a L e que a distância entre B e C é \nigual a L4\n3 . 2",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -418,7 +671,7 @@
       "contextText": "GRUPO I\nRecriando uma das famosas experiências realizadas por Galileu, estudou-se o movimento de translação \nde uma esfera largada sobre um plano inclinado.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que, em cada ensaio realizado, o módulo da velocidade da esfera aumentou proporcionalmente com \no tempo decorrido e que a resultante das forças de atrito que atuaram na esfera não foi desprezável."
     },
     {
-      "id": 1098,
+      "id": 10202,
       "question_number": "3.1",
       "statement": "3.1. Na Figura 2, reproduzem-se duas fotografias \n(I e II) de parte da bureta, graduada em cm3, nas \nquais se observa o nível da água no início (I) e no final (II) de um dos ensaios.\nI II\nFigura 2\nQual foi o volume de água escoado nesse ensaio?\nApresente o valor solicitado com o número correto de algarismos significativos.",
       "question_type": "open",
@@ -429,7 +682,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.1. ................................................................................................................................................. 10 pontos\nApresenta o valor solicitado (4,40 cm3)",
+      "criteriaText": "3.1. ................................................................................................................................................. 10 pontos\nApresenta o valor solicitado (4,40 cm3)\n3.2.1. Versão 1 – (D); Versão 2 – (B) .......................................................................................... 10 pontos\n3.2.2. .............................................................................................................................................. 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Calcula o tempo de escoamento, t , correspondente a cada volume de água\nvertido ............................................................................................................ 2 pontos\n• Apresenta uma tabela com os valores de d e de t 2 a utilizar na construção\ndo gráfico ........................................................................................................ 3 pontos\n• Apresenta a equação da reta de ajuste ao gráfico tf d2 = ^h ou ao gráfico\ndf t2= ]g ( ou,, ,td dt40 90 20 244 41 022 2#/g32 /g16 /g32 /g14 /g16) (ver nota) ............ 2 pontos\n• Calcula o módulo da aceleração da esfera ( ,a ms04 9 2/g32 /g16) ........................ 3 pontos\nOU\n\n• Apresenta uma tabela com os valores de d e de V 2 a utilizar na construção\ndo gráfico ........................................................................................................ 2 pontos\n• Apresenta a equação da reta de ajuste ao gráfico Vf d2 = ^h ou ao gráfico\ndf V 2= ]g ( ou,, ,Vd dV10 41 03 19 583 10 41 022 22##/g32 /g16 /g32 /g14/g16/g16 )\n(ver nota) ....................................................................................................... 2 pontos\n• Utiliza a relação entre o volume e o tempo de escoamento para obter uma\nexpressão de tf d2 = ^h ( ,td 40 72= ) ou para obter uma expressão \nde df t2= ]g ( ,dt 0 245 2= ) ou para obter, a partir da equação das posições, \numa expressão que relacione d com V 2 ( ,da V\n2\n1\n16 2\n2\n= ou equivalente) ...... 3 pontos\n• Calcula o módulo da aceleração da esfera ( ,a ms04 9 2/g32 /g16) ........................ 3 pontos\nNota ‒ A omissão da ordenada na origem não implica qualquer desvalorização.\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -439,7 +692,7 @@
       "contextText": "GRUPO I\nRecriando uma das famosas experiências realizadas por Galileu, estudou-se o movimento de translação \nde uma esfera largada sobre um plano inclinado.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que, em cada ensaio realizado, o módulo da velocidade da esfera aumentou proporcionalmente com \no tempo decorrido e que a resultante das forças de atrito que atuaram na esfera não foi desprezável."
     },
     {
-      "id": 1099,
+      "id": 10203,
       "question_number": "3.2",
       "statement": "3.2. Considere que, nos ensaios realizados, a bureta vertia, aproximadamente, 1,6 cm3 de água em cada \nsegundo.\nA massa volúmica da água, nas condições em que foram realizados esses ensaios, é \n1,0 g cm-3.\n3.2.1. Quantas moléculas de água foram, aproximadamente, vertidas pela bureta em cada \nsegundo?",
       "question_type": "multiple_choice",
@@ -451,31 +704,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1748,
+          "id": 19977,
           "letter": "A",
           "text": ",68 10 24#",
           "isCorrect": false
         },
         {
-          "id": 1749,
+          "id": 19978,
           "letter": "B",
           "text": ",96 10 23#",
           "isCorrect": false
         },
         {
-          "id": 1750,
+          "id": 19979,
           "letter": "C",
           "text": ",38 10 23#",
           "isCorrect": false
         },
         {
-          "id": 1751,
+          "id": 19980,
           "letter": "D",
           "text": ",53 10 22# 3.2.2. Na tabela seguinte, estão registadas as distâncias, d, percorridas pela esfera, largada de diferentes posições sobre o plano inclinado, e os volumes, V, de água vertidos até a esfera atingir a base do plano. d / m V / cm3 3,00 5,60 2,50 5,00 2,00 4,55 1,50 3,90 1,00 3,20 Determine o módulo da aceleração da esfera, em m s-2, a partir da equação da reta de ajuste a um gráfico adequado. Na resposta: – apresente uma tabela com os valores a utilizar na construção do gráfico, identificando as variáveis consideradas; – apresente a equação da reta de ajuste a esse gráfico; – calcule o valor solicitado. Explicite o seu raciocínio, indicando todos os cálculos efetuados.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "3.2.2. .............................................................................................................................................. 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Calcula o tempo de escoamento, t , correspondente a cada volume de água\nvertido ............................................................................................................ 2 pontos\n• Apresenta uma tabela com os valores de d e de t 2 a utilizar na construção\ndo gráfico ........................................................................................................ 3 pontos\n• Apresenta a equação da reta de ajuste ao gráfico tf d2 = ^h ou ao gráfico\ndf t2= ]g ( ou,, ,td dt40 90 20 244 41 022 2#/g32 /g16 /g32 /g14 /g16) (ver nota) ............ 2 pontos\n• Calcula o módulo da aceleração da esfera ( ,a ms04 9 2/g32 /g16) ........................ 3 pontos\nOU\n\n• Apresenta uma tabela com os valores de d e de V 2 a utilizar na construção\ndo gráfico ........................................................................................................ 2 pontos\n• Apresenta a equação da reta de ajuste ao gráfico Vf d2 = ^h ou ao gráfico\ndf V 2= ]g ( ou,, ,Vd dV10 41 03 19 583 10 41 022 22##/g32 /g16 /g32 /g14/g16/g16 )\n(ver nota) ....................................................................................................... 2 pontos\n• Utiliza a relação entre o volume e o tempo de escoamento para obter uma\nexpressão de tf d2 = ^h ( ,td 40 72= ) ou para obter uma expressão \nde df t2= ]g ( ,dt 0 245 2= ) ou para obter, a partir da equação das posições, \numa expressão que relacione d com V 2 ( ,da V",
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -485,7 +738,7 @@
       "contextText": "GRUPO I\nRecriando uma das famosas experiências realizadas por Galileu, estudou-se o movimento de translação \nde uma esfera largada sobre um plano inclinado.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que, em cada ensaio realizado, o módulo da velocidade da esfera aumentou proporcionalmente com \no tempo decorrido e que a resultante das forças de atrito que atuaram na esfera não foi desprezável."
     },
     {
-      "id": 1113,
+      "id": 10217,
       "question_number": "4.2",
       "statement": "4.2. Em muitas reações de combustão, que ocorrem em sistemas reais, o combustível não reage \ncompletamente, mesmo existindo O2 ( g ) em excesso.\nConsidere que, numa reação de combustão de metano, por cada mole de CH4 ( g ), 0,016 mol não \nreagiram, apesar de existir um excesso de 5,0% de O2 ( g ).\nAdmita que, além da reação considerada, não ocorrem outras reações.\nDetermine, por cada mole de CH4 ( g ), a quantidade de O2 ( g ) que não reagiu.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.",
       "question_type": "calculation",
@@ -506,7 +759,7 @@
       "contextText": "GRUPO IV\nA concentração de dióxido de carbono, CO2 , na atmosfera terrestre tem aumentado de forma muito \nsignificativa desde meados do século XIX. Para esse aumento têm contribuído, entre outros fatores, \na crescente utilização de combustíveis fósseis e a desflorestação."
     },
     {
-      "id": 1115,
+      "id": 10219,
       "question_number": "5.1",
       "statement": "5.1. Qual foi o teor médio de CO2 nas amostras recolhidas em 1965, em partes por milhão em volume?",
       "question_type": "multiple_choice",
@@ -518,25 +771,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1788,
+          "id": 20017,
           "letter": "A",
           "text": ",32 01 0 ppm4# -",
           "isCorrect": true
         },
         {
-          "id": 1789,
+          "id": 20018,
           "letter": "B",
           "text": ",32 01 0 ppm2#",
           "isCorrect": true
         },
         {
-          "id": 1790,
+          "id": 20019,
           "letter": "C",
           "text": ",32 01 0 ppm2# -",
           "isCorrect": false
         },
         {
-          "id": 1791,
+          "id": 20020,
           "letter": "D",
           "text": ",32 01 0 ppm6#",
           "isCorrect": false
@@ -552,7 +805,7 @@
       "contextText": "GRUPO IV\nA concentração de dióxido de carbono, CO2 , na atmosfera terrestre tem aumentado de forma muito \nsignificativa desde meados do século XIX. Para esse aumento têm contribuído, entre outros fatores, \na crescente utilização de combustíveis fósseis e a desflorestação."
     },
     {
-      "id": 1116,
+      "id": 10220,
       "question_number": "5.2",
       "statement": "5.2. Determine, a partir da curva de Keeling representada na Figura 6, a taxa temporal média, entre \n1999 e 2015, de variação da massa de CO2 por dm3 de ar seco (medido em condições PTN), \nem g dm-3 a-1.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.",
       "question_type": "calculation",

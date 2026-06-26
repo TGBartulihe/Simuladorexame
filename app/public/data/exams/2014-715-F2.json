@@ -4,61 +4,121 @@
   "subject": "Física e Química A",
   "year": 2014,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 355,
+      "id": 1574,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 356,
+      "id": 1575,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 357,
+      "id": 1576,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 358,
+      "id": 1577,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 359,
+      "id": 1578,
       "name": "GRUPO V",
       "order": 4
-    },
-    {
-      "id": 360,
-      "name": "GRUPO I",
-      "order": 5
-    },
-    {
-      "id": 361,
-      "name": "GRUPO II",
-      "order": 6
-    },
-    {
-      "id": 362,
-      "name": "GRUPO III",
-      "order": 7
-    },
-    {
-      "id": 363,
-      "name": "GRUPO IV",
-      "order": 8
-    },
-    {
-      "id": 364,
-      "name": "GRUPO V",
-      "order": 9
     }
   ],
   "questions": [
     {
-      "id": 2306,
+      "id": 11243,
+      "question_number": "1",
+      "statement": "1. No texto, são referidas «todas as sensações violentas das súbitas mudanças de velocidade».\nQual é o nome da grandeza a que se refere a expressão em itálico?",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. Apresentação apenas do resultado final, não incluindo \nos cálculos efetuados nem as justificações ou \nconclusões solicitadas.\nA resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nEis-nos diante desse divertimento popular chamado montanha-russa. Um carrinho, levado ao ponto mais \nalto de uma linha de carris e aí abandonado à força da gravidade, cai, subindo e descendo depois pela linha \nfantasticamente curva, dando aos que vão dentro dele todas as sensações violentas das súbitas mudanças \nde velocidade… Partindo sempre do ponto mais alto, situado, por exemplo, a cem metros do chão, em parte \nnenhuma do percurso alcança ponto mais alto do que aquele.\nVamos supor que alguém descobriu como eliminar totalmente as forças dissipativas e quer aplicar a sua \ndescoberta à construção de uma montanha-russa. Nessa construção, deve seguir uma regra muito simples: \nnão deve haver pontos situados a uma altura superior à do ponto de partida, embora a linha de carris possa ter \nqualquer comprimento. Se o carrinho puder mover-se livremente até ao final da linha de carris, poderá, no seu \npercurso, atingir várias vezes cem metros de altura, mas nunca poderá ultrapassar esse valor. \nNas montanhas-russas reais, não será assim: depois de abandonado, o carrinho nunca atingirá a altura do \nponto de partida, devido à ação das forças dissipativas.\nA. Einstein, L. Infeld, A Evolução da Física, Lisboa, \nLivros do Brasil, pp. 43-45 (adaptado)"
+    },
+    {
+      "id": 11247,
+      "question_number": "1",
+      "statement": "1. A Figura 1 representa um plano inclinado, no topo do qual se abandonou uma bola. A bola desce o plano \ncom aceleração constante.\nConsidere que a bola pode ser representada pelo seu centro de massa (modelo da partícula material).\nFigura 1\nNa tabela seguinte, estão registados os tempos, t, que a bola demorou a percorrer distâncias, d, \nsucessivamente maiores, sobre esse plano, assim como os quadrados desses tempos, t 2.\nd / m t / s t 2 / s2\n0,80 2,14 4,580\n1,00 2,40 5,760\n1,20 2,63 6,917\n1,40 2,84 8,066\n1,60 3,03 9,181\nCalcule o módulo da aceleração da bola, no movimento considerado, a partir da equação da reta que \nmelhor se ajusta ao conjunto dos valores de d e de t 2 registados na tabela.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11251,
+      "question_number": "1",
+      "statement": "1. Identifique a fonte e o recetor, quando se inicia o processo de transferência de energia que ocorre no \ninterior do sistema considerado.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nCom o objetivo de estabelecer o balanço energético de um sistema gelo + água líquida, um grupo de alunos \nrealizou uma experiência, na qual adicionou 30,0 g de gelo fragmentado, à temperatura de 0,0 ºC, a 260,0 g \nde água líquida, a 20,0 ºC.\nOs alunos consultaram tabelas de constantes físicas e registaram os seguintes valores:\ncágua líquida (capacidade térmica mássica da água líquida) = 4,18 × 103 J kg-1 ºC-1\nΔHfusão gelo (variação de entalpia (ou calor) de fusão do gelo) = 3,34 × 105 J kg-1"
+    },
+    {
+      "id": 11254,
+      "question_number": "1",
+      "statement": "1. Das várias soluções aquosas de ácido acético a partir das quais se obteve a curva de calibração \nrepresentada na Figura 2, considere as soluções de concentração 0,50 mol dm-3 e 1,34 mol dm-3 .\nSobre cada uma dessas soluções, a 20 ºC, fez-se incidir um feixe, muito fino, da radiação monocromática \nreferida, segundo um mesmo ângulo. \nA velocidade de propagação dessa radiação será maior na solução de concentração",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO IV\nA medição do índice de refração de soluções aquosas pode ser usada na determinação da concentração \ndo soluto. Esta técnica de análise quantitativa requer o traçado de curvas de calibração, que relacionam os \níndices de refração, \nn, de soluções desse soluto com as respetivas concentrações, c.\nA Figura 2 representa uma curva de calibração, obtida a partir de várias soluções aquosas de ácido \nacético de diferentes concentrações. Os índices de refração das soluções, para uma determinada radiação \nmonocromática, foram medidos à temperatura de \n20 ºC.\nFigura 2\nn\nc / mol dm−3\n0,00\n1,3500\n1,3520\n1,3480\n1,3460\n1,3440\n1,3420\n1,3400\n1,3380\n1,3360\n1,3340\n1,3320\n0,50 1,00 1,50 2,00 2,50 3,00 3,50 4,00 4,50"
+    },
+    {
+      "id": 11259,
       "question_number": "1",
       "statement": "1. «Por oposição a estado fundamental, que é o estado natural dos átomos, existem estados que correspondem \nà excitação dos átomos por fornecimento de energia.»\nJ. L. da Silva, P. F. da Silva, A Importância de Ser Eletrão, Lisboa, Gradiva, p. 99, 2009",
       "question_type": "open",
@@ -69,19 +129,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ................................................... 5 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq) \n1. Nesta reação, podem ser identificados dois pares conjugados de ácido-base, segundo a teoria de \nBrönsted-Lowry.\nO que é uma base conjugada de um ácido de Brönsted-Lowry?\n2. Considere uma solução aquosa de ácido acético de concentração 0,100 mol dm -3, à qual foi sendo \nadicionada uma solução aquosa de hidróxido de sódio, NaOH(aq).\nA tabela seguinte apresenta os valores de pH, a 25 ºC, da solução inicial e das soluções resultantes das \nadições efetuadas, em função do volume total de NaOH(aq) adicionado.\nVolume total de \nNaOH(aq) / cm3 pH\n0,00 2,88\n10,00 4,16\n25,00 4,76\n40,00 5,36\n50,00 8,73\n2.1. Determine a percentagem de ácido acético não ionizado na solução inicial.\nApresente todas as etapas de resolução.\n2.2. Quando o volume total de NaOH(aq) adicionado é 40,00 cm3, verifica-se que a concentração \nhidrogeniónica, em relação ao valor inicial, diminui cerca de\n (A) duas vezes.\n (B) três vezes.\n (C) trezentas vezes.\n (D) mil vezes.\n2.3. O ácido acético é um ácido fraco e, assim, a sua ionização em água ocorrerá em pequena extensão.\nConclua, justificando com base no Princípio de Le Châtelier, se a ionização deste ácido em água é \nfavorecida pela adição de NaOH(aq).\n\nGRUPO VI\n1. O ácido acético (M = 60,06 g mol-1) pode formar-se a partir do etanal, CH3CHO (M = 44,06 g mol-1), \nsegundo uma reação que pode ser traduzida por\n5 CH3CHO(l) + 2 MnO4\n-(aq) + 6 H3O+(aq) \" 5 CH3COOH(aq) + 2 Mn2+(aq) + 9 H2O(l)\n1.1. Na reação considerada, o número de oxidação do manganês (Mn)\n (A) aumenta, atuando o ião permanganato (MnO4\n- ) como redutor.\n (B) aumenta, atuando o ião permanganato (MnO4\n- ) como oxidante.\n (C) diminui, atuando o ião permanganato (MnO4\n- ) como redutor.\n (D) diminui, atuando o ião permanganato (MnO4\n- ) como oxidante.\n1.2. Considere uma amostra impura de CH3CHO, de massa 1,0×103 g, que contém 64% (em massa) de \nCH3CHO.\nQual das expressões seguintes permite calcular a massa, em gramas (g), de CH3COOH que se \npoderia formar a partir da reação de todo o CH3CHO existente na referida amostra?\n (A) ,\n, g44 06\n64 60 06 10×× 3\ncm\n (B) ,\n,, g44 06\n06 46 00 61 0×× 3\ncm\n (C) ,\n,, g60 06\n06 44 40 61 0×× 3\ncm\n (D) ,\n, g60 06\n64 44 06 10×× 3\ncm\n1.3. Admita agora que, noutras condições, o rendimento da reação considerada é 85%.\nDetermine a massa de CH3CHO que tem de reagir para que se possa obter, na prática, 15 g de \nCH3COOH.\nApresente todas as etapas de resolução.\n\n2. A molécula de CH3COOH pode ser representada através da notação de Lewis por\nH — C — C —\n——O\n• •\n• •\nO\n• •\n• • — H\nH\nH— — \nA molécula de CH3COOH apresenta, no total,\n (A) 24 eletrões de valência.\n (B) 16 eletrões de valência.\n (C) 12 eletrões de valência.\n (D) 8 eletrões de valência.\n3. Quantos átomos de hidrogénio existem em 5,0 moles de moléculas de ácido acético, CH3COOH?\n (A) ,×24 10 25\n (B) ,×30 10 24\n (C) ,×24 10 24\n (D) ,×12 10 25\n\nGRUPO VII"
     },
     {
-      "id": 2307,
+      "id": 11244,
       "question_number": "2",
-      "statement": "2. «Existem vários átomos cujas configurações eletrónicas de valência são semelhantes, diferindo apenas \nno facto de envolverem diferentes números quânticos principais.»\nJ. L. da Silva, P. F. da Silva, A Importância de Ser Eletrão, Lisboa, Gradiva, p. 101, 2009\nEsta afirmação refere-se a átomos de elementos de um mesmo _______________ da tabela periódica, \nque apresentam um número _______________ de eletrões de valência.",
+      "statement": "2. Um carrinho, abandonado no ponto mais alto da linha de carris de uma montanha-russa em que as forças \ndissipativas tenham sido totalmente eliminadas, passa no ponto mais baixo dessa linha, situado ao nível \ndo chão, com uma velocidade cujo módulo é",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -91,43 +151,43 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4350,
+          "id": 22400,
           "letter": "A",
           "text": "período … igual",
           "isCorrect": false
         },
         {
-          "id": 4351,
+          "id": 22401,
           "letter": "B",
           "text": "grupo … diferente",
           "isCorrect": false
         },
         {
-          "id": 4352,
+          "id": 22402,
           "letter": "C",
           "text": "período … diferente",
           "isCorrect": false
         },
         {
-          "id": 4353,
+          "id": 22403,
           "letter": "D",
           "text": "grupo … igual",
           "isCorrect": false
         }
       ],
-      "criteriaText": "2. ................................................... 5 pontos",
+      "criteriaText": "2. Utilização de processos de resolução não previstos nos \ncritérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+      "contextText": "GRUPO I\nEis-nos diante desse divertimento popular chamado montanha-russa. Um carrinho, levado ao ponto mais \nalto de uma linha de carris e aí abandonado à força da gravidade, cai, subindo e descendo depois pela linha \nfantasticamente curva, dando aos que vão dentro dele todas as sensações violentas das súbitas mudanças \nde velocidade… Partindo sempre do ponto mais alto, situado, por exemplo, a cem metros do chão, em parte \nnenhuma do percurso alcança ponto mais alto do que aquele.\nVamos supor que alguém descobriu como eliminar totalmente as forças dissipativas e quer aplicar a sua \ndescoberta à construção de uma montanha-russa. Nessa construção, deve seguir uma regra muito simples: \nnão deve haver pontos situados a uma altura superior à do ponto de partida, embora a linha de carris possa ter \nqualquer comprimento. Se o carrinho puder mover-se livremente até ao final da linha de carris, poderá, no seu \npercurso, atingir várias vezes cem metros de altura, mas nunca poderá ultrapassar esse valor. \nNas montanhas-russas reais, não será assim: depois de abandonado, o carrinho nunca atingirá a altura do \nponto de partida, devido à ação das forças dissipativas.\nA. Einstein, L. Infeld, A Evolução da Física, Lisboa, \nLivros do Brasil, pp. 43-45 (adaptado)"
     },
     {
-      "id": 2308,
-      "question_number": "3",
-      "statement": "3. ................................................... 10 pontos\n30 pontos\nTOTAL ...................................... 200 pontos",
+      "id": 11248,
+      "question_number": "2",
+      "statement": "2. Numa outra situação, uma bola é abandonada de uma certa altura em relação ao solo, caindo verticalmente \nem condições nas quais a resistência do ar pode ser considerada desprezável.\nConsidere que a bola pode ser representada pelo seu centro de massa (modelo da partícula material).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -136,19 +196,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. ................................................... 10 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+      "contextText": null
     },
     {
-      "id": 2309,
-      "question_number": "4",
-      "statement": "4. As soluções aquosas de ácido acético a partir das quais se obteve a curva de calibração representada na \nFigura 2 foram preparadas a partir de uma solução inicial de concentração 4,50 mol dm-3.\nQual é o fator de diluição a considerar na preparação da solução de ácido acético de concentração \n0,50 mol dm-3 ?",
+      "id": 11252,
+      "question_number": "2",
+      "statement": "2. Qual das expressões seguintes permite calcular a energia, em joules (J) , necessária para fundir \ncompletamente o gelo?",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -156,33 +216,29 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4314,
-          "letter": "A",
-          "text": "9",
-          "isCorrect": false
-        },
-        {
-          "id": 4315,
-          "letter": "B",
-          "text": "5",
-          "isCorrect": false
-        },
-        {
-          "id": 4316,
-          "letter": "C",
-          "text": "4",
-          "isCorrect": false
-        },
-        {
-          "id": 4317,
-          "letter": "D",
-          "text": "2",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4. ................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nCom o objetivo de estabelecer o balanço energético de um sistema gelo + água líquida, um grupo de alunos \nrealizou uma experiência, na qual adicionou 30,0 g de gelo fragmentado, à temperatura de 0,0 ºC, a 260,0 g \nde água líquida, a 20,0 ºC.\nOs alunos consultaram tabelas de constantes físicas e registaram os seguintes valores:\ncágua líquida (capacidade térmica mássica da água líquida) = 4,18 × 103 J kg-1 ºC-1\nΔHfusão gelo (variação de entalpia (ou calor) de fusão do gelo) = 3,34 × 105 J kg-1"
+    },
+    {
+      "id": 11255,
+      "question_number": "2",
+      "statement": "2. A Figura 3 representa uma tina contendo uma solução aquosa \nde ácido acético de concentração 1,20 mol dm -3 , à temperatura \nde 20 ºC , sobre a qual incide um feixe, muito fino, da radiação \nmonocromática referida, segundo a direção representada.\nDetermine o ângulo de refração que se deverá observar.\nApresente todas as etapas de resolução.\nnar (índice de refração do ar) = 1,000",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -192,7 +248,158 @@
       "contextText": "GRUPO IV\nA medição do índice de refração de soluções aquosas pode ser usada na determinação da concentração \ndo soluto. Esta técnica de análise quantitativa requer o traçado de curvas de calibração, que relacionam os \níndices de refração, \nn, de soluções desse soluto com as respetivas concentrações, c.\nA Figura 2 representa uma curva de calibração, obtida a partir de várias soluções aquosas de ácido \nacético de diferentes concentrações. Os índices de refração das soluções, para uma determinada radiação \nmonocromática, foram medidos à temperatura de \n20 ºC.\nFigura 2\nn\nc / mol dm−3\n0,00\n1,3500\n1,3520\n1,3480\n1,3460\n1,3440\n1,3420\n1,3400\n1,3380\n1,3360\n1,3340\n1,3320\n0,50 1,00 1,50 2,00 2,50 3,00 3,50 4,00 4,50"
     },
     {
-      "id": 2321,
+      "id": 11262,
+      "question_number": "2",
+      "statement": "2. «Existem vários átomos cujas configurações eletrónicas de valência são semelhantes, diferindo apenas \nno facto de envolverem diferentes números quânticos principais.»\nJ. L. da Silva, P. F. da Silva, A Importância de Ser Eletrão, Lisboa, Gradiva, p. 101, 2009\nEsta afirmação refere-se a átomos de elementos de um mesmo _______________ da tabela periódica, \nque apresentam um número _______________ de eletrões de valência.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq) \n1. Nesta reação, podem ser identificados dois pares conjugados de ácido-base, segundo a teoria de \nBrönsted-Lowry.\nO que é uma base conjugada de um ácido de Brönsted-Lowry?\n2. Considere uma solução aquosa de ácido acético de concentração 0,100 mol dm -3, à qual foi sendo \nadicionada uma solução aquosa de hidróxido de sódio, NaOH(aq).\nA tabela seguinte apresenta os valores de pH, a 25 ºC, da solução inicial e das soluções resultantes das \nadições efetuadas, em função do volume total de NaOH(aq) adicionado.\nVolume total de \nNaOH(aq) / cm3 pH\n0,00 2,88\n10,00 4,16\n25,00 4,76\n40,00 5,36\n50,00 8,73\n2.1. Determine a percentagem de ácido acético não ionizado na solução inicial.\nApresente todas as etapas de resolução.\n2.2. Quando o volume total de NaOH(aq) adicionado é 40,00 cm3, verifica-se que a concentração \nhidrogeniónica, em relação ao valor inicial, diminui cerca de\n (A) duas vezes.\n (B) três vezes.\n (C) trezentas vezes.\n (D) mil vezes.\n2.3. O ácido acético é um ácido fraco e, assim, a sua ionização em água ocorrerá em pequena extensão.\nConclua, justificando com base no Princípio de Le Châtelier, se a ionização deste ácido em água é \nfavorecida pela adição de NaOH(aq).\n\nGRUPO VI\n1. O ácido acético (M = 60,06 g mol-1) pode formar-se a partir do etanal, CH3CHO (M = 44,06 g mol-1), \nsegundo uma reação que pode ser traduzida por\n5 CH3CHO(l) + 2 MnO4\n-(aq) + 6 H3O+(aq) \" 5 CH3COOH(aq) + 2 Mn2+(aq) + 9 H2O(l)\n1.1. Na reação considerada, o número de oxidação do manganês (Mn)\n (A) aumenta, atuando o ião permanganato (MnO4\n- ) como redutor.\n (B) aumenta, atuando o ião permanganato (MnO4\n- ) como oxidante.\n (C) diminui, atuando o ião permanganato (MnO4\n- ) como redutor.\n (D) diminui, atuando o ião permanganato (MnO4\n- ) como oxidante.\n1.2. Considere uma amostra impura de CH3CHO, de massa 1,0×103 g, que contém 64% (em massa) de \nCH3CHO.\nQual das expressões seguintes permite calcular a massa, em gramas (g), de CH3COOH que se \npoderia formar a partir da reação de todo o CH3CHO existente na referida amostra?\n (A) ,\n, g44 06\n64 60 06 10×× 3\ncm\n (B) ,\n,, g44 06\n06 46 00 61 0×× 3\ncm\n (C) ,\n,, g60 06\n06 44 40 61 0×× 3\ncm\n (D) ,\n, g60 06\n64 44 06 10×× 3\ncm\n1.3. Admita agora que, noutras condições, o rendimento da reação considerada é 85%.\nDetermine a massa de CH3CHO que tem de reagir para que se possa obter, na prática, 15 g de \nCH3COOH.\nApresente todas as etapas de resolução.\n\n2. A molécula de CH3COOH pode ser representada através da notação de Lewis por\nH — C — C —\n——O\n• •\n• •\nO\n• •\n• • — H\nH\nH— — \nA molécula de CH3COOH apresenta, no total,\n (A) 24 eletrões de valência.\n (B) 16 eletrões de valência.\n (C) 12 eletrões de valência.\n (D) 8 eletrões de valência.\n3. Quantos átomos de hidrogénio existem em 5,0 moles de moléculas de ácido acético, CH3COOH?\n (A) ,×24 10 25\n (B) ,×30 10 24\n (C) ,×24 10 24\n (D) ,×12 10 25\n\nGRUPO VII"
+    },
+    {
+      "id": 11245,
+      "question_number": "3",
+      "statement": "3. O trabalho realizado pelo peso do carrinho, entre o ponto de partida e o fi nal da linha de carris,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. Utilização de processos de resolução que não respeitem \nas instruções dadas.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.\nSe a instrução se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nEis-nos diante desse divertimento popular chamado montanha-russa. Um carrinho, levado ao ponto mais \nalto de uma linha de carris e aí abandonado à força da gravidade, cai, subindo e descendo depois pela linha \nfantasticamente curva, dando aos que vão dentro dele todas as sensações violentas das súbitas mudanças \nde velocidade… Partindo sempre do ponto mais alto, situado, por exemplo, a cem metros do chão, em parte \nnenhuma do percurso alcança ponto mais alto do que aquele.\nVamos supor que alguém descobriu como eliminar totalmente as forças dissipativas e quer aplicar a sua \ndescoberta à construção de uma montanha-russa. Nessa construção, deve seguir uma regra muito simples: \nnão deve haver pontos situados a uma altura superior à do ponto de partida, embora a linha de carris possa ter \nqualquer comprimento. Se o carrinho puder mover-se livremente até ao final da linha de carris, poderá, no seu \npercurso, atingir várias vezes cem metros de altura, mas nunca poderá ultrapassar esse valor. \nNas montanhas-russas reais, não será assim: depois de abandonado, o carrinho nunca atingirá a altura do \nponto de partida, devido à ação das forças dissipativas.\nA. Einstein, L. Infeld, A Evolução da Física, Lisboa, \nLivros do Brasil, pp. 43-45 (adaptado)"
+    },
+    {
+      "id": 11256,
+      "question_number": "3",
+      "statement": "3. Quando a luz se propaga numa solução de ácido acético e incide na superfície de separação entre a \nsolução e o ar, segundo um ângulo superior ao ângulo crítico, ocorre reflexão total da luz.\nO ângulo crítico depende do",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO IV\nA medição do índice de refração de soluções aquosas pode ser usada na determinação da concentração \ndo soluto. Esta técnica de análise quantitativa requer o traçado de curvas de calibração, que relacionam os \níndices de refração, \nn, de soluções desse soluto com as respetivas concentrações, c.\nA Figura 2 representa uma curva de calibração, obtida a partir de várias soluções aquosas de ácido \nacético de diferentes concentrações. Os índices de refração das soluções, para uma determinada radiação \nmonocromática, foram medidos à temperatura de \n20 ºC.\nFigura 2\nn\nc / mol dm−3\n0,00\n1,3500\n1,3520\n1,3480\n1,3460\n1,3440\n1,3420\n1,3400\n1,3380\n1,3360\n1,3340\n1,3320\n0,50 1,00 1,50 2,00 2,50 3,00 3,50 4,00 4,50"
+    },
+    {
+      "id": 11263,
+      "question_number": "3",
+      "statement": "3. Explique porque é que a energia de ionização dos átomos dos elementos representativos da tabela \nperiódica diminui ao longo de um mesmo grupo (à medida que o número atómico aumenta).",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": null,
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq) \n1. Nesta reação, podem ser identificados dois pares conjugados de ácido-base, segundo a teoria de \nBrönsted-Lowry.\nO que é uma base conjugada de um ácido de Brönsted-Lowry?\n2. Considere uma solução aquosa de ácido acético de concentração 0,100 mol dm -3, à qual foi sendo \nadicionada uma solução aquosa de hidróxido de sódio, NaOH(aq).\nA tabela seguinte apresenta os valores de pH, a 25 ºC, da solução inicial e das soluções resultantes das \nadições efetuadas, em função do volume total de NaOH(aq) adicionado.\nVolume total de \nNaOH(aq) / cm3 pH\n0,00 2,88\n10,00 4,16\n25,00 4,76\n40,00 5,36\n50,00 8,73\n2.1. Determine a percentagem de ácido acético não ionizado na solução inicial.\nApresente todas as etapas de resolução.\n2.2. Quando o volume total de NaOH(aq) adicionado é 40,00 cm3, verifica-se que a concentração \nhidrogeniónica, em relação ao valor inicial, diminui cerca de\n (A) duas vezes.\n (B) três vezes.\n (C) trezentas vezes.\n (D) mil vezes.\n2.3. O ácido acético é um ácido fraco e, assim, a sua ionização em água ocorrerá em pequena extensão.\nConclua, justificando com base no Princípio de Le Châtelier, se a ionização deste ácido em água é \nfavorecida pela adição de NaOH(aq).\n\nGRUPO VI\n1. O ácido acético (M = 60,06 g mol-1) pode formar-se a partir do etanal, CH3CHO (M = 44,06 g mol-1), \nsegundo uma reação que pode ser traduzida por\n5 CH3CHO(l) + 2 MnO4\n-(aq) + 6 H3O+(aq) \" 5 CH3COOH(aq) + 2 Mn2+(aq) + 9 H2O(l)\n1.1. Na reação considerada, o número de oxidação do manganês (Mn)\n (A) aumenta, atuando o ião permanganato (MnO4\n- ) como redutor.\n (B) aumenta, atuando o ião permanganato (MnO4\n- ) como oxidante.\n (C) diminui, atuando o ião permanganato (MnO4\n- ) como redutor.\n (D) diminui, atuando o ião permanganato (MnO4\n- ) como oxidante.\n1.2. Considere uma amostra impura de CH3CHO, de massa 1,0×103 g, que contém 64% (em massa) de \nCH3CHO.\nQual das expressões seguintes permite calcular a massa, em gramas (g), de CH3COOH que se \npoderia formar a partir da reação de todo o CH3CHO existente na referida amostra?\n (A) ,\n, g44 06\n64 60 06 10×× 3\ncm\n (B) ,\n,, g44 06\n06 46 00 61 0×× 3\ncm\n (C) ,\n,, g60 06\n06 44 40 61 0×× 3\ncm\n (D) ,\n, g60 06\n64 44 06 10×× 3\ncm\n1.3. Admita agora que, noutras condições, o rendimento da reação considerada é 85%.\nDetermine a massa de CH3CHO que tem de reagir para que se possa obter, na prática, 15 g de \nCH3COOH.\nApresente todas as etapas de resolução.\n\n2. A molécula de CH3COOH pode ser representada através da notação de Lewis por\nH — C — C —\n——O\n• •\n• •\nO\n• •\n• • — H\nH\nH— — \nA molécula de CH3COOH apresenta, no total,\n (A) 24 eletrões de valência.\n (B) 16 eletrões de valência.\n (C) 12 eletrões de valência.\n (D) 8 eletrões de valência.\n3. Quantos átomos de hidrogénio existem em 5,0 moles de moléculas de ácido acético, CH3COOH?\n (A) ,×24 10 25\n (B) ,×30 10 24\n (C) ,×24 10 24\n (D) ,×12 10 25\n\nGRUPO VII"
+    },
+    {
+      "id": 11246,
+      "question_number": "4",
+      "statement": "4. Explique porque é que, nas montanhas-russas reais, «depois de abandonado, o carrinho nunca atingirá a \naltura do ponto de partida».",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22384,
+          "letter": "A",
+          "text": "9",
+          "isCorrect": false
+        },
+        {
+          "id": 22385,
+          "letter": "B",
+          "text": "5",
+          "isCorrect": false
+        },
+        {
+          "id": 22386,
+          "letter": "C",
+          "text": "4",
+          "isCorrect": false
+        },
+        {
+          "id": 22387,
+          "letter": "D",
+          "text": "2",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. Utilização de expressões ou de equações erradas. As etapas em que essas expressões ou essas equações \nforem utilizadas são pontuadas com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nEis-nos diante desse divertimento popular chamado montanha-russa. Um carrinho, levado ao ponto mais \nalto de uma linha de carris e aí abandonado à força da gravidade, cai, subindo e descendo depois pela linha \nfantasticamente curva, dando aos que vão dentro dele todas as sensações violentas das súbitas mudanças \nde velocidade… Partindo sempre do ponto mais alto, situado, por exemplo, a cem metros do chão, em parte \nnenhuma do percurso alcança ponto mais alto do que aquele.\nVamos supor que alguém descobriu como eliminar totalmente as forças dissipativas e quer aplicar a sua \ndescoberta à construção de uma montanha-russa. Nessa construção, deve seguir uma regra muito simples: \nnão deve haver pontos situados a uma altura superior à do ponto de partida, embora a linha de carris possa ter \nqualquer comprimento. Se o carrinho puder mover-se livremente até ao final da linha de carris, poderá, no seu \npercurso, atingir várias vezes cem metros de altura, mas nunca poderá ultrapassar esse valor. \nNas montanhas-russas reais, não será assim: depois de abandonado, o carrinho nunca atingirá a altura do \nponto de partida, devido à ação das forças dissipativas.\nA. Einstein, L. Infeld, A Evolução da Física, Lisboa, \nLivros do Brasil, pp. 43-45 (adaptado)"
+    },
+    {
+      "id": 11257,
+      "question_number": "4",
+      "statement": "4. As soluções aquosas de ácido acético a partir das quais se obteve a curva de calibração representada na \nFigura 2 foram preparadas a partir de uma solução inicial de concentração 4,50 mol dm-3.\nQual é o fator de diluição a considerar na preparação da solução de ácido acético de concentração \n0,50 mol dm-3 ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO IV\nA medição do índice de refração de soluções aquosas pode ser usada na determinação da concentração \ndo soluto. Esta técnica de análise quantitativa requer o traçado de curvas de calibração, que relacionam os \níndices de refração, \nn, de soluções desse soluto com as respetivas concentrações, c.\nA Figura 2 representa uma curva de calibração, obtida a partir de várias soluções aquosas de ácido \nacético de diferentes concentrações. Os índices de refração das soluções, para uma determinada radiação \nmonocromática, foram medidos à temperatura de \n20 ºC.\nFigura 2\nn\nc / mol dm−3\n0,00\n1,3500\n1,3520\n1,3480\n1,3460\n1,3440\n1,3420\n1,3400\n1,3380\n1,3360\n1,3340\n1,3320\n0,50 1,00 1,50 2,00 2,50 3,00 3,50 4,00 4,50"
+    },
+    {
+      "id": 11258,
       "question_number": "5",
       "statement": "5. A densidade de uma solução de ácido acético de concentração 0,50 mol dm-3 é 1,0025 × 103 g dm-3, \na 20 ºC.\nQual das expressões seguintes permite calcular a quantidade de ácido acético que existe em 100 g da \nsolução?",
       "question_type": "multiple_choice",
@@ -204,31 +411,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4318,
+          "id": 22388,
           "letter": "A",
           "text": ",× ,× 1 0025 10 05 0 100 mol3cm",
           "isCorrect": false
         },
         {
-          "id": 4319,
+          "id": 22389,
           "letter": "B",
           "text": ",× ,×05 01 0025 10 100 mol3cm",
           "isCorrect": false
         },
         {
-          "id": 4320,
+          "id": 22390,
           "letter": "C",
           "text": ",× ,× 05 0 100 1 0025 10 mol 3 cm",
           "isCorrect": false
         },
         {
-          "id": 4321,
+          "id": 22391,
           "letter": "D",
           "text": ",× ,× 100 05 01 0025 10 mol 3 cm 40,0º Figura 3 )",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5. ................................................... 5 pontos",
+      "criteriaText": "5. Utilização de valores numéricos de outras grandezas \nque não apenas as referidas na prova (no enunciado \ndos itens, na tabela de constantes e na tabela periódica).\nAs etapas em que os valores dessas grandezas forem \nutilizados são pontuadas com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -238,53 +445,7 @@
       "contextText": "GRUPO IV\nA medição do índice de refração de soluções aquosas pode ser usada na determinação da concentração \ndo soluto. Esta técnica de análise quantitativa requer o traçado de curvas de calibração, que relacionam os \níndices de refração, \nn, de soluções desse soluto com as respetivas concentrações, c.\nA Figura 2 representa uma curva de calibração, obtida a partir de várias soluções aquosas de ácido \nacético de diferentes concentrações. Os índices de refração das soluções, para uma determinada radiação \nmonocromática, foram medidos à temperatura de \n20 ºC.\nFigura 2\nn\nc / mol dm−3\n0,00\n1,3500\n1,3520\n1,3480\n1,3460\n1,3440\n1,3420\n1,3400\n1,3380\n1,3360\n1,3340\n1,3320\n0,50 1,00 1,50 2,00 2,50 3,00 3,50 4,00 4,50"
     },
     {
-      "id": 2327,
-      "question_number": "1.1",
-      "statement": "1.1. Na reação considerada, o número de oxidação do manganês (Mn)",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4326,
-          "letter": "A",
-          "text": "aumenta, atuando o ião permanganato (MnO4 - ) como redutor.",
-          "isCorrect": false
-        },
-        {
-          "id": 4327,
-          "letter": "B",
-          "text": "aumenta, atuando o ião permanganato (MnO4 - ) como oxidante.",
-          "isCorrect": false
-        },
-        {
-          "id": 4328,
-          "letter": "C",
-          "text": "diminui, atuando o ião permanganato (MnO4 - ) como redutor.",
-          "isCorrect": false
-        },
-        {
-          "id": 4329,
-          "letter": "D",
-          "text": "diminui, atuando o ião permanganato (MnO4 - ) como oxidante.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1.1. ........................................... 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
-    },
-    {
-      "id": 2328,
+      "id": 11260,
       "question_number": "1.2",
       "statement": "1.2. Considere um átomo do elemento que pertence ao 2.º período e ao grupo 15 da tabela periódica.\nQuantos valores diferenciados de energia apresentam os eletrões de valência desse átomo no estado \nfundamental?",
       "question_type": "multiple_choice",
@@ -296,41 +457,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4342,
+          "id": 22392,
           "letter": "A",
           "text": "Dois.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 4343,
+          "id": 22393,
           "letter": "B",
           "text": "Três.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 4344,
+          "id": 22394,
           "letter": "C",
           "text": "Quatro.",
           "isCorrect": false
         },
         {
-          "id": 4345,
+          "id": 22395,
           "letter": "D",
           "text": "Cinco.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1.2. ........................................... 5 pontos",
+      "criteriaText": "1.2. Versão 1 – (B); Versão 2 – (A) .............................................................................................. 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq) \n1. Nesta reação, podem ser identificados dois pares conjugados de ácido-base, segundo a teoria de \nBrönsted-Lowry.\nO que é uma base conjugada de um ácido de Brönsted-Lowry?\n2. Considere uma solução aquosa de ácido acético de concentração 0,100 mol dm -3, à qual foi sendo \nadicionada uma solução aquosa de hidróxido de sódio, NaOH(aq).\nA tabela seguinte apresenta os valores de pH, a 25 ºC, da solução inicial e das soluções resultantes das \nadições efetuadas, em função do volume total de NaOH(aq) adicionado.\nVolume total de \nNaOH(aq) / cm3 pH\n0,00 2,88\n10,00 4,16\n25,00 4,76\n40,00 5,36\n50,00 8,73\n2.1. Determine a percentagem de ácido acético não ionizado na solução inicial.\nApresente todas as etapas de resolução.\n2.2. Quando o volume total de NaOH(aq) adicionado é 40,00 cm3, verifica-se que a concentração \nhidrogeniónica, em relação ao valor inicial, diminui cerca de\n (A) duas vezes.\n (B) três vezes.\n (C) trezentas vezes.\n (D) mil vezes.\n2.3. O ácido acético é um ácido fraco e, assim, a sua ionização em água ocorrerá em pequena extensão.\nConclua, justificando com base no Princípio de Le Châtelier, se a ionização deste ácido em água é \nfavorecida pela adição de NaOH(aq).\n\nGRUPO VI\n1. O ácido acético (M = 60,06 g mol-1) pode formar-se a partir do etanal, CH3CHO (M = 44,06 g mol-1), \nsegundo uma reação que pode ser traduzida por\n5 CH3CHO(l) + 2 MnO4\n-(aq) + 6 H3O+(aq) \" 5 CH3COOH(aq) + 2 Mn2+(aq) + 9 H2O(l)\n1.1. Na reação considerada, o número de oxidação do manganês (Mn)\n (A) aumenta, atuando o ião permanganato (MnO4\n- ) como redutor.\n (B) aumenta, atuando o ião permanganato (MnO4\n- ) como oxidante.\n (C) diminui, atuando o ião permanganato (MnO4\n- ) como redutor.\n (D) diminui, atuando o ião permanganato (MnO4\n- ) como oxidante.\n1.2. Considere uma amostra impura de CH3CHO, de massa 1,0×103 g, que contém 64% (em massa) de \nCH3CHO.\nQual das expressões seguintes permite calcular a massa, em gramas (g), de CH3COOH que se \npoderia formar a partir da reação de todo o CH3CHO existente na referida amostra?\n (A) ,\n, g44 06\n64 60 06 10×× 3\ncm\n (B) ,\n,, g44 06\n06 46 00 61 0×× 3\ncm\n (C) ,\n,, g60 06\n06 44 40 61 0×× 3\ncm\n (D) ,\n, g60 06\n64 44 06 10×× 3\ncm\n1.3. Admita agora que, noutras condições, o rendimento da reação considerada é 85%.\nDetermine a massa de CH3CHO que tem de reagir para que se possa obter, na prática, 15 g de \nCH3COOH.\nApresente todas as etapas de resolução.\n\n2. A molécula de CH3COOH pode ser representada através da notação de Lewis por\nH — C — C —\n——O\n• •\n• •\nO\n• •\n• • — H\nH\nH— — \nA molécula de CH3COOH apresenta, no total,\n (A) 24 eletrões de valência.\n (B) 16 eletrões de valência.\n (C) 12 eletrões de valência.\n (D) 8 eletrões de valência.\n3. Quantos átomos de hidrogénio existem em 5,0 moles de moléculas de ácido acético, CH3COOH?\n (A) ,×24 10 25\n (B) ,×30 10 24\n (C) ,×24 10 24\n (D) ,×12 10 25\n\nGRUPO VII"
     },
     {
-      "id": 2329,
+      "id": 11261,
       "question_number": "1.3",
       "statement": "1.3. Considere um átomo do elemento cujo número atómico é 8.\nQual das configurações eletrónicas seguintes pode corresponder a esse átomo num estado excitado?",
       "question_type": "multiple_choice",
@@ -342,41 +503,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4346,
+          "id": 22396,
           "letter": "A",
           "text": "1s2 2s1 2px 3 2py 1 2pz 1",
           "isCorrect": false
         },
         {
-          "id": 4347,
+          "id": 22397,
           "letter": "B",
           "text": "1s2 2s1 2px 2 2py 2 2pz 1",
           "isCorrect": false
         },
         {
-          "id": 4348,
+          "id": 22398,
           "letter": "C",
           "text": "1s2 2s2 2px 1 2py 2 2pz 1",
           "isCorrect": false
         },
         {
-          "id": 4349,
+          "id": 22399,
           "letter": "D",
           "text": "1s1 2s3 2px 2 2py 1 2pz 1",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1.3. ........................................... 5 pontos",
+      "criteriaText": "1.3. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Cálculo da massa de ácido acético que se obteria se o rendimento da reação \nfosse 100% (m = 17,6 g) OU equivalente ......................................................... 5 pontos\nB) Cálculo da massa de CH3CHO que tem de reagir (m = 13 g) .......................... 5 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq) \n1. Nesta reação, podem ser identificados dois pares conjugados de ácido-base, segundo a teoria de \nBrönsted-Lowry.\nO que é uma base conjugada de um ácido de Brönsted-Lowry?\n2. Considere uma solução aquosa de ácido acético de concentração 0,100 mol dm -3, à qual foi sendo \nadicionada uma solução aquosa de hidróxido de sódio, NaOH(aq).\nA tabela seguinte apresenta os valores de pH, a 25 ºC, da solução inicial e das soluções resultantes das \nadições efetuadas, em função do volume total de NaOH(aq) adicionado.\nVolume total de \nNaOH(aq) / cm3 pH\n0,00 2,88\n10,00 4,16\n25,00 4,76\n40,00 5,36\n50,00 8,73\n2.1. Determine a percentagem de ácido acético não ionizado na solução inicial.\nApresente todas as etapas de resolução.\n2.2. Quando o volume total de NaOH(aq) adicionado é 40,00 cm3, verifica-se que a concentração \nhidrogeniónica, em relação ao valor inicial, diminui cerca de\n (A) duas vezes.\n (B) três vezes.\n (C) trezentas vezes.\n (D) mil vezes.\n2.3. O ácido acético é um ácido fraco e, assim, a sua ionização em água ocorrerá em pequena extensão.\nConclua, justificando com base no Princípio de Le Châtelier, se a ionização deste ácido em água é \nfavorecida pela adição de NaOH(aq).\n\nGRUPO VI\n1. O ácido acético (M = 60,06 g mol-1) pode formar-se a partir do etanal, CH3CHO (M = 44,06 g mol-1), \nsegundo uma reação que pode ser traduzida por\n5 CH3CHO(l) + 2 MnO4\n-(aq) + 6 H3O+(aq) \" 5 CH3COOH(aq) + 2 Mn2+(aq) + 9 H2O(l)\n1.1. Na reação considerada, o número de oxidação do manganês (Mn)\n (A) aumenta, atuando o ião permanganato (MnO4\n- ) como redutor.\n (B) aumenta, atuando o ião permanganato (MnO4\n- ) como oxidante.\n (C) diminui, atuando o ião permanganato (MnO4\n- ) como redutor.\n (D) diminui, atuando o ião permanganato (MnO4\n- ) como oxidante.\n1.2. Considere uma amostra impura de CH3CHO, de massa 1,0×103 g, que contém 64% (em massa) de \nCH3CHO.\nQual das expressões seguintes permite calcular a massa, em gramas (g), de CH3COOH que se \npoderia formar a partir da reação de todo o CH3CHO existente na referida amostra?\n (A) ,\n, g44 06\n64 60 06 10×× 3\ncm\n (B) ,\n,, g44 06\n06 46 00 61 0×× 3\ncm\n (C) ,\n,, g60 06\n06 44 40 61 0×× 3\ncm\n (D) ,\n, g60 06\n64 44 06 10×× 3\ncm\n1.3. Admita agora que, noutras condições, o rendimento da reação considerada é 85%.\nDetermine a massa de CH3CHO que tem de reagir para que se possa obter, na prática, 15 g de \nCH3COOH.\nApresente todas as etapas de resolução.\n\n2. A molécula de CH3COOH pode ser representada através da notação de Lewis por\nH — C — C —\n——O\n• •\n• •\nO\n• •\n• • — H\nH\nH— — \nA molécula de CH3COOH apresenta, no total,\n (A) 24 eletrões de valência.\n (B) 16 eletrões de valência.\n (C) 12 eletrões de valência.\n (D) 8 eletrões de valência.\n3. Quantos átomos de hidrogénio existem em 5,0 moles de moléculas de ácido acético, CH3COOH?\n (A) ,×24 10 25\n (B) ,×30 10 24\n (C) ,×24 10 24\n (D) ,×12 10 25\n\nGRUPO VII"
     },
     {
-      "id": 2312,
+      "id": 11249,
       "question_number": "2.1",
       "statement": "2.1. Considere um referencial unidimensional Oy, vertical, com origem no solo e sentido positivo de baixo \npara cima.\nQual é o esboço do gráfico que pode representar a componente escalar da velocidade da bola, vy, em \nrelação ao referencial considerado, em função do tempo, t, desde o instante em que é abandonada \naté chegar ao solo?",
       "question_type": "multiple_choice",
@@ -388,33 +549,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4294,
+          "id": 22364,
           "letter": "A",
           "text": "vy t",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 4295,
+          "id": 22365,
           "letter": "B",
           "text": "vy t",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 4296,
+          "id": 22366,
           "letter": "C",
           "text": "vy t",
           "isCorrect": false
         },
         {
-          "id": 4297,
+          "id": 22367,
           "letter": "D",
           "text": "vy t 0 0 0 0",
           "isCorrect": false
         }
       ],
-      "criteriaText": "2.1. ........................................... 10 pontos",
+      "criteriaText": "2.1. Versão 1 – (B); Versão 2 – (A) .............................................................................................. 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -422,9 +583,9 @@
       "contextText": null
     },
     {
-      "id": 2313,
+      "id": 11250,
       "question_number": "2.2",
-      "statement": "2.2. Quando o volume total de NaOH(aq) adicionado é 40,00 cm3, verifica-se que a concentração \nhidrogeniónica, em relação ao valor inicial, diminui cerca de",
+      "statement": "2.2. A bola cai e ressalta no solo.\nNos esquemas seguintes, o vetor a→\nd representa a aceleração da bola num ponto da descida situado \na uma determinada altura em relação ao solo.\nEm qual dos esquemas seguintes o vetor a→\ns representa a aceleração da bola no ponto da subida \nsituado à mesma altura?",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -434,62 +595,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4322,
+          "id": 22368,
           "letter": "A",
-          "text": "duas vezes.",
+          "text": "descida subida",
           "isCorrect": false
         },
         {
-          "id": 4323,
+          "id": 22369,
           "letter": "B",
-          "text": "três vezes.",
+          "text": "descida subida",
           "isCorrect": false
         },
         {
-          "id": 4324,
+          "id": 22370,
           "letter": "C",
-          "text": "trezentas vezes.",
-          "isCorrect": false
+          "text": "descida subida",
+          "isCorrect": true
         },
         {
-          "id": 4325,
+          "id": 22371,
           "letter": "D",
-          "text": "mil vezes.",
-          "isCorrect": false
+          "text": "descida subida solo solo solo solo a\"d a\"d a\"d a\"d a\" s a\" s a\" s a\" s",
+          "isCorrect": true
         }
       ],
-      "criteriaText": "2.2. ........................................... 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
-    },
-    {
-      "id": 2325,
-      "question_number": "2.3",
-      "statement": "2.3. O ácido acético é um ácido fraco e, assim, a sua ionização em água ocorrerá em pequena extensão.\nConclua, justificando com base no Princípio de Le Châtelier, se a ionização deste ácido em água é \nfavorecida pela adição de NaOH(aq).\n\nGRUPO VI",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2.3. ........................................... 10 pontos",
+      "criteriaText": "2.2. Versão 1 – (D); Versão 2 – (C) .............................................................................................. 5 pontos\nGRUPO III",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO V\nO ácido acético, CH3COOH(aq), é um ácido monoprótico fraco, cuja ionização em água pode ser traduzida \npor \nCH3COOH(aq) + H2O(l) ? CH3COO-(aq) + H3O+(aq)"
+      "contextText": null
     },
     {
-      "id": 2316,
+      "id": 11253,
       "question_number": "3.2",
       "statement": "3.2. Os alunos calcularam a energia recebida pelo gelo, desde que este foi adicionado à água líquida até \ntoda a mistura ter ficado à mesma temperatura de 11,0 ºC, tendo obtido 1,140 × 104 J.\nCalcularam também a energia cedida pela água líquida, inicialmente a 20,0 ºC, no mesmo intervalo de \ntempo. Com base nos resultados obtidos, concluíram que, naquele intervalo de tempo, tinha ocorrido \ntransferência de energia entre o sistema considerado e o exterior.\nConclua, justificando, em que sentido terá ocorrido aquela transferência de energia.\nApresente todas as etapas de resolução.\n\n–––—––––––––––—–——–—— Página em branco ––––––––—–—–—–————–-––",
       "question_type": "open",
@@ -500,7 +640,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.2. ........................................... 15 pontos",
+      "criteriaText": "3.2. ................................................................................................................................................. 15 pontos\nEtapas de resolução:\nA) Cálculo da energia cedida pela água líquida, inicialmente a 20,0 ºC , no \nintervalo de tempo considerado (E = 9,781 × 103 J)\nOU \nCálculo da variação de energia da água líquida, inicialmente a 20,0 ºC, no\nintervalo de tempo considerado (DE = -9,781 × 103 J) .................................... 5 pontos\n\nB) Comparação da energia recebida pelo gelo com a energia cedida pela água \nlíquida, inicialmente a 20,0 ºC, no intervalo de tempo considerado\n(1,140 × 104 J > 9,781 × 103 J)\nOU\nDemonstração de que a energia interna do sistema aumentou, no intervalo de \ntempo considerado\nOU\nCálculo da energia necessária à fusão completa do gelo e comparação desta \nenergia com a energia cedida pela água líquida, inicialmente a \n20,0 ºC , \nno intervalo de tempo considerado (1,002 × 104 J > 9,781 × 103 J) ............... 5 pontos\nC) Conclusão sobre o sentido em que terá ocorrido a transferência de energia \n(do exterior para o sistema) ............................................................................. 5 pontos\nOU\nA) Cálculo da diminuição de temperatura que a água líquida, inicialmente a \n20,0 ºC , sofreria se tivesse cedido toda a energia recebida pelo gelo \n(10,5 ºC) ............................................................................................................. 5 pontos\nB) Comparação da diminuição de temperatura que a água líquida sofreria com \na diminuição de temperatura real, no intervalo de tempo considerado\n(10,5 ºC > 9,0 ºC) ............................................................................................. 5 pontos\nC) Conclusão sobre o sentido em que terá ocorrido a transferência de energia \n(do exterior para o sistema) ............................................................................. 5 pontos\nnota – A apresentação de valores calculados com arredondamentos incorretos, ou com um número \nincorreto de algarismos significativos, não implica, por si só, qualquer desvalorização.\nGRUPO IV",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

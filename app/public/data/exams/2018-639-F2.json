@@ -4,26 +4,69 @@
   "subject": "Português",
   "year": 2018,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 214,
+      "id": 1474,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 215,
+      "id": 1475,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 216,
+      "id": 1476,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1585,
+      "id": 10622,
+      "question_number": "1",
+      "statement": "1. Compare a atitude do sujeito poético com a dos outros «humanos» (verso 13), tendo em conta a \noposição simbólica entre «rosas» e «magnólias», por um lado, e «pátria», «glória» e «virtude», por outro \nlado (versos 1 a 3).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 16 pontos\nPara comparar a atitude do sujeito poético com a dos outros «humanos», devem ser abordados os tópicos \nseguintes, ou outros igualmente relevantes:\n‒ o sujeito poético opta pela adoção de uma atitude contemplativa/pela fruição do belo/natural/efémero \n(«rosas» e «magnólias»), recusando os valores da «pátria», da «glória» e da «virtude»;\n‒ os outros «humanos» preferem a «pátria», a «glória» e a «virtude», que representam o esforço/o \nsofrimento/a entrega a causas (pessoais e sociais)/a constante busca de superação.\n•  Aspetos de conteúdo (C) ... ................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n4 Compara a atitude do sujeito poético com a dos outros «humanos», desenvolvendo dois \ntópicos de resposta adequadamente. 10\n3 Compara a atitude do sujeito poético com a dos outros «humanos», desenvolvendo um \ntópico de resposta adequadamente e outro com pequenas imprecisões e/ou omissões. 8\n2\nExplicita a atitude do sujeito poético ou a dos outros «humanos», desenvolvendo um \ntópico de resposta adequadamente.\nOU\nCompara a atitude do sujeito poético com a dos outros «humanos», desenvolvendo dois \ntópicos de resposta, ambos com pequenas imprecisões e/ou omissões.\n5\n1 Explicita a atitude do sujeito poético ou a dos outros «humanos», desenvolvendo um \ntópico de resposta com pequenas imprecisões e/ou omissões. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis Descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 1 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\nPrefiro rosas, meu amor, à pátria,\nE antes magnólias amo\nQue a glória e a virtude.\nLogo que a vida me não canse, deixo\nQue a vida por mim passe\nLogo que eu fique o mesmo.\nQue importa àquele a quem já nada importa\nQue um perca e outro vença,\nSe a aurora raia sempre,\nSe cada ano com a primavera\nAparecem as folhas\nE com o outono cessam?\nE o resto, as outras coisas que os humanos\nAcrescentam à vida,\nQue me aumentam na alma?\nNada, salvo o desejo de indif’rença\nE a confiança mole\nNa hora fugitiva.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, \nLisboa, Assírio & Alvim, 2000, p. 64."
+    },
+    {
+      "id": 10627,
+      "question_number": "1",
+      "statement": "1. No primeiro parágrafo do texto, os autores evidenciam a ideia de que, nas sociedades atuais,\n \n(\na\n)\n as crenças religiosas continuam a organizar toda a vida humana.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
+    },
+    {
+      "id": 10634,
       "question_number": "1",
       "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2018/).",
       "question_type": "open",
@@ -34,9 +77,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Escreve um texto com uma organização pouco satisfatória, recorrendo a insuficientes \nmecanismos de coesão ou mobilizando-os de forma inadequada. 2\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -44,9 +87,30 @@
       "contextText": "GRUPO III\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o impacto do progresso técnico na qualidade de vida do ser \nhumano, no futuro.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 1591,
+      "id": 10628,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n16 16 16 16 16 8 16 104\nII 1. 2. 3. 4. 5. 6. 7.\n8 8 8 8 8 8 8 56\nIII Item único 40\nt\nota\nL 200",
+      "statement": "2.\n Na opinião de muitos pensadores, o «pensamento progressista» (linha 10), entre outros aspetos,\n \n(\na\n)\n falha por não discriminar entre o certo e o errado.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 16 pontos\nPara interpretar o sentido da segunda estrofe, à luz da filosofia de vida de Ricardo Reis, devem ser \nabordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒ recusa das emoções fortes/busca da tranquilidade/ataraxia («Logo que a vida me não canse» – v. 4);\n‒ indiferença perante a passagem do tempo («deixo / Que a vida por mim passe» – vv. 4-5);\n‒ passividade/atitude contemplativa/ausência de ação («Logo que eu fique o mesmo.» – v. 6).\n•  Aspetos de conteúdo (C) ... ................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n4 Interpreta o sentido da segunda estrofe, à luz da filosofia de vida de Ricardo Reis, \ndesenvolvendo dois tópicos de resposta adequadamente. 10\n3\nInterpreta o sentido da segunda estrofe, à luz da filosofia de vida de Ricardo Reis, \ndesenvolvendo um tópico de resposta adequadamente e outro com pequenas imprecisões \ne/ou omissões.\n8\n2\nInterpreta o sentido da segunda estrofe, à luz da filosofia de vida de Ricardo Reis, \ndesenvolvendo um tópico de resposta adequadamente.\nOU\nInterpreta o sentido da segunda estrofe, à luz da filosofia de vida de Ricardo Reis, \ndesenvolvendo dois tópicos de resposta, ambos com pequenas imprecisões e/ou \nomissões.\n5\n1 Interpreta o sentido da segunda estrofe, à luz da filosofia de vida de Ricardo Reis, \ndesenvolvendo um tópico de resposta com pequenas imprecisões e/ou omissões. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis Descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 2 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
+    },
+    {
+      "id": 10635,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +119,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais \ndos aspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois \ndesses aspetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +129,47 @@
       "contextText": "GRUPO III\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o impacto do progresso técnico na qualidade de vida do ser \nhumano, no futuro.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 1586,
+      "id": 10623,
+      "question_number": "3",
+      "statement": "3.\n Explicite, \ncom base no conteúdo dos versos 7 a 18, dois aspetos que evidenciem o modo como o sujeito \npoético perceciona a passagem do tempo.\n\nPart E B\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\nOutra cousa muito geral, que não tanto me desedifica, quanto me lastima em muitos de \nvós, é aquela tão notável ignorância e cegueira que em todas as viagens experimentam os \nque navegam para estas partes. Toma um homem do mar um anzol, ata-lhe um pedaço de \npano cortado e aberto em duas ou três pontas, lança-o por um cabo delgado até tocar na \nágua, e em o vendo o peixe, arremete cego a ele e fica preso e boqueando, até que, assim \nsuspenso no ar, ou lançado no convés, acaba de morrer. Pode haver maior ignorância e mais \nrematada cegueira que esta? Enganados por um retalho de pano, perder a vida? Dir-me-eis \nque o mesmo fazem os homens. Não vo-lo nego. Dá um exército batalha contra outro exército, \nmetem-se os homens pelas pontas dos piques, dos chuços e das espadas, e porquê? Porque \nhouve quem os engodou e lhes fez isca com dois retalhos de pano. A vaidade entre os vícios \né o pescador mais astuto e que mais facilmente engana os homens. E que faz a vaidade? \nPõe por isca nas pontas desses piques, desses chuços e dessas espadas dois retalhos de \npano, ou branco, que se chama Hábito de Malta, ou verde, que se chama de Avis, ou vermelho, \nque chama de Cristo e de Santiago, e os homens por chegarem a passar esse retalho de pano \nao peito, não reparam em tragar e engolir o ferro. E depois disso que sucede? O mesmo que \na vós. O que engoliu o ferro, ou ali, ou noutra ocasião ficou morto; e os mesmos retalhos de \npano tornaram outra vez ao anzol para pescar outros.\nPadre António Vieira, Sermão de Santo António (aos peixes) e Sermão da Sexagésima, \nedição de Margarida Vieira Mendes, Lisboa, Seara Nova, 1978, pp. 93-94.\nNotaS\nchuços \n(linha 9) – paus armados com uma ponta de ferro.\ndesedifica (linha 1) – escandaliza; desmoraliza; desagrada.\nengodou (linha 10) – enganou.\nHábito (linha 13) – traje usado por membros de ordens religiosas.\nMalta, Avis, Cristo, Santiago (linhas 13 e 14) – ordens religiosas e militares.\npiques (linha 9) – lanças terminadas em ponta aguçada.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20915,
+          "letter": "B",
+          "text": "a sociedade atual conseguiu eliminar os graves problemas do passado.",
+          "isCorrect": false
+        },
+        {
+          "id": 20916,
+          "letter": "C",
+          "text": "a sociedade atual se rege por valores que dignificam a pessoa humana.",
+          "isCorrect": false
+        },
+        {
+          "id": 20917,
+          "letter": "D",
+          "text": "os homens da sociedade atual têm plena consciência da sua hipocrisia.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 16 pontos\nPara explicitar o modo como o sujeito poético perceciona a passagem do tempo, com base no conteúdo \ndos versos 7 a 18, devem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒ passagem irreversível do tempo/tempo perspetivado como duração, patente na referência à repetição \ncíclica das estações do ano;\n‒ circularidade do tempo cósmico, o que é testemunhado na natureza («Se a aurora raia sempre» – v. 9; \n«Se cada ano com a primavera / Aparecem as folhas / E com o outono cessam?» – vv. 10-12);\n‒ preferência pelo momento presente (carpe diem), através da valorização da «hora fugitiva» (v. 18);\n‒ consciência da fugacidade da vida («E a confiança mole / Na hora fugitiva» – vv. 17-18).\n•  Aspetos de conteúdo (C) ... ................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n4 Explicita o modo como o sujeito poético perceciona a passagem do tempo, com base no \nconteúdo dos versos 7 a 18, desenvolvendo dois tópicos de resposta adequadamente. 10\n3\nExplicita o modo como o sujeito poético perceciona a passagem do tempo, com base no \nconteúdo dos versos 7 a 18, desenvolvendo um tópico de resposta adequadamente e \noutro com pequenas imprecisões e/ou omissões.\n8\n2\nExplicita o modo como o sujeito poético perceciona a passagem do tempo, com base no \nconteúdo dos versos 7 a 18, desenvolvendo um tópico de resposta adequadamente.\nOU\nExplicita o modo como o sujeito poético perceciona a passagem do tempo, com base \nno conteúdo dos versos 7 a 18, desenvolvendo dois tópicos de resposta, ambos com \npequenas imprecisões e/ou omissões.\n5\n1\nExplicita o modo como o sujeito poético perceciona a passagem do tempo, com base \nno conteúdo dos versos 7 a 18, desenvolvendo um tópico de resposta com pequenas \nimprecisões e/ou omissões.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis Descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 3 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\nPrefiro rosas, meu amor, à pátria,\nE antes magnólias amo\nQue a glória e a virtude.\nLogo que a vida me não canse, deixo\nQue a vida por mim passe\nLogo que eu fique o mesmo.\nQue importa àquele a quem já nada importa\nQue um perca e outro vença,\nSe a aurora raia sempre,\nSe cada ano com a primavera\nAparecem as folhas\nE com o outono cessam?\nE o resto, as outras coisas que os humanos\nAcrescentam à vida,\nQue me aumentam na alma?\nNada, salvo o desejo de indif’rença\nE a confiança mole\nNa hora fugitiva.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, \nLisboa, Assírio & Alvim, 2000, p. 64."
+    },
+    {
+      "id": 10629,
       "question_number": "3",
       "statement": "3.\n No terceiro parágrafo do texto, os autores recorrem a um conjunto de exemplos para mostrar que\n \n(\na\n)\n os valores de natureza ético-moral desapareceram da sociedade atual.",
       "question_type": "multiple_choice",
@@ -75,27 +179,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2741,
-          "letter": "B",
-          "text": "a sociedade atual conseguiu eliminar os graves problemas do passado.",
-          "isCorrect": false
-        },
-        {
-          "id": 2742,
-          "letter": "C",
-          "text": "a sociedade atual se rege por valores que dignificam a pessoa humana.",
-          "isCorrect": false
-        },
-        {
-          "id": 2743,
-          "letter": "D",
-          "text": "os homens da sociedade atual têm plena consciência da sua hipocrisia.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -105,7 +190,47 @@
       "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
     },
     {
-      "id": 1587,
+      "id": 10624,
+      "question_number": "4",
+      "statement": "4. Relacione o comportamento dos peixes, descrito entre as linhas 3 e 6, com as interrogações retóricas \npresentes nas linhas 6 e 7.",
+      "question_type": "matching",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20918,
+          "letter": "B",
+          "text": "perfetivo e iterativo.",
+          "isCorrect": false
+        },
+        {
+          "id": 20919,
+          "letter": "C",
+          "text": "imperfetivo e genérico.",
+          "isCorrect": false
+        },
+        {
+          "id": 20920,
+          "letter": "D",
+          "text": "genérico e perfetivo.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 16 pontos\nPara relacionar o comportamento dos peixes, descrito entre as linhas 3 e 6, com as interrogações retóricas \npresentes nas linhas 6 e 7, devem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ os peixes, atraídos por «um pedaço de pano» (linhas 3-4), deixam-se facilmente enganar pelo «homem \ndo mar» (linha 3), perdendo a vida;\n‒ as interrogações retóricas exprimem a crítica severa ao comportamento dos peixes, na medida em que \nacentuam a ideia de que é a ignorância/a cegueira que os conduz à morte.\n•  Aspetos de conteúdo (C) ... ................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n4 Relaciona o comportamento dos peixes com as interrogações retóricas, desenvolvendo \ndois tópicos de resposta adequadamente. 10\n3 Relaciona o comportamento dos peixes com as interrogações retóricas, desenvolvendo \num tópico de resposta adequadamente e outro com pequenas imprecisões e/ou omissões. 8\n2\nRelaciona o comportamento dos peixes com as interrogações retóricas, desenvolvendo \ndois tópicos de resposta, ambos com pequenas imprecisões e/ou omissões.\nOU\nExplicita, adequadamente, o comportamento dos peixes, sem o relacionar com as \ninterrogações retóricas.\nOU\nExplicita, adequadamente, o sentido das interrogações retóricas, sem o relacionar com o \ncomportamento dos peixes.\n5\n1\nExplicita, com pequenas imprecisões e/ou omissões, o comportamento dos peixes, sem \no relacionar com as interrogações retóricas.\nOU\nExplicita, com pequenas imprecisões e/ou omissões, o sentido das interrogações \nretóricas, sem o relacionar com o comportamento dos peixes.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis Descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 4 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\nPrefiro rosas, meu amor, à pátria,\nE antes magnólias amo\nQue a glória e a virtude.\nLogo que a vida me não canse, deixo\nQue a vida por mim passe\nLogo que eu fique o mesmo.\nQue importa àquele a quem já nada importa\nQue um perca e outro vença,\nSe a aurora raia sempre,\nSe cada ano com a primavera\nAparecem as folhas\nE com o outono cessam?\nE o resto, as outras coisas que os humanos\nAcrescentam à vida,\nQue me aumentam na alma?\nNada, salvo o desejo de indif’rença\nE a confiança mole\nNa hora fugitiva.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, \nLisboa, Assírio & Alvim, 2000, p. 64."
+    },
+    {
+      "id": 10630,
       "question_number": "4",
       "statement": "4.\n No excerto compreendido \nentre «Considera negativamente» (linha 22) e «de abuso» (linha 23), as formas \nverbais têm, respetivamente, um valor aspetual\n \n(\na\n)\n genérico e iterativo.",
       "question_type": "multiple_choice",
@@ -115,27 +240,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2744,
-          "letter": "B",
-          "text": "perfetivo e iterativo.",
-          "isCorrect": false
-        },
-        {
-          "id": 2745,
-          "letter": "C",
-          "text": "imperfetivo e genérico.",
-          "isCorrect": false
-        },
-        {
-          "id": 2746,
-          "letter": "D",
-          "text": "genérico e perfetivo.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por três partes individualizadas (introdução, \ndesenvolvimento e conclusão), devidamente proporcionadas e articuladas entre si de \nmodo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -145,7 +251,7 @@
       "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
     },
     {
-      "id": 1594,
+      "id": 10631,
       "question_number": "5",
       "statement": "5.\n As frases «E não \nrestam dúvidas de que, em boa medida, as suas observações têm fundamento.» \n(linha 18) e «Talvez sejamos hipócritas» (linha 32) exprimem a modalidade epistémica\n \n(\na\n)\n com valor de probabilidade, no primeiro caso, e com valor de certeza, no segundo caso.",
       "question_type": "multiple_choice",
@@ -157,25 +263,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2747,
+          "id": 20921,
           "letter": "B",
           "text": "com valor de probabilidade, em ambos os casos.",
           "isCorrect": false
         },
         {
-          "id": 2748,
+          "id": 20922,
           "letter": "C",
           "text": "com valor de certeza, em ambos os casos.",
           "isCorrect": true
         },
         {
-          "id": 2749,
+          "id": 20923,
           "letter": "D",
           "text": "com valor de certeza, no primeiro caso, e com valor de probabilidade, no segundo caso.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5. .................................................................................................................................................... 16 pontos\nPara explicar a crítica que é feita aos homens, incluindo os membros do clero, a partir da linha 7, devem \nser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ os homens (à semelhança dos peixes) são criticados por se deixarem seduzir pelo vício da vaidade/por \nse deixarem atrair por «dois retalhos de pano» (linha 10), o que os conduz à morte/perdição;\n‒ os membros das ordens religiosas e militares (de Malta, de Avis, de Cristo e de Santiago) não ficam \nimunes à vaidade de ostentarem o hábito da respetiva ordem, o que acaba por os conduzir à morte.\n•  Aspetos de conteúdo (C) ... ................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação",
+      "criteriaText": "5. .................................................................................................................................................... 16 pontos\nPara explicar a crítica que é feita aos homens, incluindo os membros do clero, a partir da linha 7, devem \nser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ os homens (à semelhança dos peixes) são criticados por se deixarem seduzir pelo vício da vaidade/por \nse deixarem atrair por «dois retalhos de pano» (linha 10), o que os conduz à morte/perdição;\n‒ os membros das ordens religiosas e militares (de Malta, de Avis, de Cristo e de Santiago) não ficam \nimunes à vaidade de ostentarem o hábito da respetiva ordem, o que acaba por os conduzir à morte.\n•  Aspetos de conteúdo (C) ... ................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n4 Explica a crítica feita pelo orador, desenvolvendo dois tópicos de resposta adequadamente. 10\n3 Explica a crítica feita pelo orador, desenvolvendo um tópico de resposta adequadamente \ne outro com pequenas imprecisões e/ou omissões. 8\n2\nExplica a crítica feita pelo orador, desenvolvendo um tópico de resposta adequadamente.\nOU\nExplica a crítica feita pelo orador, desenvolvendo dois tópicos de resposta, ambos com \npequenas imprecisões e/ou omissões.\n5\n1 Explica a crítica feita pelo orador, desenvolvendo um tópico de resposta com pequenas \nimprecisões e/ou omissões. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis Descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 5 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -185,7 +291,28 @@
       "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
     },
     {
-      "id": 1588,
+      "id": 10625,
+      "question_number": "6",
+      "statement": "6.\n T\nranscreva:\na)\n a metáfora que, entre as linhas 3 e 6, exprime a ideia de falta de lucidez;\nb)\n uma estrutura anafórica que, entre as linhas 12 e 15, imprime ritmo ao discurso.\n\nPart E C",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "6. .................................................................................................................................................... 8 pontos\na) «arremete cego» OU «cego» OU «arremete cego a ele» (linha 5);\nb) «desses piques, desses chuços e dessas espadas» (linha 12) OU «ou branco, que se chama Hábito de \nMalta, ou verde, que se chama de Avis, ou vermelho, que chama de Cristo e de Santiago» (linhas 13-14).\nNíveis Descritores de desempenho Pontuação\n2 Transcreve os dois elementos solicitados. 8\n1 Transcreve um dos elementos solicitados. 4\nNota – A ocorrência de erros de transcrição não implica a desvalorização da resposta.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\nPrefiro rosas, meu amor, à pátria,\nE antes magnólias amo\nQue a glória e a virtude.\nLogo que a vida me não canse, deixo\nQue a vida por mim passe\nLogo que eu fique o mesmo.\nQue importa àquele a quem já nada importa\nQue um perca e outro vença,\nSe a aurora raia sempre,\nSe cada ano com a primavera\nAparecem as folhas\nE com o outono cessam?\nE o resto, as outras coisas que os humanos\nAcrescentam à vida,\nQue me aumentam na alma?\nNada, salvo o desejo de indif’rença\nE a confiança mole\nNa hora fugitiva.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, \nLisboa, Assírio & Alvim, 2000, p. 64."
+    },
+    {
+      "id": 10632,
       "question_number": "6",
       "statement": "6.\n Identifique as funções sintáticas desempenhadas pelas expressões:\na)\n «dos rendimentos» (linhas 14 e 15);\nb)\n «que estas coisas ainda existem» (linha 27).",
       "question_type": "open",
@@ -196,9 +323,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6. .................................................................................................................................................... 8 pontos\na) Complemento do nome; b) Sujeito.\nNíveis Descritores de desempenho Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -206,7 +333,28 @@
       "contextText": "GRUPO II\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nNo passado, os homens tinham certezas religiosas e morais. Toda a vida individual e \nsocial estava organizada em redor dessas crenças sagradas. Os seus símbolos de pedra, \nos monumentos religiosos, sobreviveram aos milénios, tal como as estátuas dos deuses e os \nlivros de inspiração divina. A grande mudança teve lugar com a Revolução Industrial. Então, \na pouco e pouco, a banca, a bolsa, o arranha-céus de escritórios substituíram a catedral. \nParalelamente à crise do sacro, difunde-se a recusa do conceito de pecado e, eventualmente, \ndo conceito de culpa. Já não existem tábuas da lei absolutas e imutáveis, e muitos pensam, \ndepois de Nietzsche, que os conceitos de bem e de mal se estão a desvanecer, tal como a \nideia de demónio e de tentação.\nMuitos pensadores laicos constatam que o pensamento progressista triunfa hoje, mas \ncomo que despojado de valores. Ensina a não ser fanático, a ser tolerante, racional, mas, ao \nfazê-lo, aceita um pouco de tudo, o consumismo, a superficialidade da moda, o vazio da \ntelevisão. Não consegue, sobretudo, fazer despontar nos indivíduos uma chama que vá \nalém do mero bem-estar, um ideal que supere o horizonte de uma melhor distribuição dos \nrendimentos. Não cria metas, não suscita crença. Não sabe fornecer critérios do bem e do mal, \ndo justo e do injusto. Desta forma, tudo se reduz à opinião e à conveniência pessoais. Isto é o \nque os filósofos, os sociólogos e os observadores críticos continuam a dizer do nosso mundo. \nE não restam dúvidas de que, em boa medida, as suas observações têm fundamento. Mas, \nem nosso entender, não tomam em consideração os valores positivos do mundo moderno, a \nsua moralidade específica. \nPartamos da observação de alguns factos. A nossa sociedade tem muitos valores \nreconhecidos, partilhados, não discutidos. Considera negativamente a violência em todas \nas suas formas. A nossa sociedade eliminou as formas mais brutais de abuso. Eliminou o \nduelo, as vinganças privadas. Hoje, a pouco e pouco, está a eliminar os focos de guerra. \nCombateu a doença e as dores físicas e mentais. Defendeu as crianças, os velhos, os doentes, \nprotegendo-os com uma rede de direitos. Combate os preconceitos raciais, as discriminações \nétnicas. É certo que estas coisas ainda existem, mas são condenadas e combatidas como \nnunca o foram no passado. Também não é verdade que não sintamos o dever. Sentimos \ncomo drama e dever a pobreza do Terceiro Mundo. Sabemos que é nosso dever acabar com \na miséria, com a fome, com os desgastes provocados pelas doenças. Sabemos que é nosso \ndever dirigir o progresso técnico para um equilíbrio ecológico que garanta a vida às gerações \nfuturas. Não nos sentimos, de facto, para além do bem e do mal. Talvez sejamos hipócritas, \nmas damo-nos conta de que os desastres sociais e naturais são o produto do nosso egoísmo \nindividual e coletivo.\nFrancesco Alberoni e Salvatore Veca, O Altruísmo e a Moral, 5.ª ed., Venda Nova, Bertrand, 2000, pp. 9-13 (adaptado).\nNotaS\nbolsa \n(linha 5) – \n bolsa \nde valores; instituição onde são realizados negócios relativos à compra e venda de títulos de \ncrédito, ações, fundos públicos, etc.\nlaicos (linha 10) – que não são dependentes de qualquer confissão religiosa.\nsacro (linha 6) – sagrado."
     },
     {
-      "id": 1589,
+      "id": 10626,
+      "question_number": "7",
+      "statement": "7. Cesário V erde adota um olhar subjetivo e crítico sobre a cidade.\nEscreva uma breve exposição sobre a representação da cidade na poesia de Cesário Verde.\nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um \ndesenvolvimento no qual refira uma característica da cidade enquanto espaço físico e uma \ncaracterística da cidade enquanto espaço humano, fundamentando as ideias apresentadas em, pelo \nmenos, um exemplo significativo de cada uma das características;\n•  uma conclusão adequada ao desenvolvimento do tema.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "7. .................................................................................................................................................... 16 pontos\nNa resposta, deve ser referida uma característica da cidade enquanto espaço físico e uma característica \nda cidade enquanto espaço humano. Os tópicos a seguir apresentados constituem apenas exemplos, \npodendo ser abordados outros igualmente relevantes.\nRepresentação da cidade enquanto espaço físico:\n‒ é símbolo de aprisionamento/de morte, evidente, por exemplo, na referência a prédios sepulcrais/a ruas \ndelimitadas por prédios que provocam uma sensação de clausura (em «O Sentimento dum Ocidental»);\n‒ é marcado por contrastes entre espaços de riqueza/bem-estar e espaços de pobreza, por exemplo, \na casa apalaçada ou os hóteis da moda vs. o casebre ou os bairros degradados (em «Num Bairro \nModerno» e em «O Sentimento dum Ocidental»).\nRepresentação da cidade enquanto espaço humano:\n‒ é palco de contrastes sociais, através da representação de tipos citadinos com características que se \nopõem, por exemplo, as burguesinhas do Catolicismo e as elegantes vs. as costureiras, as floristas, \nas varinas ou o velho professor de latim (em «O Sentimento dum Ocidental»)/os rudes calceteiros vs. \na furtiva «atrizita» (em «Cristalizações»);\n‒ é um espaço de decadência moral e social, patente, por exemplo, na referência ao ratoneiro/aos \nbêbedos/às «imorais» (em «O Sentimento dum Ocidental»).\n•  Aspetos de conteúdo (C) ... ................................................................................. 9 pontos\nNíveis Descritores de desempenho Pontuação\n4\nRefere, adequadamente, uma característica da cidade enquanto espaço físico e outra \nenquanto espaço humano, fundamentando cada uma delas com, pelo menos, um \nexemplo significativo.\n9\n3\nRefere, adequadamente, uma característica da cidade enquanto espaço físico e outra \nenquanto espaço humano, mas apenas fundamenta uma delas com, pelo menos, um \nexemplo significativo.\nOU\nRefere uma característica da cidade enquanto espaço físico e outra enquanto espaço \nhumano, adequadamente num dos casos e com pequenas imprecisões e/ou omissões no \noutro, fundamentando cada uma delas com, pelo menos, um exemplo significativo.\n7\n2\nRefere uma característica da cidade enquanto espaço físico e outra enquanto espaço \nhumano, ambas com pequenas imprecisões e/ou omissões, fundamentando cada uma \ndelas com, pelo menos, um exemplo significativo.\nOU\nRefere, adequadamente, uma característica da cidade enquanto espaço físico OU uma \ncaracterística da cidade enquanto espaço humano, fundamentando essa característica \ncom, pelo menos, um exemplo significativo.\nOU\nRefere, adequadamente, uma característica da cidade enquanto espaço físico e outra \nenquanto espaço humano, sem as fundamentar com exemplos significativos.\n5\n1\nRefere, com pequenas imprecisões e/ou omissões, uma característica da cidade enquanto \nespaço físico OU uma característica da cidade enquanto espaço humano, fundamentando \nessa característica com, pelo menos, um exemplo significativo.\nOU\nRefere, com pequenas imprecisões e/ou omissões, uma característica da cidade enquanto \nespaço físico e outra enquanto espaço humano, sem as fundamentar com exemplos \nsignificativos.\n3\n\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 7 pontos\n• Estruturação do discurso1 ............................................................ 4 pontos\nNíveis Descritores de desempenho Pontuação\n4\nEscreve um texto bem estruturado, constituído por três partes (introdução, desenvolvimento \ne conclusão) devidamente proporcionadas e assegura, adequadamente, a progressão e o \nencadeamento das ideias.\n4\n3\nEscreve um texto globalmente bem estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção ou apresentando falhas \npontuais no que diz respeito à progressão e ao encadeamento das ideias.\n3\n2\nEscreve um texto suficientemente estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e apresentando falhas \npontuais no que diz respeito à progressão e ao encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado, apresentando diversas falhas no que diz \nrespeito à progressão e ao encadeamento das ideias. 1\n• Correção linguística2 6 ................................................................... 3 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 3).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 56 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\nPrefiro rosas, meu amor, à pátria,\nE antes magnólias amo\nQue a glória e a virtude.\nLogo que a vida me não canse, deixo\nQue a vida por mim passe\nLogo que eu fique o mesmo.\nQue importa àquele a quem já nada importa\nQue um perca e outro vença,\nSe a aurora raia sempre,\nSe cada ano com a primavera\nAparecem as folhas\nE com o outono cessam?\nE o resto, as outras coisas que os humanos\nAcrescentam à vida,\nQue me aumentam na alma?\nNada, salvo o desejo de indif’rença\nE a confiança mole\nNa hora fugitiva.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, \nLisboa, Assírio & Alvim, 2000, p. 64."
+    },
+    {
+      "id": 10633,
       "question_number": "7",
       "statement": "7.\n Indique \no processo de coesão textual assegurado pelas expressões «No passado» (linha 1), «a pouco e \npouco» (linha 5), «Já» (linha 7), «Hoje, a pouco e pouco» (linha 24) e «ainda» (linha 27).",
       "question_type": "open",
@@ -217,9 +365,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. .................................................................................................................................................... 8 pontos\n(Coesão) gramatical temporal OU (Coesão) temporal\nNíveis Descritores de desempenho Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",

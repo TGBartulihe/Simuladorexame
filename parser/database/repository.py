@@ -272,6 +272,17 @@ class Repository:
         context_id=None,
     ):
 
+        # CORREÇÃO — bug real encontrado processando um exame completo:
+        # o ON CONFLICT original era (exam_id, question_number), mas a
+        # numeração de questão REINICIA em cada grupo (GRUPO I tem
+        # questões 1-20, GRUPO II tem 1-3, GRUPO III tem 1-4) — então a
+        # questão "1" do GRUPO II, inserida depois da questão "1" do
+        # GRUPO I, sobrescrevia esta última silenciosamente. Um exame que
+        # devia ter 34 questões ficava só com 22 (perdendo justamente as
+        # de número repetido entre grupos). O índice único agora inclui
+        # group_id (ver scripts/fix_questions_unique_constraint.py — essa
+        # migração precisa rodar ANTES desta correção fazer efeito), e o
+        # ON CONFLICT aqui foi atualizado para casar com ele.
         cursor = self.db.execute(
             """
             INSERT INTO questions(
@@ -289,9 +300,8 @@ class Repository:
                 updated_at
             )
             VALUES(?,?,?,?,?,?,?,?,?,?,?,CURRENT_TIMESTAMP)
-            ON CONFLICT(exam_id, question_number)
+            ON CONFLICT(exam_id, group_id, question_number)
             DO UPDATE SET
-                group_id=excluded.group_id,
                 context_id=excluded.context_id,
                 statement=excluded.statement,
                 question_type=excluded.question_type,

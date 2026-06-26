@@ -4,31 +4,73 @@
   "subject": "Biologia e Geologia",
   "year": 2020,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 129,
+      "id": 1404,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 130,
+      "id": 1405,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 131,
+      "id": 1406,
       "name": "GRUPO III",
       "order": 2
-    },
-    {
-      "id": 132,
-      "name": "GRUPO I",
-      "order": 3
     }
   ],
   "questions": [
     {
-      "id": 1055,
+      "id": 10186,
+      "question_number": "1",
+      "statement": "1. Preveja os resultados obtidos nas garrafas I e III, comparando-os quanto a:\n–\n quantidade relativa de leveduras;\n–\n aspeto da água de cal;\n–\n odor do conteúdo.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19941,
+          "letter": "A",
+          "text": "tensões criadas pela ascensão de fluidos e pelo movimento da placa em subdução.",
+          "isCorrect": false
+        },
+        {
+          "id": 19942,
+          "letter": "B",
+          "text": "alterações químicas provocadas pela introdução de materiais hidratados na astenosfera.",
+          "isCorrect": false
+        },
+        {
+          "id": 19943,
+          "letter": "C",
+          "text": "alterações físicas das rochas do manto superior que assumem um comportamento dúctil.",
+          "isCorrect": false
+        },
+        {
+          "id": 19944,
+          "letter": "D",
+          "text": "tensões de natureza mecânica acumuladas ao longo de fraturas da crosta continental.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. a 2. ............................................................... (2 × 8 pontos) ....................................................... 16 pontos\nitens 1. 2.\nV\nersão 1 C a\nV\nersão 2 a d",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO II\nA fermentação é um dos processos metabólicos utilizados pelas leveduras, que são fungos unicelulares, \npara obtenção de energia a partir de um substrato.\nPara conhecer o processo fermentativo, realizou-se a seguinte experiência.\nProcedimento:\n1.\n Marcaram-se 3 garrafas térmicas com os números romanos I, II e III.\n2.\n Prepararam-se 200 mL\n de suspensão de leveduras a 10% (m/V).\n3.\n Encheram-se \nas garrafas I e II até ¾ da sua capacidade com uma solução de glucose a 30% (m/V), e \nencheu-se a garrafa III com igual volume de água destilada.\n4.\n Adicionaram-se \nàs garrafas I e III 100 mL de suspensão de leveduras a 10% (m/V) e à garrafa II \n100 mL de água.\n5.\n Introduziu-se água de cal1 em 3 gobelés.\n6.\n Montou-se \num dispositivo experimental, semelhante ao representado na Figura 3, para cada uma das \ngarrafas, I, II e III, e registou-se a temperatura em cada garrafa.\n7.\n Ao fim de 48 horas, registou-se:\n–\n a temperatura do conteúdo das garrafas;\n–\n o aspeto da água de cal.\n8.\n Destaparam-se \nas garrafas, mexeu-se o respetivo conteúdo com uma vareta e registaram-se os odores \nlibertados.\n9.\n Retirou-se uma gota de cada uma das suspensões das garrafas I \ne III, observaram-se estas gotas ao \nmicroscópio ótico composto, com ampliação 10 × 40, e registou-se o número de células de levedura \nem cada caso.\nNota:\n1 Água de cal – solução de aspeto límpido, que turva na presença de CO2.\nFigura 3"
+    },
+    {
+      "id": 10190,
       "question_number": "1",
       "statement": "1. Os sismos que ocorreram na secção Izu-Bonin entre 1985 e 1986 resultaram de",
       "question_type": "multiple_choice",
@@ -38,33 +80,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1712,
-          "letter": "A",
-          "text": "tensões criadas pela ascensão de fluidos e pelo movimento da placa em subdução.",
-          "isCorrect": false
-        },
-        {
-          "id": 1713,
-          "letter": "B",
-          "text": "alterações químicas provocadas pela introdução de materiais hidratados na astenosfera.",
-          "isCorrect": false
-        },
-        {
-          "id": 1714,
-          "letter": "C",
-          "text": "alterações físicas das rochas do manto superior que assumem um comportamento dúctil.",
-          "isCorrect": false
-        },
-        {
-          "id": 1715,
-          "letter": "D",
-          "text": "tensões de natureza mecânica acumuladas ao longo de fraturas da crosta continental.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nAs pontuações obtidas \nnas respostas a estes",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -74,9 +91,9 @@
       "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
     },
     {
-      "id": 1056,
+      "id": 10187,
       "question_number": "2",
-      "statement": "2.\n De acordo \ncom os dados, nas duas secções do sistema de arco vulcânico de Izu-Bonin-Mariana, os \ninvestigadores verificaram que",
+      "statement": "2.\n Na garrafa I, relativamente ao início da experiência, pode inferir-se que ocorreu",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -86,31 +103,52 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1716,
+          "id": 19945,
           "letter": "A",
           "text": "a atividade sísmica que resultou diretamente da subdução de litosfera oceânica foi residual.",
           "isCorrect": false
         },
         {
-          "id": 1717,
+          "id": 19946,
           "letter": "B",
           "text": "a ascensão de materiais hidratados na secção BB' teve início a cerca de 250 km de profundidade.",
           "isCorrect": false
         },
         {
-          "id": 1718,
+          "id": 19947,
           "letter": "C",
           "text": "a zona de rutura das rochas do manto por ascensão de fluidos apresenta um diâmetro de 200 km.",
           "isCorrect": false
         },
         {
-          "id": 1719,
+          "id": 19948,
           "letter": "D",
           "text": "a curta duração dos enxames sísmicos reflete a baixa velocidade a que os fluidos são transportados.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "2. 3. 5. 6. 7. 8.\nCotação (em pontos) 15 x 8 pontos 120\nt\notal 200",
+      "criteriaText": "2. ...... ................................................................ (1 × 8 pontos) ....................................................... 8 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO II\nA fermentação é um dos processos metabólicos utilizados pelas leveduras, que são fungos unicelulares, \npara obtenção de energia a partir de um substrato.\nPara conhecer o processo fermentativo, realizou-se a seguinte experiência.\nProcedimento:\n1.\n Marcaram-se 3 garrafas térmicas com os números romanos I, II e III.\n2.\n Prepararam-se 200 mL\n de suspensão de leveduras a 10% (m/V).\n3.\n Encheram-se \nas garrafas I e II até ¾ da sua capacidade com uma solução de glucose a 30% (m/V), e \nencheu-se a garrafa III com igual volume de água destilada.\n4.\n Adicionaram-se \nàs garrafas I e III 100 mL de suspensão de leveduras a 10% (m/V) e à garrafa II \n100 mL de água.\n5.\n Introduziu-se água de cal1 em 3 gobelés.\n6.\n Montou-se \num dispositivo experimental, semelhante ao representado na Figura 3, para cada uma das \ngarrafas, I, II e III, e registou-se a temperatura em cada garrafa.\n7.\n Ao fim de 48 horas, registou-se:\n–\n a temperatura do conteúdo das garrafas;\n–\n o aspeto da água de cal.\n8.\n Destaparam-se \nas garrafas, mexeu-se o respetivo conteúdo com uma vareta e registaram-se os odores \nlibertados.\n9.\n Retirou-se uma gota de cada uma das suspensões das garrafas I \ne III, observaram-se estas gotas ao \nmicroscópio ótico composto, com ampliação 10 × 40, e registou-se o número de células de levedura \nem cada caso.\nNota:\n1 Água de cal – solução de aspeto límpido, que turva na presença de CO2.\nFigura 3"
+    },
+    {
+      "id": 10191,
+      "question_number": "2",
+      "statement": "2.\n De acordo \ncom os dados, nas duas secções do sistema de arco vulcânico de Izu-Bonin-Mariana, os \ninvestigadores verificaram que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -120,7 +158,7 @@
       "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
     },
     {
-      "id": 1057,
+      "id": 10188,
       "question_number": "3",
       "statement": "3.\n Escreva a equação geral da fermentação alcoólica, utilizando as seguintes moléculas:\n2 CO2\n2 CH3CH2OH\nC6H12O6\n2 ATP\n2 ADP\n2 P\ni",
       "question_type": "open",
@@ -131,17 +169,84 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3 Justifica, com rigor científico a elevada atividade sísmica, apresentando apenas dois dos \nelementos. 5",
+      "criteriaText": "3. .................................................................................................................................................... 8 pontos\nChave – \na) – 1; b) – 2; c) – 3; d) – 2; e) – 1\nNíveis d escritores de desempenho Pontuação\n3 Completa o texto com 5 opções corretas. 8\n2 Completa o texto com 3 ou 4 opções corretas. 5\n1 Completa o texto com 2 opções corretas. 2",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nA fermentação é um dos processos metabólicos utilizados pelas leveduras, que são fungos unicelulares, \npara obtenção de energia a partir de um substrato.\nPara conhecer o processo fermentativo, realizou-se a seguinte experiência.\nProcedimento:"
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO II\nA fermentação é um dos processos metabólicos utilizados pelas leveduras, que são fungos unicelulares, \npara obtenção de energia a partir de um substrato.\nPara conhecer o processo fermentativo, realizou-se a seguinte experiência.\nProcedimento:\n1.\n Marcaram-se 3 garrafas térmicas com os números romanos I, II e III.\n2.\n Prepararam-se 200 mL\n de suspensão de leveduras a 10% (m/V).\n3.\n Encheram-se \nas garrafas I e II até ¾ da sua capacidade com uma solução de glucose a 30% (m/V), e \nencheu-se a garrafa III com igual volume de água destilada.\n4.\n Adicionaram-se \nàs garrafas I e III 100 mL de suspensão de leveduras a 10% (m/V) e à garrafa II \n100 mL de água.\n5.\n Introduziu-se água de cal1 em 3 gobelés.\n6.\n Montou-se \num dispositivo experimental, semelhante ao representado na Figura 3, para cada uma das \ngarrafas, I, II e III, e registou-se a temperatura em cada garrafa.\n7.\n Ao fim de 48 horas, registou-se:\n–\n a temperatura do conteúdo das garrafas;\n–\n o aspeto da água de cal.\n8.\n Destaparam-se \nas garrafas, mexeu-se o respetivo conteúdo com uma vareta e registaram-se os odores \nlibertados.\n9.\n Retirou-se uma gota de cada uma das suspensões das garrafas I \ne III, observaram-se estas gotas ao \nmicroscópio ótico composto, com ampliação 10 × 40, e registou-se o número de células de levedura \nem cada caso.\nNota:\n1 Água de cal – solução de aspeto límpido, que turva na presença de CO2.\nFigura 3"
     },
     {
-      "id": 1058,
+      "id": 10167,
+      "question_number": "4",
+      "statement": "4.\n Na \nserra da Estrela ocorrem filões de quartzo que se formaram a partir de um magma _______ e \nque são mais _______ do que as rochas encaixantes.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19949,
+          "letter": "A",
+          "text": "um limite convergente, resultante do movimento da placa do Pacífico para oeste.",
+          "isCorrect": false
+        },
+        {
+          "id": 19950,
+          "letter": "B",
+          "text": "um limite divergente, resultante do movimento da placa do Pacífico para oeste.",
+          "isCorrect": false
+        },
+        {
+          "id": 19951,
+          "letter": "C",
+          "text": "atividade vulcânica explosiva, resultante do movimento da placa do Pacífico para este.",
+          "isCorrect": false
+        },
+        {
+          "id": 19952,
+          "letter": "D",
+          "text": "atividade vulcânica efusiva, resultante do movimento da placa do Pacífico para este.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. a 5. ............................................................... (2 × 8 pontos) ....................................................... 16 pontos\nitens 4. 5.\nV\nersão 1 C d\nV\nersão 2 B C",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Texto 1",
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
+    },
+    {
+      "id": 10189,
+      "question_number": "4",
+      "statement": "4. As leveduras podem utilizar dois processos de obtenção de energia a partir de glucose – a fermentação \ne a respiração celular aeróbia.\nExplique a diferença de rendimento energético entre os dois processos.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO II\nA fermentação é um dos processos metabólicos utilizados pelas leveduras, que são fungos unicelulares, \npara obtenção de energia a partir de um substrato.\nPara conhecer o processo fermentativo, realizou-se a seguinte experiência.\nProcedimento:\n1.\n Marcaram-se 3 garrafas térmicas com os números romanos I, II e III.\n2.\n Prepararam-se 200 mL\n de suspensão de leveduras a 10% (m/V).\n3.\n Encheram-se \nas garrafas I e II até ¾ da sua capacidade com uma solução de glucose a 30% (m/V), e \nencheu-se a garrafa III com igual volume de água destilada.\n4.\n Adicionaram-se \nàs garrafas I e III 100 mL de suspensão de leveduras a 10% (m/V) e à garrafa II \n100 mL de água.\n5.\n Introduziu-se água de cal1 em 3 gobelés.\n6.\n Montou-se \num dispositivo experimental, semelhante ao representado na Figura 3, para cada uma das \ngarrafas, I, II e III, e registou-se a temperatura em cada garrafa.\n7.\n Ao fim de 48 horas, registou-se:\n–\n a temperatura do conteúdo das garrafas;\n–\n o aspeto da água de cal.\n8.\n Destaparam-se \nas garrafas, mexeu-se o respetivo conteúdo com uma vareta e registaram-se os odores \nlibertados.\n9.\n Retirou-se uma gota de cada uma das suspensões das garrafas I \ne III, observaram-se estas gotas ao \nmicroscópio ótico composto, com ampliação 10 × 40, e registou-se o número de células de levedura \nem cada caso.\nNota:\n1 Água de cal – solução de aspeto límpido, que turva na presença de CO2.\nFigura 3"
+    },
+    {
+      "id": 10192,
       "question_number": "4",
       "statement": "4.\n O sistema de arco vulcânico de Izu-Bonin-Mariana está associado a",
       "question_type": "multiple_choice",
@@ -151,33 +256,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1720,
-          "letter": "A",
-          "text": "um limite convergente, resultante do movimento da placa do Pacífico para oeste.",
-          "isCorrect": false
-        },
-        {
-          "id": 1721,
-          "letter": "B",
-          "text": "um limite divergente, resultante do movimento da placa do Pacífico para oeste.",
-          "isCorrect": false
-        },
-        {
-          "id": 1722,
-          "letter": "C",
-          "text": "atividade vulcânica explosiva, resultante do movimento da placa do Pacífico para este.",
-          "isCorrect": false
-        },
-        {
-          "id": 1723,
-          "letter": "D",
-          "text": "atividade vulcânica efusiva, resultante do movimento da placa do Pacífico para este.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 Justifica, com falhas no rigor científico, a elevada atividade sísmica, apresentando os três \nelementos (A, B, C). 7",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -187,7 +267,53 @@
       "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
     },
     {
-      "id": 1059,
+      "id": 10168,
+      "question_number": "5",
+      "statement": "5. Os xistos são rochas",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19953,
+          "letter": "A",
+          "text": "a litosfera oceânica apresenta menor densidade.",
+          "isCorrect": false
+        },
+        {
+          "id": 19954,
+          "letter": "B",
+          "text": "o fluxo térmico é maior .",
+          "isCorrect": false
+        },
+        {
+          "id": 19955,
+          "letter": "C",
+          "text": "o grau geotérmico é maior .",
+          "isCorrect": false
+        },
+        {
+          "id": 19956,
+          "letter": "D",
+          "text": "a idade das rochas da litosfera oceânica é menor .",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Texto 1",
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
+    },
+    {
+      "id": 10193,
       "question_number": "5",
       "statement": "5.\n Numa zona de subdução, comparativamente com uma zona de rifte,",
       "question_type": "multiple_choice",
@@ -197,33 +323,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1724,
-          "letter": "A",
-          "text": "a litosfera oceânica apresenta menor densidade.",
-          "isCorrect": false
-        },
-        {
-          "id": 1725,
-          "letter": "B",
-          "text": "o fluxo térmico é maior .",
-          "isCorrect": false
-        },
-        {
-          "id": 1726,
-          "letter": "C",
-          "text": "o grau geotérmico é maior .",
-          "isCorrect": false
-        },
-        {
-          "id": 1727,
-          "letter": "D",
-          "text": "a idade das rochas da litosfera oceânica é menor .",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5 Justifica, com rigor científico, a elevada atividade sísmica, apresentando os três elementos \n(A, B, C). 8",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -233,7 +334,53 @@
       "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
     },
     {
-      "id": 1060,
+      "id": 10169,
+      "question_number": "6",
+      "statement": "6.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência correta dos \nacontecimentos relacionados com a história geológica da serra da Estrela.\nA.\n Erosão das rochas durante o Mesozoico.\nB.\n Ocorrência de processos de metamorfismo e de plutonismo.\nC.\n Levantamento crustal devido à reativação de falhas antigas.\nD.\n Deposição de sedimentos em meio marinho profundo.\nE. \n Formação de vales glaciários e de moreias.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19957,
+          "letter": "A",
+          "text": "aumenta quando estas atravessam a descontinuidade de Moho.",
+          "isCorrect": false
+        },
+        {
+          "id": 19958,
+          "letter": "B",
+          "text": "aumenta quando estas passam da litosfera para a astenosfera.",
+          "isCorrect": false
+        },
+        {
+          "id": 19959,
+          "letter": "C",
+          "text": "diminui quando estas atravessam a descontinuidade de Lehmann.",
+          "isCorrect": false
+        },
+        {
+          "id": 19960,
+          "letter": "D",
+          "text": "diminui quando estas passam da astenosfera para a mesosfera.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 8 pontos\nV\nersão 1 – \nd\n, B, \na\n, C, E\nVersão 2 – C, \na\n, E, \nd\n, B",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Texto 1",
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
+    },
+    {
+      "id": 10194,
       "question_number": "6",
       "statement": "6.\n Estudos geofísicos mostram que a velocidade das ondas sísmicas",
       "question_type": "multiple_choice",
@@ -243,33 +390,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1728,
-          "letter": "A",
-          "text": "aumenta quando estas atravessam a descontinuidade de Moho.",
-          "isCorrect": false
-        },
-        {
-          "id": 1729,
-          "letter": "B",
-          "text": "aumenta quando estas passam da litosfera para a astenosfera.",
-          "isCorrect": false
-        },
-        {
-          "id": 1730,
-          "letter": "C",
-          "text": "diminui quando estas atravessam a descontinuidade de Lehmann.",
-          "isCorrect": false
-        },
-        {
-          "id": 1731,
-          "letter": "D",
-          "text": "diminui quando estas passam da astenosfera para a mesosfera.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. .................................................................................................................................................... 8 pontos\nV\nersão 1 – \nd\n, B, \na\n, C, E\nVersão 2 – C, \na\n, E, \nd\n, B",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -279,7 +401,53 @@
       "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
     },
     {
-      "id": 1061,
+      "id": 10170,
+      "question_number": "7",
+      "statement": "7.\n Explique \na existência de afloramentos graníticos nos pontos mais elevados da serra da Estrela, \nconsiderando a génese destas rochas e a evolução tectónica da região durante o Cenozoico.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––\n\nTexto 2\nA serra da Estrela caracteriza-se por ter uma grande variedade de habitats, o que propicia uma \nelevada biodiversidade, incluindo algumas espécies que aí ocorrem exclusivamente (espécies \nendémicas). Salienta-se a planta Silene foetida foetida, que se desenvolve em fissuras e em \npequenas depressões das rochas, com uma distribuição restrita a esta serra, a altitudes superiores \na 1400 metros. Referem-se, também, a truta-de-rio (Salmo trutta fario) e, pela vulnerabilidade das \nsuas populações, a salamandra-lusitânica (Chioglossa lusitanica), um anfíbio.\nOutra planta existente na serra, o cardo selvagem (Cynara cardunculus ), assume uma grande \nimportância na economia da região, uma vez que é utilizada no fabrico de queijo da serra. Esta \nplanta, característica de regiões mediterrânicas, desenvolve-se até 600 m de altitude, possui um \nsistema radicular profundo e revela uma boa adaptação a ambientes caracterizados por elevado \nstress abiótico. A flor desta planta possui diversos tipos de proteases (enzimas hidrolíticas), como \nas cardosinas, que se acumulam em vacúolos, na parede celular e no espaço extracelular dos \nórgãos femininos da flor.\nBaseado em: www.cise.pt/pt/index.php/serra-da-estrela (consultado em setembro de 2019) e em: \nM. C. Coelho, «Avaliação de populações espontâneas de cardo-do-coalho (Cynara cardunculus) \nnuma perspetiva de valorização da espécie», Escola Superior Agrária de Elvas, 2018.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19961,
+          "letter": "A",
+          "text": "a desidratação dos minerais, que aumenta o ponto de fusão das rochas.",
+          "isCorrect": false
+        },
+        {
+          "id": 19962,
+          "letter": "B",
+          "text": "o aumento da temperatura, que aumenta o ponto de fusão das rochas.",
+          "isCorrect": false
+        },
+        {
+          "id": 19963,
+          "letter": "C",
+          "text": "o aumento da pressão, que diminui o ponto de fusão das rochas.",
+          "isCorrect": false
+        },
+        {
+          "id": 19964,
+          "letter": "D",
+          "text": "a existência de água, que diminui o ponto de fusão das rochas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 8 pontos\nExplica \na existência de afloramentos graníticos nos pontos mais elevados da serra da Estrela, referindo as \nsuas condições de génese (\na\n), a erosão ocorrida na região (B) e o levantamento daquelas rochas durante \no Cenozoico (C).\n(\na\n)\n O granito forma-se em profundidade.\nOU\nO granito é uma rocha plutónica (OU intrusiva).\n(B)\n A\n erosão das rochas sobrejacentes ao granito permitiu o seu afloramento.\n(C)\n No \nCenozoico ocorreu a reativação de falhas antigas, que levou ao levantamento dos granitos (OU à \nformação da serra).\nOU\nNo Cenozoico, a convergência entre as placas Africana e Eurasiática levou ao levantamento dos \ngranitos (OU à formação da serra).\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5 Explica, com rigor científico, a existência de afloramentos graníticos na serra da Estrela, \napresentando os três elementos (A, B, C). 8\n4 Explica, com falhas no rigor científico, a existência de afloramentos graníticos na serra da \nEstrela, apresentando os três elementos (A, B, C). 7\n3 Explica, com rigor científico, a existência de afloramentos graníticos na serra da Estrela, \napresentando apenas dois dos elementos. 5\n2 Explica, com falhas no rigor científico, a existência de afloramentos graníticos na serra da \nEstrela, apresentando apenas dois dos elementos. 4\n1 Apresenta, com rigor científico, apenas um dos elementos. 2",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Texto 1",
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
+    },
+    {
+      "id": 10195,
       "question_number": "7",
       "statement": "7. Uma das condições que contribui para a formação de magma é",
       "question_type": "multiple_choice",
@@ -289,33 +457,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1732,
-          "letter": "A",
-          "text": "a desidratação dos minerais, que aumenta o ponto de fusão das rochas.",
-          "isCorrect": false
-        },
-        {
-          "id": 1733,
-          "letter": "B",
-          "text": "o aumento da temperatura, que aumenta o ponto de fusão das rochas.",
-          "isCorrect": false
-        },
-        {
-          "id": 1734,
-          "letter": "C",
-          "text": "o aumento da pressão, que diminui o ponto de fusão das rochas.",
-          "isCorrect": false
-        },
-        {
-          "id": 1735,
-          "letter": "D",
-          "text": "a existência de água, que diminui o ponto de fusão das rochas.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7. .................................................................................................................................................... 8 pontos\nExplica \na existência de afloramentos graníticos nos pontos mais elevados da serra da Estrela, referindo as \nsuas condições de génese (\na\n), a erosão ocorrida na região (B) e o levantamento daquelas rochas durante \no Cenozoico (C).\n(\na\n)\n O granito forma-se em profundidade.\nOU\nO granito é uma rocha plutónica (OU intrusiva).\n(B)\n A\n erosão das rochas sobrejacentes ao granito permitiu o seu afloramento.\n(C)\n No \nCenozoico ocorreu a reativação de falhas antigas, que levou ao levantamento dos granitos (OU à \nformação da serra).\nOU\nNo Cenozoico, a convergência entre as placas Africana e Eurasiática levou ao levantamento dos \ngranitos (OU à formação da serra).\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -325,9 +468,9 @@
       "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
     },
     {
-      "id": 1062,
+      "id": 10171,
       "question_number": "8",
-      "statement": "8.\n Na zona \nem estudo, foram recolhidas amostras de andesito, formado a partir de um magma que, em \nprofundidade, poderá originar",
+      "statement": "8. Na planta Silene foetida foetida, os iões resultantes da",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -337,25 +480,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1736,
+          "id": 19965,
           "letter": "A",
           "text": "diorito.",
           "isCorrect": false
         },
         {
-          "id": 1737,
+          "id": 19966,
           "letter": "B",
           "text": "granito.",
           "isCorrect": false
         },
         {
-          "id": 1738,
+          "id": 19967,
           "letter": "C",
           "text": "gabro.",
           "isCorrect": false
         },
         {
-          "id": 1739,
+          "id": 19968,
           "letter": "D",
           "text": "riólito.",
           "isCorrect": false
@@ -366,15 +509,15 @@
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO III",
-      "contextTitle": "Figura 4",
-      "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
+      "groupName": "GRUPO I",
+      "contextTitle": "Texto 1",
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1063,
-      "question_number": "9",
-      "statement": "9.\n Justifique a elevada atividade sísmica no arquipélago do Japão.\nFIM\nCOTAÇÕES\nAs pontuações obtidas \nnas respostas a estes \n10 itens da prova contribuem \nobrigatoriamente para \na classificação final.\nGrupo\nSubtotalI I I II II III III III III III",
-      "question_type": "essay",
+      "id": 10196,
+      "question_number": "8",
+      "statement": "8.\n Na zona \nem estudo, foram recolhidas amostras de andesito, formado a partir de um magma que, em \nprofundidade, poderá originar",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -382,9 +525,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 8 pontos\nJustifica \na elevada atividade sísmica no arquipélago do Japão, relacionando o contexto tectónico da \nregião (\na\n) com a acumulação de energia (B) e com o limite de resistência das rochas (C).\n(\na\n)\n O Japão está próximo de uma zona de subdução (OU de um limite convergente de placas).\n(B)\n Na região entre as duas placas acumulam-se elevadas tensões.\nOU\nNa região entre as duas placas acumulam-se elevadas quantidades de energia.\n(C)\n A\n energia liberta-se quando o limite de resistência/elasticidade das rochas é ultrapassado, originando \nsismos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -392,7 +535,28 @@
       "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
     },
     {
-      "id": 1066,
+      "id": 10172,
+      "question_number": "9",
+      "statement": "9.\n A\n planta Silene foetida foetida possui um ciclo de vida semelhante ao representado no esquema da Figura 2.\nFigura 2",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. .................................................................................................................................................... 8 pontos\nJustifica \na elevada atividade sísmica no arquipélago do Japão, relacionando o contexto tectónico da \nregião (\na\n) com a acumulação de energia (B) e com o limite de resistência das rochas (C).\n(\na\n)\n O Japão está próximo de uma zona de subdução (OU de um limite convergente de placas).\n(B)\n Na região entre as duas placas acumulam-se elevadas tensões.\nOU\nNa região entre as duas placas acumulam-se elevadas quantidades de energia.\n(C)\n A\n energia liberta-se quando o limite de resistência/elasticidade das rochas é ultrapassado, originando \nsismos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5 Justifica, com rigor científico, a elevada atividade sísmica, apresentando os três elementos \n(A, B, C). 8\n4 Justifica, com falhas no rigor científico, a elevada atividade sísmica, apresentando os três \nelementos (A, B, C). 7\n3 Justifica, com rigor científico a elevada atividade sísmica, apresentando apenas dois dos \nelementos. 5\n2 Justifica, com falhas no rigor científico, a elevada atividade sísmica, apresentando apenas \ndois dos elementos. 4\n1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nAs pontuações obtidas \nnas respostas a estes \n10 itens da prova contribuem \nobrigatoriamente para \na classificação final.\nGrupo\nSubtotalI I I II II III III III III III",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Texto 1",
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
+    },
+    {
+      "id": 10175,
       "question_number": "10",
       "statement": "10.\n Associe aos processos de reprodução apresentados \nna Coluna I as características da Coluna II que lhes \npodem corresponder. Cada uma das características deve ser associada apenas a uma letra e todas as \ncaracterísticas devem ser utilizadas.\nEscreva na folha de respostas cada letra da Coluna I seguida do número ou dos números (de 1 a 9) \ncorrespondente(s).\nCOLUNA I COLUNA II\n(a) Reproduçã o assexuada\n(b)\n Reproduçã\no sexuada\n(c)\n Reproduçã\no por ambos \nos processos\n(1)\n Desenvolvimento do indivíduo adulto por mitoses sucessivas.\n(2)\n Produção de células reprodutoras por meiose.\n(3)\n Formação de duas células semelhantes \nentre si, a partir de um \norganismo unicelular.\n(4) Ocorrência de fenómenos de recombinação génica.\n(5)\n Formação de novos organismos por desenvolvimento \nde \nóvulos sem ter ocorrido fecundação.\n(6)\n Favorecimento do rápido crescimento de uma população.\n(7)\n Ocorrência de mutações como fonte de variabilidade.\n(8)\n Formação de seres geneticamente iguais ao progenitor\n.\n(9)\n Restauração \ndo número de cromossomas característico da \nespécie.",
       "question_type": "matching",
@@ -403,17 +567,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "10. 11. 12. 13. 14. 15. 17.\nGrupo II Grupo III",
+      "criteriaText": "10. .................................................................................................................................................. 8 pontos\nChave – \n(a) – (3), (5), (6), (8); (b) – (2), (4), (9); (c) – (1), (7)\nNíveis d escritores de desempenho Pontuação\n3 Associa corretamente 8 ou 9 características aos respetivos processos. 8\n2 Associa corretamente 5, 6 ou 7 características aos respetivos processos. 5\n1 Associa corretamente 2, 3 ou 4 características aos respetivos processos. 2",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1067,
+      "id": 10176,
       "question_number": "11",
       "statement": "11. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos que conduzem à síntese e à incorporação de cardosinas na parede e no espaço \nextracelular de órgãos femininos da flor de Cynara cardunculus.\nA.\n Síntese de proteínas por ribossomas associados ao retículo endoplasmático.\nB.\n Fusão de vesículas golgianas com a membrana citoplasmática.\nC.\n Síntese de uma molécula de RNA\n pré-mensageiro.\nD.\n Modificações pós-traducionais a nível do complexo de Golgi.\nE. \n Migração de uma molécula de RNA mensageiro para o citoplasma.",
       "question_type": "ordering",
@@ -424,17 +588,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "11. .................................................................................................................................................. 8 pontos\nV\nersão 1 – C, E, \na\n, \nd\n, B\nVersão 2 – \na\n, B, \nd\n, C, E",
+      "criteriaText": "11.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho\nCritérios de Classificação 8 Páginas\nCritério S GE rai S d E C la SS i F i C ação\nA classificação a atribuir a cada resposta resulta da aplicação dos critérios gerais e dos critérios específicos \napresentados para cada item e é expressa por um número inteiro.\nA ausência de indicação inequívoca da versão da prova implica a classificação com zero pontos das respostas \naos itens de seleção.\nAs respostas ilegíveis ou que não possam ser claramente identificadas são classificadas com zero pontos.\nEm caso de omissão ou de engano na identificação de uma resposta, esta pode ser classificada se for \npossível identificar inequivocamente o item a que diz respeito.\nSe for apresentada mais do que uma resposta ao mesmo item, só é classificada a resposta que surgir em \nprimeiro lugar.\nitE\nNS \ndE\n S\nElEç\não\nAs respostas aos itens de seleção podem ser classificadas de forma dicotómica ou por níveis de desempenho, \nde acordo com os critérios específicos. No primeiro caso, a cotação do item só é atribuída às respostas \nintegralmente corretas e completas, sendo todas as outras respostas classificadas com zero pontos. No caso \nda classificação por níveis de desempenho, a cada nível corresponde uma dada pontuação, de acordo com \nos critérios específicos.\nNas respostas aos itens de seleção, a transcrição do texto da opção escolhida é considerada equivalente à \nindicação da letra ou do número correspondente.\nitE\nNS \ndE CoNSt\nrução\nNos itens de resposta curta, são atribuídas cotações às respostas total ou parcialmente corretas, de acordo \ncom os critérios específicos.\nAs respostas que contenham elementos contraditórios são classificadas com zero pontos.\nNos itens de resposta restrita, os critérios de classificação estão organizados por níveis de desempenho. A \ncada nível de desempenho corresponde uma dada pontuação. Se permanecerem dúvidas quanto ao nível a \natribuir, deve optar-se pelo nível mais elevado de entre os dois tidos em consideração. Qualquer resposta que \nnão atinja o nível 1 de desempenho é classificada com zero pontos.\nOs itens de resposta restrita são classificados tendo em conta o conteúdo e o rigor científico.\nSão consideradas falhas no rigor científico a utilização inadequada ou imprecisa de termos, de conceitos ou \nde processos, assim como o incumprimento das normas de nomenclatura binominal.\nAs respostas que não apresentem exatamente os termos ou expressões constantes nos critérios específicos \nde classificação são classificadas em igualdade de circunstâncias com aquelas que os apresentem, desde \nque o seu conteúdo seja cientificamente válido, adequado ao solicitado e enquadrado pelos documentos \ncurriculares de referência.\n\nCritério S ESPEC í F i C o S d E C la SS i F i C ação\nGRUPO I",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1068,
+      "id": 10177,
       "question_number": "12",
       "statement": "12.\n Segundo \numa perspetiva darwinista, a sobrevivência de Cynara cardunculus , em estado selvagem, na \nserra da Estrela deve-se à",
       "question_type": "multiple_choice",
@@ -446,25 +610,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1684,
+          "id": 19913,
           "letter": "A",
           "text": "necessidade de sobrevivência em regiões com elevada precipitação.",
           "isCorrect": false
         },
         {
-          "id": 1685,
+          "id": 19914,
           "letter": "B",
           "text": "reprodução diferencial de plantas resistentes a stress hídrico.",
           "isCorrect": false
         },
         {
-          "id": 1686,
+          "id": 19915,
           "letter": "C",
           "text": "ocorrência de mutações que permitiram a adaptação a solos graníticos.",
           "isCorrect": false
         },
         {
-          "id": 1687,
+          "id": 19916,
           "letter": "D",
           "text": "seleção natural de plantas adaptadas a solos pouco profundos.",
           "isCorrect": false
@@ -477,10 +641,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1069,
+      "id": 10178,
       "question_number": "13",
       "statement": "13.\n O peixe \nSalmo trutta fario e o anfíbio Chioglossa lusitanica possuem tubo digestivo",
       "question_type": "multiple_choice",
@@ -492,25 +656,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1688,
+          "id": 19917,
           "letter": "A",
           "text": "completo e circulação simples.",
           "isCorrect": false
         },
         {
-          "id": 1689,
+          "id": 19918,
           "letter": "B",
           "text": "incompleto e circulação dupla.",
           "isCorrect": false
         },
         {
-          "id": 1690,
+          "id": 19919,
           "letter": "C",
           "text": "completo e sistema circulatório fechado.",
           "isCorrect": false
         },
         {
-          "id": 1691,
+          "id": 19920,
           "letter": "D",
           "text": "incompleto e sistema circulatório aberto.",
           "isCorrect": false
@@ -523,10 +687,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1070,
+      "id": 10179,
       "question_number": "14",
       "statement": "14.\n \nA truta-de-rio, Salmo trutta fario, e a truta-arco-íris, Onchorhynchus mykiss, esta última introduzida nas \nbarragens e em algumas lagoas da serra da Estrela,",
       "question_type": "multiple_choice",
@@ -538,25 +702,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1692,
+          "id": 19921,
           "letter": "A",
           "text": "pertencem ao mesmo género.",
           "isCorrect": false
         },
         {
-          "id": 1693,
+          "id": 19922,
           "letter": "B",
           "text": "podem cruzar-se entre si e originar descendentes férteis.",
           "isCorrect": false
         },
         {
-          "id": 1694,
+          "id": 19923,
           "letter": "C",
           "text": "fazem parte da mesma população.",
           "isCorrect": false
         },
         {
-          "id": 1695,
+          "id": 19924,
           "letter": "D",
           "text": "têm restritivo específico trutta e mykiss, respetivamente.",
           "isCorrect": false
@@ -569,10 +733,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1071,
+      "id": 10180,
       "question_number": "15",
       "statement": "15.\n \nA subespécie Silene foetida foetida é considerada em perigo de extinção na natureza, de acordo com a \nUnião Internacional para a Conservação da Natureza (UICN).\nRelacione o endemismo de Silene foetida foetida com a categoria de conservação atribuída pela UICN. \nNa sua resposta, deve fazer referência à variabilidade genética desta planta.\n\n –––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
       "question_type": "matching",
@@ -583,17 +747,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "15. .................................................................................................................................................. 8 pontos\nRelaciona \na restrita distribuição geográfica (endemismo) de Silene foetida foetida com o reduzido número \nde indivíduos que se cruzam (\na\n) e relaciona a reduzida variabilidade genética com a baixa capacidade de \nadaptação, o que poderá condicionar a sobrevivência da planta (perigo de extinção) (B).\n(\na\n)\n Silene foetida foetida\n tem uma distribuição restrita à serra da Estrela, pelo que os cruzamentos se \nestabelecem entre um número reduzido de indivíduos.\n(B)\n A\n reduzida variabilidade genética conduz a uma baixa capacidade de adaptação a alterações \nambientais, colocando a planta em perigo de extinção.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": "15. .................................................................................................................................................. 8 pontos\nRelaciona \na restrita distribuição geográfica (endemismo) de Silene foetida foetida com o reduzido número \nde indivíduos que se cruzam (\na\n) e relaciona a reduzida variabilidade genética com a baixa capacidade de \nadaptação, o que poderá condicionar a sobrevivência da planta (perigo de extinção) (B).\n(\na\n)\n Silene foetida foetida\n tem uma distribuição restrita à serra da Estrela, pelo que os cruzamentos se \nestabelecem entre um número reduzido de indivíduos.\n(B)\n A\n reduzida variabilidade genética conduz a uma baixa capacidade de adaptação a alterações \nambientais, colocando a planta em perigo de extinção.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n4 Relaciona, com rigor científico, a distribuição de Silene foetida foetida com a sua categoria \nde conservação, apresentando os dois elementos (A, B). 8\n3 Relaciona, com falhas no rigor científico, a distribuição de Silene foetida foetida com a sua \ncategoria de conservação, apresentando os dois elementos (A, B). 6\n2\nRelaciona, com rigor científico, a distribuição de Silene foetida foetida com o reduzido \nnúmero de indivíduos que se cruzam (A).\nOU\nRelaciona, com rigor científico, a reduzida variabilidade genética com a baixa capacidade \nde adaptação ao ambiente, referindo o consequente perigo de extinção (B).\n4\n1\nRelaciona, com falhas no rigor científico, a distribuição de Silene foetida foetida com o \nreduzido número de indivíduos que se cruzam (A).\nOU\nRelaciona, com falhas no rigor científico, a reduzida variabilidade genética com a baixa \ncapacidade de adaptação ao ambiente, referindo o consequente perigo de extinção (B).\n2",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1072,
+      "id": 10181,
       "question_number": "16",
       "statement": "16. Realizou-se um estudo sobre a ação das cardosinas de Cynara cardunculus no fabrico do queijo. O \nfabrico do queijo é um processo complexo, uma vez que envolve muitas etapas e várias modificações \nbioquímicas interdependentes, exigindo um controlo minucioso de cada etapa, nomeadamente no que \ndiz respeito às condições de temperatura e de humidade relativa.\nA coagulação, que visa concentrar proteínas do leite (caseínas), retendo também a gordura, é uma etapa \nessencial. As cardosinas intervêm na coagulação, assim como no processo bioquímico de proteólise – \ndegradação das caseínas – que ocorre durante a etapa de maturação ou cura, fase de acabamento em \nque as transformações são intensas e em que as características finais do queijo se desenvolvem.\nO estudo analisou a influência de três ecótipos\n1 de Cynara cardunculus (Cynara 1, Cynara 2 e \nCynara 3) na degradação da as-caseína, utilizando as proteases das respetivas flores ao longo de \n63 dias de maturação. Foi utilizado, também, um agente coagulante e proteolítico animal, designado por \n«Animal».\nA Tabela 1 apresenta a percentagem de degradação da \nas-caseína ao longo de vários dias durante a \nfase de maturação.\nNota:\n1 Ecótipos – populações que apresentam diferenças nos seus genótipos, o que lhes permite uma melhor adaptação \naos diferentes habitats.\nTabela 1\nDia 14 Dia 21 Dia 35 Dia 49 Dia 63\nCynara 1 24,03 40,95 50,89 51,70 55,76\nCynara 2 23,65 38,08 50,19 53,31 54,99\nCynara 3 24,95 41,94 49,65 49,51 53,95\n«Animal» 21,30 27,00 43,87 38,21 41,86\nBaseado em: A. L. Garrido, «Efeito de três ecótipos de Cynara cardunculus L. na proteólise \ndo queijo de Évora ao longo da maturação», Universidade de Évora, Escola de \nCiências e Tecnologias, Departamento de Zootecnia, Évora, 2017.",
       "question_type": "open",
@@ -611,10 +775,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1076,
+      "id": 10185,
       "question_number": "17",
       "statement": "17.\n Considere \no fragmento da caseína constituído pelos resíduos de aminoácidos lisina – arginina, codificados \npelos codões AAG e CGC, respetivamente. Na síntese da caseína verifica-se",
       "question_type": "multiple_choice",
@@ -626,41 +790,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1704,
+          "id": 19933,
           "letter": "A",
           "text": "a transcrição de 3´ para 5´ da sequência TTCGCG.",
           "isCorrect": false
         },
         {
-          "id": 1705,
+          "id": 19934,
           "letter": "B",
           "text": "que o tRNA para a lisina possui o anticodão TTC.",
           "isCorrect": false
         },
         {
-          "id": 1706,
+          "id": 19935,
           "letter": "C",
           "text": "a migração para o citoplasma da sequência UUCGCG.",
           "isCorrect": false
         },
         {
-          "id": 1707,
+          "id": 19936,
           "letter": "D",
           "text": "que a arginina se liga a um tRNA com o anticodão CGC.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "item 17.\nV\nersão 1 a\nV\nersão 2 d\nGRUPO II",
+      "criteriaText": "17. .................................................................... (1 × 8 pontos) ....................................................... 8 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1064,
+      "id": 10173,
       "question_number": "9.1",
       "statement": "9.1. No esquema da Figura 2, a planta adulta é representada pela letra",
       "question_type": "multiple_choice",
@@ -672,41 +836,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1676,
+          "id": 19905,
           "letter": "A",
           "text": "X, e as suas células têm a mesma ploidia das células do tipo II.",
           "isCorrect": false
         },
         {
-          "id": 1677,
+          "id": 19906,
           "letter": "B",
           "text": "Z, e as suas células têm a mesma ploidia da célula do tipo I.",
           "isCorrect": false
         },
         {
-          "id": 1678,
+          "id": 19907,
           "letter": "C",
           "text": "X e resulta do desenvolvimento de um zigoto.",
           "isCorrect": false
         },
         {
-          "id": 1679,
+          "id": 19908,
           "letter": "D",
           "text": "Z e resulta da germinação de um esporo.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "9. .................................................................................................................................................... 8 pontos\nJustifica \na elevada atividade sísmica no arquipélago do Japão, relacionando o contexto tectónico da \nregião (\na\n) com a acumulação de energia (B) e com o limite de resistência das rochas (C).\n(\na\n)\n O Japão está próximo de uma zona de subdução (OU de um limite convergente de placas).\n(B)\n Na região entre as duas placas acumulam-se elevadas tensões.\nOU\nNa região entre as duas placas acumulam-se elevadas quantidades de energia.\n(C)\n A\n energia liberta-se quando o limite de resistência/elasticidade das rochas é ultrapassado, originando \nsismos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": "9. .................................................................................................................................................... 8 pontos\nJustifica \na elevada atividade sísmica no arquipélago do Japão, relacionando o contexto tectónico da \nregião (\na\n) com a acumulação de energia (B) e com o limite de resistência das rochas (C).\n(\na\n)\n O Japão está próximo de uma zona de subdução (OU de um limite convergente de placas).\n(B)\n Na região entre as duas placas acumulam-se elevadas tensões.\nOU\nNa região entre as duas placas acumulam-se elevadas quantidades de energia.\n(C)\n A\n energia liberta-se quando o limite de resistência/elasticidade das rochas é ultrapassado, originando \nsismos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5 Justifica, com rigor científico, a elevada atividade sísmica, apresentando os três elementos \n(A, B, C). 8\n4 Justifica, com falhas no rigor científico, a elevada atividade sísmica, apresentando os três \nelementos (A, B, C). 7\n3 Justifica, com rigor científico a elevada atividade sísmica, apresentando apenas dois dos \nelementos. 5\n2 Justifica, com falhas no rigor científico, a elevada atividade sísmica, apresentando apenas \ndois dos elementos. 4\n1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nAs pontuações obtidas \nnas respostas a estes \n10 itens da prova contribuem \nobrigatoriamente para \na classificação final.\nGrupo\nSubtotalI I I II II III III III III III",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1065,
+      "id": 10174,
       "question_number": "9.2",
       "statement": "9.2.\n As células do tipo III formam-se por um processo de",
       "question_type": "multiple_choice",
@@ -718,62 +882,87 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1680,
+          "id": 19909,
           "letter": "A",
           "text": "mitose, em que ocorre a separação de cromossomas homólogos.",
           "isCorrect": false
         },
         {
-          "id": 1681,
+          "id": 19910,
           "letter": "B",
           "text": "mitose, em que ocorre a divisão do centrómero dos cromossomas.",
           "isCorrect": false
         },
         {
-          "id": 1682,
+          "id": 19911,
           "letter": "C",
           "text": "meiose, em que ocorre a formação de duas células haploides.",
           "isCorrect": false
         },
         {
-          "id": 1683,
+          "id": 19912,
           "letter": "D",
           "text": "meiose, em que ocorre a formação de pontos de quiasma.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "9. .................................................................................................................................................... 8 pontos\nJustifica \na elevada atividade sísmica no arquipélago do Japão, relacionando o contexto tectónico da \nregião (\na\n) com a acumulação de energia (B) e com o limite de resistência das rochas (C).\n(\na\n)\n O Japão está próximo de uma zona de subdução (OU de um limite convergente de placas).\n(B)\n Na região entre as duas placas acumulam-se elevadas tensões.\nOU\nNa região entre as duas placas acumulam-se elevadas quantidades de energia.\n(C)\n A\n energia liberta-se quando o limite de resistência/elasticidade das rochas é ultrapassado, originando \nsismos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": "9. .................................................................................................................................................... 8 pontos\nJustifica \na elevada atividade sísmica no arquipélago do Japão, relacionando o contexto tectónico da \nregião (\na\n) com a acumulação de energia (B) e com o limite de resistência das rochas (C).\n(\na\n)\n O Japão está próximo de uma zona de subdução (OU de um limite convergente de placas).\n(B)\n Na região entre as duas placas acumulam-se elevadas tensões.\nOU\nNa região entre as duas placas acumulam-se elevadas quantidades de energia.\n(C)\n A\n energia liberta-se quando o limite de resistência/elasticidade das rochas é ultrapassado, originando \nsismos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5 Justifica, com rigor científico, a elevada atividade sísmica, apresentando os três elementos \n(A, B, C). 8\n4 Justifica, com falhas no rigor científico, a elevada atividade sísmica, apresentando os três \nelementos (A, B, C). 7\n3 Justifica, com rigor científico a elevada atividade sísmica, apresentando apenas dois dos \nelementos. 5\n2 Justifica, com falhas no rigor científico, a elevada atividade sísmica, apresentando apenas \ndois dos elementos. 4\n1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nAs pontuações obtidas \nnas respostas a estes \n10 itens da prova contribuem \nobrigatoriamente para \na classificação final.\nGrupo\nSubtotalI I I II II III III III III III",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1073,
+      "id": 10182,
       "question_number": "16.1",
-      "statement": "16.1. 16.2. 16.3. 1. 4. 1. 2. 3. 4. 9.\nCotação (em pontos) 8 8 8 8 8 8 8 8 8 8 80\nDestes 23 itens, contribuem \npara a classificação final da \nprova os 15 itens cujas respostas \nobtenham melhor pontuação.",
-      "question_type": "open",
+      "statement": "16.1. A experiência pretendeu analisar se a",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "16.1. 16.2. 16.3. 1. 4. 1. 2. 3. 4. 9.\nCotação (em pontos) 8 8 8 8 8 8 8 8 8 8 80\nDestes 23 itens, contribuem \npara a classificação final da \nprova os 15 itens cujas respostas \nobtenham melhor pontuação.\nGrupo I\nSubtotal",
+      "choices": [
+        {
+          "id": 19925,
+          "letter": "A",
+          "text": "maturação do queijo ocorre com intervenção externa.",
+          "isCorrect": false
+        },
+        {
+          "id": 19926,
+          "letter": "B",
+          "text": "composição do leite influencia o fabrico do queijo.",
+          "isCorrect": false
+        },
+        {
+          "id": 19927,
+          "letter": "C",
+          "text": "proteólise ocorre com qualquer tipo de coagulante.",
+          "isCorrect": false
+        },
+        {
+          "id": 19928,
+          "letter": "D",
+          "text": "origem do coagulante influencia a maturação do queijo.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "16.1. a 16.2. ..................................................... (2 × 8 pontos) ....................................................... 16 pontos\nitens 16.1. 16.2.\nV\nersão 1 d B\nV\nersão 2 C C",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
-      "contextTitle": "Figura 4",
-      "contextText": "GRUPO III\nO sistema de arco vulcânico de Izu-Bonin-Mariana (IBM), no oceano Pacífico, forma-se a partir \nda fusão de rochas do manto superior e da consequente subida do material fundido. No entanto, \nsabe-se muito pouco acerca do processo de migração desse material e acerca do tempo necessário \npara que essa migração ocorra. O enquadramento tectónico deste sistema está representado na \nFigura 4. \nVários estudos efetuados, nomeadamente a análise de registos sismográficos, evidenciaram a \nexistência de enxames sísmicos (conjuntos de focos sísmicos) localizados em duas zonas tubulares, \npraticamente verticais, no manto superior, sob o sistema de arco vulcânico de Izu-Bonin-Mariana. \nEstes sismos ocorreram em períodos de um dia a um mês, durante dois anos. Os investigadores \ninferiram que estes raros enxames sísmicos indiciavam a ascensão rápida de materiais fundidos e \nde fluidos provenientes da desidratação da placa em subdução, que originavam ruturas no manto \nsuperior acima desta placa. Esta ideia difere da normalmente aceite, uma vez que, nestas regiões, \na maioria dos sismos está associada a tensões mecânicas. \nNa Figura 4A estão assinaladas as duas secções estudadas (AA' – secção Izu-Bonin – \ne BB' – secção Mariana).\nAs Figuras 4B e 4C representam, em corte, a localização dos focos dos sismos sob cada uma \ndas secções.\nFigura 4\nBaseado em: L. White et al., «Earth’s deepest earthquake swarms track fluid ascent beneath nascent arc volcanoes», in \nEarth and Planetary Science Letters, Elsevier, 2019 e em: https://sp.lyellcollection.org (consultado em outubro de 2019).\n4A\n4B\n4C"
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Texto 1",
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1074,
+      "id": 10183,
       "question_number": "16.2",
       "statement": "16.2.\n De acordo com o objetivo da experiência, uma das variáveis dependentes em estudo é",
       "question_type": "multiple_choice",
@@ -785,25 +974,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1700,
+          "id": 19929,
           "letter": "A",
           "text": "a concentração de agentes coagulantes.",
           "isCorrect": false
         },
         {
-          "id": 1701,
+          "id": 19930,
           "letter": "B",
           "text": "a percentagem de degradação proteica.",
           "isCorrect": false
         },
         {
-          "id": 1702,
+          "id": 19931,
           "letter": "C",
           "text": "a humidade das câmaras.",
           "isCorrect": false
         },
         {
-          "id": 1703,
+          "id": 19932,
           "letter": "D",
           "text": "a duração da maturação.",
           "isCorrect": false
@@ -816,10 +1005,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     },
     {
-      "id": 1075,
+      "id": 10184,
       "question_number": "16.3",
       "statement": "16.3. De entre as seguintes afirmações relacionadas com os resultados experimentais, selecione \nas que estão corretas, transcrevendo para a sua folha de respostas os números romanos \ncorrespondentes:\nI.\n A\n degradação da as-caseína, usando coagulantes vegetais, é acentuada até aos 35 dias, \nsendo mais reduzida até ao final da maturação.\nII. \n Dos coagu\nlantes vegetais, Cynara 3 apresenta a menor variação de percentagem de \ndegradação entre os 35 e os 49 dias de maturação.\nIII. \n No \nfinal da maturação, a quantidade de as-caseína é maior quando se utiliza coagulante \nvegetal do que quando se utiliza um coagulante animal.\nIV. \n A\n percentagem de degradação obtida com o coagulante animal aumenta progressivamente \naté ao final da maturação.\nV. Cynara \n1 é o agente coagulante que possibilita uma maior maturação do queijo no período \nconsiderado.",
       "question_type": "open",
@@ -830,14 +1019,14 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "16.3. ............................................................................................................................................... 8 pontos\nAfirmações corretas: \ni\n, \nii\n e V\nNíveis d escritores de desempenho Pontuação",
+      "criteriaText": "16.3. ............................................................................................................................................... 8 pontos\nAfirmações corretas: \ni\n, \nii\n e V\nNíveis d escritores de desempenho Pontuação\n2 Seleciona apenas as 3 afirmações corretas. 8\n1 Seleciona apenas 2 das afirmações corretas e nenhuma das outras. 4",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": "Texto 1",
-      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999."
+      "contextText": "GRUPO I\nTexto 1\nEm setembro de 2019, a Organização das Nações Unidas para a Educação, a Ciência e a \nCultura (UNESCO) aprovou a candidatura da serra da Estrela a Geoparque Mundial.\nA serra situa-se no centro-este de Portugal continental e tem orientação NE-SO. A sua formação \ndeverá ter ocorrido durante o Cenozoico, quando, devido ao movimento convergente das placas \nAfricana e Eurasiática, foram reativadas as falhas antigas da região.\nEm termos litológicos, a serra é constituída por extensos afloramentos de granitos, com idade \nentre 340 e 280 milhões de anos (Ma), formados no final do Paleozoico, durante a orogenia \nVarisca. Estas rochas estão implantadas em xistos e metagrauvaques que derivam de uma \nsequência detrítica de granularidade variável, de fácies marinha profunda, depositada há cerca de \n650-500 Ma.\nDurante o máximo da última glaciação (Würm), 20 000 a 18 000 anos, a serra esteve coberta \npor glaciares cujos vestígios incluem vales glaciários, moreias\n1 e grandes blocos rochosos isolados \n(blocos erráticos).\nA Figura 1 representa um bloco diagrama da serra da Estrela, com a sua litologia e as falhas que \nestiveram na origem da formação da serra.\nNota:\n1 Moreias – acumulações de sedimentos transportados pelos glaciares.\nFigura 1\nBaseado em: www.cise.pt e em: N. Ferreira e G.T. Vieira, Guia Geológico e \nGeomorfológico do Parque Natural da Serra da Estrela, ICN e IGM, Lisboa, 1999.\n\n1. A formação da serra da Estrela ocorreu devido a um regime\n \n(A)\n distensivo, que reativou falhas anteriores ao Cenozoico.\n \n(B)\n distensivo, associado a falhas normais.\n \n(C)\n compressivo, que reativou falhas anteriores ao Cenozoico.\n \n(D)\n compressivo, associado a falhas normais.\n2.\n Na serra da Estrela, as evidências geológicas da orogenia V\narisca incluem a presença de\n \n(A)\n rochas intrusivas e rochas metamórficas que afloram na região.\n \n(B)\n xistos e metagrauvaques formados há cerca de 650 Ma.\n \n(C)\n sedimentos marinhos depositados há cerca de 300 Ma.\n \n(D)\n depósitos sedimentares recentes que afloram na zona de Seia.\n3.\n Complete o texto seguinte com a opção adequada a cada espaço.\nT\nranscreva para a folha de respostas cada uma das letras, seguida do número que corresponde à opção \nselecionada. A cada letra corresponde um só número.\nDurante a glaciação Würm, ocorrida no\n ______a)____,\n o \nnível médio da água do mar era\n ______b)____\n ao \natual. Na serra da Estrela, o gelo dos glaciares erodiu os granitos, rochas\n ______c)____,\n em \ncuja \nconstituição se identificam cristais de\n ______d)____,\n e transportou sedimentos\n ______e)____,\n que, após o \ndegelo, deixaram como vestígio as moreias que hoje se observam na serra.\na) b) c) d) e)\n1.\n Cenozoico\n2.\n \nMesozoico\n3.\n \nPaleozoico\n1.\n superior\n2.\n \ninferior\n3.\n \nsemelhante\n1.\n melanocrá\nticas\n2.\n \nmesocráticas\n3.\n \nleucocráticas\n1.\n olivina\n2.\n \nquartzo\n3.\n \npiroxena"
     }
   ]
 }

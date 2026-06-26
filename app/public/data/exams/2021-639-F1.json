@@ -4,29 +4,30 @@
   "subject": "Português",
   "year": 2021,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 119,
+      "id": 1395,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 120,
+      "id": 1396,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 121,
+      "id": 1397,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 995,
+      "id": 10136,
       "question_number": "1",
-      "statement": "1. 3. 4. 5. 7. 1. 3. 4. 6.\nCotação (em pontos) 13 13 13 13 13 13 13 13 13 44 161\nDestes 5 itens, contribuem para a \nclassificação final da prova os 3 itens cujas \nrespostas obtenham melhor pontuação.\nI II\nSubtotal",
-      "question_type": "open",
+      "statement": "1. De acordo com o texto, a marca distintiva do modernismo português consiste no culto\n \n(\na\n)\n da diversidade.",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -34,19 +35,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Vide Tipologia de erros no âmbito da correção linguística (p. 3).",
+      "criteriaText": "1. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ nos dois primeiros versos, o sujeito poético compara o seu olhar ao «céu» e à «água ao sol», sugerindo \na ideia de tranquilidade;\n‒ no quarto verso, o sujeito poético exprime a razão pela qual o seu olhar é «azul e calmo», afirmando \nque não questiona nem reage emocionalmente ao mundo tal como ele existe/afirmando que se limita \na aceitar o que vê.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nRelaciona as comparações presentes nos dois primeiros versos com o sentido do quarto \nverso, abordando, adequadamente, ambos os tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nRelaciona as comparações presentes nos dois primeiros versos com o sentido do quarto \nverso, abordando, adequadamente, ambos os tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nRelaciona as comparações presentes nos dois primeiros versos com o sentido do quarto \nverso, abordando os dois tópicos de resposta, um adequadamente e outro com pequenas \nimprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nRelaciona as comparações presentes nos dois primeiros versos com o sentido do quarto \nverso, abordando os dois tópicos de resposta, um adequadamente e outro com pequenas \nimprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nRelaciona as comparações presentes nos dois primeiros versos com o sentido do quarto \nverso, abordando os dois tópicos de resposta, ambos com pequenas imprecisões e/ou \nomissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nRelaciona as comparações presentes nos dois primeiros versos com o sentido do quarto \nverso, abordando os dois tópicos de resposta, ambos com pequenas imprecisões e/ou \nomissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\n4\n1\nExplicita, adequadamente, apenas o sentido das comparações presentes nos dois \nprimeiros versos ou apenas o sentido do quarto verso, sem estabelecer a relação \nsolicitada.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ................................................................. 3 pontos\nNíveis Descritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO III\nQuando se pensa no futuro da humanidade, a primeira ideia que ocorre a muitas pessoas é a importância \ndo progresso científico e tecnológico.\nMas não será que o progresso implica também a valorização das artes, enquanto dimensão fundamental \nde uma formação de base humanista?\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a questão apresentada.\nNo seu texto:\n–\n explicite, \nde forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
     },
     {
-      "id": 988,
-      "question_number": "2",
-      "statement": "2. \n Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "id": 10143,
+      "question_number": "1",
+      "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, \nmesmo quando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única \npalavra, independentemente do número de algarismos que o constituam (ex.: /2021/).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +56,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. 6. 2. 5. 7.\nCotação (em pontos) 3 x 13 pontos 39\nTOTAL 200",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +66,110 @@
       "contextText": "GRUPO III\nQuando se pensa no futuro da humanidade, a primeira ideia que ocorre a muitas pessoas é a importância \ndo progresso científico e tecnológico.\nMas não será que o progresso implica também a valorização das artes, enquanto dimensão fundamental \nde uma formação de base humanista?\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a questão apresentada.\nNo seu texto:\n–\n explicite, \nde forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 989,
+      "id": 10129,
+      "question_number": "2",
+      "statement": "2.\n Selecione a opção de resposta adequada para completar a afirmação abaixo apresentada.\nNo âmbito da argumentação\n desenvolvida ao longo da segunda e da terceira estrofes, o recurso \nà\n , nos versos de 8 a 1\n1, evidencia a ideia de que é pela visão que se pode\n .\n \n(\na\n)\n metonímia … alterar a perceção da natureza",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. Versão 1: (B); Versão 2: (C) ...................................................................................................... 13 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\nO meu olhar azul como o céu\nÉ calmo como a água ao sol.\nÉ assim, azul e calmo,\nPorque não interroga nem se espanta...\nSe eu interrogasse e me espantasse\nNão nasciam flores novas nos prados\nNem mudaria qualquer cousa no sol de modo a ele ficar mais belo.\n(Mesmo se nascessem flores novas no prado\nE se o sol mudasse para mais belo,\nEu sentiria menos flores no prado\nE achava mais feio o sol...\nPorque tudo é como é e assim é que é,\nE eu aceito, e nem agradeço,\nPara não parecer que penso nisso...)\nAlberto Caeiro, Poesia, edição de Fernando Cabral Martins e Richard Zenith, 3.ª ed., \nLisboa, Assírio & Alvim, 2009, p. 57."
+    },
+    {
+      "id": 10137,
+      "question_number": "2",
+      "statement": "2.\n Quando o autor afirma que «Almada Negreiros é um ator» (linha 5), pretende evidenciar as ideias de\n \n(\na\n)\n pluralidade e improvisação.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
+    },
+    {
+      "id": 10144,
+      "question_number": "2",
+      "statement": "2. \n Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nQuando se pensa no futuro da humanidade, a primeira ideia que ocorre a muitas pessoas é a importância \ndo progresso científico e tecnológico.\nMas não será que o progresso implica também a valorização das artes, enquanto dimensão fundamental \nde uma formação de base humanista?\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a questão apresentada.\nNo seu texto:\n–\n explicite, \nde forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+    },
+    {
+      "id": 10130,
+      "question_number": "3",
+      "statement": "3.\n Explique a aparente contradição presente nos versos de 12 a 14.\n\nPart E B\nLeia os dois textos e as notas. Na resposta aos itens de 4. a 6., tenha em consideração ambos os textos.\n5\n10\n15\n20\n25\nO oficial era moço, talvez não tinha trinta anos; posto que o trato das armas, o rigor das \nestações, e o selo visível dos cuidados que trazia estampado no rosto, acentuassem já mais \nfortemente, em feições de homem feito, as que ainda devia arredondar a juventude.\nA sua estatura era mediana, o corpo delgado, mas o peito largo e forte como precisa \num coração de homem para pulsar livre; seu porte gentil e decidido de homem de guerra \ndesenhava-se perfeitamente sob o espesso e largo sobretudo militar – espécie de great-coat\n1 \ninglês que a imitação das modas britânicas tinha tornado familiar nos nossos bivaques2. Trazia-o \ndesabotoado e descaído para trás, porque a noite não era fria; e via-se por baixo elegantemente \ncingida ao corpo a fardeta parda dos caçadores, realçada de seus característicos alamares\n3 \npretos e avivada de encarnado...\nUniforme tão militar, tão nacional, tão caro a nossas recordações – que essas gentes, \nprostituidoras de quanto havia nobre, popular e respeitado nesta terra, proscreveram 4 do \nexército... por muito português de mais talvez! deram-lhe baixa para os beleguins5 da alfândega, \nreformaram-no em uniforme da bicha6!\nNão pude resistir a esta reflexão: as amáveis leitoras me perdoem por interromper com ela \no meu retrato.\nMas quando pinto, quando vou riscando e colorindo as minhas figuras, sou como aqueles \npintores da Idade Média que entrelaçavam nos seus painéis dísticos de sentenças, fitas \nlavradas de moralidades e conceitos... talvez porque não sabiam dar aos gestos e atitudes \nexpressão bastante para dizer por eles o que assim escreviam, e servia a pena de suplemento \ne ilustração ao pincel... Talvez: e talvez pelo mesmo motivo caio eu no mesmo defeito...\nSerá; mas em mim é irremediável, não sei pintar de outro modo.\nVoltemos ao nosso retrato.\nOs olhos pardos e não muito grandes, mas de uma luz e viveza imensa, denunciavam o \ntalento, a mobilidade do espírito – talvez a irreflexão... mas também a nobre singeleza de um \ncarácter franco, leal e generoso, fácil na ira, fácil no perdão, incapaz de se ofender de leve, \nmas impossível de esquecer uma injúria verdadeira.\nAlmeida Garrett, Viagens na Minha Terra, 2.ª ed., Lisboa, Portugália, 1963, pp. 148-149.\n30\n35\n– Meu pai! Não meta este senhor em maiores trabalhos! – disse Mariana.\n– Não tem dúvida, menina – atalhou Simão; – eu é que não quero meter ninguém em \ntrabalhos. Com a minha desgraça, por maior que ela seja, hei de eu lutar sozinho.\nJoão da Cruz, assumindo uma gravidade de que a sua figura raras vezes se enobrecia, \ndisse:\n– Senhor Simão, Vossa Senhoria não sabe nada do mundo. Não meta sozinho a cabeça \naos trabalhos, que eles, como o outro que diz, quando pegam de ensarilhar um homem, não \nlhe deixam tomar fôlego. Eu sou um rústico; mas, a bem dizer, estou naquela daquele que dizia \nque o mal dos seus burrinhos o fizera alveitar",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19831,
+          "letter": "B",
+          "text": "explicar a origem de algumas das obras artísticas de Almada.",
+          "isCorrect": false
+        },
+        {
+          "id": 19832,
+          "letter": "C",
+          "text": "estabelecer um confronto entre a obra poética e a obra plástica de Almada.",
+          "isCorrect": false
+        },
+        {
+          "id": 19833,
+          "letter": "D",
+          "text": "apresentar um comentário pessoal sobre os materiais usados nas diferentes obras de Almada.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ no verso 12, o sujeito poético começa por descrever a sua visão do real como objetiva e despida de \npensamentos e emoções/o sujeito poético começa por expressar a ideia de que a natureza é constituída \napenas por aquilo que os sentidos captam/o sujeito poético começa por expressar a aceitação serena \ndo mundo, sem o questionar;\n‒ nos versos 13 e 14, o sujeito poético põe, no entanto, em evidência o facto de essa visão ser resultado \nde uma opção consciente (logo, pensada), admitindo que faz de conta que não pensa.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)2 ............................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nExplica a aparente contradição presente nos versos de 12 a 14, abordando, \nadequadamente, ambos os tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nExplica a aparente contradição presente nos versos de 12 a 14, abordando, \nadequadamente, ambos os tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nExplica a aparente contradição presente nos versos de 12 a 14, abordando os dois tópicos \nde resposta, um adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n1 Vide Tipologia de erros no âmbito da correção linguística (p. 3).\n2 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n(continua)\n\n3\nExplica a aparente contradição presente nos versos de 12 a 14, abordando os dois tópicos \nde resposta, um adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nExplica a aparente contradição presente nos versos de 12 a 14, abordando os dois tópicos \nde resposta, ambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nExplica a aparente contradição presente nos versos de 12 a 14, abordando os dois tópicos \nde resposta, ambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\n4\n1\nAborda, adequadamente, apenas um dos tópicos de resposta, sem explicar a aparente \ncontradição presente nos versos de 12 a 14.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nNíveis Descritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1\n1 Vide Tipologia de erros no âmbito da correção linguística (p. 3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\nO meu olhar azul como o céu\nÉ calmo como a água ao sol.\nÉ assim, azul e calmo,\nPorque não interroga nem se espanta...\nSe eu interrogasse e me espantasse\nNão nasciam flores novas nos prados\nNem mudaria qualquer cousa no sol de modo a ele ficar mais belo.\n(Mesmo se nascessem flores novas no prado\nE se o sol mudasse para mais belo,\nEu sentiria menos flores no prado\nE achava mais feio o sol...\nPorque tudo é como é e assim é que é,\nE eu aceito, e nem agradeço,\nPara não parecer que penso nisso...)\nAlberto Caeiro, Poesia, edição de Fernando Cabral Martins e Richard Zenith, 3.ª ed., \nLisboa, Assírio & Alvim, 2009, p. 57."
+    },
+    {
+      "id": 10138,
       "question_number": "3",
       "statement": "3.\n No terceiro parágrafo, o autor do texto pretende\n \n(\na\n)\n comprovar a ausência de fronteiras entre as diferentes manifestações artísticas de \nAlmada.",
       "question_type": "multiple_choice",
@@ -75,27 +179,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1530,
-          "letter": "B",
-          "text": "explicar a origem de algumas das obras artísticas de Almada.",
-          "isCorrect": false
-        },
-        {
-          "id": 1531,
-          "letter": "C",
-          "text": "estabelecer um confronto entre a obra poética e a obra plástica de Almada.",
-          "isCorrect": false
-        },
-        {
-          "id": 1532,
-          "letter": "D",
-          "text": "apresentar um comentário pessoal sobre os materiais usados nas diferentes obras de Almada.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -105,7 +190,47 @@
       "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
     },
     {
-      "id": 991,
+      "id": 10132,
+      "question_number": "4",
+      "statement": "4. O «oficial» e Simão apresentam características que permitem defin i-los como heróis românticos.\nExplique o modo como uma dessas características, comum a ambas as personagens, se manifesta em \ncada uma delas.\nNa sua resposta, comece por identificar a característica comum às personagens.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19834,
+          "letter": "B",
+          "text": "desconstrói a definição clássica de produção poética.",
+          "isCorrect": false
+        },
+        {
+          "id": 19835,
+          "letter": "C",
+          "text": "perspetiva certas manifestações artísticas como superiores a outras.",
+          "isCorrect": false
+        },
+        {
+          "id": 19836,
+          "letter": "D",
+          "text": "preconiza uma sistemática associação entre a palavra escrita e a imagem.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 13 pontos\nDeve ser abordado um dos tópicos seguintes, ou outro igualmente relevante:\n‒ a nobreza de carácter, associada a valores como a lealdade e a verdade, no caso do «oficial» do excerto \nde Viagens na Minha Terra, e associada à coragem e à determinação/à firmeza, no caso de Simão;\n‒ a intensidade dos sentimentos, patente no facto de se entregar às emoções/de possuir um coração \ngeneroso, no caso do «oficial» do excerto de Viagens na Minha Terra, e patente no estado de espírito \nalterado, no caso de Simão;\n‒ a valorização da honra, associada à intensidade com que são vividas as ofensas e as injúrias, no caso do \n«oficial» do excerto de Viagens na Minha Terra, e associada à vontade de lutar sozinho, no caso de Simão.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nIdentifica uma característica comum às personagens e explica, adequadamente, o modo \ncomo essa característica se manifesta em cada uma delas.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nIdentifica uma característica comum às personagens e explica, adequadamente, o modo \ncomo essa característica se manifesta em cada uma delas.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nIdentifica uma característica comum às personagens e explica o modo como essa \ncaracterística se manifesta em cada uma delas, adequadamente num dos casos e com \npequenas imprecisões e/ou omissões no outro caso.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nIdentifica uma característica comum às personagens e explica o modo como essa \ncaracterística se manifesta em cada uma delas, adequadamente num dos casos e com \npequenas imprecisões e/ou omissões no outro caso.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nIdentifica uma característica comum às personagens e explica, adequadamente, o modo \ncomo essa característica se manifesta em apenas uma delas.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nIdentifica uma característica comum às personagens e explica o modo como essa \ncaracterística se manifesta em cada uma delas, com pequenas imprecisões e/ou omissões \nem ambos os casos.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nIdentifica uma característica comum às personagens e explica, adequadamente, o modo \ncomo essa característica se manifesta em apenas uma delas.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nIdentifica uma característica comum às personagens e explica o modo como essa \ncaracterística se manifesta em cada uma delas, com pequenas imprecisões e/ou omissões \nem ambos os casos.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\n4\n1\nIdentifica uma característica comum às personagens e explica, com pequenas imprecisões \ne/ou omissões, o modo como essa característica se manifesta em apenas uma delas.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nNíveis Descritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1\n1 Vide Tipologia de erros no âmbito da correção linguística (p. 3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\nO meu olhar azul como o céu\nÉ calmo como a água ao sol.\nÉ assim, azul e calmo,\nPorque não interroga nem se espanta...\nSe eu interrogasse e me espantasse\nNão nasciam flores novas nos prados\nNem mudaria qualquer cousa no sol de modo a ele ficar mais belo.\n(Mesmo se nascessem flores novas no prado\nE se o sol mudasse para mais belo,\nEu sentiria menos flores no prado\nE achava mais feio o sol...\nPorque tudo é como é e assim é que é,\nE eu aceito, e nem agradeço,\nPara não parecer que penso nisso...)\nAlberto Caeiro, Poesia, edição de Fernando Cabral Martins e Richard Zenith, 3.ª ed., \nLisboa, Assírio & Alvim, 2009, p. 57."
+    },
+    {
+      "id": 10139,
       "question_number": "4",
       "statement": "4.\n De acordo com o quarto parágrafo, a conceção de Poesia defendida por \nAlmada Negreiros\n \n(\na\n)\n valoriza a perpetuação de formas poéticas tradicionais.",
       "question_type": "multiple_choice",
@@ -115,27 +240,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1533,
-          "letter": "B",
-          "text": "desconstrói a definição clássica de produção poética.",
-          "isCorrect": false
-        },
-        {
-          "id": 1534,
-          "letter": "C",
-          "text": "perspetiva certas manifestações artísticas como superiores a outras.",
-          "isCorrect": false
-        },
-        {
-          "id": 1535,
-          "letter": "D",
-          "text": "preconiza uma sistemática associação entre a palavra escrita e a imagem.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -145,7 +251,47 @@
       "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
     },
     {
-      "id": 992,
+      "id": 10133,
+      "question_number": "5",
+      "statement": "5.\n O \nnarrador, num caso, e João da Cruz, no outro, exprimem opiniões sobre o que observam no mundo em \nque vivem.\nExplicite uma opinião defendida por cada um deles.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19837,
+          "letter": "B",
+          "text": "«que é um pintor» (linha 13).",
+          "isCorrect": false
+        },
+        {
+          "id": 19838,
+          "letter": "C",
+          "text": "«que aprende a viver» (linhas 27-28).",
+          "isCorrect": false
+        },
+        {
+          "id": 19839,
+          "letter": "D",
+          "text": "«que a poesia não se confunde com a história das formas poéticas» (linha 30).",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ em Viagens na Minha Terra , o narrador (recorrendo à ironia) critica o abandono da farda militar \nportuguesa (que foi substituída por um uniforme que imita a farda das tropas inglesas), afirmando que \nseria demasiado nacional para poder continuar a ser usada numa terra que se deixou corromper;\n‒ em Amor de Perdição , João da Cruz pensa que o exacerbamento da paixão conduz à perda da \nrazão/pensa que, a um homem rico e fidalgo como Simão, não faltarão mulheres bonitas e com dote e \nque, se o destino o quiser, Teresa há de ser sua.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nExplicita, adequadamente, uma opinião defendida pelo narrador e uma opinião defendida \npor João da Cruz.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nExplicita, adequadamente, uma opinião defendida pelo narrador e uma opinião defendida \npor João da Cruz.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita uma opinião defendida pelo narrador e uma opinião defendida por João da Cruz, \nadequadamente num dos casos e com pequenas imprecisões e/ou omissões no outro caso.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nExplicita uma opinião defendida pelo narrador e uma opinião defendida por João da Cruz, \nadequadamente num dos casos e com pequenas imprecisões e/ou omissões no outro caso.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita, adequadamente, apenas uma opinião defendida pelo narrador ou apenas uma \nopinião defendida por João da Cruz.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nExplicita uma opinião defendida pelo narrador e uma opinião defendida por João da Cruz, \ncom pequenas imprecisões e/ou omissões em ambos os casos.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nExplicita, adequadamente, apenas uma opinião defendida pelo narrador ou apenas uma \nopinião defendida por João da Cruz.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita uma opinião defendida pelo narrador e uma opinião defendida por João da Cruz, \ncom pequenas imprecisões e/ou omissões em ambos os casos.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\n4\n1\nExplicita, com pequenas imprecisões e/ou omissões, apenas uma opinião defendida pelo \nnarrador ou apenas uma opinião defendida por João da Cruz.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nNíveis Descritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\nO meu olhar azul como o céu\nÉ calmo como a água ao sol.\nÉ assim, azul e calmo,\nPorque não interroga nem se espanta...\nSe eu interrogasse e me espantasse\nNão nasciam flores novas nos prados\nNem mudaria qualquer cousa no sol de modo a ele ficar mais belo.\n(Mesmo se nascessem flores novas no prado\nE se o sol mudasse para mais belo,\nEu sentiria menos flores no prado\nE achava mais feio o sol...\nPorque tudo é como é e assim é que é,\nE eu aceito, e nem agradeço,\nPara não parecer que penso nisso...)\nAlberto Caeiro, Poesia, edição de Fernando Cabral Martins e Richard Zenith, 3.ª ed., \nLisboa, Assírio & Alvim, 2009, p. 57."
+    },
+    {
+      "id": 10140,
       "question_number": "5",
       "statement": "5.\n T\nodas as orações abaixo transcritas são subordinadas substantivas completivas, exceto a oração\n \n(\na\n)\n «que os “Modernistas” portugueses são todos singulares» (linha 1).",
       "question_type": "multiple_choice",
@@ -155,27 +301,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1536,
-          "letter": "B",
-          "text": "«que é um pintor» (linha 13).",
-          "isCorrect": false
-        },
-        {
-          "id": 1537,
-          "letter": "C",
-          "text": "«que aprende a viver» (linhas 27-28).",
-          "isCorrect": false
-        },
-        {
-          "id": 1538,
-          "letter": "D",
-          "text": "«que a poesia não se confunde com a história das formas poéticas» (linha 30).",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5\nExplicita, adequadamente, uma opinião defendida pelo narrador e uma opinião defendida \npor João da Cruz.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -185,9 +312,9 @@
       "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
     },
     {
-      "id": 993,
+      "id": 10134,
       "question_number": "6",
-      "statement": "6.\n As \nexpressões «por tapeçarias decorativas» (linha 28) e «de um livro» (linha 32) desempenham as funções \nsintáticas de\n \n(\na\n)\n modificador \ndo grupo verbal, no primeiro caso, e de modificador do nome restritivo, no segundo caso.",
+      "statement": "6. Selecione a opção de resposta adequada para completar as afirmações abaixo apresentadas.\nNos excertos transcritos, é possível identificar características das narrativas do Romantismo.\nPor \nexemplo, no excerto de Viagens na Minha Terra, o narrador interrompe o retrato da personagem \npara introduzir reflexões. Terminadas essas reflexões, afirma «Voltemos ao nosso retrato.» (linha 23), \nexpressão através da qual se dirige\n .\nPor \nseu lado, no excerto de Amor de Perdição, é percetível a diferença de classe social das \npersonagens, entre outros aspetos, através\n .\n \n(\na\n)\n às leitoras … do registo de língua usado por João da Cruz",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -197,19 +324,19 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1539,
+          "id": 19840,
           "letter": "B",
           "text": "complemento oblíquo, no primeiro caso, e de modificador do nome restritivo, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 1540,
+          "id": 19841,
           "letter": "C",
           "text": "complemento oblíquo, no primeiro caso, e de complemento do nome, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 1541,
+          "id": 19842,
           "letter": "D",
           "text": "modificador do grupo verbal, no primeiro caso, e de complemento do nome, no segundo caso.",
           "isCorrect": false
@@ -220,12 +347,73 @@
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\nO meu olhar azul como o céu\nÉ calmo como a água ao sol.\nÉ assim, azul e calmo,\nPorque não interroga nem se espanta...\nSe eu interrogasse e me espantasse\nNão nasciam flores novas nos prados\nNem mudaria qualquer cousa no sol de modo a ele ficar mais belo.\n(Mesmo se nascessem flores novas no prado\nE se o sol mudasse para mais belo,\nEu sentiria menos flores no prado\nE achava mais feio o sol...\nPorque tudo é como é e assim é que é,\nE eu aceito, e nem agradeço,\nPara não parecer que penso nisso...)\nAlberto Caeiro, Poesia, edição de Fernando Cabral Martins e Richard Zenith, 3.ª ed., \nLisboa, Assírio & Alvim, 2009, p. 57."
+    },
+    {
+      "id": 10141,
+      "question_number": "6",
+      "statement": "6.\n As \nexpressões «por tapeçarias decorativas» (linha 28) e «de um livro» (linha 32) desempenham as funções \nsintáticas de\n \n(\na\n)\n modificador \ndo grupo verbal, no primeiro caso, e de modificador do nome restritivo, no segundo caso.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
       "contextText": "GRUPO II\nLeia o texto e a nota.\n5\n10\n15\n20\n25\n30\n35\nSe é verdade que os «Modernistas» portugueses são todos singulares, que não têm uma \npoética comum e se movem entre uma vanguarda sem decálogo e um simbolismo requintado, \nessa singularidade é sobretudo evidente em Almada Negreiros.\nSe Mário de Sá-Carneiro é um autor, Fernando Pessoa, vários autores, e Santa Rita Pintor, \numa personagem, Almada Negreiros é um ator. Ele toma diferentes posições, corresponde a \ndiferentes lógicas estéticas, é cada vez mais, ao longo da sua obra, «aquele que representa», \nsem se concretizar num género ou numa arte única. Cito uma descrição de Rui Mário \nGonçalves: «Almada foi poeta, romancista, dramaturgo, cronista, pensador e polemista; foi \ntambém desenhador, caricaturista, pintor, retratista, vitralista, muralista, azulejista, figurinista, \ntapeceiro, gravador e geómetra.»\n1 E, deve acrescentar-se, bailarino e conferencista. No todo, \na arte do espetáculo, a unidade do ator.\nAlmada Negreiros é tão importante na história da literatura como na da pintura em Portugal, \ne cada uma das artes é nele apenas um aspeto. Porque, quando diz de si que é um pintor, \na palavra quer dizer poeta, e vice-versa. Sucede isso no Orpheu 1, em que assina os seus \npoemas em prosa como «desenhador», e depois em A Invenção do Dia Claro, que é, além de \numa conferência proferida em Lisboa em 1921, um livro de poemas e um conjunto de «ensaios \npara a iniciação de portugueses na revelação da pintura». Tudo ao mesmo tempo, e sem que a \nescolha seja exclusiva. Outros exemplos são a configuração da conferência como um género \nteatral e do desenho como uma espécie de filosofia, como manifesta com toda a evidência \no painel Começar no átrio da Fundação Gulbenkian. Muda os materiais, troca de lugar as \nfronteiras, redistribui os signos, deixa correr a mesma energia por entre os frescos nas Gares \nMarítimas, as páginas escritas e desenhadas da Histoire du Portugal par Cœur, as ilustrações \nde dezenas de livros e artigos de jornal em Portugal e em Espanha, as cenas de teatro em \nespaços imaginários mas construídos com exatidão, como no caso da edição de Deseja-se \nMulher, as suas narrativas com uma vocação realista exemplar, e todas dedicadas ao jogo \ndos efeitos de surpresa, entre as quais se conta um romance de dimensão única na ficção \nportuguesa moderna: Nome de Guerra, longa viagem ao interior da cabeça de um homem que \naprende a viver. Passa ainda por tapeçarias decorativas como quem experimenta rimas, e os \nseus arlequins conhecem Picasso como as próprias mãos.\nDizemos, com ele, que a poesia não se confunde com a história das formas poéticas: «Os \nversos são um modo de perpetuação de um dos modos da criação que se chama Poesia.» \n(Conferência Poesia É Criação , de 1962). Assim sendo, a ilustração de um livro, a banda \ndesenhada num jornal, o diálogo, o conto, o artigo, a entrevista são poesia também. Tal como é \npoesia, num certo sentido almadiano da palavra, a coreografia de um espetáculo ou um painel \nem baixo-relevo.\nFernando Cabral Martins, «Almada Negreiros», in O Cânone, edição de António M. Feijó, \nJoão R. Figueiredo e Miguel Tamen, Lisboa, Tinta da China, 2020, pp. 67-68. \nNota\n1 Verbete sobre a obra de Almada Negreiros, Dicionário de Fernando Pessoa e do Modernismo Português, coordenação \nde Fernando Cabral Martins, Lisboa, Caminho, 2008, p. 515."
     },
     {
-      "id": 990,
+      "id": 10131,
+      "question_number": "7",
+      "statement": "7. «O que coloca Fernão Lopes fora de toda a comparação na nossa literatura e talvez em todas as \nliteraturas é o modo como ele dá vida às multidões alvoraçadas.»\nM. Rodrigues Lapa, Lições de Literatura Portuguesa – Época Medieval, \n9.ª ed., Coimbra, Coimbra Editora, 1990, p. 410.\nBaseando-se na sua experiência de leitura da Crónica de D. João I, de Fernão Lopes, escreva uma breve \nexposição sobre a emergência de uma consciência coletiva do povo português. \nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um \ndesenvolvimento no qual refira dois momentos em que as «multidões alvoraçadas» revelem o \ndesabrochar de uma consciência coletiva;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19843,
+          "letter": "B",
+          "text": "«troca» (linha 20).",
+          "isCorrect": false
+        },
+        {
+          "id": 19844,
+          "letter": "C",
+          "text": "«experimenta» (linha 28).",
+          "isCorrect": false
+        },
+        {
+          "id": 19845,
+          "letter": "D",
+          "text": "«se confunde» (linha 30).",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒ quando circula a notícia de que o Mestre de Avis corre perigo de vida, uma multidão movimenta-se \nem direção ao Paço, em grande agitação, para proteger aquele que pode garantir a independência de \nPortugal;\n‒ quando planeia assaltar o Paço da Rainha, o povo de Lisboa insurge-se contra a regente, Dona Leonor, \nacusando-a de ser traidora/«aleivosa», por defender os interesses castelhanos;\n‒ aquando do cerco de Lisboa, todos se unem para guarnecer as muralhas e assegurar o transporte de \nmantimentos para dentro da cidade, permitindo a resistência ao invasor castelhano.\n•  Aspetos de conteúdo (C) .................................................................................... 8 pontos\nNíveis Descritores de desempenho Pontuação\n4 Refere, adequadamente, dois momentos que evidenciam o desabrochar de uma \nconsciência coletiva do povo português. 8\n3\nRefere dois momentos que evidenciam o desabrochar de uma consciência coletiva do \npovo português, adequadamente num dos casos e com pequenas imprecisões e/ou \nomissões no outro caso.\n6\n2\nRefere dois momentos que evidenciam o desabrochar de uma consciência coletiva do \npovo português, com pequenas imprecisões e/ou omissões em ambos os casos.\nOU\nRefere, adequadamente, um momento que evidencia o desabrochar de uma consciência \ncoletiva do povo português.\n4\n1 Refere, com pequenas imprecisões e/ou omissões, um momento que evidencia o \ndesabrochar de uma consciência coletiva do povo português. 2\n1 Vide Tipologia de erros no âmbito da correção linguística (p. 3).\n\n•  Aspetos de estruturação do discurso (ED)1 ........................................................ 3 pontos\nNíveis Descritores de desempenho Pontuação\n3\nEscreve um texto bem estruturado, constituído por três partes (introdução, desenvolvimento \ne conclusão) devidamente proporcionadas e utiliza mecanismos de coesão textual que \nasseguram de modo global a progressão e o encadeamento das ideias.\n3\n2\nEscreve um texto globalmente bem estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e/ou utiliza mecanismos \nde coesão textual que, apesar da eventual ocorrência de falhas, não comprometem de \nmodo global a progressão e o encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado e/ou utiliza mecanismos de coesão textual \ncom falhas que comprometem de modo global a progressão e o encadeamento das ideias. 1\n•  Aspetos de correção linguística (CL)2 ................................................................ 2 pontos\nNíveis Descritores de desempenho Pontuação\n2 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 2\n1\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n1\nGRUPO II\nChave\nITENS VERSÃO 1 VERSÃO 2 PONTUAÇÃO",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\nO meu olhar azul como o céu\nÉ calmo como a água ao sol.\nÉ assim, azul e calmo,\nPorque não interroga nem se espanta...\nSe eu interrogasse e me espantasse\nNão nasciam flores novas nos prados\nNem mudaria qualquer cousa no sol de modo a ele ficar mais belo.\n(Mesmo se nascessem flores novas no prado\nE se o sol mudasse para mais belo,\nEu sentiria menos flores no prado\nE achava mais feio o sol...\nPorque tudo é como é e assim é que é,\nE eu aceito, e nem agradeço,\nPara não parecer que penso nisso...)\nAlberto Caeiro, Poesia, edição de Fernando Cabral Martins e Richard Zenith, 3.ª ed., \nLisboa, Assírio & Alvim, 2009, p. 57."
+    },
+    {
+      "id": 10142,
       "question_number": "7",
       "statement": "7. T al como em «são» (linha 33), o valor aspetual genérico está presente em\n \n(\na\n)\n «se concretizar» (linha 7).",
       "question_type": "multiple_choice",
@@ -235,27 +423,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1542,
-          "letter": "B",
-          "text": "«troca» (linha 20).",
-          "isCorrect": false
-        },
-        {
-          "id": 1543,
-          "letter": "C",
-          "text": "«experimenta» (linha 28).",
-          "isCorrect": false
-        },
-        {
-          "id": 1544,
-          "letter": "D",
-          "text": "«se confunde» (linha 30).",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,

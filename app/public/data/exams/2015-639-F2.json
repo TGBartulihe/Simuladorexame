@@ -4,43 +4,50 @@
   "subject": "Português",
   "year": 2015,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 323,
+      "id": 1558,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 324,
+      "id": 1559,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 325,
+      "id": 1560,
       "name": "GRUPO III",
       "order": 2
-    },
-    {
-      "id": 326,
-      "name": "GRUPO I",
-      "order": 3
-    },
-    {
-      "id": 327,
-      "name": "GRUPO II",
-      "order": 4
-    },
-    {
-      "id": 328,
-      "name": "GRUPO III",
-      "order": 5
     }
   ],
   "questions": [
     {
-      "id": 2186,
+      "id": 11157,
       "question_number": "1",
-      "statement": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "1. A interrogação das linhas 4 e 5 apresenta a",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Refere, adequadamente, a condição necessária à manifestação da voz e transcreve \nelementos do texto que justificam a resposta. 12\n3\nRefere, de modo não totalmente completo ou com pequenas imprecisões, a condição \nnecessária à manifestação da voz e transcreve elementos do texto que justificam a \nresposta.\n9\n2\nRefere, adequadamente, a condição necessária à manifestação da voz, sem transcrever \nelementos do texto que justificam a resposta.\nOU\nRefere, de modo não totalmente completo e com pequenas imprecisões, a condição \nnecessária à manifestação da voz e transcreve elementos do texto que justificam a \nresposta.\nOU\nRefere, de modo incompleto ou com imprecisões, a condição necessária à manifestação \nda voz e transcreve elementos do texto que justificam a resposta.\n6\n1\nRefere, de modo não totalmente completo ou com pequenas imprecisões, a condição \nnecessária à manifestação da voz, sem transcrever elementos do texto que justificam a \nresposta.\nOU\nRefere, de modo incompleto e com imprecisões, a condição necessária à manifestação \nda voz e transcreve elementos do texto que justificam a resposta.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)1 ............................................................... 4 pontos\nCenário de resposta\nPara que a voz se manifeste, é necessário que quem ouve se encontre semiacordado, ou num estado \nde semiconsciência, sem procurar escutar essa voz – «Mas que, se escutamos, cala, / Por ter havido \nescutar» (vv. 4-5); «E só se, meio dormindo, / Sem saber de ouvir ouvimos,» (vv. 6-7); «Mas, se vamos \ndespertando, / Cala a voz, e há só o mar.» (vv. 14-15).\nNota – No que diz respeito à transcrição de elementos do texto, a resposta pode incluir apenas uma ou várias das \ncitações apresentadas no cenário de resposta.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
+    },
+    {
+      "id": 11165,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2015/).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -49,19 +56,40 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO I",
+      "groupName": "GRUPO III",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO III\nAo longo da história, a crença em ideais (religiosos, políticos, ou outros) tem assumido um papel importante \npara o ser humano.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a importância dos ideais para os jovens, na atualidade.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 2187,
+      "id": 11158,
       "question_number": "2",
-      "statement": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "2. No filme, a fidelidade com que o realizador segue o texto queirosiano é observada, por exemplo,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, o sentido dos dois últimos versos do poema. 12\n3 Explica, de modo não totalmente completo ou com pequenas imprecisões, o sentido dos \ndois últimos versos do poema. 9\n2\nExplica, de modo não totalmente completo e com pequenas imprecisões, o sentido dos \ndois últimos versos do poema.\nOU\nExplica, de modo incompleto ou com imprecisões, o sentido dos dois últimos versos do \npoema.\n6\n1 Refere-se, de modo incompleto e com imprecisões, ao sentido dos dois últimos versos \ndo poema. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)2 ............................................................... 4 pontos\nCenário de resposta\nDe acordo com o sentido dos dois últimos versos do poema, quando se desperta do estado de \nsemiconsciência:\n– a voz do mar / a voz trazida pelo «som das ondas» (v. 1), associada a uma ideia de esperança, \ndesaparece;\n– o mar passa a ser apenas uma realidade objetiva.\nNota – A ausência de uma referência explícita à ideia de esperança não implica, por si só, a desvalorização da \nresposta.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
+    },
+    {
+      "id": 11166,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -70,20 +98,66 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO I",
+      "groupName": "GRUPO III",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO III\nAo longo da história, a crença em ideais (religiosos, políticos, ou outros) tem assumido um papel importante \npara o ser humano.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a importância dos ideais para os jovens, na atualidade.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 2185,
+      "id": 11156,
       "question_number": "3",
-      "statement": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
-      "question_type": "open",
+      "statement": "3. Explique de que modo o conteúdo da última estrofe convoca o mito sebastianista.\n\nB\nLeia o texto.\n5\n10\n15\nMARIA\n[…] Mas então, vamos, tu não me dizes do retrato? Olha (designando o de el-rei \nD. Sebastião) aquele do meio, bem sabes se o conhecerei; é o do meu querido e amado rei \nD. Sebastião. Que majestade! que testa aquela tão austera, mesmo dum rei moço e sincero \nainda, leal, verdadeiro, que tomou a sério o cargo de reinar, e jurou que há de engrandecer e \ncobrir de glória o seu reino! Ele ali está… E pensar que havia de morrer às mãos de mouros, \nno meio de um deserto, que numa hora se havia de apagar toda a ousadia refletida que está \nnaqueles olhos rasgados, no apertar daquela boca!... Não pode ser, não pode ser. Deus não \npodia consentir em tal.\nTELMO\nQue Deus te ouvisse, anjo do céu!\nMARIA\nPois não há profecias que o dizem? Há, e eu creio nelas. E também creio naqueloutro que \nali está (Indica o retrato de Camões.); aquele teu amigo com quem tu andaste lá pela Índia, \nnessa terra de prodígios e bizarrias, por onde ele ia… como é? ah, sim... \nNuma mão sempre a espada e noutra a pena…\nAlmeida Garrett, Frei Luís de Sousa, Lisboa, Comunicação, 1982, pp. 140-141",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22124,
+          "letter": "A",
+          "text": "originalidade.",
+          "isCorrect": false
+        },
+        {
+          "id": 22125,
+          "letter": "B",
+          "text": "atualidade.",
+          "isCorrect": false
+        },
+        {
+          "id": 22126,
+          "letter": "C",
+          "text": "rigor.",
+          "isCorrect": false
+        },
+        {
+          "id": 22127,
+          "letter": "D",
+          "text": "exuberância.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, o modo como o conteúdo da última estrofe convoca o mito \nsebastianista. 12\n3 Explica, de forma não totalmente completa ou com pequenas imprecisões, o modo como \no conteúdo da última estrofe convoca o mito sebastianista. 9\n2\nExplica, de forma não totalmente completa e com pequenas imprecisões, o modo como o \nconteúdo da última estrofe convoca o mito sebastianista.\nOU\nExplica, de forma incompleta ou com imprecisões, o modo como o conteúdo da última \nestrofe convoca o mito sebastianista.\n6\n1 Refere-se, de forma incompleta e com imprecisões, ao modo como o conteúdo da última \nestrofe convoca o mito sebastianista. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)3 ............................................................... 4 pontos\nCenário de resposta\nNa última estrofe, a esperança no regresso do Rei D. Sebastião e, consequentemente, na possibilidade de \nresgatar a glória de Portugal está associada a aspetos como:\n– a existência de um espaço mítico onde o Rei se encontra – «São ilhas afortunadas, / São terras sem ter \nlugar,» (vv. 11-12);\n– o facto de o Rei aguardar o momento de agir – «Onde o Rei mora esperando.» (v. 13).\nNota – Não é obrigatório o recurso a citações, ainda que estas figurem, a título ilustrativo, no cenário de resposta.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).\n\nB",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema.\nAS ILHAS AFORTUNADAS\n5\n10\n15\nQue voz vem no som das ondas\nQue não é a voz do mar?\nÉ a voz de alguém que nos fala,\nMas que, se escutamos, cala,\nPor ter havido escutar.\nE só se, meio dormindo,\nSem saber de ouvir ouvimos,\nQue ela nos diz a esperança\nA que, como uma criança\nDormente, a dormir sorrimos.\nSão ilhas afortunadas,\nSão terras sem ter lugar,\nOnde o Rei mora esperando.\nMas, se vamos despertando,\nCala a voz, e há só o mar.\nFernando Pessoa, Mensagem, Lisboa, Assírio & Alvim, 1997, p. 75"
+    },
+    {
+      "id": 11159,
+      "question_number": "3",
+      "statement": "3. Na expressão «Tudo é cor neste filme» (linha 15), a palavra «cor» está associada à ideia de",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -91,59 +165,109 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO I",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
     },
     {
-      "id": 2189,
+      "id": 11160,
       "question_number": "4",
-      "statement": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
-      "question_type": "open",
+      "statement": "4. Relativamente ao conteúdo do terceiro parágrafo, o quarto parágrafo",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [
+        {
+          "id": 22128,
+          "letter": "A",
+          "text": "confirma o ponto de vista anterior.",
+          "isCorrect": false
+        },
+        {
+          "id": 22129,
+          "letter": "B",
+          "text": "responde à questão colocada.",
+          "isCorrect": false
+        },
+        {
+          "id": 22130,
+          "letter": "C",
+          "text": "introduz um novo tópico de análise.",
+          "isCorrect": true
+        },
+        {
+          "id": 22131,
+          "letter": "D",
+          "text": "apresenta um contra-argumento.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explicita, adequadamente, três dos traços que caracterizam Maria, justificando a resposta \ncom elementos do texto. 12\n3 Explicita, com pequenas imprecisões, três dos traços que caracterizam Maria, justificando \na resposta com elementos do texto. 9\n2\nExplicita, adequadamente, dois dos traços que caracterizam Maria, justificando a resposta \ncom elementos do texto. \nOU\nExplicita, com imprecisões, três dos traços que caracterizam Maria, justificando a resposta \ncom elementos do texto.\n6\n1\nExplicita, adequadamente, um dos traços que caracterizam Maria, justificando a resposta \ncom elementos do texto.\nOU\nExplicita, com pequenas imprecisões, dois dos traços que caracterizam Maria, justificando \na resposta com elementos do texto.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)4 ............................................................... 4 pontos\nCenário de resposta\nCom base no excerto apresentado, Maria pode ser caracterizada como uma jovem:\n– culta, na medida em que conhece figuras relevantes da política e da cultura;\n– curiosa, pois insiste em conhecer a identidade de uma das figuras retratadas;\n– idealista, na medida em que perspetiva a pátria a partir das figuras de D. Sebastião e de Camões;\n– mística, pois acredita no regresso de D. Sebastião;\n– crente, na medida em que evoca Deus.\nNota 1 – São classificadas com zero pontos as respostas em que apenas se refere uma lista de características de \nMaria, sem apresentar qualquer justificação com base em elementos do texto.\nNota 2 – A justificação solicitada no item pode consistir na apresentação de citações que, inequivocamente, comprovem \nos traços referidos.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO I",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
     },
     {
-      "id": 2190,
+      "id": 11161,
       "question_number": "5",
-      "statement": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos",
-      "question_type": "open",
+      "statement": "5. A utilização de dois pontos na linha 2 e na linha 8 serve para introduzir, respetivamente,",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos\nGRUPO II",
+      "choices": [
+        {
+          "id": 22132,
+          "letter": "A",
+          "text": "uma explicação e uma enumeração.",
+          "isCorrect": false
+        },
+        {
+          "id": 22133,
+          "letter": "B",
+          "text": "uma explicação e uma citação.",
+          "isCorrect": false
+        },
+        {
+          "id": 22134,
+          "letter": "C",
+          "text": "uma enumeração e uma explicação.",
+          "isCorrect": true
+        },
+        {
+          "id": 22135,
+          "letter": "D",
+          "text": "uma enumeração e uma citação.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, o que simbolizam, para Maria, as figuras de D. Sebastião e de \nCamões. 12\n3 Explica, de modo não totalmente completo ou com pequenas imprecisões, o que \nsimbolizam, para Maria, as figuras de D. Sebastião e de Camões. 9\n2\nExplica, adequadamente, o que simboliza, para Maria, uma das figuras.\nOU\nExplica, de modo não totalmente completo e com pequenas imprecisões, o que simbolizam, \npara Maria, as figuras de D. Sebastião e de Camões.\nOU\nExplica, de modo incompleto ou com imprecisões, o que simbolizam, para Maria, as \nfiguras de D. Sebastião e de Camões.\n6\n1\nExplica, de modo não totalmente completo ou com pequenas imprecisões, o que \nsimboliza, para Maria, uma das figuras.\nOU\nRefere-se, de modo incompleto e com imprecisões, ao que simbolizam, para Maria, as \nfiguras de D. Sebastião e de Camões.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\nCenário de resposta\nPara Maria, as duas figuras simbolizam a grandeza de Portugal e, por conseguinte, a recusa de um \npresente de submissão, na medida em que:\n– D. Sebastião simboliza a esperança, pois é o rei, querido e admirado, cujo regresso haveria de conduzir \nPortugal à grandeza perdida;\n– Camões simboliza o herói aventureiro, representante do ideal de poeta e guerreiro.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nCritérios específicos de classificação\nChave\nItem Versão 1 Versão 2 Pontuação",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO I",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
     },
     {
-      "id": 2191,
+      "id": 11162,
       "question_number": "6",
       "statement": "6. No contexto em que ocorre, a expressão «grosso volume do romance de Eça de Queirós» (linha 4) constitui \num exemplo de",
       "question_type": "multiple_choice",
@@ -155,25 +279,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4038,
+          "id": 22136,
           "letter": "A",
           "text": "perífrase.",
           "isCorrect": false
         },
         {
-          "id": 4039,
+          "id": 22137,
           "letter": "B",
           "text": "hipálage.",
           "isCorrect": false
         },
         {
-          "id": 4040,
+          "id": 22138,
           "letter": "C",
           "text": "eufemismo.",
           "isCorrect": false
         },
         {
-          "id": 4041,
+          "id": 22139,
           "letter": "D",
           "text": "paradoxo.",
           "isCorrect": false
@@ -189,7 +313,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
     },
     {
-      "id": 2192,
+      "id": 11163,
       "question_number": "7",
       "statement": "7. Ao recorrer à expressão «sem dúvida» (linha 34), veicula-se uma ideia de",
       "question_type": "multiple_choice",
@@ -201,25 +325,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4042,
+          "id": 22140,
           "letter": "A",
           "text": "permissão.",
           "isCorrect": false
         },
         {
-          "id": 4043,
+          "id": 22141,
           "letter": "B",
           "text": "certeza.",
           "isCorrect": false
         },
         {
-          "id": 4044,
+          "id": 22142,
           "letter": "C",
           "text": "possibilidade.",
           "isCorrect": false
         },
         {
-          "id": 4045,
+          "id": 22143,
           "letter": "D",
           "text": "obrigação.",
           "isCorrect": false
@@ -235,7 +359,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
     },
     {
-      "id": 2193,
+      "id": 11164,
       "question_number": "8",
       "statement": "8. Transcreva a palavra que constitui uma catáfora da expressão «os trajes (num figurino rigoroso), os \ncenários, as próprias vozes dos atores» (linha 16).",
       "question_type": "open",
@@ -249,27 +373,6 @@
       "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nTenho a sorte de já ter assistido duas vezes a Os Maias de João Botelho. Em maio vi a \nversão longa, na Cinemateca, pelo que agora escolhi a versão curta. Hesitei nesta escolha: \npensei que seria como ler o resumo em lugar de regressar – como tantas vezes já regressei – \nao grosso volume do romance de Eça de Queirós. E quem quer ler um resumo quando pode \nperder-se numa das mais perfeitas narrativas da literatura portuguesa? \nNão me arrependo de ter escolhido ambas. A montagem do filme permite que não falte, \nnem numa nem na outra, qualquer episódio ou fala essencial para o completo entendimento \nda obra. Em ambas as versões as palavras iniciais são uma surpresa: «A casa que os Maias \nvieram habitar em Lisboa no outono de 1875...». A fidelidade do realizador ao texto começa \nnessas palavras, ditas por um narrador que, falando pela voz de Eça, não pretende ser o \nescritor, nem imitá-lo, mas apenas contar a história por ele, assim continuando em todo o filme, \nintroduzindo lugares, personagens, episódios. O rigor sequencial manifesta-se pela primeira \nvez na analepse, característica dos escritos do século XIX e essencial nos romances de Eça \nde Queirós, filmada a preto e branco para indicar um passado remoto, contrastando com as \ncenas do presente da história narrada, em cores vivas e brilhantes. Tudo é cor neste filme, \nos trajes (num figurino rigoroso), os cenários, as próprias vozes dos atores transbordam de \ntons ora suaves ora lúgubres, frementes de paixão, graves de dramatismo, estridentes de \ncaricatura. \nEm Os Maias, mesmo os heróis têm defeitos e talvez a imagem, a voz, o filme, consigam \napresentá-los menos subtilmente do que as palavras escritas. Talvez também por vermos \ne ouvirmos João da Ega e Tomás de Alencar, por exemplo, atingimos uma maior definição \ndas caricaturas debuxadas por Eça: quem sabe que poses tinham, que tiques ocultavam, \nque tonalidades sonoras emitiam os dois amigos, rivais de escola literária, na imaginação do \nescritor? \nEm Os Maias de João Botelho, ao contrário do que acontece com as personagens, e \nà parte as cenas de interior, filmadas em ambientes da época que ainda hoje mantêm as \nsuas características – a Casa Veva de Lima, o Grémio Literário –, não encontramos cenários \nrealistas, que a Lisboa de hoje não permitiria. Os cenários pintados em telas gigantes, onde, \nalém dos atores, se movem cavalos, tipoias, até um «americano», reproduzem essa cidade \nque Eça bem conhecia, mas que descreveu de longe, a partir de Inglaterra e mais tarde de \nParis, e conferem pela pintura, pelas suas características impressionistas, um distanciamento \nem relação ao espaço externo que prende o espectador à trama.\nTodos os anos regresso a Os Maias, se não na íntegra, pelo menos para reler alguns \nepisódios. Como eu, muitos leitores fazem o mesmo. Regressarei, sem dúvida, ao filme de \nJoão Botelho, todas as vezes que me apetecer relembrar uma das melhores adaptações das \nobras de Eça de Queirós.\nIrene Fialho, Expresso, «Atual», 6 de setembro de 2014 (adaptado)"
-    },
-    {
-      "id": 2201,
-      "question_number": "10",
-      "statement": "10. .......................................................................................................... 5 pontos\n50 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "10. .......................................................................................................... 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",

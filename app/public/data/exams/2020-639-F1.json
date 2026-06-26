@@ -4,38 +4,29 @@
   "subject": "Português",
   "year": 2020,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 155,
+      "id": 1419,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 156,
+      "id": 1420,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 157,
+      "id": 1421,
       "name": "GRUPO III",
       "order": 2
-    },
-    {
-      "id": 158,
-      "name": "GRUPO I",
-      "order": 3
-    },
-    {
-      "id": 159,
-      "name": "GRUPO II",
-      "order": 4
     }
   ],
   "questions": [
     {
-      "id": 1189,
+      "id": 10284,
       "question_number": "1",
-      "statement": "1. 2. 3. 4.\nCotação (em pontos) 13 13 13 13 44 96\nDestes 10 itens, contribuem para a classificação final \nda prova os 8 itens cujas respostas obtenham melhor \npontuação.",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, \nmesmo quando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma \núnica palavra, independentemente do número de algarismos que o constituam (ex.: /2020/).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -44,19 +35,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. 2. 3. 4.\nCotação (em pontos) 13 13 13 13 44 96\nDestes 10 itens, contribuem para a classificação final \nda prova os 8 itens cujas respostas obtenham melhor \npontuação.\ng\nrupo I\nSubtotal",
+      "criteriaText": "1. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒\n enquanto \nGonçalo Mendes Ramires revela uma atitude caracterizada pela ociosidade, evidenciada pelo \nfacto de adiar a concretização da escrita de um romance sobre a sua família, José Lúcio Castanheiro \nrevela uma atitude pró-ativa, evidenciada pelo facto de trabalhar no Ministério da Fazenda, mantendo-se \nocupado/pela forma empenhada e entusiasmada como persegue o objetivo de criar uma revista \nquinzenal/pelo seu envolvimento na ressurreição do sentimento português;\n‒\n tal \ncomo Gonçalo Mendes Ramires revela uma atitude caracterizada pela ociosidade, também as \npersonagens do excerto de Os Maias se passeiam por Lisboa «às horas de trabalho», dedicando-se a \npouco mais do que observar os outros.\n•  Aspetos de conteúdo (C) ...\n................................................................................. 8 pontos\nNíveis d escritores de desempenho Pontuação\n4\nExplica, adequadamente, em que medida a atitude de Gonçalo Mendes Ramires se \ndistingue da atitude de José Lúcio Castanheiro, por um lado, e se aproxima, por outro \nlado, da atitude das personagens do excerto de Os Maias.\n8\n3\nExplica em que medida a atitude de Gonçalo Mendes Ramires se distingue da atitude \nde José Lúcio Castanheiro, por um lado, e se aproxima, por outro lado, da atitude das \npersonagens do excerto de Os Maias, adequadamente num dos casos e com pequenas \nimprecisões e/ou omissões no outro caso. \n6\n2\nExplica em que medida a atitude de Gonçalo Mendes Ramires se distingue da atitude \nde José Lúcio Castanheiro, por um lado, e se aproxima, por outro lado, da atitude das \npersonagens do excerto de Os Maias, com pequenas imprecisões e/ou omissões em \nambos os casos.\nOU\nExplica, adequadamente, apenas um dos aspetos solicitados.\n4\n1 Explica, com pequenas imprecisões e/ou omissões, apenas um dos aspetos solicitados. 2\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 5 pontos\n•\n Estruturação do discurso1 ............................................................ 2 pontos\nNíveis d escritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 1 ................................................................... 3 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 V ide Fatores de desvalorização no âmbito da correção linguística (p. 3).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
+      "statementCorrompido": false,
       "groupName": "GRUPO III",
       "contextTitle": null,
       "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, faça a apreciação crítica do cartoon abaixo apresentado, da autoria de Agim Sulaj.\nO seu texto deve incluir:\n– a descrição da imagem apresentada, destacando elementos significativos da sua composição;\n– um comentário crítico, fundamentando devidamente a sua apreciação e utilizando um discurso \nvalorativo;\n– uma conclusão adequada aos pontos de vista desenvolvidos.\nobservações:"
     },
     {
-      "id": 1190,
+      "id": 10285,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto \nproduzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nAs pontuações obtidas nas respostas a estes \n5 itens da prova contribuem obrigatoriamente \npara a classificação final.\nGrupo\nSubtotalII III",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto \nproduzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -65,7 +56,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+      "criteriaText": "2. .................................................................................................................................................... 13 pontos\nPara cada obra, deve ser abordado um dos tópicos seguintes, ou outros igualmente relevantes:\n No excerto de \nA Ilustre Casa de Ramires, é evidente a crítica\n‒\n à \ntendência dos portugueses para a procrastinação, o que os leva a adiar a concretização das suas \nintenções;\n‒\n à ausência de um sentimento patriótico, associado à perda da identidade nacional.\nNo excerto de \nOs Maias, é evidente a crítica\n‒\n à inércia da juventude portuguesa, que, desocupada, vagueia pela cidade;\n‒\n à imitação caricatural de modelos estrangeiros, associada à incapacidade de criar modelos próprios.\n•  Aspetos de conteúdo (C) ...\n................................................................................. 8 pontos\nNíveis d escritores de desempenho Pontuação\n4 Explicita, adequadamente, os dois aspetos solicitados. 8\n3 Explicita os dois aspetos solicitados, um adequadamente e outro com pequenas \nimprecisões e/ou omissões. 6\n2\nExplicita os dois aspetos solicitados, ambos com pequenas imprecisões e/ou omissões.\nOU\nExplicita, adequadamente, apenas um dos aspetos solicitados.\n4\n1 Explicita, com pequenas imprecisões e/ou omissões, apenas um dos aspetos solicitados. 2\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 5 pontos\n•\n Estruturação do discurso1 ............................................................ 2 pontos\nNíveis d escritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 2 ................................................................... 3 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 V ide Fatores de desvalorização no âmbito da correção linguística (p. 3).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -75,151 +66,10 @@
       "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, faça a apreciação crítica do cartoon abaixo apresentado, da autoria de Agim Sulaj.\nO seu texto deve incluir:\n– a descrição da imagem apresentada, destacando elementos significativos da sua composição;\n– um comentário crítico, fundamentando devidamente a sua apreciação e utilizando um discurso \nvalorativo;\n– uma conclusão adequada aos pontos de vista desenvolvidos.\nobservações:"
     },
     {
-      "id": 1191,
-      "question_number": "3",
-      "statement": "3. Relativamente ao terceiro parágrafo, o quarto parágrafo\n (a) retoma a ideia anterior e introduz uma ideia nova.",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1926,
-          "letter": "B",
-          "text": "contradiz a ideia anterior, fundamentando com exemplos.",
-          "isCorrect": false
-        },
-        {
-          "id": 1927,
-          "letter": "C",
-          "text": "retoma a ideia anterior e ilustra-a com exemplos.",
-          "isCorrect": false
-        },
-        {
-          "id": 1928,
-          "letter": "D",
-          "text": "contradiz a ideia anterior, citando um especialista no assunto.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos em avaliação neste parâmetro.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nEm 1980, num episódio da série Cosmos, Carl Sagan referiu que existem mais estrelas \nno universo do que grãos de areia em todas as praias do mundo. Essa afirmação tem sido \nmuito debatida, e ainda não existe um veredicto final sobre a sua veracidade, em grande parte \nporque qualquer dos dois números é muito difícil de estimar. Diversas estimativas indicam que \ncada um destes números poderá ser da ordem de dez mil triliões.\nCuriosamente, dez mil triliões é também uma estimativa razoável para o número de bits de \ninformação que são adicionados, em cada ano, às bases de dados do mundo inteiro, gerados \npelos milhares de milhões de utilizadores da Internet, quando acedem à Web , quando fazem \numa compra, quando tiram uma fotografia, quando se deslocam de um local para outro ou \nquando fazem uma chamada telefónica. \nLamentavelmente, estamos a afogar-nos em informação, mas à míngua de conhecimento, \npara usar as palavras de John Naisbitt. Com tantos dados, seria de esperar que as \ndecisões políticas e económicas, tomadas pelas empresas, sociedades e estados, fossem \nprogressivamente mais e mais bem informadas. Porém, isso parece não estar a acontecer. \nNum mundo que atribui cada vez mais importância aos dados, a sua utilização como \nevidência para a tomada de decisão parece ser, paradoxalmente, cada vez mais rara. Embora \nalgumas decisões tomadas ao nível do urbanismo, dos transportes, das políticas fiscais ou \ndos estímulos económicos sejam efetivamente tomadas com base em dados objetivos ou \nem cenários macroeconómicos verosímeis, a verdade é que muitas outras decisões, políticas \ne económicas, são tomadas de uma maneira pouco informada, muitas vezes com base em \nemoções, ideologias, opiniões ou crenças. \nSegundo Hans Rosling, não é só a ignorância que nos leva a tomar opções desinformadas e, \nmuitas vezes, erradas. Pelo contrário, muitas vezes somos enganados pelos nossos instintos. \nAo longo de milhões de anos, a evolução criou em nós comportamentos e respostas específicas, \nque eram úteis no ambiente primitivo em que viviam os nossos antepassados, mas que, agora, \nnos levam a decisões precipitadas, irracionais e, em muitos casos, profundamente erradas.\nEm parte, isto é causado porque a informação que nos chega foi concebida não para nos \ninformar, mas sim para nos chocar, assustar ou impressionar. Numa sociedade em que cada \nconsumidor escolhe os jornais que lê, os canais que vê e as rádios que ouve, existe uma enorme \npressão para noticiar os factos da forma mais dramática possível. Isso cria imediatamente um \ngrande enviesamento a favor das notícias bombásticas, dos desastres, das catástrofes e das \nguerras. As boas notícias raramente são noticiadas, porque não chamam tanto a atenção. \nUma pessoa que morre por não ter chegado ao hospital a tempo recebe mais atenção do que \nos milhares de pessoas que são rotineiramente salvas em cada dia.\nÉ por isso que o comportamento racional, de indivíduos e sociedades, exige a cada um de \nnós uma disciplina mental, disciplina essa que, lamentavelmente, muitas vezes não temos.\nArlindo Oliveira, «Bits, estrelas e grãos de areia», in Público, 5 de agosto de 2019, p. 6. (Texto adaptado)"
-    },
-    {
-      "id": 1194,
-      "question_number": "4",
-      "statement": "4. De acordo com o quinto parágrafo, a diversidade e a quantidade de informação de que o ser humano \ndispõe, através de diferentes canais, têm promovido\n (a) o acesso rápido a informação fidedigna.",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1929,
-          "letter": "B",
-          "text": "a liberdade de pensamento individual.",
-          "isCorrect": false
-        },
-        {
-          "id": 1930,
-          "letter": "C",
-          "text": "o sensacionalismo de algumas notícias.",
-          "isCorrect": false
-        },
-        {
-          "id": 1931,
-          "letter": "D",
-          "text": "a valorização de acontecimentos relevantes.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n•\n apresenta \num texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n•\n marca, corretamente, os parágrafos;\n•\n utiliza, adequadamente, mecanismos de articulação interfrásica;\n•\n mantém, \nde forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n•\n estabelece \nconexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nEm 1980, num episódio da série Cosmos, Carl Sagan referiu que existem mais estrelas \nno universo do que grãos de areia em todas as praias do mundo. Essa afirmação tem sido \nmuito debatida, e ainda não existe um veredicto final sobre a sua veracidade, em grande parte \nporque qualquer dos dois números é muito difícil de estimar. Diversas estimativas indicam que \ncada um destes números poderá ser da ordem de dez mil triliões.\nCuriosamente, dez mil triliões é também uma estimativa razoável para o número de bits de \ninformação que são adicionados, em cada ano, às bases de dados do mundo inteiro, gerados \npelos milhares de milhões de utilizadores da Internet, quando acedem à Web , quando fazem \numa compra, quando tiram uma fotografia, quando se deslocam de um local para outro ou \nquando fazem uma chamada telefónica. \nLamentavelmente, estamos a afogar-nos em informação, mas à míngua de conhecimento, \npara usar as palavras de John Naisbitt. Com tantos dados, seria de esperar que as \ndecisões políticas e económicas, tomadas pelas empresas, sociedades e estados, fossem \nprogressivamente mais e mais bem informadas. Porém, isso parece não estar a acontecer. \nNum mundo que atribui cada vez mais importância aos dados, a sua utilização como \nevidência para a tomada de decisão parece ser, paradoxalmente, cada vez mais rara. Embora \nalgumas decisões tomadas ao nível do urbanismo, dos transportes, das políticas fiscais ou \ndos estímulos económicos sejam efetivamente tomadas com base em dados objetivos ou \nem cenários macroeconómicos verosímeis, a verdade é que muitas outras decisões, políticas \ne económicas, são tomadas de uma maneira pouco informada, muitas vezes com base em \nemoções, ideologias, opiniões ou crenças. \nSegundo Hans Rosling, não é só a ignorância que nos leva a tomar opções desinformadas e, \nmuitas vezes, erradas. Pelo contrário, muitas vezes somos enganados pelos nossos instintos. \nAo longo de milhões de anos, a evolução criou em nós comportamentos e respostas específicas, \nque eram úteis no ambiente primitivo em que viviam os nossos antepassados, mas que, agora, \nnos levam a decisões precipitadas, irracionais e, em muitos casos, profundamente erradas.\nEm parte, isto é causado porque a informação que nos chega foi concebida não para nos \ninformar, mas sim para nos chocar, assustar ou impressionar. Numa sociedade em que cada \nconsumidor escolhe os jornais que lê, os canais que vê e as rádios que ouve, existe uma enorme \npressão para noticiar os factos da forma mais dramática possível. Isso cria imediatamente um \ngrande enviesamento a favor das notícias bombásticas, dos desastres, das catástrofes e das \nguerras. As boas notícias raramente são noticiadas, porque não chamam tanto a atenção. \nUma pessoa que morre por não ter chegado ao hospital a tempo recebe mais atenção do que \nos milhares de pessoas que são rotineiramente salvas em cada dia.\nÉ por isso que o comportamento racional, de indivíduos e sociedades, exige a cada um de \nnós uma disciplina mental, disciplina essa que, lamentavelmente, muitas vezes não temos.\nArlindo Oliveira, «Bits, estrelas e grãos de areia», in Público, 5 de agosto de 2019, p. 6. (Texto adaptado)"
-    },
-    {
-      "id": 1201,
-      "question_number": "5",
-      "statement": "5. Em «nos chega» (linha 27), o pronome encontra-se anteposto ao verbo, porque está\n (a) integrado numa oração subordinante.",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1932,
-          "letter": "B",
-          "text": "dependente de uma oração coordenada.",
-          "isCorrect": false
-        },
-        {
-          "id": 1933,
-          "letter": "C",
-          "text": "dependente da expressão «Em parte».",
-          "isCorrect": false
-        },
-        {
-          "id": 1934,
-          "letter": "D",
-          "text": "integrado numa oração subordinada.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5. 6. 7.\nCotação (em pontos) 8 x 13 pontos 104\nt\notal 200",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nEm 1980, num episódio da série Cosmos, Carl Sagan referiu que existem mais estrelas \nno universo do que grãos de areia em todas as praias do mundo. Essa afirmação tem sido \nmuito debatida, e ainda não existe um veredicto final sobre a sua veracidade, em grande parte \nporque qualquer dos dois números é muito difícil de estimar. Diversas estimativas indicam que \ncada um destes números poderá ser da ordem de dez mil triliões.\nCuriosamente, dez mil triliões é também uma estimativa razoável para o número de bits de \ninformação que são adicionados, em cada ano, às bases de dados do mundo inteiro, gerados \npelos milhares de milhões de utilizadores da Internet, quando acedem à Web , quando fazem \numa compra, quando tiram uma fotografia, quando se deslocam de um local para outro ou \nquando fazem uma chamada telefónica. \nLamentavelmente, estamos a afogar-nos em informação, mas à míngua de conhecimento, \npara usar as palavras de John Naisbitt. Com tantos dados, seria de esperar que as \ndecisões políticas e económicas, tomadas pelas empresas, sociedades e estados, fossem \nprogressivamente mais e mais bem informadas. Porém, isso parece não estar a acontecer. \nNum mundo que atribui cada vez mais importância aos dados, a sua utilização como \nevidência para a tomada de decisão parece ser, paradoxalmente, cada vez mais rara. Embora \nalgumas decisões tomadas ao nível do urbanismo, dos transportes, das políticas fiscais ou \ndos estímulos económicos sejam efetivamente tomadas com base em dados objetivos ou \nem cenários macroeconómicos verosímeis, a verdade é que muitas outras decisões, políticas \ne económicas, são tomadas de uma maneira pouco informada, muitas vezes com base em \nemoções, ideologias, opiniões ou crenças. \nSegundo Hans Rosling, não é só a ignorância que nos leva a tomar opções desinformadas e, \nmuitas vezes, erradas. Pelo contrário, muitas vezes somos enganados pelos nossos instintos. \nAo longo de milhões de anos, a evolução criou em nós comportamentos e respostas específicas, \nque eram úteis no ambiente primitivo em que viviam os nossos antepassados, mas que, agora, \nnos levam a decisões precipitadas, irracionais e, em muitos casos, profundamente erradas.\nEm parte, isto é causado porque a informação que nos chega foi concebida não para nos \ninformar, mas sim para nos chocar, assustar ou impressionar. Numa sociedade em que cada \nconsumidor escolhe os jornais que lê, os canais que vê e as rádios que ouve, existe uma enorme \npressão para noticiar os factos da forma mais dramática possível. Isso cria imediatamente um \ngrande enviesamento a favor das notícias bombásticas, dos desastres, das catástrofes e das \nguerras. As boas notícias raramente são noticiadas, porque não chamam tanto a atenção. \nUma pessoa que morre por não ter chegado ao hospital a tempo recebe mais atenção do que \nos milhares de pessoas que são rotineiramente salvas em cada dia.\nÉ por isso que o comportamento racional, de indivíduos e sociedades, exige a cada um de \nnós uma disciplina mental, disciplina essa que, lamentavelmente, muitas vezes não temos.\nArlindo Oliveira, «Bits, estrelas e grãos de areia», in Público, 5 de agosto de 2019, p. 6. (Texto adaptado)"
-    },
-    {
-      "id": 1195,
-      "question_number": "6",
-      "statement": "6. Identifique a função sintática desempenhada por:\na) «que cada um destes números poderá ser da ordem de dez mil triliões» (linhas 4 e 5);\nb) «pelos nossos instintos» (linha 23).",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "6. .................................................................................................................................................... 13 pontos\na) Complemento direto; b) (Complemento) agente da passiva.\nNíveis d escritores de desempenho Pontuação",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nEm 1980, num episódio da série Cosmos, Carl Sagan referiu que existem mais estrelas \nno universo do que grãos de areia em todas as praias do mundo. Essa afirmação tem sido \nmuito debatida, e ainda não existe um veredicto final sobre a sua veracidade, em grande parte \nporque qualquer dos dois números é muito difícil de estimar. Diversas estimativas indicam que \ncada um destes números poderá ser da ordem de dez mil triliões.\nCuriosamente, dez mil triliões é também uma estimativa razoável para o número de bits de \ninformação que são adicionados, em cada ano, às bases de dados do mundo inteiro, gerados \npelos milhares de milhões de utilizadores da Internet, quando acedem à Web , quando fazem \numa compra, quando tiram uma fotografia, quando se deslocam de um local para outro ou \nquando fazem uma chamada telefónica. \nLamentavelmente, estamos a afogar-nos em informação, mas à míngua de conhecimento, \npara usar as palavras de John Naisbitt. Com tantos dados, seria de esperar que as \ndecisões políticas e económicas, tomadas pelas empresas, sociedades e estados, fossem \nprogressivamente mais e mais bem informadas. Porém, isso parece não estar a acontecer. \nNum mundo que atribui cada vez mais importância aos dados, a sua utilização como \nevidência para a tomada de decisão parece ser, paradoxalmente, cada vez mais rara. Embora \nalgumas decisões tomadas ao nível do urbanismo, dos transportes, das políticas fiscais ou \ndos estímulos económicos sejam efetivamente tomadas com base em dados objetivos ou \nem cenários macroeconómicos verosímeis, a verdade é que muitas outras decisões, políticas \ne económicas, são tomadas de uma maneira pouco informada, muitas vezes com base em \nemoções, ideologias, opiniões ou crenças. \nSegundo Hans Rosling, não é só a ignorância que nos leva a tomar opções desinformadas e, \nmuitas vezes, erradas. Pelo contrário, muitas vezes somos enganados pelos nossos instintos. \nAo longo de milhões de anos, a evolução criou em nós comportamentos e respostas específicas, \nque eram úteis no ambiente primitivo em que viviam os nossos antepassados, mas que, agora, \nnos levam a decisões precipitadas, irracionais e, em muitos casos, profundamente erradas.\nEm parte, isto é causado porque a informação que nos chega foi concebida não para nos \ninformar, mas sim para nos chocar, assustar ou impressionar. Numa sociedade em que cada \nconsumidor escolhe os jornais que lê, os canais que vê e as rádios que ouve, existe uma enorme \npressão para noticiar os factos da forma mais dramática possível. Isso cria imediatamente um \ngrande enviesamento a favor das notícias bombásticas, dos desastres, das catástrofes e das \nguerras. As boas notícias raramente são noticiadas, porque não chamam tanto a atenção. \nUma pessoa que morre por não ter chegado ao hospital a tempo recebe mais atenção do que \nos milhares de pessoas que são rotineiramente salvas em cada dia.\nÉ por isso que o comportamento racional, de indivíduos e sociedades, exige a cada um de \nnós uma disciplina mental, disciplina essa que, lamentavelmente, muitas vezes não temos.\nArlindo Oliveira, «Bits, estrelas e grãos de areia», in Público, 5 de agosto de 2019, p. 6. (Texto adaptado)"
-    },
-    {
-      "id": 1196,
+      "id": 10283,
       "question_number": "7",
-      "statement": "7. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a), b) e c) – e, para cada uma delas, o número que \ncorresponde à opção selecionada em cada um dos casos. \nDo étimo latino ARENA derivaram as palavras portuguesas arena e areia. Do mesmo étimo derivaram \ntambém as palavras a) . Na evolução de ARENA para areia , ocorreu, entre outros processos \nfonológicos, a b) . Por seu lado, na evolução de STELLA para estrela ocorreu, entre outros \nprocessos fonológicos, a c) .\na) b) c)",
-      "question_type": "completion",
+      "statement": "7. Escreva uma breve exposição sobre a importância que a crítica assume no Sermão de Santo António (aos \nPeixes), de Padre António Vieira.\nA sua exposição deve respeitar as orientações seguintes:\n•  uma introdução ao tema;\n•  um desenvolvimento no qual identifique dois aspetos criticados pelo pregador e explique o modo como \nessa crítica é alegoricamente construída em cada um dos casos;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "question_type": "essay",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -227,14 +77,14 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. .................................................................................................................................................... 13 pontos\na) 3; b) 2; c) 3.\nNíveis d escritores de desempenho Pontuação",
+      "criteriaText": "7. .................................................................................................................................................... 13 pontos\nPara \nidentificar aspetos criticados pelo pregador e explicar o modo como essa crítica é alegoricamente \nconstruída, devem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒\n a \nhipocrisia humana é representada alegoricamente pelo comportamento do Polvo, pois, tal como este \nse dissimula e se mostra inofensivo para atacar a presa, também alguns homens (como Judas) agem \ncom falsidade;\n‒\n o \npeixe Pegador representa o oportunismo, pois, tal como este se agarra aos peixes maiores, vivendo \nà sua custa, também alguns seres humanos (como os seguidores de Herodes) se aproximam dos \nhomens influentes para beneficiar do seu poder;\n‒\n a \nNau Soberba, que é caracterizada pelas velas inchadas pelo vento e que acaba por levar os marinheiros \nao naufrágio, simboliza a arrogância que conduz muitos homens à perdição.\nNota ‒ Os tópicos apresentados constituem apenas exemplos, podendo ser abordados outros aspetos.\n•  Aspetos de conteúdo (C) ... ................................................................................. 8 pontos\nNíveis d escritores de desempenho Pontuação\n4 Identifica dois aspetos criticados pelo pregador e explica, adequadamente, o modo como \na crítica é alegoricamente construída em cada um dos casos. 8\n3\nIdentifica dois aspetos criticados pelo pregador e explica, adequadamente num dos \ncasos e com pequenas imprecisões e/ou omissões no outro, o modo como a crítica é \nalegoricamente construída.\n6\n2\nIdentifica dois aspetos criticados pelo pregador e explica, com pequenas imprecisões e/\nou omissões em ambos os casos, o modo como a crítica é alegoricamente construída.\nOU\nIdentifica um dos aspetos criticados pelo pregador e explica, adequadamente, o modo \ncomo a crítica é alegoricamente construída.\nOU\nIdentifica dois aspetos criticados pelo pregador, mas apenas explica, adequadamente, \no modo como a crítica é alegoricamente construída num deles.\n4\n1\nIdentifica um dos aspetos criticados pelo pregador e explica, com pequenas imprecisões \ne/ou omissões, o modo como a crítica é alegoricamente construída.\nOU\nIdentifica dois aspetos criticados pelo pregador, sem explicar o modo como a crítica \né alegoricamente construída em cada um dos casos.\n2\n\n•  Aspetos de estruturação do discurso e correção linguística (F) ... ...................... 5 pontos\n•\n Estruturação do discurso1 ............................................................ 3 pontos\nNíveis d escritores de desempenho Pontuação\n3\nEscreve um texto bem estruturado, constituído por três partes (introdução, desenvolvimento \ne conclusão) devidamente proporcionadas e assegurando, adequadamente, a progressão \ne o encadeamento das ideias.\n3\n2\nEscreve um texto globalmente bem estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e/ou apresentando falhas \npontuais no que diz respeito à progressão e ao encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado, apresentando diversas falhas no que diz \nrespeito à progressão e ao encadeamento das ideias. 1\n• Correção linguística2 5 ................................................................... 2 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 V ide Fatores de desvalorização no âmbito da correção linguística (p. 3).\n\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO II",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nEm 1980, num episódio da série Cosmos, Carl Sagan referiu que existem mais estrelas \nno universo do que grãos de areia em todas as praias do mundo. Essa afirmação tem sido \nmuito debatida, e ainda não existe um veredicto final sobre a sua veracidade, em grande parte \nporque qualquer dos dois números é muito difícil de estimar. Diversas estimativas indicam que \ncada um destes números poderá ser da ordem de dez mil triliões.\nCuriosamente, dez mil triliões é também uma estimativa razoável para o número de bits de \ninformação que são adicionados, em cada ano, às bases de dados do mundo inteiro, gerados \npelos milhares de milhões de utilizadores da Internet, quando acedem à Web , quando fazem \numa compra, quando tiram uma fotografia, quando se deslocam de um local para outro ou \nquando fazem uma chamada telefónica. \nLamentavelmente, estamos a afogar-nos em informação, mas à míngua de conhecimento, \npara usar as palavras de John Naisbitt. Com tantos dados, seria de esperar que as \ndecisões políticas e económicas, tomadas pelas empresas, sociedades e estados, fossem \nprogressivamente mais e mais bem informadas. Porém, isso parece não estar a acontecer. \nNum mundo que atribui cada vez mais importância aos dados, a sua utilização como \nevidência para a tomada de decisão parece ser, paradoxalmente, cada vez mais rara. Embora \nalgumas decisões tomadas ao nível do urbanismo, dos transportes, das políticas fiscais ou \ndos estímulos económicos sejam efetivamente tomadas com base em dados objetivos ou \nem cenários macroeconómicos verosímeis, a verdade é que muitas outras decisões, políticas \ne económicas, são tomadas de uma maneira pouco informada, muitas vezes com base em \nemoções, ideologias, opiniões ou crenças. \nSegundo Hans Rosling, não é só a ignorância que nos leva a tomar opções desinformadas e, \nmuitas vezes, erradas. Pelo contrário, muitas vezes somos enganados pelos nossos instintos. \nAo longo de milhões de anos, a evolução criou em nós comportamentos e respostas específicas, \nque eram úteis no ambiente primitivo em que viviam os nossos antepassados, mas que, agora, \nnos levam a decisões precipitadas, irracionais e, em muitos casos, profundamente erradas.\nEm parte, isto é causado porque a informação que nos chega foi concebida não para nos \ninformar, mas sim para nos chocar, assustar ou impressionar. Numa sociedade em que cada \nconsumidor escolhe os jornais que lê, os canais que vê e as rádios que ouve, existe uma enorme \npressão para noticiar os factos da forma mais dramática possível. Isso cria imediatamente um \ngrande enviesamento a favor das notícias bombásticas, dos desastres, das catástrofes e das \nguerras. As boas notícias raramente são noticiadas, porque não chamam tanto a atenção. \nUma pessoa que morre por não ter chegado ao hospital a tempo recebe mais atenção do que \nos milhares de pessoas que são rotineiramente salvas em cada dia.\nÉ por isso que o comportamento racional, de indivíduos e sociedades, exige a cada um de \nnós uma disciplina mental, disciplina essa que, lamentavelmente, muitas vezes não temos.\nArlindo Oliveira, «Bits, estrelas e grãos de areia», in Público, 5 de agosto de 2019, p. 6. (Texto adaptado)"
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPartE a\nLeia os dois textos e as notas. Na resposta aos itens de 1. a 3., tenha em consideração ambos os textos.\n5\n10\n15\n20\n25\nOra uma noite, voltando de jantar em casa da velha marquesa de Louredo, a «tia Louredo», \nque morava a Santa Clara, esbarrou no Rossio com José Lúcio Castanheiro, então empregado \nno Ministério da Fazenda, na repartição dos Próprios Nacionais. Mais defecado 1, mais \nmacilento2, com uns óculos mais largos e mais tenebrosos, o Castanheiro ardia todo, como \nem Coimbra, na chama da sua Ideia — «a ressurreição do sentimento português!» E agora, \nalargando a proporções condignas da capital o plano da «Pátria», labutava devotadamente na \ncriação duma revista quinzenal, de setenta páginas, com capa azul, os «Anais3 de Literatura e \nde História». Era uma noite de maio, macia e quente. E, passeando ambos em torno das fontes \nsecas do Rossio, Castanheiro, que sobraçava um rolo de papel e um gordo fólio encadernado \nem bezerro, depois de recordar as cavaqueiras geniais da Rua da Misericórdia, de maldizer \na falta de intelectualidade de Vila Real de Santo António — voltou sofregamente à sua Ideia, \nsuplicou a Gonçalo Mendes Ramires que lhe cedesse para os «Anais» esse romance que ele \nanunciara em Coimbra, sobre o seu avoengo\n4 Tructesindo Ramires, alferes-mor de Sancho I.\nGonçalo, rindo, confessou que ainda não começara essa grande obra.\n— Ah! — murmurou o Castanheiro, estacando, com os negros óculos sobre ele, duros e \ndesconsolados. — Então você não persistiu?... Não permaneceu fiel à Ideia?...\nEncolheu os ombros, resignadamente, já acostumado, através da sua missão, a estes \ndesfalecimentos do Patriotismo. Nem consentiu que Gonçalo, humilhado perante aquela Fé \nque se mantivera tão pura e servidora — aludisse, como desculpa, ao inventário laborioso da \nCasa, depois da morte do papá...\n— Bem, bem! Acabou! Procrastinare lusitanum est 5. Trabalha agora no verão... Para \nPortugueses, menino, o verão é o tempo das belas fortunas e dos rijos feitos. No verão nasce \nNuno Álvares no Bonjardim! No verão se vence em Aljubarrota! No verão chega o Gama \nà Índia!... E no verão vai o nosso Gonçalo escrever uma novelazinha sublime!... De resto \nos «Anais» só aparecem em dezembro, caracteristicamente no Primeiro de Dezembro. E \nvocê em três meses ressuscita um mundo. Sério, Gonçalo Mendes!... É um dever, um santo \ndever, sobretudo para os novos, colaborar nos «Anais». Portugal, menino, morre por falta de \nsentimento nacional! Nós estamos imundamente morrendo do mal de não ser Portugueses!\nEça de Queiroz, A Ilustre Casa de Ramires, edição de Helena Cidade Moura, 18.ª ed.,\nLisboa, Livros do Brasil, 2015, pp. 18-19.\n30\n35\nPela sombra passeavam rapazes, aos pares, devagar, com flores na lapela, a calça \napurada, luvas claras fortemente pespontadas de negro. Era toda uma geração nova e miúda \nque Carlos não conhecia. Por vezes Ega murmurava um «olá», acenava com a bengala. E \neles iam, repassavam, com um arzinho tímido e contrafeito, como mal acostumados àquele \nvasto espaço, a tanta luz, ao seu próprio chique. Carlos pasmava. Que faziam ali, às horas \nde trabalho, aqueles moços tristes, de calça esguia? Não havia mulheres. Apenas num banco \nadiante uma criatura adoentada, de lenço e xale, tomava o sol; e duas matronas, com vidrilhos \nno mantelete\n6, donas de casa de hóspedes, arejavam um cãozinho felpudo. O que atraía pois \n\n40\n45\nali aquela mocidade pálida? E o que sobretudo o espantava eram as botas desses cavalheiros, \nbotas despropositadamente compridas, rompendo para fora da calça colante com pontas \naguçadas e reviradas como proas de barcos varinos...\n— Isto é fantástico, Ega!\nEga esfregava as mãos. Sim, mas precioso! Porque essa simples forma de botas explicava \ntodo o Portugal contemporâneo. Via-se por ali como a coisa era. Tendo abandonado o seu feitio \nantigo, à D. João VI, que tão bem lhe ficava, este desgraçado Portugal decidira arranjar-se à \nmoderna: mas, sem originalidade, sem força, sem carácter para criar um feitio seu, um feitio \npróprio, manda vir modelos do estrangeiro — modelos de ideias, de calças, de costumes, de \nleis, de arte, de cozinha... Somente, como lhe falta o sentimento da proporção, e ao mesmo \ntempo o domina a impaciência de parecer muito moderno e muito civilizado — exagera o \nmodelo, deforma-o, estraga-o até à caricatura.\nEça de Queiroz, Os Maias, edição de Helena Cidade Moura,\nLisboa, Livros do Brasil, 1998, pp. 702-703.\nNotaS\n1 defecado – magro.\n2 macilento – pálido.\n3 Anais – narração de factos históricos, organizados ano a ano.\n4 avoengo – antepassado.\n5 Procrastinare lusitanum est – expressão latina que significa que adiar uma tarefa é uma atitude típica dos portugueses.\n6 mantelete – capa curta, leve e com rendas.\n1. Explique em que medida a atitude de Gonçalo Mendes Ramires se distingue da atitude de José Lúcio \nCastanheiro, por um lado, e se aproxima, por outro lado, da atitude das personagens do excerto de Os Maias.\n2. Em ambos os textos, é apresentada uma visão crítica sobre Portugal e os portugueses.\nExplicite um dos aspetos criticados em cada excerto.\n3. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a), b) e c) – e, para cada uma delas, o número que \ncorresponde à opção selecionada em cada um dos casos.\nNos excertos transcritos, é possível encontrar várias características do estilo de Eça de Queirós, \nnomeadamente o uso do discurso indireto livre, presente em a) , bem como do diminutivo, que \npode exprimir vários valores, entre eles um sentido pejorativo como em b) . Além disso, o recurso \nfrequente à adjetivação permite extrair múltiplos sentidos, como na expressão «negros óculos sobre ele, \nduros e desconsolados» (linhas 15 e 16) em que c) .\na) b) c)\n1. «suplicou a Gonçalo Mendes \nRamires que lhe cedesse para \nos “Anais” esse romance que \nele anunciara em Coimbra» \n(linhas 12 e 13)\n2. «Nós estamos imundamente \nmorrendo do mal de não ser \nPortugueses!» (linha 28)\n3. «Sim, mas precioso!» (linha 41)\n1. «novelazinha» \n(linha 24)\n2. «arzinho» \n(linha 32)\n3. «cãozinho» \n(linha 36)\n1. o primeiro adjetivo caracteriza o objeto \ne os outros dois se referem à reação \nda personagem\n2. os três adjetivos caracterizam os olhos \nda personagem\n3. todos os adjetivos contribuem para \ncaracterizar o estado de espírito da \npersonagem\n\nPartE B\nLeia o poema.\n5\n10\nSofro, Lídia, do medo do destino.\nA leve pedra que um momento ergue\nAs lisas rodas do meu carro, aterra\nMeu coração.\nTudo quanto me ameace de mudar-me\nPara melhor que seja, odeio e fujo.\nDeixem-me os deuses minha vida sempre\nSem renovar\nMeus dias, mas que um passe e outro passe \nFicando eu sempre quási o mesmo, indo\nPara a velhice como um dia entra\nNo anoitecer.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva,\n Lisboa, Assírio & Alvim, 2000, p. 181.\n4. Apesar da referência a «Meu coração» (v. 4), que remete para o campo das emoções, Ricardo Reis \nassume uma atitude racional.\nTendo em conta os seis primeiros versos do poema, explicite em que consiste essa atitude racional, bem \ncomo o motivo que leva o sujeito poético a assumi-la.\n5. Transcreva a comparação presente no final do poema e interprete o seu sentido.\n\n6. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a), b) e c) – e, para cada uma delas, o número que \ncorresponde à opção selecionada em cada um dos casos.\nNeste poema, evidenciam-se diversas características da linguagem e do estilo de Ricardo Reis. Duas \ndessas características são: \n‒ a existência de um interlocutor, identificado através de um recurso expressivo, a a) , que está \npresente no verso 1;\n‒ a musicalidade, para a qual contribuem tanto a aliteração, por exemplo no b) , como a própria \nestrutura métrica da ode, na qual se verifica c) .\na) b) c)\n1. anástrofe\n2. apóstrofe\n3. comparação\n1. verso 2\n2. verso 3\n3. verso 6"
     }
   ]
 }

@@ -4,31 +4,22 @@
   "subject": "Matemática A",
   "year": 2012,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 425,
+      "id": 1609,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 426,
+      "id": 1610,
       "name": "GRUPO II",
       "order": 1
-    },
-    {
-      "id": 427,
-      "name": "GRUPO I",
-      "order": 2
-    },
-    {
-      "id": 428,
-      "name": "GRUPO II",
-      "order": 3
     }
   ],
   "questions": [
     {
-      "id": 2597,
+      "id": 11451,
       "question_number": "1",
       "statement": "1. O código de acesso a uma conta de e-mail é constituído por quatro letras e três algarismos. Sabe-se que \num código tem quatro «a», dois « 5» e um « 2», como, por exemplo, o código 2aa5a5a\nQuantos códigos diferentes existem nestas condições?",
       "question_type": "multiple_choice",
@@ -40,31 +31,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4812,
+          "id": 22834,
           "letter": "A",
           "text": "105",
           "isCorrect": false
         },
         {
-          "id": 4813,
+          "id": 22835,
           "letter": "B",
           "text": "210",
           "isCorrect": false
         },
         {
-          "id": 4814,
+          "id": 22836,
           "letter": "C",
           "text": "5040",
           "isCorrect": false
         },
         {
-          "id": 4815,
+          "id": 22837,
           "letter": "D",
           "text": "39",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1. Se o examinando não referir que a função é contínua em ,12 5\nrr; E, a pontuação a atribuir nesta \netapa é zero pontos.",
+      "criteriaText": "1. a 8. .....................................................(8 × 5 pontos) ........................ 40 pontos\n40 pontos\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -74,7 +65,7 @@
       "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
     },
     {
-      "id": 2598,
+      "id": 11452,
       "question_number": "2",
       "statement": "2. A tabela de distribuição de probabilidades de uma variável aleatória X é a seguinte.\nxi 0 1 2\nPX xi=^h b3 a 2a\nSabe-se que:\n•  a e b são números reais;\n•  o valor médio da variável aleatória X é 24\n35\nQual é o valor de b?",
       "question_type": "multiple_choice",
@@ -86,31 +77,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4816,
+          "id": 22838,
           "letter": "A",
           "text": "4 1",
           "isCorrect": false
         },
         {
-          "id": 4817,
+          "id": 22839,
           "letter": "B",
           "text": "3 1",
           "isCorrect": false
         },
         {
-          "id": 4818,
+          "id": 22840,
           "letter": "C",
           "text": "2 1",
           "isCorrect": false
         },
         {
-          "id": 4819,
+          "id": 22841,
           "letter": "D",
           "text": "5 1",
           "isCorrect": false
         }
       ],
-      "criteriaText": "2. Se o examinando referir que a função é contínua em ,12 5\nrr ;E , a pontuação a atribuir nesta etapa \né zero pontos.",
+      "criteriaText": "2. Pontuação de uma etapa dividida em passos. A pontuação indicada para cada passo é a pontuação \nmáxima que lhe é atribuível.\nA pontuação da etapa resulta da soma das pontuações \ndos diferentes passos.",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -120,7 +111,28 @@
       "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
     },
     {
-      "id": 2599,
+      "id": 11453,
+      "question_number": "3",
+      "statement": "3. Numa certa linha do triângulo de Pascal, o penúltimo elemento é 111\nEscolhe-se, ao acaso, um elemento dessa linha.\nQual é a probabilidade de esse elemento ser maior do que 105 ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. ........................................................................................................... 15 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
+    },
+    {
+      "id": 11463,
       "question_number": "3",
       "statement": "3. Seja W o espaço de resultados associado a uma certa experiência aleatória, e sejam A e B dois \nacontecimentos (A Ì W e B Ì W), com 0PB !^h\nMostre que 1PA BB PA B+ ;; + =^ ^h h",
       "question_type": "open",
@@ -131,9 +143,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. Se o examinando referir que a função é contínua no domínio, esta etapa deve ser considerada \ncomo cumprida.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -141,7 +153,28 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2600,
+      "id": 11454,
+      "question_number": "4",
+      "statement": "4. Na Figura 1, está representada, num referencial o.n. xOy, \nparte do gráfico de uma função f , de domínio ,13- 6@\nSabe-se que:\n•  f 14 = −^h\n•  a reta de equação x 1= é assíntota do gráfico de f\n•  xn^h é uma sucessão com termos em ,11- 6@\n•  lim x 1n =^h\nQual é o valor de lim fx n_` ij ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "4. Utilização de processos de resolução que não estão \nprevistos no critério específico de classificação.\nÉ aceite e classificado qualquer processo de resolução \ncientificamente correto.\nO critério específico deve ser adaptado ao processo de \nresolução apresentado, mediante distribuição da cotação \ndo item pelas etapas* percorridas pelo examinando. Esta \nadaptação do critério deve ser utilizada em todos os \nprocessos de resolução análogos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
+    },
+    {
+      "id": 11464,
       "question_number": "4",
       "statement": "4. Considere a função f , de domínio R, definida por \nsen\nfx\nx\nx x\nex k\nx\ne x\n11\n0\n10\n1 0\nse\nse com\nse\nRk\nx\n3\n1\n4\n1\n2\n!=\n−−\n− =\n−\n+^h\nZ\n[\n\\\n]\n]\n]]\n]\n]]\nResolva os itens seguintes, recorrendo a métodos exclusivamente analíticos.",
       "question_type": "open",
@@ -152,9 +185,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4−− = − −\n\"\"++\n^ ch m\n(ou equivalente) (ver nota) ................................... 2 pontos\nReferir o limite notável 1lim y\ne 1\ny\ny\n0\n− =\n\"\n(ou equivalente) ................................................... 1 pontos\nObter o valor de lim fx\nx 0\" +\n^h ......................................................... 1 pontos\nEscrever 1fe0 k 1= − +^h .................................................................................... 1 pontos\nObter o valor de k ................................................................................................. 2 pontos\nNota – Se o examinando escrever 0x \" + em vez de 40x \" + , esta etapa deve ser considerada \ncomo cumprida.\n\nProva 635/2.ª F. • Página C/9/ 11",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -162,7 +195,28 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2601,
+      "id": 11455,
+      "question_number": "5",
+      "statement": "5. Na Figura 2, está representada, num referencial o.n. xOy , parte do gráfico da função f , de \ndomínio ,6 3−+ 6@ , definida por lnfx x\n3 2= +^ ch m\nSabe-se que:\n•  a reta r é tangente ao gráfico da função f no ponto de abcissa a\n•  a inclinação da reta r é, em radianos, 4\nr\nQual é o valor de a ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "5. ........................................................................................................... 15 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
+    },
+    {
+      "id": 11466,
       "question_number": "5",
       "statement": "5. Considere a função f , de domínio ,70-66 , definida por \nlnfx ex 3x 2= ++^ ^h h\nSejam A e B os pontos de intersecção do gráfico de f com a bissetriz dos quadrantes pares, e seja d \na distância entre os pontos A e B\nDetermine d, recorrendo à calculadora gráfica.\nNa sua resposta, deve:\n•  reproduzir o gráfico da função ou os gráficos das funções que tiver necessidade de visualizar na \ncalculadora, devidamente identificado(s), incluindo o referencial;\n•  assinalar os pontos A e B\n•  indicar as coordenadas dos pontos A e B com arredondamento às centésimas;\n•  apresentar o valor de d com arredondamento às centésimas.",
       "question_type": "calculation",
@@ -173,9 +227,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5.\n \n.................................................................................................................................................... 15 pontos\nReproduzir \no gráfico da função ou os gráficos das funções visualizados na\ncalculadora (ver notas 1 e 2) \n \n.................................................................................. 4 pontos\nReproduzir o gráfico de f ............................................................... 2 pontos\nReproduzir a bissetriz dos quadrantes pares \n.................................. 2 pontos\nAssinalar os pontos A e B .................................... (1 + 1) .................................... 2 pontos\nIndicar as coordenadas do ponto A ........................................................................ 1 ponto s\nIndicar as coordenadas do ponto B ........................................................................ 1 ponto s\nDeterminar a diferença entre a abcissa do ponto A e a abcissa do ponto B .......... 1 ponto s\nDeterminar a diferença entre a ordenada do ponto A e a ordenada do ponto B .... 1 ponto s\nCalcular d ............................................................................................................... 5 pontos\nNotas:",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -183,7 +237,28 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2602,
+      "id": 11456,
+      "question_number": "6",
+      "statement": "6. Seja f uma função de domínio R\nSabe-se que:\n•  lim fx x21\nx\n− =\n\" 3+\n^` h j\n•  lim fx 3\nx\n=\n\" 3−\n^h\n•  lim fx\nx 1\n3= +\n\" +\n^h\n•  lim fx 2\nx 1\n=\n\" -\n^h\nEm qual das opções seguintes as duas equações definem assíntotas do gráfico da função f ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "6. Utilização de processos de resolução que não respeitam \nas instruções dadas [exemplo: «usando métodos \nanalíticos»].\nA etapa em que a instrução não é respeitada é pontuada \ncom zero pontos, bem como todas as etapas subsequentes \nque dela dependam, salvo se houver indicação em \ncontrário no critério específico de classificação.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
+    },
+    {
+      "id": 11467,
       "question_number": "6",
       "statement": "6. Na Figura 4, está representado o quadrado [ABCD]\nSabe-se que:\n•  AB 4=\n•  AE AH BE BF CF CG DG DH= = = = = = =\n•  x é a amplitude, em radianos, do ângulo EAB\n•  ,x 0 4! r ;E",
       "question_type": "open",
@@ -194,9 +269,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6 A resposta apresenta corretamente os cinco pontos e a conclusão pretendida. 15",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -204,7 +279,7 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2603,
+      "id": 11457,
       "question_number": "7",
       "statement": "7. Seja k um número real, e sejam 2zi zk i3e12= + = − dois números complexos.\nQual é o valor de k para o qual zz 21 × é um imaginário puro?",
       "question_type": "multiple_choice",
@@ -216,25 +291,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4836,
+          "id": 22858,
           "letter": "A",
           "text": "2 3",
           "isCorrect": false
         },
         {
-          "id": 4837,
+          "id": 22859,
           "letter": "B",
           "text": "2 3-",
           "isCorrect": false
         },
         {
-          "id": 4838,
+          "id": 22860,
           "letter": "C",
           "text": "1",
           "isCorrect": false
         },
         {
-          "id": 4839,
+          "id": 22861,
           "letter": "D",
           "text": "6",
           "isCorrect": false
@@ -250,7 +325,7 @@
       "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
     },
     {
-      "id": 2604,
+      "id": 11458,
       "question_number": "8",
       "statement": "8. Na Figura 3, está representado, no plano complexo, um polígono regular [ABCDEFGHI ] \nOs vértices desse polígono são as imagens geométricas \ndas raízes de índice n de um número complexo z\nO vértice A tem coordenadas (0, -3)\nQual dos números complexos seguintes tem por \nimagem geométrica o vértice \nF ?",
       "question_type": "multiple_choice",
@@ -262,25 +337,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4840,
+          "id": 22862,
           "letter": "A",
           "text": "3c is 18 7 r",
           "isCorrect": false
         },
         {
-          "id": 4841,
+          "id": 22863,
           "letter": "B",
           "text": "3c is 18 11 r",
           "isCorrect": false
         },
         {
-          "id": 4842,
+          "id": 22864,
           "letter": "C",
           "text": "3c is 3 2 r",
           "isCorrect": false
         },
         {
-          "id": 4843,
+          "id": 22865,
           "letter": "D",
           "text": "3c is 9 5 r Im(z) Re(z) EF G H I A D O C B Figura 3",
           "isCorrect": false
@@ -296,7 +371,7 @@
       "contextText": "GRUPO I\nNa resposta a cada um dos itens deste grupo, selecione a única opção correta.\nEscreva, na folha de respostas:\n•  o número do item;\n•  a letra que identifica a única opção escolhida.\nNão apresente cálculos, nem justificações."
     },
     {
-      "id": 2605,
+      "id": 11459,
       "question_number": "1.1",
       "statement": "1.1. Seja n um número natural. \nDetermine \ncis\ncisi\n2 5\n32 6\nn46#\nr\nr+−−\nc\nc\nm\nm\n, sem recorrer à calculadora.\nApresente o resultado na forma trigonométrica.",
       "question_type": "calculation",
@@ -307,7 +382,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1.1. ................................................................................................................................................. 15 pontos\nCalcular o numerador na forma algébrica ............................................................ 9 pontos\nCalcular i n46− .............................................................................. 3 pontos\nEscrever 1i n4 = .................................................. 1 pontos\nEscrever 1i 6 = −- ............................................... 1 pontos\nConcluir que 1i n46 = −− ...................................... 1 pontos\nCalcular cis2 6\nr−cm na forma algébrica ...................................... 4 pontos\nEscrever 2c os sencis i2 66 6\nrr r− = −+ −c ``cm jj m 1 pontos\nEscrever cos 62\n3r− =cm .................................. 1 pontos\nEscrever sen 62\n1r− = −cm ................................... 1 pontos\nEscrever cis2 6\nr−cm na forma a + bi ................ 1 pontos\nObter o numerador na forma algébrica ........................................ 2 pontos\nCalcular \n5cis\ni",
+      "criteriaText": "1.1. .................................................................................................. 15 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -317,7 +392,7 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2606,
+      "id": 11460,
       "question_number": "1.2",
       "statement": "1.2. Seja ,42!a rr ;E\nSejam zz e 21 dois números complexos tais que cisc iszz 2eaa r== +21 cm\nMostre, analiticamente, que a imagem geométrica de zz+12 , no plano complexo, pertence ao \n2.º quadrante.",
       "question_type": "open",
@@ -328,7 +403,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1.2. ................................................................................................................................................. 15 pontos\nEscrever cisc iszz 22 aa r+ = ++1 cm .............................................................. 1 pontos\nEscrever cisc os seniaa a= + ........................................................................ 1 pontos\nEscrever cisc os seni22 2a r a r a r+ = ++ +cc cmm m ...................................... 1 pontos\nEscrever coss en2a r a+ = −cm ......................................................................... 2 pontos\nEscrever senc os2a r a+ =cm ............................................................................ 2 pontos\nObter coss en senc oszz i2 aa aa+ = −+ +1 ^^ hh (ou equivalente) ................ 1 pontos\nConcluir que 0,senc os 42se2 !aa a rr+ ;E .............................................. 2 pontos\nConcluir que 0,coss en 42se1 !aa a rr− ;E (ver nota) ............................ 4 pontos\nConcluir o pretendido ........................................................................................... 1 pontos\nNota – Se o examinando não referir que a conclusão resulta de senc os>aa ,42\nquando !a rr ;E , \na pontuação a atribuir nesta etapa deve ser desvalorizada em 2 pontos.",
+      "criteriaText": "1.2. .................................................................................................. 15 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -338,7 +413,7 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2607,
+      "id": 11461,
       "question_number": "2.1",
       "statement": "2.1. Seja Y a variável aleatória «massa, em gramas, de um pacote de açúcar comercializado pela \nempresa AP».\nA variável aleatória Y segue uma distribuição normal de valor médio 6,5 gramas e desvio padrão \n0,4 gramas.\nUm pacote de açúcar encontra-se em condições de ser comercializado se a sua massa estiver \ncompreendida entre 5,7 gramas e 7,3 gramas.\nDetermine o valor aproximado da probabilidade de, em 10 desses pacotes de açúcar, exatamente \noito estarem em condições de serem comercializados. \nApresente o resultado na forma de dízima, com aproximação às milésimas.",
       "question_type": "calculation",
@@ -349,7 +424,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.1. ................................................................................................................................................. 15 pontos\nEscrever ,, 0,9545PY57 73<< .^h (ver nota 1) ............................................ 5 pontos\nEscrever a expressão que dá o valor pedido (ver nota 2) ................................... 8 pontos\nCalcular o valor pedido (ver nota 3) .................................................................... 2 pontos\nNotas:",
+      "criteriaText": "2.1. .................................................................................................. 15 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -359,7 +434,7 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2608,
+      "id": 11462,
       "question_number": "2.2",
       "statement": "2.2. Considere o problema seguinte.\n«A empresa AP pretende aplicar, junto dos seus funcionários, um programa de reeducação alimentar. \nDe entre os 500 funcionários da empresa AP vão ser selecionados 30 para formarem um grupo \npara frequentar esse programa. A Joana e a Margarida são irmãs e são funcionárias da empresa AP. \nQuantos grupos diferentes podem ser formados de modo que, pelo menos, uma das duas irmãs, a \nJoana ou a Margarida, não seja escolhida para esse grupo?»\nApresentam-se, em seguida, duas respostas corretas.\nII) CC500 30 498 28- II) 2 CC498 29 498 30+×\nNuma composição, apresente o raciocínio que conduz a cada uma dessas respostas.",
       "question_type": "open",
@@ -370,7 +445,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.2. ................................................................................................................................................. 15 pontos\nA composição deve contemplar os pontos seguintes.\n•  explicar C498 28\n•  explicar a razão pela qual a diferença entre C500 30 e C498 28 é uma resposta correta (I)\n•  explicar 2× C498 29\n•  explicar C498 30\n•  explicar a razão pela qual a soma entre 2× C498 29 e C498 30 é uma resposta correta (II)\nNa tabela seguinte, indica-se como deve ser classificada a resposta a este item, de acordo com os níveis de \ndesempenho no domínio da comunicação escrita em língua portuguesa e com os níveis de desempenho no \ndomínio específico da disciplina.\nDescritores do nível de desempenho no domínio\nda comunicação escrita em língua portuguesa\nDescritores do nível de desempenho\nno domínio específico da disciplina\nNíveis*",
+      "criteriaText": "2.2. .................................................................................................. 15 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -380,7 +455,7 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2611,
+      "id": 11465,
       "question_number": "4.3",
       "statement": "4.3. Seja g uma função, de domínio R\n+\n, cuja derivada, gl , de domínio R\n+\n, é dada por gx fx x\n1= −l^^ hh\nEstude a função g quanto ao sentido das concavidades do seu gráfico e quanto à existência de \npontos de inflexão.",
       "question_type": "open",
@@ -391,7 +466,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4.3. ................................................................................................................................................. 20 pontos\nDeterminar gll ...................................................................................................... 12 pontos\nEscrever gx fx x",
+      "criteriaText": "4.3. .................................................................................................. 20 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -401,9 +476,9 @@
       "contextText": "GRUPO II\nNa resposta a cada um dos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as \njustificações necessárias.\nAtenção: quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2614,
+      "id": 11468,
       "question_number": "6.2",
-      "statement": "6.2. ............................................................................................. 15 pontos\n160 pontos\n TOTAL ..................................... 200 pontos\nD C\nA B\nG\nE\nFH\nFigura 4",
+      "statement": "6.2. Mostre que existe um valor de x compreendido entre 12 5err para o qual a área da região \nsombreada é 5\nSe utilizar a calculadora em eventuais cálculos numéricos, sempre que proceder a arredondamentos, \nuse duas casas decimais.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -412,7 +487,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6.2. ................................................................................................................................................. 15 pontos\nReferir que a função a é contínua em ,12 5\nrr; E (ver notas 1, 2 e 3) ................... 3 pontos\nCalcular a 12\nrcm ................................................................................................... 3 pontos\nCalcular a 5\nrcm ...................................................................................................... 3 pontos\nEscrever 5aa 51 2<<rrcc mm (ou equivalente) .................................................. 4 pontos\nReferir que o pretendido resulta do teorema de Bolzano ..................................... 2 pontos\nNotas:",
+      "criteriaText": "6.2. .................................................................................................. 15 pontos\n160 pontos\n TOTAL ......................................... 200 pontos\nProva 635/2.ª F. • Página C/1/ 11\n\nProva 635/2.ª F. • Página C/2/ 11\nA classificação da prova deve respeitar integralmente\nos critérios gerais e os critérios específicos a seguir apresentados.\nCriTériOS gErAiS dE CLASSifiCAÇãO\nA classificação a atribuir a cada resposta resulta da aplicação dos critérios gerais e dos critérios específicos \nde classificação apresentados para cada item e é expressa por um número inteiro, previsto na grelha de \nclassificação.\nAs respostas ilegíveis ou que não possam ser claramente identificadas são classificadas com zero pontos. \nNo entanto, em caso de omissão ou de engano na identificação de uma resposta, esta pode ser classificada \nse for possível identificar inequivocamente o item a que diz respeito.\nSe o examinando responder a um mesmo item mais do que uma vez, não eliminando inequivocamente a(s) \nresposta(s) que não deseja que seja(m) classificada(s), deve ser considerada apenas a resposta que surgir \nem primeiro lugar.\nA ausência de indicação inequívoca da versão da prova (Versão 1 ou Versão 2) implica a classificação com \nzero pontos das respostas aos itens de seleção (escolha múltipla).\nNos itens de seleção (escolha múltipla), a cotação total do item é atribuída às respostas que apresentem de \nforma inequívoca a única opção correta.\nSão classificadas com zero pontos as respostas em que seja assinalada:\n– uma opção incorreta;\n– mais do que uma opção.\nNão há lugar a classificações intermédias.\nOs critérios de classificação das respostas aos itens de construção apresentam-se organizados por etapas \ne/ou por níveis de desempenho. A cada nível de desempenho e a cada etapa corresponde uma dada \npontuação. \nNos itens de construção com cotação igual ou superior a quinze pontos e que impliquem a produção de um \ntexto, a classificação a atribuir traduz a avaliação simultânea das competências específicas da disciplina e das \ncompetências de comunicação escrita em língua portuguesa. A avaliação das competências de comunicação \nescrita em língua portuguesa contribui para valorizar a classificação atribuída ao desempenho no domínio das \ncompetências específicas da disciplina. Esta valorização corresponde a cerca de 10% da cotação do item e \nfaz-se de acordo com os níveis de desempenho a seguir descritos.\nNíveis Descritores\n3 Composição bem estruturada, sem erros de sintaxe, de pontuação e/ou de ortografia, ou \ncom erros esporádicos, cuja gravidade não implique perda de inteligibilidade e/ou de sentido.\n2 Composição razoavelmente estruturada, com alguns erros de sintaxe, de pontuação e/ou de \nortografia, cuja gravidade não implique perda de inteligibilidade e/ou de sentido.\n1 Composição sem estruturação aparente, com erros graves de sintaxe, de pontuação e/ou \nde ortografia, cuja gravidade implique perda frequente de inteligibilidade e/ou de sentido.\nNo caso de a resposta não atingir o nível 1 de desempenho no domínio específico da disciplina, a classificação \na atribuir é zero pontos. Neste caso, não é classificado o desempenho no domínio da comunicação escrita \nem língua portuguesa.\n\nProva 635/2.ª F. • Página C/3/ 11\nAté ao ano letivo 2013/2014, na classificação das provas, continuarão a ser consideradas corretas as grafias \nque seguirem o que se encontra previsto quer no Acordo de 1945, quer no Acordo de 1990 (atualmente em \nvigor), mesmo quando se utilizem as duas grafias numa mesma prova.\nNo quadro seguinte, apresentam-se os critérios de classificação a aplicar em situações não descritas \nanteriormente.\nSituação Classificação",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

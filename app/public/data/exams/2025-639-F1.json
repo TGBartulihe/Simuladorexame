@@ -4,49 +4,19 @@
   "subject": "Português",
   "year": 2025,
   "phase": "F1",
+  "triageStatus": "revisar",
   "groups": [
     {
-      "id": 15,
+      "id": 1333,
       "name": "GRUPO I",
       "order": 0
-    },
-    {
-      "id": 16,
-      "name": "GRUPO II",
-      "order": 1
-    },
-    {
-      "id": 17,
-      "name": "GRUPO III",
-      "order": 2
     }
   ],
   "questions": [
     {
-      "id": 162,
-      "question_number": "1",
-      "statement": "1. 2. 4. 5. 7. 1. 3. 4. 7.\nCotação (em pontos) 13 13 13 13 13 13 13 13 13 44 161\nDestes 5 itens, contribuem para a \nclassificação final da prova os 3 itens cujas \nrespostas obtenham melhor pontuação.\nI II\nSubtotal",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
-      "contextTitle": null,
-      "contextText": "GRUPO III\nPara uns, é o indivíduo que faz a sociedade; para outros, é a sociedade que faz o indivíduo. \nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o conteúdo da afirmação.\nNo seu texto:\n  − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o \nem dois argumentos, cada um \ndeles ilustrado com um exemplo significativo;\n  −utilize um discurso valorativo (juízo de valor explícito ou implícito);\n  −formule uma conclusão adequada à argumentação desenvolvida.\nObservações:"
-    },
-    {
-      "id": 155,
+      "id": 9555,
       "question_number": "2",
-      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n  − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n  −um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "statement": "2.\n Releia as estâncias 52 e 53. \nExplicite duas características de D. \nFernando, fundamentando a sua resposta em informações presentes \nnas estâncias mencionadas.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,244 +25,35 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+      "criteriaText": "2. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois\n dos tópicos seguintes, ou outros igualmente relevantes:\n − abnegação/altruísmo \nde D. Fernando, que sobrepõe o bem da nação à sua liberdade («Que, por \nsalvar o povo miserando / Cercado, ao Sarraceno se entregava» – vv. 11-12; «Mais o público bem \nque o seu respeita» – v. 16);\n − patriotismo/lealdade \nà pátria («Só por amor da pátria está passando / A vida, de senhora feita \nescrava» – vv. 13-14);\n − dignidade/nobreza \nde carácter, evidenciada nas motivações de D. Fernando para se entregar ao \ncativeiro («Que, por salvar o povo miserando / Cercado, ao Sarraceno se entregava» – vv. 11-12; «Mais \no público bem que o seu respeita» – v. 16);\n − espírito \nde sacrifício em função de valores mais altos («Que, por salvar o povo miserando / Cercado, ao \nSarraceno se entregava» – vv. 11-12);\n − ambição de lutar em defesa da fé cristã («(Que a tão altas empresas aspirava)» – v. 10);\n − devoção \nextrema/santidade ao transformar-se num mártir, superando os exemplos de outros homens \nque, na Antiguidade, deram a vida pela sua pátria («Viu ser cativo o santo irmão Fernando» – v. 9; \n«Codro, nem Cúrcio, ouvido por espanto, / Nem os Décios leais, fizeram tanto.» – vv. 23-24).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)\n1 ............................. 10 pontos\nNível Descritor de desempenho Pontuação\n5\nExplicita duas características de D. Fernando, abordando, adequadamente, dois dos \ntópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nExplicita duas características de D. Fernando, abordando, adequadamente, dois dos \ntópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita duas características de D. Fernando, abordando dois dos tópicos de resposta, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nExplicita duas características de D. Fernando, abordando dois dos tópicos de resposta, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita duas características de D. Fernando, abordando dois dos tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\nOU\nExplicita uma característica de D. Fernando, abordando, adequadamente, um dos tópicos \nde resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNível Descritor de desempenho Pontuação\n2\nExplicita duas características de D. Fernando, abordando dois dos tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita uma característica de D. Fernando, abordando, adequadamente, um dos tópicos \nde resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n1\nExplicita uma característica de D. Fernando, abordando, com pequenas imprecisões e/ou \nomissões, um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ... ............................................................. 3 pontos\nApós \na contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO III",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO III\nPara uns, é o indivíduo que faz a sociedade; para outros, é a sociedade que faz o indivíduo. \nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre o conteúdo da afirmação.\nNo seu texto:\n  − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o \nem dois argumentos, cada um \ndeles ilustrado com um exemplo significativo;\n  −utilize um discurso valorativo (juízo de valor explícito ou implícito);\n  −formule uma conclusão adequada à argumentação desenvolvida.\nObservações:"
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o texto seguinte, constituído pelas estâncias 51 a 53 do Canto IV de Os Lusíadas, e as notas.\nEst. 51\nEst. 52\nEst. 53\n5\n10\n15\n20\n«Não foi do Rei Duarte tão ditoso\nO tempo que ficou na suma alteza,\nQue assi vai alternando o tempo iroso\nO bem co mal, o gosto co a tristeza.\nQuem viu sempre um estado deleitoso?\nOu quem viu em Fortuna¹ haver firmeza²?\nPois inda neste Reino e neste Rei\nNão usou ela tanto desta lei?\n«Viu ser cativo o santo irmão Fernando³\n(Que a tão altas empresas aspirava),\nQue, por salvar o povo miserando\nCercado, ao Sarraceno⁴ se entregava.\nSó por amor da pátria está passando\nA vida, de senhora feita escrava,\nPor não se dar por ele a forte Ceita⁵.\nMais o público bem que o seu respeita.\n«Codro⁶, por que o inimigo não vencesse,\nDeixou antes vencer da morte a vida;\nRégulo⁷, por que a pátria não perdesse,\nQuis mais a liberdade ver perdida.\nEste, por que se Espanha não temesse,\nA cativeiro eterno se convida!\nCodro, nem Cúrcio⁸, ouvido por espanto,\nNem os Décios⁹ leais, fizeram tanto.\nLuís de Camões, Os Lusíadas, edição de A. J. da Costa Pimpão, \n5.ª ed., Lisboa, MNE/IC, 2003, pp. 107-108.\nNOTAS\n1 Fortuna – Destino; Sorte.\n2 firmeza – constância; estabilidade.\n3 Fernando – D. Fernando (1402-1443) foi capturado pelos mouros durante o cerco de Tânger, em 1437. Como o seu \nirmão, o rei D. Duarte, recusou a entrega de Ceuta em troca da sua libertação, o Infante acabou por falecer ao fim de \nanos de cativeiro.\n4 Sarraceno – Mouro.\n5 Ceita – Ceuta.\n6 Codro – último rei de Atenas, que evitou o triunfo dos dórios quando estes invadiram a Ática, entrando disfarçado no \ncampo inimigo e deixando-se matar.\n7 Régulo – cônsul romano que, prisioneiro dos cartagineses, foi por estes enviado a Roma para propor a paz. Heroicamente, \naconselhou os romanos a resistirem e voltou a Cartago, onde foi morto.\n8 Cúrcio – romano que se atirou a um abismo existente no Fórum, para, com o sacrifício da sua vida, salvar a pátria.\n9 Décios – ilustres romanos que se sacrificaram pela pátria."
     },
     {
-      "id": 156,
+      "id": 9556,
       "question_number": "3",
-      "statement": "3.\n Ao \nafirmar que «Camões desconfinou Portugal no século XVI e continua a ser para a nossa época \num preclaro mestre da arte do desconfinamento» (linhas 31 e 32), o autor associa ao sentido de \n«desconfinamento» ideias como",
-      "question_type": "multiple_choice",
+      "statement": "3.\n Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe \napenas as letras – a) e b) – e, para cada uma delas, o número que \ncorresponde à opção selecionada.\nNo texto, estão presentes vários recursos expressivos, frequentemente utilizados em Os Lusíadas. \nPor exemplo, na estância 53, o narrador utiliza como estratégia discursiva o recurso à \na)\n , a",
+      "question_type": "completion",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 250,
-          "letter": "A",
-          "text": "independência e protagonismo político.",
-          "isCorrect": false
-        },
-        {
-          "id": 251,
-          "letter": "B",
-          "text": "bem-estar e satisfação pessoal.",
-          "isCorrect": false
-        },
-        {
-          "id": 252,
-          "letter": "C",
-          "text": "ousadia e responsabilidade social.",
-          "isCorrect": false
-        },
-        {
-          "id": 253,
-          "letter": "D",
-          "text": "conformismo e poder individual.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3. 6. 2. 5. 6.\nCotação (em pontos) 3 × 13 pontos 39\nTOTAL 200",
+      "choices": null,
+      "criteriaText": "3. .................................................................................................................................................... 13 pontos\nV\nersão 1 ‒ a) \" 3; b) \" 2\nVersão 2 ‒ a) \" 2; b) \" 3\n1 V ide Tipologia de erros no âmbito da correção linguística (pp. 2-3) .",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO II",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto e as notas.\nO texto constitui um excerto do discurso «O que é amar um País», proferido por D. José Tolentino Mendonça \nno Dia de Portugal, de Camões e das Comunidades Portuguesas, em 10 de junho de 2020. \n5\n10\n15\n20\n25\n30\n35\nÉ uma bela tradição da nossa República, esta de convidar um cidadão a tomar a palavra \nneste contexto solene para assim representar a comunidade de concidadãos que somos. É \nnessa condição, como mais um entre os dez milhões de portugueses, que hoje me dirijo às \nmulheres e aos homens do meu país, àquelas e àqueles que dia a dia o constroem, suscitam, \namam e sonham, que dia a dia encarnam Portugal onde quer que Portugal seja: no território \ncontinental ou nas regiões autónomas dos Açores e da Madeira, no espaço físico nacional \nou nas extensas redes da nossa diáspora¹. Se interrogássemos cada um, provavelmente \nresponderia que está apenas a cuidar da sua parte – a tratar do seu trabalho, da sua família; a \ncultivar as suas relações ou o seu território de vizinhança –, mas é importante que se recorde \nde que, cuidando das múltiplas partes, estamos juntos a edificar o todo. Cada português é uma \nexpressão de Portugal e é chamado a sentir-se responsável por ele. Pois quando arquitetamos \numa casa não podemos esquecer que, nesse momento, estamos também a construir a cidade. \nE quando pomos no mar a nossa embarcação não somos apenas responsáveis por ela, mas \npelo inteiro oceano. Ou quando queremos interpretar a árvore não podemos esquecer que ela \nnão viveria sem as raízes.\nPensemos no contributo de Camões. Camões não nos deu só o poema. Se quisermos ser \nprecisos, Camões deixou-nos em herança a poesia. Se, à distância destes quase quinhentos \nanos, continuamos a evocar coletivamente o seu nome, não é apenas porque nos ofereceu, em \nconcreto, o mais extraordinário mapa mental do Portugal do seu tempo, mas também porque \niniciou um inteiro povo nessa inultrapassável ciência de navegação interior que é a poesia. A \npoesia é um guia náutico perpétuo; é um tratado de marinhagem para a experiência oceânica \nque fazemos da vida; é uma cosmografia da alma. Isso explica, por exemplo, que Os Lusíadas \nsejam, ao mesmo tempo, um livro que nos leva por mar até à Índia, mas nos conduz por \nterra ainda mais longe: conduz-nos a nós próprios; conduz-nos, com uma lucidez veemente, a \nrepresentações que nos definem como indivíduos e como nação; faz-nos aportar – e esse é o \nprodígio da grande literatura – àquela consciência última de nós mesmos, ao quinhão daquelas \nperguntas fundamentais de cujo confronto um ser humano sobre a terra não se pode isentar. \nSe é verdade, como escreveu Wittgenstein, que «os limites da minha linguagem são os \nlimites do meu mundo», Camões desconfinou Portugal. A quem tivesse dúvidas sobre o papel \ncentral da cultura, das artes ou do pensamento na construção de um país, bastaria recordar \nisso. Camões desconfinou Portugal no século XVI e continua a ser para a nossa época um \npreclaro² mestre da arte do desconfinamento. Porque desconfinar não é simplesmente ocupar \nde novo o espaço comunitário, mas é poder, sim, habitá-lo plenamente; poder modelá-lo de \nforma criativa, com forças e intensidades novas, como um exercício deliberado e comprometido \nde cidadania. Desconfinar é sentir-se protagonista e participante de um projeto mais amplo e \nem construção, que a todos diz respeito. É não se conformar com os limites da linguagem, \ndas ideias, dos modelos e do próprio tempo. Numa estação de tetos baixos, Camões é uma \ninspiração para ousar sonhos grandes.\nJosé Tolentino Mendonça, O Que É Amar Um País, Lisboa, Quetzal, pp. 10-13.\nNOTAS\n1 diáspora – dispersão de um povo ou de uma comunidade no mundo.\n2 preclaro – ilustre."
-    },
-    {
-      "id": 158,
-      "question_number": "4",
-      "statement": "4.\n A\n única frase em que estão presentes deíticos pessoais e temporais é",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 254,
-          "letter": "A",
-          "text": "«Desconfinar é sentir-se protagonista e participante de um projeto mais amplo e em construção» (linhas 35 e 36).",
-          "isCorrect": false
-        },
-        {
-          "id": 255,
-          "letter": "B",
-          "text": "«Cada português é uma expressão de Portugal e é chamado a sentir-se responsável por ele.» (linhas 10 e 11).",
-          "isCorrect": false
-        },
-        {
-          "id": 256,
-          "letter": "C",
-          "text": "«É nessa condição, como mais um entre os dez milhões de portugueses, que hoje me dirijo às mulheres e aos homens do meu país» (linhas 2 a 4).",
-          "isCorrect": false
-        },
-        {
-          "id": 257,
-          "letter": "D",
-          "text": "«A quem tivesse dúvidas sobre o papel central da cultura, das artes ou do pensamento na construção de um país, bastaria recordar isso.» (linhas 29 a 31).",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n•\n apresenta \num texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n•\n marca, corretamente, os parágrafos;\n•\n utiliza, adequadamente, mecanismos de articulação interfrásica;\n•\n mantém, \nde forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n•\n estabelece \nconexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto e as notas.\nO texto constitui um excerto do discurso «O que é amar um País», proferido por D. José Tolentino Mendonça \nno Dia de Portugal, de Camões e das Comunidades Portuguesas, em 10 de junho de 2020. \n5\n10\n15\n20\n25\n30\n35\nÉ uma bela tradição da nossa República, esta de convidar um cidadão a tomar a palavra \nneste contexto solene para assim representar a comunidade de concidadãos que somos. É \nnessa condição, como mais um entre os dez milhões de portugueses, que hoje me dirijo às \nmulheres e aos homens do meu país, àquelas e àqueles que dia a dia o constroem, suscitam, \namam e sonham, que dia a dia encarnam Portugal onde quer que Portugal seja: no território \ncontinental ou nas regiões autónomas dos Açores e da Madeira, no espaço físico nacional \nou nas extensas redes da nossa diáspora¹. Se interrogássemos cada um, provavelmente \nresponderia que está apenas a cuidar da sua parte – a tratar do seu trabalho, da sua família; a \ncultivar as suas relações ou o seu território de vizinhança –, mas é importante que se recorde \nde que, cuidando das múltiplas partes, estamos juntos a edificar o todo. Cada português é uma \nexpressão de Portugal e é chamado a sentir-se responsável por ele. Pois quando arquitetamos \numa casa não podemos esquecer que, nesse momento, estamos também a construir a cidade. \nE quando pomos no mar a nossa embarcação não somos apenas responsáveis por ela, mas \npelo inteiro oceano. Ou quando queremos interpretar a árvore não podemos esquecer que ela \nnão viveria sem as raízes.\nPensemos no contributo de Camões. Camões não nos deu só o poema. Se quisermos ser \nprecisos, Camões deixou-nos em herança a poesia. Se, à distância destes quase quinhentos \nanos, continuamos a evocar coletivamente o seu nome, não é apenas porque nos ofereceu, em \nconcreto, o mais extraordinário mapa mental do Portugal do seu tempo, mas também porque \niniciou um inteiro povo nessa inultrapassável ciência de navegação interior que é a poesia. A \npoesia é um guia náutico perpétuo; é um tratado de marinhagem para a experiência oceânica \nque fazemos da vida; é uma cosmografia da alma. Isso explica, por exemplo, que Os Lusíadas \nsejam, ao mesmo tempo, um livro que nos leva por mar até à Índia, mas nos conduz por \nterra ainda mais longe: conduz-nos a nós próprios; conduz-nos, com uma lucidez veemente, a \nrepresentações que nos definem como indivíduos e como nação; faz-nos aportar – e esse é o \nprodígio da grande literatura – àquela consciência última de nós mesmos, ao quinhão daquelas \nperguntas fundamentais de cujo confronto um ser humano sobre a terra não se pode isentar. \nSe é verdade, como escreveu Wittgenstein, que «os limites da minha linguagem são os \nlimites do meu mundo», Camões desconfinou Portugal. A quem tivesse dúvidas sobre o papel \ncentral da cultura, das artes ou do pensamento na construção de um país, bastaria recordar \nisso. Camões desconfinou Portugal no século XVI e continua a ser para a nossa época um \npreclaro² mestre da arte do desconfinamento. Porque desconfinar não é simplesmente ocupar \nde novo o espaço comunitário, mas é poder, sim, habitá-lo plenamente; poder modelá-lo de \nforma criativa, com forças e intensidades novas, como um exercício deliberado e comprometido \nde cidadania. Desconfinar é sentir-se protagonista e participante de um projeto mais amplo e \nem construção, que a todos diz respeito. É não se conformar com os limites da linguagem, \ndas ideias, dos modelos e do próprio tempo. Numa estação de tetos baixos, Camões é uma \ninspiração para ousar sonhos grandes.\nJosé Tolentino Mendonça, O Que É Amar Um País, Lisboa, Quetzal, pp. 10-13.\nNOTAS\n1 diáspora – dispersão de um povo ou de uma comunidade no mundo.\n2 preclaro – ilustre."
-    },
-    {
-      "id": 159,
-      "question_number": "5",
-      "statement": "5.\n A\n única oração subordinada substantiva completiva é",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 258,
-          "letter": "A",
-          "text": "«que dia a dia o constroem» (linha 4).",
-          "isCorrect": false
-        },
-        {
-          "id": 259,
-          "letter": "B",
-          "text": "«que ela não viveria sem as raízes» (linhas 14 e 15).",
-          "isCorrect": false
-        },
-        {
-          "id": 260,
-          "letter": "C",
-          "text": "«que fazemos da vida» (linha 22).",
-          "isCorrect": false
-        },
-        {
-          "id": 261,
-          "letter": "D",
-          "text": "«que nos definem como indivíduos e como nação» (linha 25).",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5\nDescreve o estado de espírito do sujeito poético face à vontade divina, abordando dois \ndos tópicos, ambos adequadamente.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto e as notas.\nO texto constitui um excerto do discurso «O que é amar um País», proferido por D. José Tolentino Mendonça \nno Dia de Portugal, de Camões e das Comunidades Portuguesas, em 10 de junho de 2020. \n5\n10\n15\n20\n25\n30\n35\nÉ uma bela tradição da nossa República, esta de convidar um cidadão a tomar a palavra \nneste contexto solene para assim representar a comunidade de concidadãos que somos. É \nnessa condição, como mais um entre os dez milhões de portugueses, que hoje me dirijo às \nmulheres e aos homens do meu país, àquelas e àqueles que dia a dia o constroem, suscitam, \namam e sonham, que dia a dia encarnam Portugal onde quer que Portugal seja: no território \ncontinental ou nas regiões autónomas dos Açores e da Madeira, no espaço físico nacional \nou nas extensas redes da nossa diáspora¹. Se interrogássemos cada um, provavelmente \nresponderia que está apenas a cuidar da sua parte – a tratar do seu trabalho, da sua família; a \ncultivar as suas relações ou o seu território de vizinhança –, mas é importante que se recorde \nde que, cuidando das múltiplas partes, estamos juntos a edificar o todo. Cada português é uma \nexpressão de Portugal e é chamado a sentir-se responsável por ele. Pois quando arquitetamos \numa casa não podemos esquecer que, nesse momento, estamos também a construir a cidade. \nE quando pomos no mar a nossa embarcação não somos apenas responsáveis por ela, mas \npelo inteiro oceano. Ou quando queremos interpretar a árvore não podemos esquecer que ela \nnão viveria sem as raízes.\nPensemos no contributo de Camões. Camões não nos deu só o poema. Se quisermos ser \nprecisos, Camões deixou-nos em herança a poesia. Se, à distância destes quase quinhentos \nanos, continuamos a evocar coletivamente o seu nome, não é apenas porque nos ofereceu, em \nconcreto, o mais extraordinário mapa mental do Portugal do seu tempo, mas também porque \niniciou um inteiro povo nessa inultrapassável ciência de navegação interior que é a poesia. A \npoesia é um guia náutico perpétuo; é um tratado de marinhagem para a experiência oceânica \nque fazemos da vida; é uma cosmografia da alma. Isso explica, por exemplo, que Os Lusíadas \nsejam, ao mesmo tempo, um livro que nos leva por mar até à Índia, mas nos conduz por \nterra ainda mais longe: conduz-nos a nós próprios; conduz-nos, com uma lucidez veemente, a \nrepresentações que nos definem como indivíduos e como nação; faz-nos aportar – e esse é o \nprodígio da grande literatura – àquela consciência última de nós mesmos, ao quinhão daquelas \nperguntas fundamentais de cujo confronto um ser humano sobre a terra não se pode isentar. \nSe é verdade, como escreveu Wittgenstein, que «os limites da minha linguagem são os \nlimites do meu mundo», Camões desconfinou Portugal. A quem tivesse dúvidas sobre o papel \ncentral da cultura, das artes ou do pensamento na construção de um país, bastaria recordar \nisso. Camões desconfinou Portugal no século XVI e continua a ser para a nossa época um \npreclaro² mestre da arte do desconfinamento. Porque desconfinar não é simplesmente ocupar \nde novo o espaço comunitário, mas é poder, sim, habitá-lo plenamente; poder modelá-lo de \nforma criativa, com forças e intensidades novas, como um exercício deliberado e comprometido \nde cidadania. Desconfinar é sentir-se protagonista e participante de um projeto mais amplo e \nem construção, que a todos diz respeito. É não se conformar com os limites da linguagem, \ndas ideias, dos modelos e do próprio tempo. Numa estação de tetos baixos, Camões é uma \ninspiração para ousar sonhos grandes.\nJosé Tolentino Mendonça, O Que É Amar Um País, Lisboa, Quetzal, pp. 10-13.\nNOTAS\n1 diáspora – dispersão de um povo ou de uma comunidade no mundo.\n2 preclaro – ilustre."
-    },
-    {
-      "id": 160,
-      "question_number": "6",
-      "statement": "6.\n T\nodas as expressões desempenham a função sintática de complemento do nome, exceto",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 262,
-          "letter": "A",
-          "text": "«de forma criativa» (linhas 33 e 34).",
-          "isCorrect": false
-        },
-        {
-          "id": 263,
-          "letter": "B",
-          "text": "«de Camões» (linha 16).",
-          "isCorrect": false
-        },
-        {
-          "id": 264,
-          "letter": "C",
-          "text": "«de nós mesmos» (linha 26).",
-          "isCorrect": false
-        },
-        {
-          "id": 265,
-          "letter": "D",
-          "text": "«de Portugal» (linha 11).",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. .................................................................................................................................................... 13 pontos\nV\nersão 1 ‒ B, C e E\nVersão 2 ‒ A, C e D",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto e as notas.\nO texto constitui um excerto do discurso «O que é amar um País», proferido por D. José Tolentino Mendonça \nno Dia de Portugal, de Camões e das Comunidades Portuguesas, em 10 de junho de 2020. \n5\n10\n15\n20\n25\n30\n35\nÉ uma bela tradição da nossa República, esta de convidar um cidadão a tomar a palavra \nneste contexto solene para assim representar a comunidade de concidadãos que somos. É \nnessa condição, como mais um entre os dez milhões de portugueses, que hoje me dirijo às \nmulheres e aos homens do meu país, àquelas e àqueles que dia a dia o constroem, suscitam, \namam e sonham, que dia a dia encarnam Portugal onde quer que Portugal seja: no território \ncontinental ou nas regiões autónomas dos Açores e da Madeira, no espaço físico nacional \nou nas extensas redes da nossa diáspora¹. Se interrogássemos cada um, provavelmente \nresponderia que está apenas a cuidar da sua parte – a tratar do seu trabalho, da sua família; a \ncultivar as suas relações ou o seu território de vizinhança –, mas é importante que se recorde \nde que, cuidando das múltiplas partes, estamos juntos a edificar o todo. Cada português é uma \nexpressão de Portugal e é chamado a sentir-se responsável por ele. Pois quando arquitetamos \numa casa não podemos esquecer que, nesse momento, estamos também a construir a cidade. \nE quando pomos no mar a nossa embarcação não somos apenas responsáveis por ela, mas \npelo inteiro oceano. Ou quando queremos interpretar a árvore não podemos esquecer que ela \nnão viveria sem as raízes.\nPensemos no contributo de Camões. Camões não nos deu só o poema. Se quisermos ser \nprecisos, Camões deixou-nos em herança a poesia. Se, à distância destes quase quinhentos \nanos, continuamos a evocar coletivamente o seu nome, não é apenas porque nos ofereceu, em \nconcreto, o mais extraordinário mapa mental do Portugal do seu tempo, mas também porque \niniciou um inteiro povo nessa inultrapassável ciência de navegação interior que é a poesia. A \npoesia é um guia náutico perpétuo; é um tratado de marinhagem para a experiência oceânica \nque fazemos da vida; é uma cosmografia da alma. Isso explica, por exemplo, que Os Lusíadas \nsejam, ao mesmo tempo, um livro que nos leva por mar até à Índia, mas nos conduz por \nterra ainda mais longe: conduz-nos a nós próprios; conduz-nos, com uma lucidez veemente, a \nrepresentações que nos definem como indivíduos e como nação; faz-nos aportar – e esse é o \nprodígio da grande literatura – àquela consciência última de nós mesmos, ao quinhão daquelas \nperguntas fundamentais de cujo confronto um ser humano sobre a terra não se pode isentar. \nSe é verdade, como escreveu Wittgenstein, que «os limites da minha linguagem são os \nlimites do meu mundo», Camões desconfinou Portugal. A quem tivesse dúvidas sobre o papel \ncentral da cultura, das artes ou do pensamento na construção de um país, bastaria recordar \nisso. Camões desconfinou Portugal no século XVI e continua a ser para a nossa época um \npreclaro² mestre da arte do desconfinamento. Porque desconfinar não é simplesmente ocupar \nde novo o espaço comunitário, mas é poder, sim, habitá-lo plenamente; poder modelá-lo de \nforma criativa, com forças e intensidades novas, como um exercício deliberado e comprometido \nde cidadania. Desconfinar é sentir-se protagonista e participante de um projeto mais amplo e \nem construção, que a todos diz respeito. É não se conformar com os limites da linguagem, \ndas ideias, dos modelos e do próprio tempo. Numa estação de tetos baixos, Camões é uma \ninspiração para ousar sonhos grandes.\nJosé Tolentino Mendonça, O Que É Amar Um País, Lisboa, Quetzal, pp. 10-13.\nNOTAS\n1 diáspora – dispersão de um povo ou de uma comunidade no mundo.\n2 preclaro – ilustre."
-    },
-    {
-      "id": 161,
-      "question_number": "7",
-      "statement": "7. A frase «A poesia é um guia náutico perpétuo» (linhas 20 e 21) apresenta",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 266,
-          "letter": "A",
-          "text": "um valor perfetivo.",
-          "isCorrect": false
-        },
-        {
-          "id": 267,
-          "letter": "B",
-          "text": "uma situação habitual.",
-          "isCorrect": false
-        },
-        {
-          "id": 268,
-          "letter": "C",
-          "text": "um valor imperfetivo.",
-          "isCorrect": false
-        },
-        {
-          "id": 269,
-          "letter": "D",
-          "text": "uma situação genérica.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
-      "officialAnswer": null,
-      "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto e as notas.\nO texto constitui um excerto do discurso «O que é amar um País», proferido por D. José Tolentino Mendonça \nno Dia de Portugal, de Camões e das Comunidades Portuguesas, em 10 de junho de 2020. \n5\n10\n15\n20\n25\n30\n35\nÉ uma bela tradição da nossa República, esta de convidar um cidadão a tomar a palavra \nneste contexto solene para assim representar a comunidade de concidadãos que somos. É \nnessa condição, como mais um entre os dez milhões de portugueses, que hoje me dirijo às \nmulheres e aos homens do meu país, àquelas e àqueles que dia a dia o constroem, suscitam, \namam e sonham, que dia a dia encarnam Portugal onde quer que Portugal seja: no território \ncontinental ou nas regiões autónomas dos Açores e da Madeira, no espaço físico nacional \nou nas extensas redes da nossa diáspora¹. Se interrogássemos cada um, provavelmente \nresponderia que está apenas a cuidar da sua parte – a tratar do seu trabalho, da sua família; a \ncultivar as suas relações ou o seu território de vizinhança –, mas é importante que se recorde \nde que, cuidando das múltiplas partes, estamos juntos a edificar o todo. Cada português é uma \nexpressão de Portugal e é chamado a sentir-se responsável por ele. Pois quando arquitetamos \numa casa não podemos esquecer que, nesse momento, estamos também a construir a cidade. \nE quando pomos no mar a nossa embarcação não somos apenas responsáveis por ela, mas \npelo inteiro oceano. Ou quando queremos interpretar a árvore não podemos esquecer que ela \nnão viveria sem as raízes.\nPensemos no contributo de Camões. Camões não nos deu só o poema. Se quisermos ser \nprecisos, Camões deixou-nos em herança a poesia. Se, à distância destes quase quinhentos \nanos, continuamos a evocar coletivamente o seu nome, não é apenas porque nos ofereceu, em \nconcreto, o mais extraordinário mapa mental do Portugal do seu tempo, mas também porque \niniciou um inteiro povo nessa inultrapassável ciência de navegação interior que é a poesia. A \npoesia é um guia náutico perpétuo; é um tratado de marinhagem para a experiência oceânica \nque fazemos da vida; é uma cosmografia da alma. Isso explica, por exemplo, que Os Lusíadas \nsejam, ao mesmo tempo, um livro que nos leva por mar até à Índia, mas nos conduz por \nterra ainda mais longe: conduz-nos a nós próprios; conduz-nos, com uma lucidez veemente, a \nrepresentações que nos definem como indivíduos e como nação; faz-nos aportar – e esse é o \nprodígio da grande literatura – àquela consciência última de nós mesmos, ao quinhão daquelas \nperguntas fundamentais de cujo confronto um ser humano sobre a terra não se pode isentar. \nSe é verdade, como escreveu Wittgenstein, que «os limites da minha linguagem são os \nlimites do meu mundo», Camões desconfinou Portugal. A quem tivesse dúvidas sobre o papel \ncentral da cultura, das artes ou do pensamento na construção de um país, bastaria recordar \nisso. Camões desconfinou Portugal no século XVI e continua a ser para a nossa época um \npreclaro² mestre da arte do desconfinamento. Porque desconfinar não é simplesmente ocupar \nde novo o espaço comunitário, mas é poder, sim, habitá-lo plenamente; poder modelá-lo de \nforma criativa, com forças e intensidades novas, como um exercício deliberado e comprometido \nde cidadania. Desconfinar é sentir-se protagonista e participante de um projeto mais amplo e \nem construção, que a todos diz respeito. É não se conformar com os limites da linguagem, \ndas ideias, dos modelos e do próprio tempo. Numa estação de tetos baixos, Camões é uma \ninspiração para ousar sonhos grandes.\nJosé Tolentino Mendonça, O Que É Amar Um País, Lisboa, Quetzal, pp. 10-13.\nNOTAS\n1 diáspora – dispersão de um povo ou de uma comunidade no mundo.\n2 preclaro – ilustre."
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o texto seguinte, constituído pelas estâncias 51 a 53 do Canto IV de Os Lusíadas, e as notas.\nEst. 51\nEst. 52\nEst. 53\n5\n10\n15\n20\n«Não foi do Rei Duarte tão ditoso\nO tempo que ficou na suma alteza,\nQue assi vai alternando o tempo iroso\nO bem co mal, o gosto co a tristeza.\nQuem viu sempre um estado deleitoso?\nOu quem viu em Fortuna¹ haver firmeza²?\nPois inda neste Reino e neste Rei\nNão usou ela tanto desta lei?\n«Viu ser cativo o santo irmão Fernando³\n(Que a tão altas empresas aspirava),\nQue, por salvar o povo miserando\nCercado, ao Sarraceno⁴ se entregava.\nSó por amor da pátria está passando\nA vida, de senhora feita escrava,\nPor não se dar por ele a forte Ceita⁵.\nMais o público bem que o seu respeita.\n«Codro⁶, por que o inimigo não vencesse,\nDeixou antes vencer da morte a vida;\nRégulo⁷, por que a pátria não perdesse,\nQuis mais a liberdade ver perdida.\nEste, por que se Espanha não temesse,\nA cativeiro eterno se convida!\nCodro, nem Cúrcio⁸, ouvido por espanto,\nNem os Décios⁹ leais, fizeram tanto.\nLuís de Camões, Os Lusíadas, edição de A. J. da Costa Pimpão, \n5.ª ed., Lisboa, MNE/IC, 2003, pp. 107-108.\nNOTAS\n1 Fortuna – Destino; Sorte.\n2 firmeza – constância; estabilidade.\n3 Fernando – D. Fernando (1402-1443) foi capturado pelos mouros durante o cerco de Tânger, em 1437. Como o seu \nirmão, o rei D. Duarte, recusou a entrega de Ceuta em troca da sua libertação, o Infante acabou por falecer ao fim de \nanos de cativeiro.\n4 Sarraceno – Mouro.\n5 Ceita – Ceuta.\n6 Codro – último rei de Atenas, que evitou o triunfo dos dórios quando estes invadiram a Ática, entrando disfarçado no \ncampo inimigo e deixando-se matar.\n7 Régulo – cônsul romano que, prisioneiro dos cartagineses, foi por estes enviado a Roma para propor a paz. Heroicamente, \naconselhou os romanos a resistirem e voltou a Cartago, onde foi morto.\n8 Cúrcio – romano que se atirou a um abismo existente no Fórum, para, com o sacrifício da sua vida, salvar a pátria.\n9 Décios – ilustres romanos que se sacrificaram pela pátria."
     }
   ]
 }

@@ -4,43 +4,29 @@
   "subject": "Português",
   "year": 2014,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 373,
+      "id": 1583,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 374,
+      "id": 1584,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 375,
+      "id": 1585,
       "name": "GRUPO III",
       "order": 2
-    },
-    {
-      "id": 376,
-      "name": "GRUPO I",
-      "order": 3
-    },
-    {
-      "id": 377,
-      "name": "GRUPO II",
-      "order": 4
-    },
-    {
-      "id": 378,
-      "name": "GRUPO III",
-      "order": 5
     }
   ],
   "questions": [
     {
-      "id": 2381,
+      "id": 11298,
       "question_number": "1",
-      "statement": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "1. Explicite, com base no primeiro parágrafo, os contributos do padre Bartolomeu de Gusmão, de Baltasar e \nde Blimunda para a construção e para o voo inaugural da passarola.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -49,19 +35,40 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4\nExplicita, adequadamente, os contributos do padre Bartolomeu de Gusmão, de Baltasar e \nde Blimunda para a construção e para o voo inaugural da passarola, com base no primeiro \nparágrafo.\n12\n3\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, os contributos \ndo padre Bartolomeu de Gusmão, de Baltasar e de Blimunda para a construção e para o \nvoo inaugural da passarola, com base no primeiro parágrafo.\n9\n2\nExplicita, adequadamente, os contributos de duas das personagens para a construção e \npara o voo inaugural da passarola, com base no primeiro parágrafo.\nOU\nExplicita, de modo não totalmente completo e com pequenas imprecisões, os contributos \ndo padre Bartolomeu de Gusmão, de Baltasar e de Blimunda para a construção e para o \nvoo inaugural da passarola, com base no primeiro parágrafo.\nOU\nExplicita, de modo incompleto ou com imprecisões, os contributos do padre Bartolomeu \nde Gusmão, de Baltasar e de Blimunda para a construção e para o voo inaugural da \npassarola, com base no primeiro parágrafo.\n6\n1\nExplicita, adequadamente, os contributos de uma das personagens para a construção e \npara o voo inaugural da passarola, com base no primeiro parágrafo.\nOU\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, os contributos \nde duas das personagens para a construção e para o voo inaugural da passarola, com \nbase no primeiro parágrafo.\nOU\nRefere-se, de modo incompleto e com imprecisões, aos contributos do padre Bartolomeu \nde Gusmão, de Baltasar e de Blimunda para a construção e para o voo inaugural da \npassarola, com base no primeiro parágrafo.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)1 ............................................................... 4 pontos\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).\n\ncenário de resposta\nA construção e o voo inaugural da passarola resultam da conjugação das capacidades e dos esforços das \ntrês personagens:\n– o padre Bartolomeu de Gusmão contribui com o saber científico e a inteligência – «viajei à Holanda» \n(linha 19); «estou subindo ao céu por obra do meu génio» (linhas 22 e 23);\n– Baltasar contribui com a sua força e o seu trabalho manual – «Puxa, Baltasar» (linha 5); «por obra da \nmão direita de Baltasar» (linha 24);\n– Blimunda contribui com os seus poderes sobrenaturais, que permitem ver o que escapa ao olhar \nhumano – «por obra também dos olhos de Blimunda» (linha 23); num momento de hesitação, é também \nela quem leva Baltasar a agir – «Blimunda aproximou-se, pôs as duas mãos sobre a mão de Baltasar, \ne, num só movimento, como se só desta maneira devesse ser, ambos puxaram a corda.» (linhas 6 a 8).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\n1\n5\n10\n15\n20\n25\n30\n35\nAgora, sim, podem partir. O padre Bartolomeu Lourenço olha o espaço celeste descoberto, \nsem nuvens, o sol que parece uma custódia de ouro, depois Baltasar que segura a corda com \nque se fecharão as velas, depois Blimunda, prouvera que adivinhassem os seus olhos o futuro, \nEncomendemo-nos ao Deus que houver, disse-o num murmúrio, e outra vez num sussurro \nestrangulado, Puxa, Baltasar, não o fez logo Baltasar, tremeu-lhe a mão, que isto será como \ndizer Fiat, diz-se e aparece feito, o quê, puxa-se e mudamos de lugar, para onde. Blimunda \naproximou-se, pôs as duas mãos sobre a mão de Baltasar, e, num só movimento, como se \nsó desta maneira devesse ser, ambos puxaram a corda. A vela correu toda para um lado, o \nsol bateu em cheio nas bolas de âmbar, e agora, que vai ser de nós. A máquina estremeceu, \noscilou como se procurasse um equilíbrio subitamente perdido, ouviu-se um rangido geral, \neram as lamelas de ferro, os vimes entrançados, e de repente, como se a aspirasse um vórtice \nluminoso, girou duas vezes sobre si própria enquanto subia, mal ultrapassara ainda a altura das \nparedes, até que, firme, novamente equilibrada, erguendo a sua cabeça de gaivota, lançou-se \nem flecha, céu acima. Sacudidos pelos bruscos volteios, Baltasar e Blimunda tinham caído no \nchão de tábuas da máquina, mas o padre Bartolomeu Lourenço agarrara-se a um dos prumos \nque sustentavam as velas, e assim pôde ver afastar-se a terra a uma velocidade incrível, já \nmal se distinguia a quinta, logo perdida entre colinas, e aquilo além, que é, Lisboa, claro está, \ne o rio, oh, o mar, aquele mar por onde eu, Bartolomeu Lourenço de Gusmão, vim por duas \nvezes do Brasil, o mar por onde viajei à Holanda, a que mais continentes da terra e do ar me \nlevarás tu, máquina, o vento ruge-me aos ouvidos, nunca ave alguma subiu tão alto, se me \nvisse el-rei, se me visse aquele Tomás Pinto Brandão que se riu de mim em verso, se o Santo \nOfício me visse, saberiam todos que sou filho predileto de Deus, eu sim, que estou subindo ao \ncéu por obra do meu génio, por obra também dos olhos de Blimunda, se haverá no céu olhos \ncomo eles, por obra da mão direita de Baltasar, aqui te levo, Deus, um que também não tem a \nmão esquerda, Blimunda, Baltasar, venham ver, levantem-se daí, não tenham medo.\nNão tinham medo, estavam apenas assustados com a sua própria coragem. O padre ria, \ndava gritos, deixara já a segurança do prumo e percorria o convés da máquina de um lado \na outro para poder olhar a terra em todos os seus pontos cardeais, tão grande agora que \nestavam longe dela, enfim levantaram-se Baltasar e Blimunda, agarrando-se nervosamente \naos prumos, depois à amurada, deslumbrados de luz e de vento, logo sem nenhum susto, \nAh, e Baltasar gritou, Conseguimos, abraçou-se a Blimunda e desatou a chorar, parecia uma \ncriança perdida, um soldado que andou na guerra, que nos Pegões matou um homem com \no seu espigão, e agora soluça de felicidade abraçado a Blimunda, que lhe beija a cara suja, \nentão, então. O padre veio para eles e abraçou-se também, subitamente perturbado por uma \nanalogia, assim dissera o italiano, Deus ele próprio, Baltasar seu filho, Blimunda o Espírito \nSanto, e estavam os três no céu, Só há um Deus, gritou, mas o vento levou-lhe as palavras \nda boca. Então Blimunda disse, Se não abrirmos a vela, continuaremos a subir, aonde iremos \nparar, talvez ao sol.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 197-199\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2382,
+      "id": 11309,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2014/).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nPara uns, a ambição está na origem de todas as conquistas humanas; para outros, a ambição é a causa \nde muitos dos problemas da humanidade.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, desenvolva \numa reflexão sobre a afirmação apresentada.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nobservações:"
+    },
+    {
+      "id": 11299,
       "question_number": "2",
-      "statement": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "2. Compare, nas suas semelhanças e diferenças, as reações de Baltasar e de Blimunda a partir do momento \nem que a passarola se lança céu acima.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -70,20 +77,41 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": "2. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4 Compara, adequadamente, as reações das personagens a partir do momento em que a \npassarola se lança céu acima. 12\n3 Compara, de modo não totalmente completo ou com pequenas imprecisões, as reações \ndas personagens a partir do momento em que a passarola se lança céu acima. 9\n2\nCompara, de modo não totalmente completo e com pequenas imprecisões, as reações \ndas personagens a partir do momento em que a passarola se lança céu acima.\nOU\nCompara, de modo incompleto ou com imprecisões, as reações das personagens a partir \ndo momento em que a passarola se lança céu acima.\n6\n1 Refere-se, de modo incompleto e com imprecisões, às reações das personagens a partir \ndo momento em que a passarola se lança céu acima. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)2 ............................................................... 4 pontos\ncenário de resposta\nNum primeiro momento, Baltasar e Blimunda começam por ser apanhados de surpresa pelo súbito \nmovimento da passarola – «tinham caído no chão de tábuas da máquina» (linhas 14 e 15); «Não tinham \nmedo, estavam apenas assustados com a sua própria coragem» (linha 26). Depois, erguem-se, ficam \ndeslumbrados e deixam de estar assustados.\nNum segundo momento, as reações individualizam-se:\n– Baltasar dá largas à sua alegria – «Ah, e Baltasar gritou, Conseguimos, abraçou-se a Blimunda e desatou \na chorar, parecia uma criança perdida» (linhas 31 e 32); «e agora soluça de felicidade» (linha 33);\n– Blimunda mantém a calma e o discernimento – «Então Blimunda disse, Se não abrirmos a vela, \ncontinuaremos a subir, aonde iremos parar, talvez ao sol.» (linhas 37 e 38).\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\n1\n5\n10\n15\n20\n25\n30\n35\nAgora, sim, podem partir. O padre Bartolomeu Lourenço olha o espaço celeste descoberto, \nsem nuvens, o sol que parece uma custódia de ouro, depois Baltasar que segura a corda com \nque se fecharão as velas, depois Blimunda, prouvera que adivinhassem os seus olhos o futuro, \nEncomendemo-nos ao Deus que houver, disse-o num murmúrio, e outra vez num sussurro \nestrangulado, Puxa, Baltasar, não o fez logo Baltasar, tremeu-lhe a mão, que isto será como \ndizer Fiat, diz-se e aparece feito, o quê, puxa-se e mudamos de lugar, para onde. Blimunda \naproximou-se, pôs as duas mãos sobre a mão de Baltasar, e, num só movimento, como se \nsó desta maneira devesse ser, ambos puxaram a corda. A vela correu toda para um lado, o \nsol bateu em cheio nas bolas de âmbar, e agora, que vai ser de nós. A máquina estremeceu, \noscilou como se procurasse um equilíbrio subitamente perdido, ouviu-se um rangido geral, \neram as lamelas de ferro, os vimes entrançados, e de repente, como se a aspirasse um vórtice \nluminoso, girou duas vezes sobre si própria enquanto subia, mal ultrapassara ainda a altura das \nparedes, até que, firme, novamente equilibrada, erguendo a sua cabeça de gaivota, lançou-se \nem flecha, céu acima. Sacudidos pelos bruscos volteios, Baltasar e Blimunda tinham caído no \nchão de tábuas da máquina, mas o padre Bartolomeu Lourenço agarrara-se a um dos prumos \nque sustentavam as velas, e assim pôde ver afastar-se a terra a uma velocidade incrível, já \nmal se distinguia a quinta, logo perdida entre colinas, e aquilo além, que é, Lisboa, claro está, \ne o rio, oh, o mar, aquele mar por onde eu, Bartolomeu Lourenço de Gusmão, vim por duas \nvezes do Brasil, o mar por onde viajei à Holanda, a que mais continentes da terra e do ar me \nlevarás tu, máquina, o vento ruge-me aos ouvidos, nunca ave alguma subiu tão alto, se me \nvisse el-rei, se me visse aquele Tomás Pinto Brandão que se riu de mim em verso, se o Santo \nOfício me visse, saberiam todos que sou filho predileto de Deus, eu sim, que estou subindo ao \ncéu por obra do meu génio, por obra também dos olhos de Blimunda, se haverá no céu olhos \ncomo eles, por obra da mão direita de Baltasar, aqui te levo, Deus, um que também não tem a \nmão esquerda, Blimunda, Baltasar, venham ver, levantem-se daí, não tenham medo.\nNão tinham medo, estavam apenas assustados com a sua própria coragem. O padre ria, \ndava gritos, deixara já a segurança do prumo e percorria o convés da máquina de um lado \na outro para poder olhar a terra em todos os seus pontos cardeais, tão grande agora que \nestavam longe dela, enfim levantaram-se Baltasar e Blimunda, agarrando-se nervosamente \naos prumos, depois à amurada, deslumbrados de luz e de vento, logo sem nenhum susto, \nAh, e Baltasar gritou, Conseguimos, abraçou-se a Blimunda e desatou a chorar, parecia uma \ncriança perdida, um soldado que andou na guerra, que nos Pegões matou um homem com \no seu espigão, e agora soluça de felicidade abraçado a Blimunda, que lhe beija a cara suja, \nentão, então. O padre veio para eles e abraçou-se também, subitamente perturbado por uma \nanalogia, assim dissera o italiano, Deus ele próprio, Baltasar seu filho, Blimunda o Espírito \nSanto, e estavam os três no céu, Só há um Deus, gritou, mas o vento levou-lhe as palavras \nda boca. Então Blimunda disse, Se não abrirmos a vela, continuaremos a subir, aonde iremos \nparar, talvez ao sol.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 197-199\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2383,
+      "id": 11310,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – um mínimo de duzentas e um máximo de trezentas \npalavras –, há que atender ao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nPara uns, a ambição está na origem de todas as conquistas humanas; para outros, a ambição é a causa \nde muitos dos problemas da humanidade.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, desenvolva \numa reflexão sobre a afirmação apresentada.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nobservações:"
+    },
+    {
+      "id": 11300,
       "question_number": "3",
-      "statement": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
-      "question_type": "open",
+      "statement": "3. «O padre ria, dava gritos, deixara já a segurança do prumo e percorria o convés da máquina de um lado \na outro» (linhas 26-28).\nExplique a euforia do padre Bartolomeu de Gusmão, relacionando-a com dois dos elementos biográficos \npor ele evocados no primeiro parágrafo.\nB\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\nCom os Voadores tenho também uma palavra, e não é pequena a queixa. Dizei-me, \nVoadores, não vos fez Deus para peixes? Pois porque vos meteis a ser aves? O mar fê-lo \nDeus para vós, e o ar para elas. Contentai-vos com o mar e com nadar, e não queirais voar, \npois sois peixes. Se acaso vos não conheceis, olhai para as vossas espinhas e para as vossas \nescamas, e conhecereis que não sois ave, senão peixe, e ainda entre os peixes não dos \nmelhores. Dir-me-eis, Voador, que vos deu Deus maiores barbatanas que aos outros do vosso \ntamanho. Pois porque tivestes maiores barbatanas, por isso haveis de fazer das barbatanas \nasas? Mas ainda mal, porque tantas vezes vos desengana o vosso castigo. Quisestes ser \nmelhor que os outros peixes, e por isso sois mais mofino que todos. Aos outros peixes do \nalto, mata-os o anzol ou a fisga, a vós sem fisga nem anzol, mata-vos a vossa presunção e o \nvosso capricho. Vai o navio navegando e o Marinheiro dormindo, e o Voador toca na vela ou \nna corda, e cai palpitando. Aos outros peixes mata-os a fome e engana-os a isca, ao Voador \nmata-o a vaidade de voar, e a sua isca é o vento. Quanto melhor lhe fora mergulhar por baixo \nda quilha e viver, que voar por cima das entenas e cair morto.\nPadre António Vieira, Sermão de Santo António (aos peixes) e Sermão da Sexagésima, \nedição de Margarida Vieira Mendes, Lisboa, Seara Nova, 1978, pp. 102-103\nglossário\nentenas (linha 14) – antena, verga fixa a um mastro na qual se prende uma vela triangular ou vela latina.\nmofino (linha 9) – infeliz, desgraçado.\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem.",
+      "question_type": "essay",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -91,40 +119,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, a euforia do padre Bartolomeu de Gusmão, relacionando-a com \ndois elementos biográficos por ele evocados no primeiro parágrafo. 12\n3 Explica, com imprecisões, a euforia do padre Bartolomeu de Gusmão, relacionando-a \ncom dois elementos biográficos por ele evocados no primeiro parágrafo. 9\n2 Explica, adequadamente, a euforia do padre Bartolomeu de Gusmão, relacionando-a com \num elemento biográfico por ele evocado no primeiro parágrafo. 6\n1\nExplica, adequadamente, a euforia do padre Bartolomeu de Gusmão, sem a relacionar \ncom os elementos biográficos por ele evocados no primeiro parágrafo.\nOU\nExplica, com imprecisões, a euforia do padre Bartolomeu de Gusmão, relacionando-a \ncom um elemento biográfico por ele evocado no primeiro parágrafo.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)3 ............................................................... 4 pontos\ncenário de resposta\nO padre manifesta um estado de euforia, pois sente-se realizado e vitorioso pelo facto de ter conseguido \nconcretizar o seu sonho de voar.\nEsta euforia é enfatizada pela evocação de situações anteriormente vividas pelo padre, as quais, pela \nrelevância que assumiram, aumentam agora o seu contentamento:\n– a viagem à Holanda para aquisição de saber – «o mar por onde viajei à Holanda» (linha 19);\n– o apoio discreto de D. João V – «se me visse el-rei» (linhas 20 e 21);\n– a troça de que foi alvo – «se me visse aquele Tomás Pinto Brandão que se riu de mim em verso» \n(linha 21);\n– a perseguição da Inquisição – «se o Santo Ofício me visse» (linhas 21 e 22).\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).\n\nB",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\n1\n5\n10\n15\n20\n25\n30\n35\nAgora, sim, podem partir. O padre Bartolomeu Lourenço olha o espaço celeste descoberto, \nsem nuvens, o sol que parece uma custódia de ouro, depois Baltasar que segura a corda com \nque se fecharão as velas, depois Blimunda, prouvera que adivinhassem os seus olhos o futuro, \nEncomendemo-nos ao Deus que houver, disse-o num murmúrio, e outra vez num sussurro \nestrangulado, Puxa, Baltasar, não o fez logo Baltasar, tremeu-lhe a mão, que isto será como \ndizer Fiat, diz-se e aparece feito, o quê, puxa-se e mudamos de lugar, para onde. Blimunda \naproximou-se, pôs as duas mãos sobre a mão de Baltasar, e, num só movimento, como se \nsó desta maneira devesse ser, ambos puxaram a corda. A vela correu toda para um lado, o \nsol bateu em cheio nas bolas de âmbar, e agora, que vai ser de nós. A máquina estremeceu, \noscilou como se procurasse um equilíbrio subitamente perdido, ouviu-se um rangido geral, \neram as lamelas de ferro, os vimes entrançados, e de repente, como se a aspirasse um vórtice \nluminoso, girou duas vezes sobre si própria enquanto subia, mal ultrapassara ainda a altura das \nparedes, até que, firme, novamente equilibrada, erguendo a sua cabeça de gaivota, lançou-se \nem flecha, céu acima. Sacudidos pelos bruscos volteios, Baltasar e Blimunda tinham caído no \nchão de tábuas da máquina, mas o padre Bartolomeu Lourenço agarrara-se a um dos prumos \nque sustentavam as velas, e assim pôde ver afastar-se a terra a uma velocidade incrível, já \nmal se distinguia a quinta, logo perdida entre colinas, e aquilo além, que é, Lisboa, claro está, \ne o rio, oh, o mar, aquele mar por onde eu, Bartolomeu Lourenço de Gusmão, vim por duas \nvezes do Brasil, o mar por onde viajei à Holanda, a que mais continentes da terra e do ar me \nlevarás tu, máquina, o vento ruge-me aos ouvidos, nunca ave alguma subiu tão alto, se me \nvisse el-rei, se me visse aquele Tomás Pinto Brandão que se riu de mim em verso, se o Santo \nOfício me visse, saberiam todos que sou filho predileto de Deus, eu sim, que estou subindo ao \ncéu por obra do meu génio, por obra também dos olhos de Blimunda, se haverá no céu olhos \ncomo eles, por obra da mão direita de Baltasar, aqui te levo, Deus, um que também não tem a \nmão esquerda, Blimunda, Baltasar, venham ver, levantem-se daí, não tenham medo.\nNão tinham medo, estavam apenas assustados com a sua própria coragem. O padre ria, \ndava gritos, deixara já a segurança do prumo e percorria o convés da máquina de um lado \na outro para poder olhar a terra em todos os seus pontos cardeais, tão grande agora que \nestavam longe dela, enfim levantaram-se Baltasar e Blimunda, agarrando-se nervosamente \naos prumos, depois à amurada, deslumbrados de luz e de vento, logo sem nenhum susto, \nAh, e Baltasar gritou, Conseguimos, abraçou-se a Blimunda e desatou a chorar, parecia uma \ncriança perdida, um soldado que andou na guerra, que nos Pegões matou um homem com \no seu espigão, e agora soluça de felicidade abraçado a Blimunda, que lhe beija a cara suja, \nentão, então. O padre veio para eles e abraçou-se também, subitamente perturbado por uma \nanalogia, assim dissera o italiano, Deus ele próprio, Baltasar seu filho, Blimunda o Espírito \nSanto, e estavam os três no céu, Só há um Deus, gritou, mas o vento levou-lhe as palavras \nda boca. Então Blimunda disse, Se não abrirmos a vela, continuaremos a subir, aonde iremos \nparar, talvez ao sol.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 197-199\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2398,
-      "question_number": "4",
-      "statement": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
-    },
-    {
-      "id": 2384,
+      "id": 11301,
       "question_number": "5",
-      "statement": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos",
+      "statement": "5. Explicite as consequências do comportamento do peixe voador, fundamentando a resposta com citações \ntextuais pertinentes.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -133,17 +140,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos\nGRUPO II",
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4 Explicita, adequadamente, as consequências do comportamento do peixe voador, \nfundamentando a resposta com citações textuais pertinentes. 12\n3\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, as \nconsequências do comportamento do peixe voador, fundamentando a resposta com \ncitações textuais pertinentes.\n9\n2\nExplicita, adequadamente, as consequências do comportamento do peixe voador, sem \nfundamentar a resposta com citações textuais pertinentes.\nOU\nExplicita, de modo não totalmente completo e com pequenas imprecisões, as \nconsequências do comportamento do peixe voador, fundamentando a resposta com \ncitações textuais pertinentes.\nOU\nExplicita, de modo incompleto ou com imprecisões, as consequências do comportamento \ndo peixe voador, fundamentando a resposta com citações textuais pertinentes.\n6\n1\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, as \nconsequências do comportamento do peixe voador, sem fundamentar a resposta com \ncitações textuais pertinentes.\nOU\nRefere-se, de modo incompleto e com imprecisões, às consequências do comportamento \ndo peixe voador, fundamentando a resposta com citações textuais pertinentes.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\ncenário de resposta\nA inconsciência e a presunção do peixe voador fazem-no correr riscos inúteis e graves, pois, para além \nde poder ser vítima dos perigos do mar, é vítima das velas e das cordas dos navios, perigos do ar – «o \nVoador toca na vela ou na corda, e cai palpitando» (linhas 11 e 12). Assim, encontra frequentemente a \nmorte – «Aos outros peixes mata-os a fome e engana-os a isca, ao Voador mata-o a vaidade de voar, e a \nsua isca é o vento.» (linhas 12 e 13).\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nCritérios específicos de classificação\nchave\nitem Versão 1 Versão 2 Pontuação",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\n1\n5\n10\n15\n20\n25\n30\n35\nAgora, sim, podem partir. O padre Bartolomeu Lourenço olha o espaço celeste descoberto, \nsem nuvens, o sol que parece uma custódia de ouro, depois Baltasar que segura a corda com \nque se fecharão as velas, depois Blimunda, prouvera que adivinhassem os seus olhos o futuro, \nEncomendemo-nos ao Deus que houver, disse-o num murmúrio, e outra vez num sussurro \nestrangulado, Puxa, Baltasar, não o fez logo Baltasar, tremeu-lhe a mão, que isto será como \ndizer Fiat, diz-se e aparece feito, o quê, puxa-se e mudamos de lugar, para onde. Blimunda \naproximou-se, pôs as duas mãos sobre a mão de Baltasar, e, num só movimento, como se \nsó desta maneira devesse ser, ambos puxaram a corda. A vela correu toda para um lado, o \nsol bateu em cheio nas bolas de âmbar, e agora, que vai ser de nós. A máquina estremeceu, \noscilou como se procurasse um equilíbrio subitamente perdido, ouviu-se um rangido geral, \neram as lamelas de ferro, os vimes entrançados, e de repente, como se a aspirasse um vórtice \nluminoso, girou duas vezes sobre si própria enquanto subia, mal ultrapassara ainda a altura das \nparedes, até que, firme, novamente equilibrada, erguendo a sua cabeça de gaivota, lançou-se \nem flecha, céu acima. Sacudidos pelos bruscos volteios, Baltasar e Blimunda tinham caído no \nchão de tábuas da máquina, mas o padre Bartolomeu Lourenço agarrara-se a um dos prumos \nque sustentavam as velas, e assim pôde ver afastar-se a terra a uma velocidade incrível, já \nmal se distinguia a quinta, logo perdida entre colinas, e aquilo além, que é, Lisboa, claro está, \ne o rio, oh, o mar, aquele mar por onde eu, Bartolomeu Lourenço de Gusmão, vim por duas \nvezes do Brasil, o mar por onde viajei à Holanda, a que mais continentes da terra e do ar me \nlevarás tu, máquina, o vento ruge-me aos ouvidos, nunca ave alguma subiu tão alto, se me \nvisse el-rei, se me visse aquele Tomás Pinto Brandão que se riu de mim em verso, se o Santo \nOfício me visse, saberiam todos que sou filho predileto de Deus, eu sim, que estou subindo ao \ncéu por obra do meu génio, por obra também dos olhos de Blimunda, se haverá no céu olhos \ncomo eles, por obra da mão direita de Baltasar, aqui te levo, Deus, um que também não tem a \nmão esquerda, Blimunda, Baltasar, venham ver, levantem-se daí, não tenham medo.\nNão tinham medo, estavam apenas assustados com a sua própria coragem. O padre ria, \ndava gritos, deixara já a segurança do prumo e percorria o convés da máquina de um lado \na outro para poder olhar a terra em todos os seus pontos cardeais, tão grande agora que \nestavam longe dela, enfim levantaram-se Baltasar e Blimunda, agarrando-se nervosamente \naos prumos, depois à amurada, deslumbrados de luz e de vento, logo sem nenhum susto, \nAh, e Baltasar gritou, Conseguimos, abraçou-se a Blimunda e desatou a chorar, parecia uma \ncriança perdida, um soldado que andou na guerra, que nos Pegões matou um homem com \no seu espigão, e agora soluça de felicidade abraçado a Blimunda, que lhe beija a cara suja, \nentão, então. O padre veio para eles e abraçou-se também, subitamente perturbado por uma \nanalogia, assim dissera o italiano, Deus ele próprio, Baltasar seu filho, Blimunda o Espírito \nSanto, e estavam os três no céu, Só há um Deus, gritou, mas o vento levou-lhe as palavras \nda boca. Então Blimunda disse, Se não abrirmos a vela, continuaremos a subir, aonde iremos \nparar, talvez ao sol.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 197-199\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2386,
+      "id": 11302,
       "question_number": "1.1",
       "statement": "1.1. No caso de Eça de Queirós, a expressão «triunfo de um ponto de vista» (linhas 1 e 2) corresponde a \numa síntese que exclui a",
       "question_type": "multiple_choice",
@@ -155,25 +162,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4420,
+          "id": 22470,
           "letter": "A",
           "text": "natureza enigmática da sua personalidade.",
           "isCorrect": false
         },
         {
-          "id": 4421,
+          "id": 22471,
           "letter": "B",
           "text": "interpretação idealista daquilo que o rodeia.",
           "isCorrect": false
         },
         {
-          "id": 4422,
+          "id": 22472,
           "letter": "C",
           "text": "crítica mordaz sobre a sociedade do seu tempo.",
           "isCorrect": false
         },
         {
-          "id": 4423,
+          "id": 22473,
           "letter": "D",
           "text": "influência de importantes autores do Romantismo.",
           "isCorrect": false
@@ -186,10 +193,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2387,
+      "id": 11303,
       "question_number": "1.2",
       "statement": "1.2. Desde as primeiras leituras realizadas na adolescência, a admiração da autora pela obra de Eça",
       "question_type": "multiple_choice",
@@ -201,25 +208,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4424,
+          "id": 22474,
           "letter": "A",
           "text": "mudou consideravelmente.",
           "isCorrect": false
         },
         {
-          "id": 4425,
+          "id": 22475,
           "letter": "B",
           "text": "tornou-se inultrapassável.",
           "isCorrect": false
         },
         {
-          "id": 4426,
+          "id": 22476,
           "letter": "C",
           "text": "mantém-se inalterada.",
           "isCorrect": false
         },
         {
-          "id": 4427,
+          "id": 22477,
           "letter": "D",
           "text": "cresceu significativamente.",
           "isCorrect": false
@@ -232,10 +239,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2388,
+      "id": 11304,
       "question_number": "1.3",
       "statement": "1.3. Segundo a autora, depois de Eça, a literatura",
       "question_type": "multiple_choice",
@@ -247,25 +254,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4428,
+          "id": 22478,
           "letter": "A",
           "text": "passou a integrar o real de forma mais complexa.",
           "isCorrect": false
         },
         {
-          "id": 4429,
+          "id": 22479,
           "letter": "B",
           "text": "continuou a retratar os tipos e os ambientes queirosianos.",
           "isCorrect": false
         },
         {
-          "id": 4430,
+          "id": 22480,
           "letter": "C",
           "text": "integrou, sem ruturas, a herança de correntes literárias anteriores.",
           "isCorrect": false
         },
         {
-          "id": 4431,
+          "id": 22481,
           "letter": "D",
           "text": "começou a basear-se na ciência, espelhando a sociedade do século XX.",
           "isCorrect": false
@@ -278,10 +285,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2389,
+      "id": 11305,
       "question_number": "1.4",
       "statement": "1.4. Para Lídia Jorge, a valorização da prosa de Eça nos nossos dias, ainda que legítima, resulta em \ngrande parte",
       "question_type": "multiple_choice",
@@ -293,25 +300,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4432,
+          "id": 22482,
           "letter": "A",
           "text": "do facto de constituir o único grande testemunho literário do Realismo.",
           "isCorrect": false
         },
         {
-          "id": 4433,
+          "id": 22483,
           "letter": "B",
           "text": "da sua integração no cânone literário do final do século XIX.",
           "isCorrect": false
         },
         {
-          "id": 4434,
+          "id": 22484,
           "letter": "C",
           "text": "do seu afastamento total relativamente à corrente modernista.",
           "isCorrect": false
         },
         {
-          "id": 4435,
+          "id": 22485,
           "letter": "D",
           "text": "da dificuldade dos leitores em entenderem a literatura subsequente.",
           "isCorrect": false
@@ -324,10 +331,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2390,
+      "id": 11306,
       "question_number": "1.5",
       "statement": "1.5. Na expressão «deflagração extraordinária» (linha 18), a autora recorre a",
       "question_type": "multiple_choice",
@@ -339,25 +346,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4436,
+          "id": 22486,
           "letter": "A",
           "text": "uma antítese.",
           "isCorrect": false
         },
         {
-          "id": 4437,
+          "id": 22487,
           "letter": "B",
           "text": "um oxímoro.",
           "isCorrect": false
         },
         {
-          "id": 4438,
+          "id": 22488,
           "letter": "C",
           "text": "uma metáfora.",
           "isCorrect": false
         },
         {
-          "id": 4439,
+          "id": 22489,
           "letter": "D",
           "text": "um eufemismo.",
           "isCorrect": false
@@ -370,10 +377,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2391,
+      "id": 11307,
       "question_number": "1.6",
       "statement": "1.6. Na expressão «se deve reconhecer» (linha 26), apresenta-se uma",
       "question_type": "multiple_choice",
@@ -385,25 +392,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4440,
+          "id": 22490,
           "letter": "A",
           "text": "obrigação.",
           "isCorrect": false
         },
         {
-          "id": 4441,
+          "id": 22491,
           "letter": "B",
           "text": "permissão.",
           "isCorrect": false
         },
         {
-          "id": 4442,
+          "id": 22492,
           "letter": "C",
           "text": "possibilidade.",
           "isCorrect": false
         },
         {
-          "id": 4443,
+          "id": 22493,
           "letter": "D",
           "text": "probabilidade.",
           "isCorrect": false
@@ -416,10 +423,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2392,
+      "id": 11308,
       "question_number": "1.7",
       "statement": "1.7. O último parágrafo do texto é predominantemente",
       "question_type": "multiple_choice",
@@ -431,25 +438,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4444,
+          "id": 22494,
           "letter": "A",
           "text": "narrativo.",
           "isCorrect": false
         },
         {
-          "id": 4445,
+          "id": 22495,
           "letter": "B",
           "text": "descritivo.",
           "isCorrect": false
         },
         {
-          "id": 4446,
+          "id": 22496,
           "letter": "C",
           "text": "argumentativo.",
           "isCorrect": false
         },
         {
-          "id": 4447,
+          "id": 22497,
           "letter": "D",
           "text": "expositivo.",
           "isCorrect": false
@@ -462,28 +469,7 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
-    },
-    {
-      "id": 2400,
-      "question_number": "2.3",
-      "statement": "2.3. .................................................................................................. 5 pontos\n50 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2.3. .................................................................................................. 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\nComo sucede com todo o escritor genial, a grandeza da obra de Eça corresponde ao triunfo \nde um ponto de vista. No seu caso, é o olhar oblíquo sobre a realidade, a troça avassaladora \ndos segmentos do tempo e do Mundo que lhe coube testemunhar e viver, cruzados com a \nemoção das experiências abismais que aprendeu com os Românticos, associado sem dúvida \nao mistério da sua própria pessoa, que lhe conferiram um carácter inconfundível como criador \nde grande dimensão.\nPelo menos foi assim que eu aprendi a estimá-lo e a lê-lo na adolescência, quando \nOs Maias e A Correspondência de Fradique Mendes significavam tudo o que poderia haver de \nmais moderno, mais urbano e mais sofisticado, escrito em língua portuguesa. Pelo menos é \nassim que o entendo sempre que lá regresso e encontro erguido no ar todo o final do século XIX, \nesse tempo hiperbólico e desastrado que ele interpretou a rir, até hoje, como ninguém.\nMas se é verdade que Eça continua atual, e Portugal em muitos dos seus traços sociológicos \ncontinua queirosiano, parece-me desajustado que se continue a divulgar a ideia de que a sua \nprosa e os seus tipos constituem uma espécie de bitola geneticamente inultrapassável. O \ncânone, por mais que o seja, não pode ser tomado como uma medida parada. É inquestionável \nque Eça ultrapassou de longe a Escola Realista, onde mal cabia, e chegou mesmo a pressentir \no Modernismo que iria estilhaçar muito em breve o conceito da criação como reprodução da \nrealidade. Não viveu, porém, e infelizmente, a deflagração extraordinária operada no seio das \ncertezas e dos objetos, decomposição dos seres visíveis e invisíveis que viria a produzir as \ngrandes experiências literárias do século XX. As literaturas, e em especial a ficção que se lhe \nseguiu, tornar-se-iam bem mais complexas, e também mais difíceis de apreender e aceitar, \nenquanto espelho da vida. A partir de então, a ficção passou a ser o espelho duma outra vida \nbem mais lábil e inapreensível. A narrativa incorporou os resíduos das aparências e o seu \nconsumo transformou-se, naturalmente, em atos de muito menor docilidade. É por isso que, \npara além do culto que a obra de Eça legitimamente merece, por mérito próprio e grandeza \ngenuína, se deve reconhecer, para sermos justos, que muita da admiração totalitária que Eça \ndesencadeia nasce porventura duma espécie de preguiça e lentidão em entender, ainda nos \nnossos dias, a linguagem diferente daqueles que lhe sucederam. O que não parece vir a \npropósito, embora venha. Como um dia veremos.\nLídia Jorge, «Sobre Eça de Queirós», Camões, n.º 9-10, abril-setembro de 2000, p. 108\nglossário\ncânone (linha 15) – conjunto de autores e de obras literárias considerados modelares num determinado período histórico.\nlábil (linha 23) – variável, instável.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     }
   ]
 }

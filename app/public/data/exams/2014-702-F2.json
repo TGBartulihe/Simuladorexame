@@ -4,51 +4,120 @@
   "subject": "Biologia e Geologia",
   "year": 2014,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 337,
+      "id": 1565,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 338,
+      "id": 1566,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 339,
+      "id": 1567,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 340,
+      "id": 1568,
       "name": "GRUPO IV",
       "order": 3
-    },
-    {
-      "id": 341,
-      "name": "GRUPO I",
-      "order": 4
-    },
-    {
-      "id": 342,
-      "name": "GRUPO II",
-      "order": 5
-    },
-    {
-      "id": 343,
-      "name": "GRUPO III",
-      "order": 6
-    },
-    {
-      "id": 344,
-      "name": "GRUPO IV",
-      "order": 7
     }
   ],
   "questions": [
     {
-      "id": 2238,
+      "id": 11195,
+      "question_number": "1",
+      "statement": "1. O maciço granítico de Lavadores apresenta fragmentos de rochas gnáissicas e é cortado por filões. O \nmaciço é mais _______ do que as rochas gnáissicas e mais _______ do que os filões.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22300,
+          "letter": "A",
+          "text": "a descodificação da informação genética nos ribossomas.",
+          "isCorrect": false
+        },
+        {
+          "id": 22301,
+          "letter": "B",
+          "text": "a ligação entre bases complementares do mRNA e do rRNA.",
+          "isCorrect": false
+        },
+        {
+          "id": 22302,
+          "letter": "C",
+          "text": "a transferência da informação genética para o pré-mRNA.",
+          "isCorrect": false
+        },
+        {
+          "id": 22303,
+          "letter": "D",
+          "text": "a formação de moléculas de rRNA ao nível do citoplasma.",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "1. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (d)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nNa praia de Lavadores, a sul do rio Douro, aflora um maciço granítico, que se instalou ao longo \nda falha de desligamento Porto-Tomar, sendo visível, por vezes, o seu contacto com gnaisses. O \ngranito apresenta-se de grão grosseiro, evidenciando fenocristais (cristais de grandes dimensões) \nde feldspato potássico e encraves (fragmentos) de rochas quer gnáissicas, quer intrusivas máficas. \nOs encraves apresentam-se, por vezes, em relevo devido à erosão diferencial.\nA Figura 1 representa, de forma simplificada, a relação espacial entre os corpos granitoides – \ngraníticos e afins – e os locais de ocorrência de caulino (um recurso geológico onde predomina \na caulinite – mineral argiloso), associados a uma zona de fraturação profunda. O depósito de \ncaulino da Telheira, junto a Lavadores, constitui um recurso geológico que, em tempos, forneceu \nmatéria-prima para a indústria de cerâmica em Portugal.\nBaseado em M. Silva, «O granito de Lavadores e seus encraves», in J. Neiva et al., Geologia Clássica,\nLisboa, Associação Portuguesa de Geólogos, 2010\n~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\nOceano\nAtlântico\nPorto\nRio Douro\nN\n0 2 4 km\nGranitoides\nFaixa metamórfica\nFalhas\nOcorrência de caulino\n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~\n~\nFalha Porto-Tomar\nPraia de\nLavadores\nFigura 1\nBaseado em A. Coelho et al., «Depósitos de caulino associados à faixa metamórfica de Espinho-Albergaria-a-Velha», \nCadernos Lab. Xeolóxico de Laxe, Vol. 34, 2009"
+    },
+    {
+      "id": 11201,
+      "question_number": "1",
+      "statement": "1. A situação de controlo desta experiência implicou a",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
+    },
+    {
+      "id": 11209,
+      "question_number": "1",
+      "statement": "1. De acordo com alguns autores, a ilha de Porto Santo terá resultado da ação de uma pluma mantélica que \nse formou a uma profundidade de 125 km, no interior da _______, que é uma zona _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 11218,
       "question_number": "1",
       "statement": "1. Nos eucariontes, durante a transcrição, verifica-se",
       "question_type": "multiple_choice",
@@ -58,33 +127,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4202,
-          "letter": "A",
-          "text": "a descodificação da informação genética nos ribossomas.",
-          "isCorrect": false
-        },
-        {
-          "id": 4203,
-          "letter": "B",
-          "text": "a ligação entre bases complementares do mRNA e do rRNA.",
-          "isCorrect": false
-        },
-        {
-          "id": 4204,
-          "letter": "C",
-          "text": "a transferência da informação genética para o pré-mRNA.",
-          "isCorrect": false
-        },
-        {
-          "id": 4205,
-          "letter": "D",
-          "text": "a formação de moléculas de rRNA ao nível do citoplasma.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -94,7 +138,95 @@
       "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
     },
     {
-      "id": 2239,
+      "id": 11196,
+      "question_number": "2",
+      "statement": "2. O maciço que aflora na praia de Lavadores",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22304,
+          "letter": "A",
+          "text": "sequências nucleotídicas de genes nas células somáticas.",
+          "isCorrect": true
+        },
+        {
+          "id": 22305,
+          "letter": "B",
+          "text": "o estado da cromatina de células germinativas.",
+          "isCorrect": false
+        },
+        {
+          "id": 22306,
+          "letter": "C",
+          "text": "sequências nucleotídicas de genes nas células germinativas.",
+          "isCorrect": false
+        },
+        {
+          "id": 22307,
+          "letter": "D",
+          "text": "o estado da cromatina de células somáticas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (a)\nVersão 2 – Opção (d)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nNa praia de Lavadores, a sul do rio Douro, aflora um maciço granítico, que se instalou ao longo \nda falha de desligamento Porto-Tomar, sendo visível, por vezes, o seu contacto com gnaisses. O \ngranito apresenta-se de grão grosseiro, evidenciando fenocristais (cristais de grandes dimensões) \nde feldspato potássico e encraves (fragmentos) de rochas quer gnáissicas, quer intrusivas máficas. \nOs encraves apresentam-se, por vezes, em relevo devido à erosão diferencial.\nA Figura 1 representa, de forma simplificada, a relação espacial entre os corpos granitoides – \ngraníticos e afins – e os locais de ocorrência de caulino (um recurso geológico onde predomina \na caulinite – mineral argiloso), associados a uma zona de fraturação profunda. O depósito de \ncaulino da Telheira, junto a Lavadores, constitui um recurso geológico que, em tempos, forneceu \nmatéria-prima para a indústria de cerâmica em Portugal.\nBaseado em M. Silva, «O granito de Lavadores e seus encraves», in J. Neiva et al., Geologia Clássica,\nLisboa, Associação Portuguesa de Geólogos, 2010\n~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\nOceano\nAtlântico\nPorto\nRio Douro\nN\n0 2 4 km\nGranitoides\nFaixa metamórfica\nFalhas\nOcorrência de caulino\n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~\n~\nFalha Porto-Tomar\nPraia de\nLavadores\nFigura 1\nBaseado em A. Coelho et al., «Depósitos de caulino associados à faixa metamórfica de Espinho-Albergaria-a-Velha», \nCadernos Lab. Xeolóxico de Laxe, Vol. 34, 2009"
+    },
+    {
+      "id": 11202,
+      "question_number": "2",
+      "statement": "2. De acordo com o objetivo da experiência, a variável independente em estudo é a",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
+    },
+    {
+      "id": 11210,
+      "question_number": "2",
+      "statement": "2. No complexo vulcânico mais antigo representado na Figura 2, podem ser encontradas _______, resultantes \nde atividade vulcânica _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 11219,
       "question_number": "2",
       "statement": "2. De acordo com os dados apresentados, o regime alimentar dos progenitores condicionou o metabolismo \ndos lípidos na descendência, ao alterar",
       "question_type": "multiple_choice",
@@ -104,33 +236,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4206,
-          "letter": "A",
-          "text": "sequências nucleotídicas de genes nas células somáticas.",
-          "isCorrect": false
-        },
-        {
-          "id": 4207,
-          "letter": "B",
-          "text": "o estado da cromatina de células germinativas.",
-          "isCorrect": false
-        },
-        {
-          "id": 4208,
-          "letter": "C",
-          "text": "sequências nucleotídicas de genes nas células germinativas.",
-          "isCorrect": false
-        },
-        {
-          "id": 4209,
-          "letter": "D",
-          "text": "o estado da cromatina de células somáticas.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -140,7 +247,95 @@
       "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
     },
     {
-      "id": 2240,
+      "id": 11197,
+      "question_number": "3",
+      "statement": "3. As plagióclases dos encraves máficos do maciço granítico de Lavadores, comparativamente às do granito \nhospedeiro, são _______ cálcicas e terão cristalizado a temperaturas _______ elevadas.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22308,
+          "letter": "A",
+          "text": "origina a alteração do genoma nas células especializadas.",
+          "isCorrect": false
+        },
+        {
+          "id": 22309,
+          "letter": "B",
+          "text": "ocorre independentemente da atuação de fatores do meio.",
+          "isCorrect": true
+        },
+        {
+          "id": 22310,
+          "letter": "C",
+          "text": "implica um conjunto de mutações génicas sequenciais.",
+          "isCorrect": false
+        },
+        {
+          "id": 22311,
+          "letter": "D",
+          "text": "envolve a regulação da transcrição de genes.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (d)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nNa praia de Lavadores, a sul do rio Douro, aflora um maciço granítico, que se instalou ao longo \nda falha de desligamento Porto-Tomar, sendo visível, por vezes, o seu contacto com gnaisses. O \ngranito apresenta-se de grão grosseiro, evidenciando fenocristais (cristais de grandes dimensões) \nde feldspato potássico e encraves (fragmentos) de rochas quer gnáissicas, quer intrusivas máficas. \nOs encraves apresentam-se, por vezes, em relevo devido à erosão diferencial.\nA Figura 1 representa, de forma simplificada, a relação espacial entre os corpos granitoides – \ngraníticos e afins – e os locais de ocorrência de caulino (um recurso geológico onde predomina \na caulinite – mineral argiloso), associados a uma zona de fraturação profunda. O depósito de \ncaulino da Telheira, junto a Lavadores, constitui um recurso geológico que, em tempos, forneceu \nmatéria-prima para a indústria de cerâmica em Portugal.\nBaseado em M. Silva, «O granito de Lavadores e seus encraves», in J. Neiva et al., Geologia Clássica,\nLisboa, Associação Portuguesa de Geólogos, 2010\n~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\nOceano\nAtlântico\nPorto\nRio Douro\nN\n0 2 4 km\nGranitoides\nFaixa metamórfica\nFalhas\nOcorrência de caulino\n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~\n~\nFalha Porto-Tomar\nPraia de\nLavadores\nFigura 1\nBaseado em A. Coelho et al., «Depósitos de caulino associados à faixa metamórfica de Espinho-Albergaria-a-Velha», \nCadernos Lab. Xeolóxico de Laxe, Vol. 34, 2009"
+    },
+    {
+      "id": 11203,
+      "question_number": "3",
+      "statement": "3. De acordo com os resultados, a _______ de endossimbiontes _______ a concentração de citocininas.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
+    },
+    {
+      "id": 11211,
+      "question_number": "3",
+      "statement": "3. Durante a glaciação Würm, ocorreu uma _______ do nível do mar, pelo que a área da ilha era \nconsideravelmente _______ à de hoje.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 11220,
       "question_number": "3",
       "statement": "3. A diferenciação celular é um processo que",
       "question_type": "multiple_choice",
@@ -150,33 +345,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4210,
-          "letter": "A",
-          "text": "origina a alteração do genoma nas células especializadas.",
-          "isCorrect": false
-        },
-        {
-          "id": 4211,
-          "letter": "B",
-          "text": "ocorre independentemente da atuação de fatores do meio.",
-          "isCorrect": false
-        },
-        {
-          "id": 4212,
-          "letter": "C",
-          "text": "implica um conjunto de mutações génicas sequenciais.",
-          "isCorrect": false
-        },
-        {
-          "id": 4213,
-          "letter": "D",
-          "text": "envolve a regulação da transcrição de genes.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -186,7 +356,95 @@
       "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
     },
     {
-      "id": 2241,
+      "id": 11198,
+      "question_number": "4",
+      "statement": "4. Na região a sul do Porto, ocorrem falhas inversas, as quais se caracterizam por uma _______ do teto \nrelativamente ao muro, em resultado de um campo de tensões _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22312,
+          "letter": "A",
+          "text": "metáfase.",
+          "isCorrect": false
+        },
+        {
+          "id": 22313,
+          "letter": "B",
+          "text": "prófase.",
+          "isCorrect": false
+        },
+        {
+          "id": 22314,
+          "letter": "C",
+          "text": "anáfase.",
+          "isCorrect": true
+        },
+        {
+          "id": 22315,
+          "letter": "D",
+          "text": "telófase.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (c)\nVersão 2 – Opção (a)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nNa praia de Lavadores, a sul do rio Douro, aflora um maciço granítico, que se instalou ao longo \nda falha de desligamento Porto-Tomar, sendo visível, por vezes, o seu contacto com gnaisses. O \ngranito apresenta-se de grão grosseiro, evidenciando fenocristais (cristais de grandes dimensões) \nde feldspato potássico e encraves (fragmentos) de rochas quer gnáissicas, quer intrusivas máficas. \nOs encraves apresentam-se, por vezes, em relevo devido à erosão diferencial.\nA Figura 1 representa, de forma simplificada, a relação espacial entre os corpos granitoides – \ngraníticos e afins – e os locais de ocorrência de caulino (um recurso geológico onde predomina \na caulinite – mineral argiloso), associados a uma zona de fraturação profunda. O depósito de \ncaulino da Telheira, junto a Lavadores, constitui um recurso geológico que, em tempos, forneceu \nmatéria-prima para a indústria de cerâmica em Portugal.\nBaseado em M. Silva, «O granito de Lavadores e seus encraves», in J. Neiva et al., Geologia Clássica,\nLisboa, Associação Portuguesa de Geólogos, 2010\n~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\nOceano\nAtlântico\nPorto\nRio Douro\nN\n0 2 4 km\nGranitoides\nFaixa metamórfica\nFalhas\nOcorrência de caulino\n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~\n~\nFalha Porto-Tomar\nPraia de\nLavadores\nFigura 1\nBaseado em A. Coelho et al., «Depósitos de caulino associados à faixa metamórfica de Espinho-Albergaria-a-Velha», \nCadernos Lab. Xeolóxico de Laxe, Vol. 34, 2009"
+    },
+    {
+      "id": 11204,
+      "question_number": "4",
+      "statement": "4. Phyllonorycter blancardella e Malus domestica, quanto ao modo de nutrição, são, respetivamente,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
+    },
+    {
+      "id": 11212,
+      "question_number": "4",
+      "statement": "4. Os sedimentos marinhos posteriormente transportados pelo vento para as zonas mais abrigadas da ilha \nsão",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 11221,
       "question_number": "4",
       "statement": "4. Num ciclo celular mitótico, a condensação máxima da cromatina ocorre na",
       "question_type": "multiple_choice",
@@ -196,33 +454,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4214,
-          "letter": "A",
-          "text": "metáfase.",
-          "isCorrect": false
-        },
-        {
-          "id": 4215,
-          "letter": "B",
-          "text": "prófase.",
-          "isCorrect": false
-        },
-        {
-          "id": 4216,
-          "letter": "C",
-          "text": "anáfase.",
-          "isCorrect": false
-        },
-        {
-          "id": 4217,
-          "letter": "D",
-          "text": "telófase.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -232,9 +465,9 @@
       "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
     },
     {
-      "id": 2242,
+      "id": 11199,
       "question_number": "5",
-      "statement": "5. A biossíntese dos lípidos ocorre em vias _______, com _______ de ATP.",
+      "statement": "5. Comparativamente às falhas, as dobras são deformações normalmente resultantes",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -244,31 +477,94 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4218,
+          "id": 22316,
           "letter": "A",
           "text": "catabólicas … produção",
           "isCorrect": false
         },
         {
-          "id": 4219,
+          "id": 22317,
           "letter": "B",
           "text": "anabólicas … produção",
           "isCorrect": false
         },
         {
-          "id": 4220,
+          "id": 22318,
           "letter": "C",
           "text": "catabólicas … consumo",
           "isCorrect": false
         },
         {
-          "id": 4221,
+          "id": 22319,
           "letter": "D",
           "text": "anabólicas … consumo",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
-      "criteriaText": "5. ........................................................................................................... 5 pontos",
+      "criteriaText": "5. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (d)\nVersão 2 – Opção (c)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nNa praia de Lavadores, a sul do rio Douro, aflora um maciço granítico, que se instalou ao longo \nda falha de desligamento Porto-Tomar, sendo visível, por vezes, o seu contacto com gnaisses. O \ngranito apresenta-se de grão grosseiro, evidenciando fenocristais (cristais de grandes dimensões) \nde feldspato potássico e encraves (fragmentos) de rochas quer gnáissicas, quer intrusivas máficas. \nOs encraves apresentam-se, por vezes, em relevo devido à erosão diferencial.\nA Figura 1 representa, de forma simplificada, a relação espacial entre os corpos granitoides – \ngraníticos e afins – e os locais de ocorrência de caulino (um recurso geológico onde predomina \na caulinite – mineral argiloso), associados a uma zona de fraturação profunda. O depósito de \ncaulino da Telheira, junto a Lavadores, constitui um recurso geológico que, em tempos, forneceu \nmatéria-prima para a indústria de cerâmica em Portugal.\nBaseado em M. Silva, «O granito de Lavadores e seus encraves», in J. Neiva et al., Geologia Clássica,\nLisboa, Associação Portuguesa de Geólogos, 2010\n~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\nOceano\nAtlântico\nPorto\nRio Douro\nN\n0 2 4 km\nGranitoides\nFaixa metamórfica\nFalhas\nOcorrência de caulino\n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~\n~\nFalha Porto-Tomar\nPraia de\nLavadores\nFigura 1\nBaseado em A. Coelho et al., «Depósitos de caulino associados à faixa metamórfica de Espinho-Albergaria-a-Velha», \nCadernos Lab. Xeolóxico de Laxe, Vol. 34, 2009"
+    },
+    {
+      "id": 11205,
+      "question_number": "5",
+      "statement": "5. Os insetos apresentam um sistema circulatório _______, sendo a difusão de gases _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
+    },
+    {
+      "id": 11213,
+      "question_number": "5",
+      "statement": "5. As rochas vulcânicas submarinas mais antigas apresentam, para um determinado elemento _______, \numa razão de isótopos-pai/isótopos-filho _______ do que as rochas vulcânicas submarinas mais recentes.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 11222,
+      "question_number": "5",
+      "statement": "5. A biossíntese dos lípidos ocorre em vias _______, com _______ de ATP.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -278,10 +574,10 @@
       "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
     },
     {
-      "id": 2243,
+      "id": 11200,
       "question_number": "6",
-      "statement": "6. ........................................................................................................... 10 pontos",
-      "question_type": "open",
+      "statement": "6. Explique a formação da caulinite do depósito da Telheira, tendo em conta a composição mineralógica das \nrochas da região, as deformações existentes e a ação da água.",
+      "question_type": "essay",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -289,20 +585,20 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6. ........................................................................................................... 10 pontos",
+      "criteriaText": "6. .................................................................................................................................................... 15 pontos\ntópicos de resposta:\n•  referência à composição mineralógica das rochas (feldspatos);\n•  relação entre a existência de fraturação (ou falhas) e a circulação de água no maciço;\n•  relação entre a hidrólise (ou meteorização química pela ação da água) dos feldspatos e a \nformação de caulinite.\nNíveis descritores do nível de desempenho pontuação\n6\nNa resposta, são apresentados os três tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n15\n5\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n13\n4\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n10\n3\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n8\n2\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, é apresentado um dos tópicos com:\n • linguagem científica adequada.\n5\n1 Na resposta, é apresentado um dos tópicos com:\n • falhas na aplicação da linguagem científica. 3\n\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO IV",
-      "contextTitle": null,
-      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nNa praia de Lavadores, a sul do rio Douro, aflora um maciço granítico, que se instalou ao longo \nda falha de desligamento Porto-Tomar, sendo visível, por vezes, o seu contacto com gnaisses. O \ngranito apresenta-se de grão grosseiro, evidenciando fenocristais (cristais de grandes dimensões) \nde feldspato potássico e encraves (fragmentos) de rochas quer gnáissicas, quer intrusivas máficas. \nOs encraves apresentam-se, por vezes, em relevo devido à erosão diferencial.\nA Figura 1 representa, de forma simplificada, a relação espacial entre os corpos granitoides – \ngraníticos e afins – e os locais de ocorrência de caulino (um recurso geológico onde predomina \na caulinite – mineral argiloso), associados a uma zona de fraturação profunda. O depósito de \ncaulino da Telheira, junto a Lavadores, constitui um recurso geológico que, em tempos, forneceu \nmatéria-prima para a indústria de cerâmica em Portugal.\nBaseado em M. Silva, «O granito de Lavadores e seus encraves», in J. Neiva et al., Geologia Clássica,\nLisboa, Associação Portuguesa de Geólogos, 2010\n~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\n~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~\nOceano\nAtlântico\nPorto\nRio Douro\nN\n0 2 4 km\nGranitoides\nFaixa metamórfica\nFalhas\nOcorrência de caulino\n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~ ~ ~ ~ \n~ ~\n~\nFalha Porto-Tomar\nPraia de\nLavadores\nFigura 1\nBaseado em A. Coelho et al., «Depósitos de caulino associados à faixa metamórfica de Espinho-Albergaria-a-Velha», \nCadernos Lab. Xeolóxico de Laxe, Vol. 34, 2009"
     },
     {
-      "id": 2250,
-      "question_number": "7",
-      "statement": "7. ........................................................................................................... 15 pontos\n50 pontos\n TOTAL ......................................... 200 pontos",
-      "question_type": "open",
+      "id": 11206,
+      "question_number": "6",
+      "statement": "6. Durante a fase fotoquímica, a incidência da luz nos tecidos clorofilinos da planta provoca",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -310,20 +606,20 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. ........................................................................................................... 15 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO IV",
-      "contextTitle": null,
-      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
     },
     {
-      "id": 2251,
-      "question_number": "8",
-      "statement": "8. ........................................................................................................... 10 pontos",
-      "question_type": "open",
+      "id": 11214,
+      "question_number": "6",
+      "statement": "6. A inferência das condições ambientais que existiam no passado, a partir do conhecimento do conteúdo \nfóssil dos depósitos pararrecifais, baseia-se no princípio",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -331,9 +627,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "8. ........................................................................................................... 10 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -341,9 +637,9 @@
       "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
     },
     {
-      "id": 2260,
-      "question_number": "9",
-      "statement": "9. ........................................................................................................... 10 pontos\n60 pontos",
+      "id": 11223,
+      "question_number": "6",
+      "statement": "6. Faça corresponder cada uma das descrições expressas na coluna A à respetiva designação, que consta \nda coluna B.\nEscreva, na folha de respostas, apenas as letras e os números correspondentes.\nUtilize cada letra e cada número apenas uma vez.\nCOLUNA A COLUNA B\n(a) Macromolécula responsável pela transcrição \ndo DNA.\n(b) Molécula que possui uma sequência de \nribonucleótidos complementar de um codão.\n(c) Monómero que entra na constituição de um \npolipéptido.\n(d) Polirribonucleótido que contém informação \npara a síntese de um polipéptido.\n(e) Sequência de desoxirribonucleótidos que \ncontém informação para a síntese de uma \nproteína.\n(1) Aminoácido\n(2) DNA\n(3) DNA polimerase\n(4) Gene\n(5) RNA de transferência\n(6) RNA mensageiro\n(7) RNA polimerase\n(8) RNA ribossómico",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -352,7 +648,133 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. ........................................................................................................... 10 pontos",
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 11207,
+      "question_number": "7",
+      "statement": "7. Ordene as frases identificadas pelas letras de A a E, de modo a reconstituir a sequência de acontecimentos \nreferentes ao transporte da água e dos sais ao longo dos vasos xilémicos, segundo a teoria da \ntensão-coesão-adesão.\nA. Criação de um défice de água no xilema da raiz.\nB. Aumento da pressão osmótica ao nível dos vasos xilémicos foliares.\nC. Saída de vapor de água pelos ostíolos das células guarda.\nD. Absorção de moléculas de água do solo pelas células da raiz.\nE.   Ascensão de uma coluna contínua de moléculas de água desde a raiz até à folha.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "7. .................................................................................................................................................... 10 pontos\nVersão 1 – c, B, e, a, d\nVersão 2 – B, d, e, a, c",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
+    },
+    {
+      "id": 11215,
+      "question_number": "7",
+      "statement": "7. Ordene as frases identificadas pelas letras de A a E, de modo a reconstituir a sequência cronológica dos \nacontecimentos que, no ciclo das rochas, podem conduzir à formação de uma rocha plutónica a partir de \numa rocha vulcânica.\nA. Deposição de sedimentos, originando estratos.\nB. Meteorização da rocha devido à atuação dos agentes de geodinâmica externa.\nC. Cristalização de minerais a partir de magma.\nD. Fusão da rocha em ambiente de pressão e de temperatura elevadas.\nE.   Recristalização de minerais, associada ao aumento da pressão litostática.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 11224,
+      "question_number": "7",
+      "statement": "7. Explique em que medida as observações efetuadas em ratos de laboratório permitem uma nova abordagem \nda teoria lamarckista da evolução.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nNos eucariontes, o DNA genómico forma um complexo com proteínas nucleares – a cromatina. \nPara que um gene seja transcrito, a cromatina deve sofrer uma reorganização.\nUma perturbação, ainda que transitória, pode repercutir-se no estado da cromatina, influenciando \na expressão dos genes e, consequentemente, as características das células.\nTrabalhos recentes revelaram que a manipulação do metabolismo pode influenciar o decurso da \ndiferenciação celular.\nObservou-se em ratos de laboratório que o regime alimentar do progenitor modifica o metabolismo \ndos lípidos, nomeadamente do colesterol, da sua descendência. A análise molecular revelou que as \nmudanças metabólicas eram acompanhadas de modificações da cromatina nas regiões genómicas \nonde estão localizados os genes reguladores da biossíntese dos lípidos. Estas observações apoiam \na ideia de que o regime alimentar influencia o estado da cromatina e a expressão dos genes \ntransmissíveis às gerações seguintes.\nBaseado em A. Páldi, «Épigénétique et métabolisme»,\nDossier pour la Science, 81, outubro, 2013"
+    },
+    {
+      "id": 11208,
+      "question_number": "8",
+      "statement": "8. Relacione a influência do antibiótico com as características das folhas amarelas outonais, de acordo com \nos resultados expressos na Tabela 1.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "matching",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 10 pontos\ntópicos de resposta:\n•  relação entre a utilização de antibiótico e a ausência de ilhas verdes nas folhas amarelas \noutonais;\n•  relação entre a ausência de ilhas verdes e a ausência de Wolbachia (ou bactérias).\nOU\n•  relação entre a utilização de antibiótico e a ausência de Wolbachia (ou bactérias);\n•  relação entre a ausência de bactérias e a ausência de ilhas verdes nas folhas amarelas \noutonais.\nNíveis descritores do nível de desempenho pontuação\n4\nNa resposta, são apresentados os dois tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n10\n3\nNa resposta, são apresentados os dois tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n8\n2\nNa resposta, são apresentados os dois tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, é apresentado um dos tópicos com:\n • linguagem científica adequada.\n5\n1 Na resposta, é apresentado um dos tópicos com:\n • falhas na aplicação da linguagem científica. 3\nGRUPO III",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "TABELA 1",
+      "contextText": "GRUPO II\nAs larvas do inseto Phyllonorycter blancardella desenvolvem-se nas folhas da macieira Malus \ndomestica, garantindo a persistência de zonas verdes nas folhas que, no outono, vão amarelecendo. \nAs larvas escavam galerias, alimentando-se dos tecidos foliares. Este inseto estabelece também \numa relação simbiótica com a bactéria Wolbachia.\nNo sentido de saber se a bactéria Wolbachia está implicada na interação entre o inseto e a planta \nhospedeira, efetuou-se o estudo que a seguir se apresenta.\nMétodos e resultados:\n1 – Em dois conjuntos de placas de Petri, um contendo solução de glucose a 40% e o outro contendo \nsolução de glucose a 40% e 1% de antibiótico, colocaram-se, durante três dias, insetos fêmeas \ne insetos machos.\n2 – Seguidamente, para a postura dos ovos, fêmeas de cada um dos grupos (fêmeas sujeitas a \nalimentação com antibiótico e fêmeas sujeitas a alimentação sem antibiótico) foram colocadas \nindividualmente em folhas de macieira com três anos de idade. As árvores foram mantidas em \nestufa, sob condições controladas de temperatura, humidade, radiância e ciclo natural de dia/\nnoite, que simulavam o verão. Procedeu-se a rega diária, até ao aparecimento das larvas.\n3 – Ao fim de dez dias, macieiras de cada um dos grupos foram colocadas fora da estufa, sob \ncondições outonais, para permitir o natural envelhecimento das folhas. As restantes árvores \npermaneceram na estufa (sob as condições controladas que simulavam o verão).\n4 – Posteriormente, procedeu-se à observação das características dos insetos, que eclodiram dos \novos e que completaram o seu desenvolvimento, das características das folhas (presença ou \nausência de ilhas verdes) e do estado de infeção por Wolbachia. Os resultados estão expressos \nna Tabela 1.\n5 – Mediram-se, também, os níveis de citocininas* nos tecidos foliares. Os resultados estão \nregistados no Gráfico 1.\n* Hormonas vegetais envolvidas em diversos processos biológicos, como a inibição do envelhecimento, a manutenção \nda clorofila e o controlo da mobilização de nutrientes para as folhas.\nTABELA 1\nPresença \nde \nWolbachia\nCaracterísticas dos \ninsetos nas folhas \nverdes (estufa)\nCaracterísticas dos \ninsetos nas folhas \namarelas (exterior)\nCaracterísticas das folhas \namarelas (exterior)\nInsetos não \nsujeitos a \nantibiótico\nSim\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 20)\n(emergiram 18)\nPresença de \nilhas verdes\nInsetos \nsujeitos a \nantibiótico\nNão\nSobrevivência, \nreprodução e \ndesenvolvimento \nnormais (n = 15)\nAlta taxa de mortalidade, \nmodificação do \ncomportamento \nalimentar, reprodução \nbaixa (n = 22)\n(emergiram 3) Ausência de \nilhas verdes\nn – número de indivíduos testados em cada experiência.\n\ntecidos\nsem galerias\n(controlo\nverde)\ntecidos\ncom galerias\n(insetos não\nsujeitos a\nantibiótico)\ntecidos\ncom galerias\n(insetos\nsujeitos a\nantibiótico)\ntecidos\nsem galerias\n(controlo\namarelo)\nilha verde\n0\n200\n400\n600\n800\n1000\n1200\n1400\nConcentração decitocininas (fmol mg\n-1)\nGráfico 1\nBaseado em W. Kaiser et al., «Plant green-island phenotype induced by leaf-miners is mediated by \nbacterial symbionts», Proceedings of the Royal Society, Biological sciences, 277, 2010"
+    },
+    {
+      "id": 11216,
+      "question_number": "8",
+      "statement": "8. Explique, tendo em conta o teor em gases do magma, o tipo de atividade vulcânica que esteve na origem \nde cada uma das litologias com idade superior a 19,3 Ma representadas na Figura 2.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa ilha de Porto Santo, pertencente ao Arquipélago da Madeira e Selvagens, afloram dois tipos \nde rochas – rochas magmáticas, diretamente associadas ao vulcanismo originador da própria ilha, \ne rochas sedimentares.\nO corte geológico representado na Figura 2, aproximadamente S-N, mostra os complexos \nvulcânicos, predominantemente basálticos, atravessados por chaminés vulcânicas. A sequência \nsubmarina integra as rochas mais antigas e a sequência subaérea integra as rochas mais recentes.\nAs rochas sedimentares cobrem cerca de um terço da superfície da ilha e incluem rochas calcárias \ncom variados tipos de fósseis marinhos. A partir do Miocénico (aproximadamente, de 23 Ma a \n5,3 Ma) e até finais da glaciação Würm (18 000 anos), a plataforma marinha que se desenvolveu à \nvolta da ilha deverá ter desempenhado um papel fundamental na génese destas rochas calcárias \ncom fósseis. Essa antiga plataforma tem, atualmente, o seu limite a 100 metros de profundidade.\nA temperatura das águas e a composição em cálcio das rochas basálticas foram os fatores que \nmais contribuíram para o desenvolvimento de organismos de concha e esqueleto carbonatados. \nEstes materiais carbonatados, provenientes de tais organismos, acumulados sobre a plataforma \ne atuados por correntes marinhas, fragmentaram-se e depositaram-se em locais preferenciais, \njuntamente com blocos de rochas magmáticas, originando brechas de cimento calcário. Por outro \nlado, a erosão terá, também, originado grandes quantidades de areias bioclásticas, isto é, formadas \npela fragmentação de conchas. Finalmente, o vento, principalmente soprando de norte, constituiu o \nmeio de transporte destes sedimentos para as regiões abrigadas da parte emersa da ilha.\n0 m\n200 m\n500 m Pico do Facho Pico da Juliana\nDepósitos pararrecifais\n-200 m\n0 m 400 m\n~ ~ ~ ~ ~ ~\nComplexos vulcânicos\nIntervalos de idades,\nem milhões de anos (Ma)\nSequência\nsubaérea\nSequência\nsubmarina\n10,6 Ma - 8,3 Ma\n12 Ma - 10,6 Ma\n14,2 Ma - 12 Ma\n19,3 Ma - 15,2 Ma\n> 19,3 Ma*\n**\n*\n**\nescoadas\npiroclastos\nS N\nFigura 2\nBaseado em M. L. Ribeiro e M. Ramalho, Uma Visita Geológica ao Arquipélago da Madeira, Lisboa, \nDireção Regional do Comércio, Indústria e Energia e Laboratório Nacional de Energia e Geologia, I. P., 2009"
+    },
+    {
+      "id": 11217,
+      "question_number": "9",
+      "statement": "9. Uma parte significativa da ilha de Porto Santo está coberta por dunas, tanto consolidadas como móveis, \nsendo as primeiras formadas por areias ligadas por carbonato de cálcio e as segundas formadas por \nareias soltas.\nExplique a formação das dunas consolidadas, tendo em conta a origem dos sedimentos e do cimento que \nas constituem.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. .................................................................................................................................................... 10 pontos\ntópicos de resposta:\n•  referência à origem das areias (areias bioclásticas ou areias resultantes da fragmentação \ndas conchas);\n•  referência à dissolução (ou à meteorização química por ação da água) do carbonato de \ncálcio das conchas;\n•  relação entre a precipitação do carbonato de cálcio e a cimentação dos sedimentos que \nformam as dunas.\nNíveis descritores do nível de desempenho pontuação\n5\nNa resposta, são apresentados os três tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n10\n4\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n8\n3\nNa resposta, são apresentados os três tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente dos conteúdos;\n • linguagem científica adequada.\n6\n2\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos ou falhas na aplicação da linguagem \ncientífica.\n4\n1\nNa resposta, são apresentados dois dos tópicos com:\n • falhas de coerência na organização dos conteúdos e falhas na aplicação da linguagem \ncientífica.\nOU\nNa resposta, é apresentado um dos tópicos com:\n • linguagem científica adequada.\n2\n\nGRUPO IV",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

@@ -4,26 +4,48 @@
   "subject": "Português",
   "year": 2017,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 242,
+      "id": 1502,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 243,
+      "id": 1503,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 244,
+      "id": 1504,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1777,
+      "id": 10801,
+      "question_number": "1",
+      "statement": "1. Através da afirmação de Tomé Pires, citada no texto (linha 4), pretende-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4 Relaciona o conteúdo da estância 97 com a opinião formulada na estância 96, \ndesenvolvendo, adequadamente, o conteúdo dos dois tópicos de resposta. 12\n3\nRelaciona o conteúdo da estância 97 com a opinião formulada na estância 96, \ndesenvolvendo, adequadamente, o conteúdo de um dos tópicos de resposta e, com \npequenas imprecisões e/ou omissões, o conteúdo do outro.\n9\n2\nRelaciona o conteúdo da estância 97 com a opinião formulada na estância 96, \ndesenvolvendo, com pequenas imprecisões e/ou omissões, o conteúdo dos dois tópicos \nde resposta.\nOU\nExplicita, adequadamente, o conteúdo da estância 97 ou a opinião formulada na estância",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nVenho a Malaca, que agora se chama Melaka, pela História do meu país. No século XV, o \nsultanato controlava o comércio do Oriente, o imperador chinês oferecia a filha em casamento \nao sultão. Vinte mil navios lançavam âncora no porto, 84 idiomas regateavam preços no \ncais. «Quem for senhor de Malaca tem a mão na garganta de Veneza», escrevia Tomé Pires, \ncontemporâneo de Afonso de Albuquerque, aludindo à importância de Malaca no controlo da \nrota das especiarias.\nPortugal conquistou a cidade em 1511, perdeu-a em 1641 para a Holanda. Não tenho \nilusões sobre os vestígios da presença portuguesa: já passou demasiado tempo. O que os \nHolandeses e os Ingleses não destruíram, deixámos nós que se diluísse nos séculos de \nausência e de desleixo. Antecipo Melaka como um cruzamento da humanidade, uma poção \núnica, uma receita irrepetível. Mas não é assim. Encontro uma anónima e descoordenada \ncidade oriental, que podia ser qualquer outra cidade do Sudeste Asiático, um quarteirão \nperiférico de Sydney, de São Francisco. Um rio lamacento e abandonado atravessa o centro, \nfachadas sujas e desmazeladas derretem-se sobre as margens. Do lado de cá, os Chineses; \ne do outro lado, os Indianos. Os Malaios estão mais além. Não há confusões. Cada um trata \nde si, todos se atarefam em conquistar uma vida melhor: um novo eletrodoméstico, um fim de \nsemana em Singapura, a universidade dos filhos, a peregrinação a Meca.\nSob a aparente indolência tropical, as tensões étnicas vão cozendo em fogo lento. De \ntantos em tantos anos, explodem. Nada é inconsequente em Malaca: a língua, a fé, a cor da \npele, a forma de vestir ou a aptidão profissional atribuem um lugar preciso no tabuleiro social. \nAs pessoas carregam a afiliação étnica não apenas como uma identidade, também como um \nvínculo.\nPonho-me à procura das relíquias da passagem portuguesa. Encontro a porta decrépita \nde um forte demolido, o esqueleto de uma igreja, uma estátua mutilada de São Francisco \nXavier. Faz tudo parte do roteiro turístico de Malaca, juntamente com o passeio de riquexó, \na visita ao shopping , a quinta dos crocodilos. A réplica da caravela portuguesa que serve \nde museu da cidade não é, afinal, uma homenagem ao extraordinário feito de armas dos \nnavegadores lusitanos – o de conquistar, com duas dezenas de navios e 1500 homens, um \npoderoso sultanato de 100 000 habitantes. Depois de sete meses de navegação desde Lisboa.\nO museu serve para glorificar as bases religiosas da nação. Dentro, tudo conduz à conclusão \nde que os sucessivos invasores europeus não teriam conquistado Melaka hoje […].\nContinuo a procurar Portugal em Malaca – na igreja. O catolicismo, a artéria vital da \nmentalidade do meu povo, é um legado da presença portuguesa no antigo empório dos sete \nmares. Entro, é a hora da missa. A igreja imita o gótico francês, o padre é chinês, os fiéis \nsão asiáticos, a missa decorre em inglês, as canções transmitem um concentrado de alegria, \nritmo e nonchalance que seria impensável em Portugal. Não é um legado evidente. Mas uma \ncoisinha pequena começa a agitar-se na alma: o sentimento de identificação com a realidade \nque me rodeia. Um momento familiar. Uma saudade.\nGonçalo Cadilhe, Planisfério Pessoal, Lisboa, Clube do Autor, 2016, pp. 232-233\nNotAS\n• nonchalance (linha 36) – expressão em francês que significa «despreocupação», «desprendimento».\n• riquexó (linha 25) – veículo de duas rodas para uma ou duas pessoas, puxado por uma pessoa a pé ou de bicicleta, \nfrequente em cidades do Oriente."
+    },
+    {
+      "id": 10808,
       "question_number": "1",
       "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2017/).",
       "question_type": "open",
@@ -34,9 +56,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1\nJustifica a evocação da lenda de Santo António, no contexto em que ocorre, desenvolvendo, \ncom pequenas imprecisões e/ou omissões, o conteúdo de um dos tópicos de resposta.\nOU\nRefere-se, de forma vaga, à evocação da lenda de Santo António, no contexto em que \nocorre.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -44,9 +66,9 @@
       "contextText": "GRUPO III\nSe, para uns, a conquista de uma vida melhor é o principal objetivo, para outros, a luta pelo bem comum \nsobrepõe-se aos interesses individuais.\nSerá que estas duas perspetivas se podem conciliar na sociedade atual?\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a questão apresentada.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nobservações:"
     },
     {
-      "id": 1774,
+      "id": 10798,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.\n5 × 20 pontos 100\nII 1. a 10.\n10 × 5 pontos 50\nIII Item único 50\nTOTAL 200",
+      "statement": "2. Releia os versos 17 a 28.\nExplicite três dos valores postos em causa pelo poder do «metal luzente e louro» (verso 14). Apresente, \npara cada um desses valores, uma transcrição pertinente.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +77,51 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2 Justifica a evocação da lenda de Santo António, no contexto em que ocorre, desenvolvendo, \nadequadamente, o conteúdo de um dos tópicos de resposta. 6",
+      "criteriaText": "2. Estes descontos são efetuados até ao limite das pontuações indicadas nos critérios específicos.\n\nFatores de desvalorização\n − Correção linguística\nAs desvalorizações no âmbito da correção linguística apresentadas no Quadro 2 aplicam-se aos itens de \nresposta restrita e ao item de resposta extensa.\nQuadro 2 – Desvalorizações no âmbito da correção linguística\nTipo de ocorrências Desvalorização\n(pontos)\n • erro inequívoco de pontuação\n • erro de ortografia (incluindo erro de acentuação, uso indevido de letra minúscula ou de letra \nmaiúscula e erro de translineação)\n • erro de morfologia\n • incumprimento das regras de citação de texto ou de referência a título de uma obra\n1\n • erro de sintaxe\n • impropriedade lexical 2\nEm cada resposta, é contabilizada como uma única ocorrência a repetição de uma palavra com o mesmo erro \nortográfico, bem como a presença de mais de um erro na mesma palavra (incluindo erro de acentuação, uso \nindevido de letra minúscula ou de letra maiúscula e erro de translineação).\nSe da aplicação deste fator de desvalorização resultar uma classificação inferior a zero pontos, atribui-se zero \npontos à correção linguística.\n − Limites de extensão\nSempre que não sejam respeitados os limites relativos ao número de palavras indicados na instrução do item \nde resposta extensa, desconta-se um ponto por cada palavra (a mais ou a menos), até ao máximo de cinco \n(1 × 5) pontos, depois de aplicados todos os critérios definidos para o item.\nCaso a resposta apresente uma extensão inferior a oitenta palavras, é classificada com zero pontos.\nPara efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, \nmesmo quando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma \núnica palavra, independentemente dos algarismos que o constituam (ex.: /2017/).\nNos casos em que da aplicação deste fator de desvalorização resultar uma classificação inferior a zero \npontos, é atribuída à resposta a classificação de zero pontos.\n\nCRITÉRIOS ESPECÍFICOS DE CLASSIFICAÇÃO\nGRUPO I .................................................................................................................................... 100 pontos\nA",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\n Leia o texto seguinte, constituído pelas estâncias 96 a 99 do Canto VIII de Os Lusíadas , bem como a \ncontextualização apresentada. Se necessário, consulte as notas.\nContextualização\nApós a chegada a Calecute, os portugueses são recebidos pelo Catual; entretanto, Baco aparece em \nsonhos a um sacerdote, convencendo-o de que o objetivo dos portugueses era subjugar os indianos. \nO Catual prende Vasco da Gama e só o liberta a troco de mercadorias trazidas das naus. Finalmente, \nVasco da Gama regressa a bordo, onde «estar se deixa, vagaroso».\nEst. 96\nEst. 97\nEst. 98\nEst. 99\n5\n10\n15\n20\n25\n30\nNas naus estar se deixa, vagaroso,\nAté ver o que o tempo lhe descobre;\nQue não se fia já do cobiçoso\nRegedor, corrompido e pouco nobre.\nVeja agora o juízo curioso\nQuanto no rico, assi como no pobre,\nPode o vil interesse e sede imiga\nDo dinheiro, que a tudo nos obriga. \nA Polidoro mata o Rei Treício,\nSó por ficar senhor do grão tesouro;\nEntra, pelo fortíssimo edifício,\nCom a filha de Acriso a chuva d’ ouro;\nPode tanto em Tarpeia avaro vício\nQue, a troco do metal luzente e louro,\nEntrega aos inimigos a alta torre,\nDo qual quási afogada em pago morre.\nEste rende munidas fortalezas;\nFaz trédoros e falsos os amigos;\nEste a mais nobres faz fazer vilezas,\nE entrega Capitães aos inimigos;\nEste corrompe virginais purezas,\nSem temer de honra ou fama alguns perigos;\nEste deprava às vezes as ciências,\nOs juízos cegando e as consciências. \nEste interpreta mais que sutilmente\nOs textos; este faz e desfaz leis;\nEste causa os perjúrios entre a gente\nE mil vezes tiranos torna os Reis.\nAté os que só a Deus omnipotente\nSe dedicam, mil vezes ouvireis\nQue corrompe este encantador, e ilude;\nMas não sem cor, contudo, de virtude!\nLuís de Camões, Os Lusíadas, edição de A. J. da Costa Pimpão, 5.ª ed., Lisboa, MNE/IC, 2003, p. 221\n\nNotAS\n• Acriso (verso 12) – Rei de Argos que, para impedir o cumprimento da profecia de que seria morto por um neto, prendeu \na filha numa torre. Júpiter, porém, sob a forma de chuva de ouro, introduziu-se na torre e tornou-a mãe de Perseu, que \nveio a assassinar Acriso.\n• «A Polidoro mata o Rei Treício» (verso 9) – Quando a cidade de Troia estava prestes a cair em poder dos Gregos, o \nsoberano mandou o filho, Polidoro, com uma considerável riqueza em ouro, ao «Rei Treício», para que o protegesse; \ntodavia, este apoderou-se do metal e matou o jovem.\n• cor (verso 32) – aparência exterior.\n• munidas (verso 17) – bem fortificadas.\n• perjúrios (verso 27) – mentiras; juramentos falsos.\n• Regedor (verso 4) – Catual.\n• Tarpeia (verso 13) – jovem romana que, na esperança de obter anéis de ouro dos Sabinos, que sitiavam Roma, lhes \nabriu as portas da cidade. Os inimigos, porém, não a pouparam.\n• trédoros (verso 18) – traidores."
+    },
+    {
+      "id": 10802,
+      "question_number": "2",
+      "statement": "2. No segundo parágrafo, o autor",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nVenho a Malaca, que agora se chama Melaka, pela História do meu país. No século XV, o \nsultanato controlava o comércio do Oriente, o imperador chinês oferecia a filha em casamento \nao sultão. Vinte mil navios lançavam âncora no porto, 84 idiomas regateavam preços no \ncais. «Quem for senhor de Malaca tem a mão na garganta de Veneza», escrevia Tomé Pires, \ncontemporâneo de Afonso de Albuquerque, aludindo à importância de Malaca no controlo da \nrota das especiarias.\nPortugal conquistou a cidade em 1511, perdeu-a em 1641 para a Holanda. Não tenho \nilusões sobre os vestígios da presença portuguesa: já passou demasiado tempo. O que os \nHolandeses e os Ingleses não destruíram, deixámos nós que se diluísse nos séculos de \nausência e de desleixo. Antecipo Melaka como um cruzamento da humanidade, uma poção \núnica, uma receita irrepetível. Mas não é assim. Encontro uma anónima e descoordenada \ncidade oriental, que podia ser qualquer outra cidade do Sudeste Asiático, um quarteirão \nperiférico de Sydney, de São Francisco. Um rio lamacento e abandonado atravessa o centro, \nfachadas sujas e desmazeladas derretem-se sobre as margens. Do lado de cá, os Chineses; \ne do outro lado, os Indianos. Os Malaios estão mais além. Não há confusões. Cada um trata \nde si, todos se atarefam em conquistar uma vida melhor: um novo eletrodoméstico, um fim de \nsemana em Singapura, a universidade dos filhos, a peregrinação a Meca.\nSob a aparente indolência tropical, as tensões étnicas vão cozendo em fogo lento. De \ntantos em tantos anos, explodem. Nada é inconsequente em Malaca: a língua, a fé, a cor da \npele, a forma de vestir ou a aptidão profissional atribuem um lugar preciso no tabuleiro social. \nAs pessoas carregam a afiliação étnica não apenas como uma identidade, também como um \nvínculo.\nPonho-me à procura das relíquias da passagem portuguesa. Encontro a porta decrépita \nde um forte demolido, o esqueleto de uma igreja, uma estátua mutilada de São Francisco \nXavier. Faz tudo parte do roteiro turístico de Malaca, juntamente com o passeio de riquexó, \na visita ao shopping , a quinta dos crocodilos. A réplica da caravela portuguesa que serve \nde museu da cidade não é, afinal, uma homenagem ao extraordinário feito de armas dos \nnavegadores lusitanos – o de conquistar, com duas dezenas de navios e 1500 homens, um \npoderoso sultanato de 100 000 habitantes. Depois de sete meses de navegação desde Lisboa.\nO museu serve para glorificar as bases religiosas da nação. Dentro, tudo conduz à conclusão \nde que os sucessivos invasores europeus não teriam conquistado Melaka hoje […].\nContinuo a procurar Portugal em Malaca – na igreja. O catolicismo, a artéria vital da \nmentalidade do meu povo, é um legado da presença portuguesa no antigo empório dos sete \nmares. Entro, é a hora da missa. A igreja imita o gótico francês, o padre é chinês, os fiéis \nsão asiáticos, a missa decorre em inglês, as canções transmitem um concentrado de alegria, \nritmo e nonchalance que seria impensável em Portugal. Não é um legado evidente. Mas uma \ncoisinha pequena começa a agitar-se na alma: o sentimento de identificação com a realidade \nque me rodeia. Um momento familiar. Uma saudade.\nGonçalo Cadilhe, Planisfério Pessoal, Lisboa, Clube do Autor, 2016, pp. 232-233\nNotAS\n• nonchalance (linha 36) – expressão em francês que significa «despreocupação», «desprendimento».\n• riquexó (linha 25) – veículo de duas rodas para uma ou duas pessoas, puxado por uma pessoa a pé ou de bicicleta, \nfrequente em cidades do Oriente."
+    },
+    {
+      "id": 10809,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +129,53 @@
       "contextText": "GRUPO III\nSe, para uns, a conquista de uma vida melhor é o principal objetivo, para outros, a luta pelo bem comum \nsobrepõe-se aos interesses individuais.\nSerá que estas duas perspetivas se podem conciliar na sociedade atual?\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a questão apresentada.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nobservações:"
     },
     {
-      "id": 1775,
+      "id": 10799,
+      "question_number": "3",
+      "statement": "3. Interprete o sentido dos versos 29 a 32, enquanto crítica dirigida ao clero.\nB\nLeia o texto.\n5\n10\n15\nJá que assim o experimentais com tanto dano vosso, importa que daqui por diante sejais \nmais Repúblicos e zelosos do bem comum, e que este prevaleça contra o apetite particular de \ncada um, para que não suceda que, assim como hoje vemos a muitos de vós tão diminuídos, \nvos venhais a consumir de todo. Não vos bastam tantos inimigos de fora e tantos perseguidores \ntão astutos e pertinazes, quantos são os pescadores, que nem de dia nem de noite deixam de \nvos pôr em cerco e fazer guerra por tantos modos? Não vedes que contra vós se emalham e \nentralham as redes; contra vós se tecem as nassas, contra vós se torcem as linhas, contra vós \nse dobram e farpam os anzóis, contra vós as fisgas e os arpões? Não vedes que contra vós até \nas canas são lanças e as cortiças armas ofensivas? Não vos basta, pois, que tenhais tantos \ne tão armados inimigos de fora, senão que também vós de vossas portas adentro o haveis \nde ser mais cruéis, perseguindo-vos com uma guerra mais que civil e comendo-vos uns aos \noutros? Cesse, cesse já, irmãos peixes, e tenha fim algum dia esta tão perniciosa discórdia; \ne pois vos chamei e sois irmãos, lembrai-vos das obrigações deste nome. Não estáveis vós \nmuito quietos, muito pacíficos e muito amigos todos, grandes e pequenos, quando vos pregava \nS. António? Pois continuai assim, e sereis felizes.\nPadre António Vieira, Sermão de Santo António (aos peixes) e Sermão da Sexagésima, edição de Margarida Vieira Mendes, \nLisboa, Seara Nova, 1978, pp. 91-92 \nNotAS\n• entralham (linha 7) – prendem em malha de rede; enredam.\n• nassas (linha 7) – sacos de rede em que se recolhe o peixe.\n• Repúblicos (linha 2) – dedicados à causa pública.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21324,
+          "letter": "A",
+          "text": "o cosmopolitismo de Malaca.",
+          "isCorrect": false
+        },
+        {
+          "id": 21325,
+          "letter": "B",
+          "text": "a descaracterização do espaço.",
+          "isCorrect": false
+        },
+        {
+          "id": 21326,
+          "letter": "C",
+          "text": "a composição étnica diversificada.",
+          "isCorrect": false
+        },
+        {
+          "id": 21327,
+          "letter": "D",
+          "text": "o estado de degradação da cidade.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4 Interpreta o sentido dos versos 29 a 32, enquanto crítica dirigida ao clero, desenvolvendo, \nadequadamente, o conteúdo dos dois tópicos de resposta. 12\n3 Interpreta o sentido dos versos 29 a 32, enquanto crítica dirigida ao clero, desenvolvendo, \ncom pequenas imprecisões e/ou omissões, o conteúdo dos dois tópicos de resposta. 9\n2 Interpreta o sentido dos versos 29 a 32, enquanto crítica dirigida ao clero, desenvolvendo, \nadequadamente, o conteúdo de um dos tópicos de resposta. 6\n1\nInterpreta o sentido dos versos 29 a 32, enquanto crítica dirigida ao clero, desenvolvendo, \ncom pequenas imprecisões e/ou omissões, o conteúdo de um dos tópicos de resposta.\nOU\nRefere-se, de forma vaga, ao sentido dos versos 29 a 32.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 3 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n• Crítica ao clero, classe que, devendo estar imune ao poder do dinheiro, também se deixa corromper.\n• Constatação de que o clero esconde a sua ganância sob uma aparência de virtude.\nExemplo de resposta\nNos versos referidos, o poeta estende a sua crítica ao clero, classe social que, em princípio, estaria \nimune ao poder de sedução do dinheiro – «este encantador» (v. 31); todavia, o que se verifica é que, \nfrequentemente – «mil vezes ouvireis» (v. 30) –, o «metal luzente e louro» (v. 14) não só corrompe o clero \ncomo o leva a agir com hipocrisia, escondendo a ganância sob uma aparência de virtude (v. 32).\nNota – Não é obrigatória a apresentação de citações, ainda que estas figurem, a título ilustrativo, no exemplo de resposta.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nB",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\n Leia o texto seguinte, constituído pelas estâncias 96 a 99 do Canto VIII de Os Lusíadas , bem como a \ncontextualização apresentada. Se necessário, consulte as notas.\nContextualização\nApós a chegada a Calecute, os portugueses são recebidos pelo Catual; entretanto, Baco aparece em \nsonhos a um sacerdote, convencendo-o de que o objetivo dos portugueses era subjugar os indianos. \nO Catual prende Vasco da Gama e só o liberta a troco de mercadorias trazidas das naus. Finalmente, \nVasco da Gama regressa a bordo, onde «estar se deixa, vagaroso».\nEst. 96\nEst. 97\nEst. 98\nEst. 99\n5\n10\n15\n20\n25\n30\nNas naus estar se deixa, vagaroso,\nAté ver o que o tempo lhe descobre;\nQue não se fia já do cobiçoso\nRegedor, corrompido e pouco nobre.\nVeja agora o juízo curioso\nQuanto no rico, assi como no pobre,\nPode o vil interesse e sede imiga\nDo dinheiro, que a tudo nos obriga. \nA Polidoro mata o Rei Treício,\nSó por ficar senhor do grão tesouro;\nEntra, pelo fortíssimo edifício,\nCom a filha de Acriso a chuva d’ ouro;\nPode tanto em Tarpeia avaro vício\nQue, a troco do metal luzente e louro,\nEntrega aos inimigos a alta torre,\nDo qual quási afogada em pago morre.\nEste rende munidas fortalezas;\nFaz trédoros e falsos os amigos;\nEste a mais nobres faz fazer vilezas,\nE entrega Capitães aos inimigos;\nEste corrompe virginais purezas,\nSem temer de honra ou fama alguns perigos;\nEste deprava às vezes as ciências,\nOs juízos cegando e as consciências. \nEste interpreta mais que sutilmente\nOs textos; este faz e desfaz leis;\nEste causa os perjúrios entre a gente\nE mil vezes tiranos torna os Reis.\nAté os que só a Deus omnipotente\nSe dedicam, mil vezes ouvireis\nQue corrompe este encantador, e ilude;\nMas não sem cor, contudo, de virtude!\nLuís de Camões, Os Lusíadas, edição de A. J. da Costa Pimpão, 5.ª ed., Lisboa, MNE/IC, 2003, p. 221\n\nNotAS\n• Acriso (verso 12) – Rei de Argos que, para impedir o cumprimento da profecia de que seria morto por um neto, prendeu \na filha numa torre. Júpiter, porém, sob a forma de chuva de ouro, introduziu-se na torre e tornou-a mãe de Perseu, que \nveio a assassinar Acriso.\n• «A Polidoro mata o Rei Treício» (verso 9) – Quando a cidade de Troia estava prestes a cair em poder dos Gregos, o \nsoberano mandou o filho, Polidoro, com uma considerável riqueza em ouro, ao «Rei Treício», para que o protegesse; \ntodavia, este apoderou-se do metal e matou o jovem.\n• cor (verso 32) – aparência exterior.\n• munidas (verso 17) – bem fortificadas.\n• perjúrios (verso 27) – mentiras; juramentos falsos.\n• Regedor (verso 4) – Catual.\n• Tarpeia (verso 13) – jovem romana que, na esperança de obter anéis de ouro dos Sabinos, que sitiavam Roma, lhes \nabriu as portas da cidade. Os inimigos, porém, não a pouparam.\n• trédoros (verso 18) – traidores."
+    },
+    {
+      "id": 10803,
       "question_number": "3",
       "statement": "3. As referências a Sydney e a São Francisco (linha 13) têm como objetivo pôr em destaque",
       "question_type": "multiple_choice",
@@ -75,33 +185,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3170,
-          "letter": "A",
-          "text": "o cosmopolitismo de Malaca.",
-          "isCorrect": false
-        },
-        {
-          "id": 3171,
-          "letter": "B",
-          "text": "a descaracterização do espaço.",
-          "isCorrect": false
-        },
-        {
-          "id": 3172,
-          "letter": "C",
-          "text": "a composição étnica diversificada.",
-          "isCorrect": false
-        },
-        {
-          "id": 3173,
-          "letter": "D",
-          "text": "o estado de degradação da cidade.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 5 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n– Justificação da evocação da lenda de Santo António: \n• demonstração/exemplificação da ideia do orador segundo a qual os peixes são capazes de viver em \nunião, em amizade e em paz; \n• conclusão de que os peixes poderão novamente encontrar a felicidade, se seguirem os conselhos do \norador.\nExemplo de resposta\nA evocação da lenda de Santo António comprova a ideia defendida pelo orador, que está convicto de \nque os peixes podem, se quiserem, viver em união, em amizade e em paz. Na verdade, de acordo com \na lenda, os peixes, ouvindo Santo António com devoção, «muito quietos, muito pacíficos e muito amigos \ntodos» (linha 14), tinham já demonstrado ser capazes de adotar um comportamento pacífico e fraterno. \nComprova-se, assim, que «grandes e pequenos» (linha 14) poderão novamente encontrar a felicidade \n(«Pois continuai assim, e sereis felizes.» – linha 15), se seguirem os conselhos do orador.\nNota – Não é obrigatória a apresentação de citações, ainda que estas figurem, a título ilustrativo, no exemplo de resposta.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -111,7 +196,53 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nVenho a Malaca, que agora se chama Melaka, pela História do meu país. No século XV, o \nsultanato controlava o comércio do Oriente, o imperador chinês oferecia a filha em casamento \nao sultão. Vinte mil navios lançavam âncora no porto, 84 idiomas regateavam preços no \ncais. «Quem for senhor de Malaca tem a mão na garganta de Veneza», escrevia Tomé Pires, \ncontemporâneo de Afonso de Albuquerque, aludindo à importância de Malaca no controlo da \nrota das especiarias.\nPortugal conquistou a cidade em 1511, perdeu-a em 1641 para a Holanda. Não tenho \nilusões sobre os vestígios da presença portuguesa: já passou demasiado tempo. O que os \nHolandeses e os Ingleses não destruíram, deixámos nós que se diluísse nos séculos de \nausência e de desleixo. Antecipo Melaka como um cruzamento da humanidade, uma poção \núnica, uma receita irrepetível. Mas não é assim. Encontro uma anónima e descoordenada \ncidade oriental, que podia ser qualquer outra cidade do Sudeste Asiático, um quarteirão \nperiférico de Sydney, de São Francisco. Um rio lamacento e abandonado atravessa o centro, \nfachadas sujas e desmazeladas derretem-se sobre as margens. Do lado de cá, os Chineses; \ne do outro lado, os Indianos. Os Malaios estão mais além. Não há confusões. Cada um trata \nde si, todos se atarefam em conquistar uma vida melhor: um novo eletrodoméstico, um fim de \nsemana em Singapura, a universidade dos filhos, a peregrinação a Meca.\nSob a aparente indolência tropical, as tensões étnicas vão cozendo em fogo lento. De \ntantos em tantos anos, explodem. Nada é inconsequente em Malaca: a língua, a fé, a cor da \npele, a forma de vestir ou a aptidão profissional atribuem um lugar preciso no tabuleiro social. \nAs pessoas carregam a afiliação étnica não apenas como uma identidade, também como um \nvínculo.\nPonho-me à procura das relíquias da passagem portuguesa. Encontro a porta decrépita \nde um forte demolido, o esqueleto de uma igreja, uma estátua mutilada de São Francisco \nXavier. Faz tudo parte do roteiro turístico de Malaca, juntamente com o passeio de riquexó, \na visita ao shopping , a quinta dos crocodilos. A réplica da caravela portuguesa que serve \nde museu da cidade não é, afinal, uma homenagem ao extraordinário feito de armas dos \nnavegadores lusitanos – o de conquistar, com duas dezenas de navios e 1500 homens, um \npoderoso sultanato de 100 000 habitantes. Depois de sete meses de navegação desde Lisboa.\nO museu serve para glorificar as bases religiosas da nação. Dentro, tudo conduz à conclusão \nde que os sucessivos invasores europeus não teriam conquistado Melaka hoje […].\nContinuo a procurar Portugal em Malaca – na igreja. O catolicismo, a artéria vital da \nmentalidade do meu povo, é um legado da presença portuguesa no antigo empório dos sete \nmares. Entro, é a hora da missa. A igreja imita o gótico francês, o padre é chinês, os fiéis \nsão asiáticos, a missa decorre em inglês, as canções transmitem um concentrado de alegria, \nritmo e nonchalance que seria impensável em Portugal. Não é um legado evidente. Mas uma \ncoisinha pequena começa a agitar-se na alma: o sentimento de identificação com a realidade \nque me rodeia. Um momento familiar. Uma saudade.\nGonçalo Cadilhe, Planisfério Pessoal, Lisboa, Clube do Autor, 2016, pp. 232-233\nNotAS\n• nonchalance (linha 36) – expressão em francês que significa «despreocupação», «desprendimento».\n• riquexó (linha 25) – veículo de duas rodas para uma ou duas pessoas, puxado por uma pessoa a pé ou de bicicleta, \nfrequente em cidades do Oriente."
     },
     {
-      "id": 1776,
+      "id": 10800,
+      "question_number": "4",
+      "statement": "4. Explique o conselho do orador expresso no primeiro período do texto (linhas 1 a 4) e relacione-o com o \nsentido das interrogações retóricas presentes nas linhas 4 a 12.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21328,
+          "letter": "A",
+          "text": "desencadeia o conhecimento intercultural.",
+          "isCorrect": false
+        },
+        {
+          "id": 21329,
+          "letter": "B",
+          "text": "anula a possibilidade de discórdia entre estes.",
+          "isCorrect": false
+        },
+        {
+          "id": 21330,
+          "letter": "C",
+          "text": "assegura uma interação pacífica entre todos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21331,
+          "letter": "D",
+          "text": "sugere divisões potenciadoras de conflitos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4 Explica o conselho do orador e relaciona-o com o sentido das interrogações retóricas, \ndesenvolvendo, adequadamente, o conteúdo dos dois tópicos de resposta. 12\n3\nExplica o conselho do orador e relaciona-o com o sentido das interrogações retóricas, \ndesenvolvendo, adequadamente, o conteúdo de um dos tópicos de resposta e, com \npequenas imprecisões e/ou omissões, o conteúdo do outro.\n9\n2\nExplica o conselho do orador e relaciona-o com o sentido das interrogações retóricas, \ndesenvolvendo, com pequenas imprecisões e/ou omissões, o conteúdo dos dois tópicos \nde resposta.\nOU\nExplica, adequadamente, o conselho do orador ou explicita, adequadamente, o sentido \ndas interrogações retóricas.\n6\n1\nExplica, com pequenas imprecisões e/ou omissões, o conselho do orador ou explicita, \ncom pequenas imprecisões e/ou omissões, o sentido das interrogações retóricas.\nOU\nRefere-se, de forma vaga, à relação entre o conselho do orador e o sentido das \ninterrogações retóricas.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 4 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n• Explicação do conselho dado ao auditório: o bem comum deve prevalecer sobre o interesse particular, \no que garantirá a união e a força.\n• Relação entre o conselho do orador e o sentido das interrogações retóricas: pôr em evidência a \nquantidade/diversidade de ameaças externas e internas (discórdia, exploração dos mais fracos) a que o \nauditório está sujeito, caso não siga o conselho.\nExemplo de resposta\nNo primeiro período do excerto, o orador adverte o seu auditório para a necessidade de colocar o bem \ncomum acima do interesse particular, de modo a melhor enfrentar as ameaças com que se depara.\nAtravés das interrogações retóricas, os ouvintes são alertados para a quantidade de inimigos que, \nastuciosa e persistentemente, os perseguem e para os vários perigos a que se expõem (os pescadores \nsempre prontos a pescá-los, as variadas artes de pesca…). \nO orador sublinha, deste modo, a imprescindibilidade de, perante «tantos e tão armados inimigos de fora» \n(linhas 9 e 10), o auditório se unir, pondo fim às discórdias, às lutas internas e à exploração dos mais \nfracos – «uma guerra mais que civil e comendo-vos uns aos outros» (linhas 11 e 12).\nNota – Não é obrigatória a apresentação de citações, ainda que estas figurem, a título ilustrativo, no exemplo de resposta.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\n Leia o texto seguinte, constituído pelas estâncias 96 a 99 do Canto VIII de Os Lusíadas , bem como a \ncontextualização apresentada. Se necessário, consulte as notas.\nContextualização\nApós a chegada a Calecute, os portugueses são recebidos pelo Catual; entretanto, Baco aparece em \nsonhos a um sacerdote, convencendo-o de que o objetivo dos portugueses era subjugar os indianos. \nO Catual prende Vasco da Gama e só o liberta a troco de mercadorias trazidas das naus. Finalmente, \nVasco da Gama regressa a bordo, onde «estar se deixa, vagaroso».\nEst. 96\nEst. 97\nEst. 98\nEst. 99\n5\n10\n15\n20\n25\n30\nNas naus estar se deixa, vagaroso,\nAté ver o que o tempo lhe descobre;\nQue não se fia já do cobiçoso\nRegedor, corrompido e pouco nobre.\nVeja agora o juízo curioso\nQuanto no rico, assi como no pobre,\nPode o vil interesse e sede imiga\nDo dinheiro, que a tudo nos obriga. \nA Polidoro mata o Rei Treício,\nSó por ficar senhor do grão tesouro;\nEntra, pelo fortíssimo edifício,\nCom a filha de Acriso a chuva d’ ouro;\nPode tanto em Tarpeia avaro vício\nQue, a troco do metal luzente e louro,\nEntrega aos inimigos a alta torre,\nDo qual quási afogada em pago morre.\nEste rende munidas fortalezas;\nFaz trédoros e falsos os amigos;\nEste a mais nobres faz fazer vilezas,\nE entrega Capitães aos inimigos;\nEste corrompe virginais purezas,\nSem temer de honra ou fama alguns perigos;\nEste deprava às vezes as ciências,\nOs juízos cegando e as consciências. \nEste interpreta mais que sutilmente\nOs textos; este faz e desfaz leis;\nEste causa os perjúrios entre a gente\nE mil vezes tiranos torna os Reis.\nAté os que só a Deus omnipotente\nSe dedicam, mil vezes ouvireis\nQue corrompe este encantador, e ilude;\nMas não sem cor, contudo, de virtude!\nLuís de Camões, Os Lusíadas, edição de A. J. da Costa Pimpão, 5.ª ed., Lisboa, MNE/IC, 2003, p. 221\n\nNotAS\n• Acriso (verso 12) – Rei de Argos que, para impedir o cumprimento da profecia de que seria morto por um neto, prendeu \na filha numa torre. Júpiter, porém, sob a forma de chuva de ouro, introduziu-se na torre e tornou-a mãe de Perseu, que \nveio a assassinar Acriso.\n• «A Polidoro mata o Rei Treício» (verso 9) – Quando a cidade de Troia estava prestes a cair em poder dos Gregos, o \nsoberano mandou o filho, Polidoro, com uma considerável riqueza em ouro, ao «Rei Treício», para que o protegesse; \ntodavia, este apoderou-se do metal e matou o jovem.\n• cor (verso 32) – aparência exterior.\n• munidas (verso 17) – bem fortificadas.\n• perjúrios (verso 27) – mentiras; juramentos falsos.\n• Regedor (verso 4) – Catual.\n• Tarpeia (verso 13) – jovem romana que, na esperança de obter anéis de ouro dos Sabinos, que sitiavam Roma, lhes \nabriu as portas da cidade. Os inimigos, porém, não a pouparam.\n• trédoros (verso 18) – traidores."
+    },
+    {
+      "id": 10804,
       "question_number": "4",
       "statement": "4. Atendendo ao conteúdo do segundo e do terceiro parágrafos, depreende-se que a ocupação espacial \ndistinta dos diferentes grupos populacionais",
       "question_type": "multiple_choice",
@@ -121,33 +252,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3174,
-          "letter": "A",
-          "text": "desencadeia o conhecimento intercultural.",
-          "isCorrect": false
-        },
-        {
-          "id": 3175,
-          "letter": "B",
-          "text": "anula a possibilidade de discórdia entre estes.",
-          "isCorrect": false
-        },
-        {
-          "id": 3176,
-          "letter": "C",
-          "text": "assegura uma interação pacífica entre todos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3177,
-          "letter": "D",
-          "text": "sugere divisões potenciadoras de conflitos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 Justifica a evocação da lenda de Santo António, no contexto em que ocorre, desenvolvendo, \nadequadamente, o conteúdo dos dois tópicos de resposta. 12",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -157,7 +263,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nVenho a Malaca, que agora se chama Melaka, pela História do meu país. No século XV, o \nsultanato controlava o comércio do Oriente, o imperador chinês oferecia a filha em casamento \nao sultão. Vinte mil navios lançavam âncora no porto, 84 idiomas regateavam preços no \ncais. «Quem for senhor de Malaca tem a mão na garganta de Veneza», escrevia Tomé Pires, \ncontemporâneo de Afonso de Albuquerque, aludindo à importância de Malaca no controlo da \nrota das especiarias.\nPortugal conquistou a cidade em 1511, perdeu-a em 1641 para a Holanda. Não tenho \nilusões sobre os vestígios da presença portuguesa: já passou demasiado tempo. O que os \nHolandeses e os Ingleses não destruíram, deixámos nós que se diluísse nos séculos de \nausência e de desleixo. Antecipo Melaka como um cruzamento da humanidade, uma poção \núnica, uma receita irrepetível. Mas não é assim. Encontro uma anónima e descoordenada \ncidade oriental, que podia ser qualquer outra cidade do Sudeste Asiático, um quarteirão \nperiférico de Sydney, de São Francisco. Um rio lamacento e abandonado atravessa o centro, \nfachadas sujas e desmazeladas derretem-se sobre as margens. Do lado de cá, os Chineses; \ne do outro lado, os Indianos. Os Malaios estão mais além. Não há confusões. Cada um trata \nde si, todos se atarefam em conquistar uma vida melhor: um novo eletrodoméstico, um fim de \nsemana em Singapura, a universidade dos filhos, a peregrinação a Meca.\nSob a aparente indolência tropical, as tensões étnicas vão cozendo em fogo lento. De \ntantos em tantos anos, explodem. Nada é inconsequente em Malaca: a língua, a fé, a cor da \npele, a forma de vestir ou a aptidão profissional atribuem um lugar preciso no tabuleiro social. \nAs pessoas carregam a afiliação étnica não apenas como uma identidade, também como um \nvínculo.\nPonho-me à procura das relíquias da passagem portuguesa. Encontro a porta decrépita \nde um forte demolido, o esqueleto de uma igreja, uma estátua mutilada de São Francisco \nXavier. Faz tudo parte do roteiro turístico de Malaca, juntamente com o passeio de riquexó, \na visita ao shopping , a quinta dos crocodilos. A réplica da caravela portuguesa que serve \nde museu da cidade não é, afinal, uma homenagem ao extraordinário feito de armas dos \nnavegadores lusitanos – o de conquistar, com duas dezenas de navios e 1500 homens, um \npoderoso sultanato de 100 000 habitantes. Depois de sete meses de navegação desde Lisboa.\nO museu serve para glorificar as bases religiosas da nação. Dentro, tudo conduz à conclusão \nde que os sucessivos invasores europeus não teriam conquistado Melaka hoje […].\nContinuo a procurar Portugal em Malaca – na igreja. O catolicismo, a artéria vital da \nmentalidade do meu povo, é um legado da presença portuguesa no antigo empório dos sete \nmares. Entro, é a hora da missa. A igreja imita o gótico francês, o padre é chinês, os fiéis \nsão asiáticos, a missa decorre em inglês, as canções transmitem um concentrado de alegria, \nritmo e nonchalance que seria impensável em Portugal. Não é um legado evidente. Mas uma \ncoisinha pequena começa a agitar-se na alma: o sentimento de identificação com a realidade \nque me rodeia. Um momento familiar. Uma saudade.\nGonçalo Cadilhe, Planisfério Pessoal, Lisboa, Clube do Autor, 2016, pp. 232-233\nNotAS\n• nonchalance (linha 36) – expressão em francês que significa «despreocupação», «desprendimento».\n• riquexó (linha 25) – veículo de duas rodas para uma ou duas pessoas, puxado por uma pessoa a pé ou de bicicleta, \nfrequente em cidades do Oriente."
     },
     {
-      "id": 1781,
+      "id": 10805,
       "question_number": "5",
       "statement": "5. De acordo com os três últimos parágrafos do texto, o mais significativo legado português encontrado pelo \nautor foi",
       "question_type": "multiple_choice",
@@ -169,33 +275,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3178,
+          "id": 21332,
           "letter": "A",
           "text": "a réplica de uma caravela.",
           "isCorrect": false
         },
         {
-          "id": 3179,
+          "id": 21333,
           "letter": "B",
           "text": "a igreja em estado de ruína.",
           "isCorrect": false
         },
         {
-          "id": 3180,
+          "id": 21334,
           "letter": "C",
           "text": "a estátua de São Francisco Xavier.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3181,
+          "id": 21335,
           "letter": "D",
           "text": "a vivência do catolicismo.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5 4 3 2 1\nC\nLéxico e \nadequação \ndo discurso\n – Mobiliza, com intencionalidade, \nrecursos da língua expressivos \ne adequados (repertório lexical \nvariado e pertinente, figuras de \nretórica e tropos, procedimentos \nde modalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Mobiliza um repertório lexical \nadequado, mas pouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Utiliza vocabulário \nelementar e restrito (muitas \nvezes redundante) ou \nglobalmente inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência do \nregisto adequado ao texto, \nou recorre a um único \nregisto inadequado.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.",
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4 Justifica a evocação da lenda de Santo António, no contexto em que ocorre, desenvolvendo, \nadequadamente, o conteúdo dos dois tópicos de resposta. 12\n3 Justifica a evocação da lenda de Santo António, no contexto em que ocorre, desenvolvendo, \ncom pequenas imprecisões e/ou omissões, o conteúdo dos dois tópicos de resposta. 9\n2 Justifica a evocação da lenda de Santo António, no contexto em que ocorre, desenvolvendo, \nadequadamente, o conteúdo de um dos tópicos de resposta. 6\n1\nJustifica a evocação da lenda de Santo António, no contexto em que ocorre, desenvolvendo, \ncom pequenas imprecisões e/ou omissões, o conteúdo de um dos tópicos de resposta.\nOU\nRefere-se, de forma vaga, à evocação da lenda de Santo António, no contexto em que \nocorre.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 5 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n– Justificação da evocação da lenda de Santo António: \n• demonstração/exemplificação da ideia do orador segundo a qual os peixes são capazes de viver em \nunião, em amizade e em paz; \n• conclusão de que os peixes poderão novamente encontrar a felicidade, se seguirem os conselhos do \norador.\nExemplo de resposta\nA evocação da lenda de Santo António comprova a ideia defendida pelo orador, que está convicto de \nque os peixes podem, se quiserem, viver em união, em amizade e em paz. Na verdade, de acordo com \na lenda, os peixes, ouvindo Santo António com devoção, «muito quietos, muito pacíficos e muito amigos \ntodos» (linha 14), tinham já demonstrado ser capazes de adotar um comportamento pacífico e fraterno. \nComprova-se, assim, que «grandes e pequenos» (linha 14) poderão novamente encontrar a felicidade \n(«Pois continuai assim, e sereis felizes.» – linha 15), se seguirem os conselhos do orador.\nNota – Não é obrigatória a apresentação de citações, ainda que estas figurem, a título ilustrativo, no exemplo de resposta.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -203,7 +309,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nVenho a Malaca, que agora se chama Melaka, pela História do meu país. No século XV, o \nsultanato controlava o comércio do Oriente, o imperador chinês oferecia a filha em casamento \nao sultão. Vinte mil navios lançavam âncora no porto, 84 idiomas regateavam preços no \ncais. «Quem for senhor de Malaca tem a mão na garganta de Veneza», escrevia Tomé Pires, \ncontemporâneo de Afonso de Albuquerque, aludindo à importância de Malaca no controlo da \nrota das especiarias.\nPortugal conquistou a cidade em 1511, perdeu-a em 1641 para a Holanda. Não tenho \nilusões sobre os vestígios da presença portuguesa: já passou demasiado tempo. O que os \nHolandeses e os Ingleses não destruíram, deixámos nós que se diluísse nos séculos de \nausência e de desleixo. Antecipo Melaka como um cruzamento da humanidade, uma poção \núnica, uma receita irrepetível. Mas não é assim. Encontro uma anónima e descoordenada \ncidade oriental, que podia ser qualquer outra cidade do Sudeste Asiático, um quarteirão \nperiférico de Sydney, de São Francisco. Um rio lamacento e abandonado atravessa o centro, \nfachadas sujas e desmazeladas derretem-se sobre as margens. Do lado de cá, os Chineses; \ne do outro lado, os Indianos. Os Malaios estão mais além. Não há confusões. Cada um trata \nde si, todos se atarefam em conquistar uma vida melhor: um novo eletrodoméstico, um fim de \nsemana em Singapura, a universidade dos filhos, a peregrinação a Meca.\nSob a aparente indolência tropical, as tensões étnicas vão cozendo em fogo lento. De \ntantos em tantos anos, explodem. Nada é inconsequente em Malaca: a língua, a fé, a cor da \npele, a forma de vestir ou a aptidão profissional atribuem um lugar preciso no tabuleiro social. \nAs pessoas carregam a afiliação étnica não apenas como uma identidade, também como um \nvínculo.\nPonho-me à procura das relíquias da passagem portuguesa. Encontro a porta decrépita \nde um forte demolido, o esqueleto de uma igreja, uma estátua mutilada de São Francisco \nXavier. Faz tudo parte do roteiro turístico de Malaca, juntamente com o passeio de riquexó, \na visita ao shopping , a quinta dos crocodilos. A réplica da caravela portuguesa que serve \nde museu da cidade não é, afinal, uma homenagem ao extraordinário feito de armas dos \nnavegadores lusitanos – o de conquistar, com duas dezenas de navios e 1500 homens, um \npoderoso sultanato de 100 000 habitantes. Depois de sete meses de navegação desde Lisboa.\nO museu serve para glorificar as bases religiosas da nação. Dentro, tudo conduz à conclusão \nde que os sucessivos invasores europeus não teriam conquistado Melaka hoje […].\nContinuo a procurar Portugal em Malaca – na igreja. O catolicismo, a artéria vital da \nmentalidade do meu povo, é um legado da presença portuguesa no antigo empório dos sete \nmares. Entro, é a hora da missa. A igreja imita o gótico francês, o padre é chinês, os fiéis \nsão asiáticos, a missa decorre em inglês, as canções transmitem um concentrado de alegria, \nritmo e nonchalance que seria impensável em Portugal. Não é um legado evidente. Mas uma \ncoisinha pequena começa a agitar-se na alma: o sentimento de identificação com a realidade \nque me rodeia. Um momento familiar. Uma saudade.\nGonçalo Cadilhe, Planisfério Pessoal, Lisboa, Clube do Autor, 2016, pp. 232-233\nNotAS\n• nonchalance (linha 36) – expressão em francês que significa «despreocupação», «desprendimento».\n• riquexó (linha 25) – veículo de duas rodas para uma ou duas pessoas, puxado por uma pessoa a pé ou de bicicleta, \nfrequente em cidades do Oriente."
     },
     {
-      "id": 1782,
+      "id": 10806,
       "question_number": "6",
       "statement": "6. Nas expressões «vão cozendo em fogo lento» (linha 18) e «tabuleiro social» (linha 20), o autor utiliza",
       "question_type": "multiple_choice",
@@ -215,25 +321,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3182,
+          "id": 21336,
           "letter": "A",
           "text": "a metáfora, em ambos os casos.",
           "isCorrect": false
         },
         {
-          "id": 3183,
+          "id": 21337,
           "letter": "B",
           "text": "o eufemismo, em ambos os casos.",
           "isCorrect": false
         },
         {
-          "id": 3184,
+          "id": 21338,
           "letter": "C",
           "text": "o eufemismo e a metáfora, respetivamente.",
           "isCorrect": false
         },
         {
-          "id": 3185,
+          "id": 21339,
           "letter": "D",
           "text": "a metáfora e o eufemismo, respetivamente.",
           "isCorrect": false
@@ -249,7 +355,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nVenho a Malaca, que agora se chama Melaka, pela História do meu país. No século XV, o \nsultanato controlava o comércio do Oriente, o imperador chinês oferecia a filha em casamento \nao sultão. Vinte mil navios lançavam âncora no porto, 84 idiomas regateavam preços no \ncais. «Quem for senhor de Malaca tem a mão na garganta de Veneza», escrevia Tomé Pires, \ncontemporâneo de Afonso de Albuquerque, aludindo à importância de Malaca no controlo da \nrota das especiarias.\nPortugal conquistou a cidade em 1511, perdeu-a em 1641 para a Holanda. Não tenho \nilusões sobre os vestígios da presença portuguesa: já passou demasiado tempo. O que os \nHolandeses e os Ingleses não destruíram, deixámos nós que se diluísse nos séculos de \nausência e de desleixo. Antecipo Melaka como um cruzamento da humanidade, uma poção \núnica, uma receita irrepetível. Mas não é assim. Encontro uma anónima e descoordenada \ncidade oriental, que podia ser qualquer outra cidade do Sudeste Asiático, um quarteirão \nperiférico de Sydney, de São Francisco. Um rio lamacento e abandonado atravessa o centro, \nfachadas sujas e desmazeladas derretem-se sobre as margens. Do lado de cá, os Chineses; \ne do outro lado, os Indianos. Os Malaios estão mais além. Não há confusões. Cada um trata \nde si, todos se atarefam em conquistar uma vida melhor: um novo eletrodoméstico, um fim de \nsemana em Singapura, a universidade dos filhos, a peregrinação a Meca.\nSob a aparente indolência tropical, as tensões étnicas vão cozendo em fogo lento. De \ntantos em tantos anos, explodem. Nada é inconsequente em Malaca: a língua, a fé, a cor da \npele, a forma de vestir ou a aptidão profissional atribuem um lugar preciso no tabuleiro social. \nAs pessoas carregam a afiliação étnica não apenas como uma identidade, também como um \nvínculo.\nPonho-me à procura das relíquias da passagem portuguesa. Encontro a porta decrépita \nde um forte demolido, o esqueleto de uma igreja, uma estátua mutilada de São Francisco \nXavier. Faz tudo parte do roteiro turístico de Malaca, juntamente com o passeio de riquexó, \na visita ao shopping , a quinta dos crocodilos. A réplica da caravela portuguesa que serve \nde museu da cidade não é, afinal, uma homenagem ao extraordinário feito de armas dos \nnavegadores lusitanos – o de conquistar, com duas dezenas de navios e 1500 homens, um \npoderoso sultanato de 100 000 habitantes. Depois de sete meses de navegação desde Lisboa.\nO museu serve para glorificar as bases religiosas da nação. Dentro, tudo conduz à conclusão \nde que os sucessivos invasores europeus não teriam conquistado Melaka hoje […].\nContinuo a procurar Portugal em Malaca – na igreja. O catolicismo, a artéria vital da \nmentalidade do meu povo, é um legado da presença portuguesa no antigo empório dos sete \nmares. Entro, é a hora da missa. A igreja imita o gótico francês, o padre é chinês, os fiéis \nsão asiáticos, a missa decorre em inglês, as canções transmitem um concentrado de alegria, \nritmo e nonchalance que seria impensável em Portugal. Não é um legado evidente. Mas uma \ncoisinha pequena começa a agitar-se na alma: o sentimento de identificação com a realidade \nque me rodeia. Um momento familiar. Uma saudade.\nGonçalo Cadilhe, Planisfério Pessoal, Lisboa, Clube do Autor, 2016, pp. 232-233\nNotAS\n• nonchalance (linha 36) – expressão em francês que significa «despreocupação», «desprendimento».\n• riquexó (linha 25) – veículo de duas rodas para uma ou duas pessoas, puxado por uma pessoa a pé ou de bicicleta, \nfrequente em cidades do Oriente."
     },
     {
-      "id": 1783,
+      "id": 10807,
       "question_number": "7",
       "statement": "7. Os complexos verbais «vão cozendo» (linha 18) e «Continuo a procurar» (linha 32) têm um valor aspetual",
       "question_type": "multiple_choice",
@@ -261,25 +367,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3186,
+          "id": 21340,
           "letter": "A",
           "text": "durativo.",
           "isCorrect": false
         },
         {
-          "id": 3187,
+          "id": 21341,
           "letter": "B",
           "text": "genérico.",
           "isCorrect": false
         },
         {
-          "id": 3188,
+          "id": 21342,
           "letter": "C",
           "text": "habitual.",
           "isCorrect": false
         },
         {
-          "id": 3189,
+          "id": 21343,
           "letter": "D",
           "text": "pontual.",
           "isCorrect": false

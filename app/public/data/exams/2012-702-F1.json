@@ -4,51 +4,120 @@
   "subject": "Biologia e Geologia",
   "year": 2012,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 385,
+      "id": 1589,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 386,
+      "id": 1590,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 387,
+      "id": 1591,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 388,
+      "id": 1592,
       "name": "GRUPO IV",
       "order": 3
-    },
-    {
-      "id": 389,
-      "name": "GRUPO I",
-      "order": 4
-    },
-    {
-      "id": 390,
-      "name": "GRUPO II",
-      "order": 5
-    },
-    {
-      "id": 391,
-      "name": "GRUPO III",
-      "order": 6
-    },
-    {
-      "id": 392,
-      "name": "GRUPO IV",
-      "order": 7
     }
   ],
   "questions": [
     {
-      "id": 2422,
+      "id": 11325,
+      "question_number": "1",
+      "statement": "1. A fragmentação da Rodínia iniciou-se com a instalação de um rifte intracontinental, no qual ocorreram \nfenómenos de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22602,
+          "letter": "A",
+          "text": "NaCl a 4%.",
+          "isCorrect": false
+        },
+        {
+          "id": 22603,
+          "letter": "B",
+          "text": "NaCl a 9%.",
+          "isCorrect": false
+        },
+        {
+          "id": 22604,
+          "letter": "C",
+          "text": "NaCl a 18%.",
+          "isCorrect": false
+        },
+        {
+          "id": 22605,
+          "letter": "D",
+          "text": "NaCl a 27%.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11333,
+      "question_number": "1",
+      "statement": "1. A representação da filogenia através de árvores pode basear-se em caracteres",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11342,
+      "question_number": "1",
+      "statement": "1. Os granitos da BZMM sofreram descompressão no processo que conduziu ao afloramento do maciço, \nformando-se diaclases que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nHidrogeologia da serra da Estrela\nNa serra da Estrela, as condições geológicas constituem uma parte fundamental do sistema \nhidrogeológico regional, uma vez que controlam os processos de infiltração e de recarga dos \naquíferos, o tipo de meio de circulação da água (poroso vs. fissurado), os trajetos de fluxo subterrâneo \ne a hidrogeoquímica.\nNa bacia do rio Zêzere a montante de Manteigas (BZMM), foram estabelecidas várias unidades \nhidrogeológicas. Nesta região, estão presentes três tipos de aquíferos inter-relacionados, que \nconstam da Figura 3.\n(i)\n Aquíferos \nsuperficiais, com circulação de águas subterrâneas normais, constituídos por \ndepósitos de cobertura e por rochas graníticas mais intensamente meteorizadas e/ou \ntectonizadas sobre rochas graníticas menos meteorizadas e/ou tectonizadas.\n(ii)\n Aquíferos \nintermédios, com circulação de águas subterrâneas normais, constituídos por \nrochas graníticas fissuradas.\n(iii)\n Aquíferos \nprofundos, com circulação de águas termominerais, constituídos por rochas \ngraníticas fissuradas.\nSegundo este modelo, o sistema hidrogeológico da BZMM pode ser dividido em dois subsistemas \ninterligados: o das águas subterrâneas normais e o das águas termominerais. As primeiras são \náguas cuja temperatura de emergência se encontra diretamente condicionada pela temperatura do \nar, com resíduo seco inferior a 60 mg L\n–1. As águas minerais são hipertérmicas (com temperatura \nmáxima registada de 46 °C), com resíduo seco inferior a 170 mg L –1 e com teor em sílica (SiO 2) \nsuperior a 45 mg L–1.\nFigura 3\nBaseado em Espinha Marques, J., et al., «Modelação conceptual em Hidrogeologia: \num caso de estudo no Parque Natural da Serra da Estrela», Geonovas, n.º 21, 2008 \n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11349,
       "question_number": "1",
       "statement": "1. Na experiência cujos resultados estão traduzidos no Gráfico 1A, o controlo contém células pré-adaptadas \na NaCl a 4% que foram transferidas para um meio com",
       "question_type": "multiple_choice",
@@ -58,33 +127,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4552,
-          "letter": "A",
-          "text": "NaCl a 4%.",
-          "isCorrect": false
-        },
-        {
-          "id": 4553,
-          "letter": "B",
-          "text": "NaCl a 9%.",
-          "isCorrect": false
-        },
-        {
-          "id": 4554,
-          "letter": "C",
-          "text": "NaCl a 18%.",
-          "isCorrect": false
-        },
-        {
-          "id": 4555,
-          "letter": "D",
-          "text": "NaCl a 27%.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1\nA resposta apresenta:\n • um dos tópicos de referência;\n • falhas na aplicação da linguagem científica.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -94,7 +138,95 @@
       "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2423,
+      "id": 11326,
+      "question_number": "2",
+      "statement": "2. A identificação das posições paleogeográficas das placas litosféricas durante o Pré-Câmbrico é dificultada \npela",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22606,
+          "letter": "A",
+          "text": "NaCl a 4% que foram transferidas para um meio de NaCl a 18%.",
+          "isCorrect": false
+        },
+        {
+          "id": 22607,
+          "letter": "B",
+          "text": "NaCl a 4% que foram transferidas para um meio de NaCl a 27%.",
+          "isCorrect": false
+        },
+        {
+          "id": 22608,
+          "letter": "C",
+          "text": "NaCl a 9% que foram transferidas para um meio de NaCl a 18%.",
+          "isCorrect": false
+        },
+        {
+          "id": 22609,
+          "letter": "D",
+          "text": "NaCl a 9% que foram transferidas para um meio de NaCl a 27%.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11334,
+      "question_number": "2",
+      "statement": "2. Na Figura 2, as bifurcações significam que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11343,
+      "question_number": "2",
+      "statement": "2. Do ponto de vista químico, as águas subterrâneas normais, consideradas neste estudo, distinguem-se das \náguas termominerais pelo facto de as primeiras apresentarem uma concentração de resíduo seco",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nHidrogeologia da serra da Estrela\nNa serra da Estrela, as condições geológicas constituem uma parte fundamental do sistema \nhidrogeológico regional, uma vez que controlam os processos de infiltração e de recarga dos \naquíferos, o tipo de meio de circulação da água (poroso vs. fissurado), os trajetos de fluxo subterrâneo \ne a hidrogeoquímica.\nNa bacia do rio Zêzere a montante de Manteigas (BZMM), foram estabelecidas várias unidades \nhidrogeológicas. Nesta região, estão presentes três tipos de aquíferos inter-relacionados, que \nconstam da Figura 3.\n(i)\n Aquíferos \nsuperficiais, com circulação de águas subterrâneas normais, constituídos por \ndepósitos de cobertura e por rochas graníticas mais intensamente meteorizadas e/ou \ntectonizadas sobre rochas graníticas menos meteorizadas e/ou tectonizadas.\n(ii)\n Aquíferos \nintermédios, com circulação de águas subterrâneas normais, constituídos por \nrochas graníticas fissuradas.\n(iii)\n Aquíferos \nprofundos, com circulação de águas termominerais, constituídos por rochas \ngraníticas fissuradas.\nSegundo este modelo, o sistema hidrogeológico da BZMM pode ser dividido em dois subsistemas \ninterligados: o das águas subterrâneas normais e o das águas termominerais. As primeiras são \náguas cuja temperatura de emergência se encontra diretamente condicionada pela temperatura do \nar, com resíduo seco inferior a 60 mg L\n–1. As águas minerais são hipertérmicas (com temperatura \nmáxima registada de 46 °C), com resíduo seco inferior a 170 mg L –1 e com teor em sílica (SiO 2) \nsuperior a 45 mg L–1.\nFigura 3\nBaseado em Espinha Marques, J., et al., «Modelação conceptual em Hidrogeologia: \num caso de estudo no Parque Natural da Serra da Estrela», Geonovas, n.º 21, 2008 \n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11350,
       "question_number": "2",
       "statement": "2. As células que melhor respondem ao choque hipersalino, acumulando carotenoides, são as células \npré-adaptadas a",
       "question_type": "multiple_choice",
@@ -104,33 +236,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4556,
-          "letter": "A",
-          "text": "NaCl a 4% que foram transferidas para um meio de NaCl a 18%.",
-          "isCorrect": false
-        },
-        {
-          "id": 4557,
-          "letter": "B",
-          "text": "NaCl a 4% que foram transferidas para um meio de NaCl a 27%.",
-          "isCorrect": false
-        },
-        {
-          "id": 4558,
-          "letter": "C",
-          "text": "NaCl a 9% que foram transferidas para um meio de NaCl a 18%.",
-          "isCorrect": false
-        },
-        {
-          "id": 4559,
-          "letter": "D",
-          "text": "NaCl a 9% que foram transferidas para um meio de NaCl a 27%.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2\nA resposta apresenta:\n • um dos tópicos de referência;\n • linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -140,7 +247,95 @@
       "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2424,
+      "id": 11327,
+      "question_number": "3",
+      "statement": "3. Os escudos correspondem a áreas tectonicamente",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22610,
+          "letter": "A",
+          "text": "o fator limitante é, em ambos os processos, a baixa intensidade luminosa.",
+          "isCorrect": false
+        },
+        {
+          "id": 22611,
+          "letter": "B",
+          "text": "os fatores limitantes são, respetivamente, a baixa intensidade luminosa e a elevada intensidade luminosa.",
+          "isCorrect": false
+        },
+        {
+          "id": 22612,
+          "letter": "C",
+          "text": "o fator limitante é, em ambos os processos, o meio sem suplemento de nutrientes.",
+          "isCorrect": false
+        },
+        {
+          "id": 22613,
+          "letter": "D",
+          "text": "os fatores limitantes são, respetivamente, o meio sem suplemento de nutrientes e o meio com suplemento de nutrientes.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11335,
+      "question_number": "3",
+      "statement": "3. A análise da Figura 2 permite-nos afirmar que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11344,
+      "question_number": "3",
+      "statement": "3. Grande parte da zona não saturada do sistema hidrogeológico da BZMM, onde ocorre fluxo lateral, \napresenta uma camada",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nHidrogeologia da serra da Estrela\nNa serra da Estrela, as condições geológicas constituem uma parte fundamental do sistema \nhidrogeológico regional, uma vez que controlam os processos de infiltração e de recarga dos \naquíferos, o tipo de meio de circulação da água (poroso vs. fissurado), os trajetos de fluxo subterrâneo \ne a hidrogeoquímica.\nNa bacia do rio Zêzere a montante de Manteigas (BZMM), foram estabelecidas várias unidades \nhidrogeológicas. Nesta região, estão presentes três tipos de aquíferos inter-relacionados, que \nconstam da Figura 3.\n(i)\n Aquíferos \nsuperficiais, com circulação de águas subterrâneas normais, constituídos por \ndepósitos de cobertura e por rochas graníticas mais intensamente meteorizadas e/ou \ntectonizadas sobre rochas graníticas menos meteorizadas e/ou tectonizadas.\n(ii)\n Aquíferos \nintermédios, com circulação de águas subterrâneas normais, constituídos por \nrochas graníticas fissuradas.\n(iii)\n Aquíferos \nprofundos, com circulação de águas termominerais, constituídos por rochas \ngraníticas fissuradas.\nSegundo este modelo, o sistema hidrogeológico da BZMM pode ser dividido em dois subsistemas \ninterligados: o das águas subterrâneas normais e o das águas termominerais. As primeiras são \náguas cuja temperatura de emergência se encontra diretamente condicionada pela temperatura do \nar, com resíduo seco inferior a 60 mg L\n–1. As águas minerais são hipertérmicas (com temperatura \nmáxima registada de 46 °C), com resíduo seco inferior a 170 mg L –1 e com teor em sílica (SiO 2) \nsuperior a 45 mg L–1.\nFigura 3\nBaseado em Espinha Marques, J., et al., «Modelação conceptual em Hidrogeologia: \num caso de estudo no Parque Natural da Serra da Estrela», Geonovas, n.º 21, 2008 \n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11351,
       "question_number": "3",
       "statement": "3. Relativamente ao crescimento das algas e à acumulação de carotenoides (Gráficos 2A e 2B), a análise dos \nresultados da investigação permite concluir que",
       "question_type": "multiple_choice",
@@ -150,33 +345,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4560,
-          "letter": "A",
-          "text": "o fator limitante é, em ambos os processos, a baixa intensidade luminosa.",
-          "isCorrect": false
-        },
-        {
-          "id": 4561,
-          "letter": "B",
-          "text": "os fatores limitantes são, respetivamente, a baixa intensidade luminosa e a elevada intensidade luminosa.",
-          "isCorrect": false
-        },
-        {
-          "id": 4562,
-          "letter": "C",
-          "text": "o fator limitante é, em ambos os processos, o meio sem suplemento de nutrientes.",
-          "isCorrect": false
-        },
-        {
-          "id": 4563,
-          "letter": "D",
-          "text": "os fatores limitantes são, respetivamente, o meio sem suplemento de nutrientes e o meio com suplemento de nutrientes.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\nA resposta apresenta:\n • os dois tópicos de referência;\n • falhas de coerência na organização dos conteúdos e / ou falhas na aplicação da \nlinguagem científica.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -186,7 +356,95 @@
       "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2425,
+      "id": 11328,
+      "question_number": "4",
+      "statement": "4. As correntes de convecção do interior da Terra, associadas aos movimentos das placas litosféricas, \nresultam do facto de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22614,
+          "letter": "A",
+          "text": "oxidação de NADP+.",
+          "isCorrect": false
+        },
+        {
+          "id": 22615,
+          "letter": "B",
+          "text": "fosforilação de ADP.",
+          "isCorrect": false
+        },
+        {
+          "id": 22616,
+          "letter": "C",
+          "text": "descarboxilação de compostos orgânicos.",
+          "isCorrect": false
+        },
+        {
+          "id": 22617,
+          "letter": "D",
+          "text": "redução de CO2.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11336,
+      "question_number": "4",
+      "statement": "4. De acordo com uma interpretação darwinista, Elysia chlorotica",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11345,
+      "question_number": "4",
+      "statement": "4. Na BZMM, a recarga do aquífero termomineral é feita preferencialmente pela",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nHidrogeologia da serra da Estrela\nNa serra da Estrela, as condições geológicas constituem uma parte fundamental do sistema \nhidrogeológico regional, uma vez que controlam os processos de infiltração e de recarga dos \naquíferos, o tipo de meio de circulação da água (poroso vs. fissurado), os trajetos de fluxo subterrâneo \ne a hidrogeoquímica.\nNa bacia do rio Zêzere a montante de Manteigas (BZMM), foram estabelecidas várias unidades \nhidrogeológicas. Nesta região, estão presentes três tipos de aquíferos inter-relacionados, que \nconstam da Figura 3.\n(i)\n Aquíferos \nsuperficiais, com circulação de águas subterrâneas normais, constituídos por \ndepósitos de cobertura e por rochas graníticas mais intensamente meteorizadas e/ou \ntectonizadas sobre rochas graníticas menos meteorizadas e/ou tectonizadas.\n(ii)\n Aquíferos \nintermédios, com circulação de águas subterrâneas normais, constituídos por \nrochas graníticas fissuradas.\n(iii)\n Aquíferos \nprofundos, com circulação de águas termominerais, constituídos por rochas \ngraníticas fissuradas.\nSegundo este modelo, o sistema hidrogeológico da BZMM pode ser dividido em dois subsistemas \ninterligados: o das águas subterrâneas normais e o das águas termominerais. As primeiras são \náguas cuja temperatura de emergência se encontra diretamente condicionada pela temperatura do \nar, com resíduo seco inferior a 60 mg L\n–1. As águas minerais são hipertérmicas (com temperatura \nmáxima registada de 46 °C), com resíduo seco inferior a 170 mg L –1 e com teor em sílica (SiO 2) \nsuperior a 45 mg L–1.\nFigura 3\nBaseado em Espinha Marques, J., et al., «Modelação conceptual em Hidrogeologia: \num caso de estudo no Parque Natural da Serra da Estrela», Geonovas, n.º 21, 2008 \n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11352,
       "question_number": "4",
       "statement": "4. Durante a fotossíntese, na fase diretamente dependente da luz, ocorre",
       "question_type": "multiple_choice",
@@ -196,33 +454,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4564,
-          "letter": "A",
-          "text": "oxidação de NADP+.",
-          "isCorrect": false
-        },
-        {
-          "id": 4565,
-          "letter": "B",
-          "text": "fosforilação de ADP.",
-          "isCorrect": false
-        },
-        {
-          "id": 4566,
-          "letter": "C",
-          "text": "descarboxilação de compostos orgânicos.",
-          "isCorrect": false
-        },
-        {
-          "id": 4567,
-          "letter": "D",
-          "text": "redução de CO2.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nA resposta apresenta:\n • os dois tópicos de referência;\n • organização coerente dos conteúdos;\n • linguagem científica adequada.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -232,9 +465,9 @@
       "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2426,
+      "id": 11329,
       "question_number": "5",
-      "statement": "5. Em Dunaliella salina, a proteção contra danos foto-oxidativos requer a mobilização de dióxido de carbono \nnos cloroplastos, em vias",
+      "statement": "5. Os contextos tectónicos de formação de montanhas provocam espessamento crustal, favorável à formação \nde rochas",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -244,33 +477,96 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4568,
+          "id": 22618,
           "letter": "A",
           "text": "catabólicas, através da acumulação de gotículas lipídicas.",
           "isCorrect": false
         },
         {
-          "id": 4569,
+          "id": 22619,
           "letter": "B",
           "text": "catabólicas, através da acumulação de grânulos de amido.",
           "isCorrect": false
         },
         {
-          "id": 4570,
+          "id": 22620,
           "letter": "C",
           "text": "anabólicas, através da acumulação de gotículas lipídicas.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 4571,
+          "id": 22621,
           "letter": "D",
           "text": "anabólicas, através da acumulação de grânulos de amido.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (d)",
+      "criteriaText": "5. ........................................................................................................... 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11337,
+      "question_number": "5",
+      "statement": "5. O molusco marinho Elysia chlorotica",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11346,
+      "question_number": "5",
+      "statement": "5. Nos aquíferos livres, em períodos de elevada precipitação, verifica-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nHidrogeologia da serra da Estrela\nNa serra da Estrela, as condições geológicas constituem uma parte fundamental do sistema \nhidrogeológico regional, uma vez que controlam os processos de infiltração e de recarga dos \naquíferos, o tipo de meio de circulação da água (poroso vs. fissurado), os trajetos de fluxo subterrâneo \ne a hidrogeoquímica.\nNa bacia do rio Zêzere a montante de Manteigas (BZMM), foram estabelecidas várias unidades \nhidrogeológicas. Nesta região, estão presentes três tipos de aquíferos inter-relacionados, que \nconstam da Figura 3.\n(i)\n Aquíferos \nsuperficiais, com circulação de águas subterrâneas normais, constituídos por \ndepósitos de cobertura e por rochas graníticas mais intensamente meteorizadas e/ou \ntectonizadas sobre rochas graníticas menos meteorizadas e/ou tectonizadas.\n(ii)\n Aquíferos \nintermédios, com circulação de águas subterrâneas normais, constituídos por \nrochas graníticas fissuradas.\n(iii)\n Aquíferos \nprofundos, com circulação de águas termominerais, constituídos por rochas \ngraníticas fissuradas.\nSegundo este modelo, o sistema hidrogeológico da BZMM pode ser dividido em dois subsistemas \ninterligados: o das águas subterrâneas normais e o das águas termominerais. As primeiras são \náguas cuja temperatura de emergência se encontra diretamente condicionada pela temperatura do \nar, com resíduo seco inferior a 60 mg L\n–1. As águas minerais são hipertérmicas (com temperatura \nmáxima registada de 46 °C), com resíduo seco inferior a 170 mg L –1 e com teor em sílica (SiO 2) \nsuperior a 45 mg L–1.\nFigura 3\nBaseado em Espinha Marques, J., et al., «Modelação conceptual em Hidrogeologia: \num caso de estudo no Parque Natural da Serra da Estrela», Geonovas, n.º 21, 2008 \n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11353,
+      "question_number": "5",
+      "statement": "5. Em Dunaliella salina, a proteção contra danos foto-oxidativos requer a mobilização de dióxido de carbono \nnos cloroplastos, em vias",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -278,9 +574,51 @@
       "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2427,
+      "id": 11330,
       "question_number": "6",
-      "statement": "6. ........................................................................................................... 10 pontos",
+      "statement": "6. Após a fragmentação da Rodínia, entre a Austrália e a Laurência, terão sido emitidos materiais que \noriginaram rochas",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "6. ........................................................................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11338,
+      "question_number": "6",
+      "statement": "6. Segundo o modelo endossimbiótico, os ancestrais dos cloroplastos e das mitocôndrias seriam, \nrespetivamente, procariontes",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11347,
+      "question_number": "6",
+      "statement": "6. Faça corresponder cada uma das descrições de rochas da coluna A à respetiva designação, que consta \nda coluna B.\nEscreva, na folha de respostas, apenas as letras e os números correspondentes.\nUtilize cada letra e cada número apenas uma vez.\nCOLUNA A COLUNA B\n(a) Rocha sedimentar detrítica, porosa e pouco \npermeável.\n(b) Rocha magmática cristalina, granular, \nimpermeável quando não fraturada ou alterada.\n(c) Rocha metamórfica de alto grau, foliada, \nimpermeável quando não fraturada ou alterada.\n(d) Rocha sedimentar detrítica, não consolidada, \nmuito porosa e permeável.\n(e) Rocha metamórfica de baixo grau, foliada, com \nbaixa permeabilidade quando não fraturada ou \nalterada.\n(1) Ardósia\n(2) Areia\n(3) Argilito\n(4) Basalto\n(5) Calcário\n(6) Gnaisse\n(7) Granito\n(8) Mármore",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -289,9 +627,30 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6. .................................................................................................................................................... 10 pontos\nVersão 1 – B, C, A, E, d\nVersão 2 – C, A, B, d, E\n\nProva 702/1.ª F. • Página C/12/ 12",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nHidrogeologia da serra da Estrela\nNa serra da Estrela, as condições geológicas constituem uma parte fundamental do sistema \nhidrogeológico regional, uma vez que controlam os processos de infiltração e de recarga dos \naquíferos, o tipo de meio de circulação da água (poroso vs. fissurado), os trajetos de fluxo subterrâneo \ne a hidrogeoquímica.\nNa bacia do rio Zêzere a montante de Manteigas (BZMM), foram estabelecidas várias unidades \nhidrogeológicas. Nesta região, estão presentes três tipos de aquíferos inter-relacionados, que \nconstam da Figura 3.\n(i)\n Aquíferos \nsuperficiais, com circulação de águas subterrâneas normais, constituídos por \ndepósitos de cobertura e por rochas graníticas mais intensamente meteorizadas e/ou \ntectonizadas sobre rochas graníticas menos meteorizadas e/ou tectonizadas.\n(ii)\n Aquíferos \nintermédios, com circulação de águas subterrâneas normais, constituídos por \nrochas graníticas fissuradas.\n(iii)\n Aquíferos \nprofundos, com circulação de águas termominerais, constituídos por rochas \ngraníticas fissuradas.\nSegundo este modelo, o sistema hidrogeológico da BZMM pode ser dividido em dois subsistemas \ninterligados: o das águas subterrâneas normais e o das águas termominerais. As primeiras são \náguas cuja temperatura de emergência se encontra diretamente condicionada pela temperatura do \nar, com resíduo seco inferior a 60 mg L\n–1. As águas minerais são hipertérmicas (com temperatura \nmáxima registada de 46 °C), com resíduo seco inferior a 170 mg L –1 e com teor em sílica (SiO 2) \nsuperior a 45 mg L–1.\nFigura 3\nBaseado em Espinha Marques, J., et al., «Modelação conceptual em Hidrogeologia: \num caso de estudo no Parque Natural da Serra da Estrela», Geonovas, n.º 21, 2008 \n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11354,
+      "question_number": "6",
+      "statement": "6. Ordene as letras de A a E, de modo a reconstituir a sequência cronológica dos acontecimentos durante \num ciclo celular.\nEscreva, na folha de respostas, apenas a sequência de letras.\nA. Alinhamento dos cromossomas na placa equatorial.\nB. Replicação do DNA.\nC. Formação do fuso acromático.\nD. Reaparecimento do nucléolo.\nE.     Ascensão polar dos cromatídeos irmãos.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -299,10 +658,10 @@
       "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2428,
+      "id": 11331,
       "question_number": "7",
-      "statement": "7. ........................................................................................................... 10 pontos\n45 pontos\n TOTAL ......................................... 200 pontos",
-      "question_type": "open",
+      "statement": "7. Um ciclo oceânico completo implica o processo de abertura e fecho de um oceano, com a consequente \nformação de uma cadeia orogénica.\nOrdene as letras de A a E, de modo a reconstituir a sequência cronológica dos acontecimentos associados \na este ciclo.\nEscreva, na folha de respostas, apenas a sequência de letras.\nA. Início do alargamento de um oceano primitivo.\nB. Estiramento de crosta continental.\nC. Início de subdução de crosta oceânica, geralmente mais antiga e mais densa.\nD. Formação de cadeias montanhosas de colisão.\nE.     Instalação de vulcanismo andesítico em margens continentais ativas.",
+      "question_type": "ordering",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -310,28 +669,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. .................................................................................................................................................... 10 pontos\nA resposta deve apresentar os seguintes tópicos:\n•  relação entre as condições de alta luminosidade com suplemento de nutrientes, numa \nprimeira fase, e o crescimento/criação da biomassa;\n•  relação entre as condições de alta luminosidade sem suplemento de nutrientes, numa \nsegunda fase, e a acumulação dos carotenoides.\nNíveis Descritores do nível de desempenho no domínio específico da disciplina Pontuação",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO IV",
-      "contextTitle": null,
-      "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
-    },
-    {
-      "id": 2429,
-      "question_number": "8",
-      "statement": "8. ........................................................................................................... 10 pontos\n50 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (d)\n\nProva 702/1.ª F. • Página C/8/ 12",
+      "criteriaText": "7. ........................................................................................................... 10 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -341,10 +679,10 @@
       "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2438,
-      "question_number": "9",
-      "statement": "9. ........................................................................................................... 15 pontos\n55 pontos",
-      "question_type": "open",
+      "id": 11339,
+      "question_number": "7",
+      "statement": "7. Segundo Lynn Margulis, a rápida aquisição de novas funções provenientes de espécies filogeneticamente \ndistantes pode relacionar-se com",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -352,7 +690,137 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 15 pontos\nA resposta deve apresentar os seguintes tópicos:\n•  referência à existência de variabilidade por mutações e por recombinação génica entre os \nseres vivos de uma população, de acordo com o neodarwinismo;\n•  referência à existência de variabilidade entre os seres vivos, promovida por processos de \nendossimbiose / transferência de genes / fusão de genomas, segundo Lynn Margulis;\n•  relação entre a maior variabilidade genética na população e a maior capacidade de \nadaptação ao ambiente em mudança.\nDescritores do nível de desempenho no domínio\nda comunicação escrita em língua portuguesa\nDescritores do nível de desempenho\nno domínio específico da disciplina\nNíveis*",
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11348,
+      "question_number": "7",
+      "statement": "7. A água que circula para as zonas mais profundas do maciço granítico atinge o reservatório hidromineral \nda BZMM, situado a 3,1 km de profundidade. O tempo de residência dos fluidos no aquífero é bastante \nlongo, havendo um desfasamento de 10 500 anos entre a infiltração nas áreas de recarga e a emergência \nnas Caldas de Manteigas.\nExplique de que modo a profundidade do aquífero e o tempo de permanência dos fluidos no reservatório \nhidromineral contribuem para a mineralização das águas termominerais da serra da Estrela.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 3",
+      "contextText": "GRUPO III\nHidrogeologia da serra da Estrela\nNa serra da Estrela, as condições geológicas constituem uma parte fundamental do sistema \nhidrogeológico regional, uma vez que controlam os processos de infiltração e de recarga dos \naquíferos, o tipo de meio de circulação da água (poroso vs. fissurado), os trajetos de fluxo subterrâneo \ne a hidrogeoquímica.\nNa bacia do rio Zêzere a montante de Manteigas (BZMM), foram estabelecidas várias unidades \nhidrogeológicas. Nesta região, estão presentes três tipos de aquíferos inter-relacionados, que \nconstam da Figura 3.\n(i)\n Aquíferos \nsuperficiais, com circulação de águas subterrâneas normais, constituídos por \ndepósitos de cobertura e por rochas graníticas mais intensamente meteorizadas e/ou \ntectonizadas sobre rochas graníticas menos meteorizadas e/ou tectonizadas.\n(ii)\n Aquíferos \nintermédios, com circulação de águas subterrâneas normais, constituídos por \nrochas graníticas fissuradas.\n(iii)\n Aquíferos \nprofundos, com circulação de águas termominerais, constituídos por rochas \ngraníticas fissuradas.\nSegundo este modelo, o sistema hidrogeológico da BZMM pode ser dividido em dois subsistemas \ninterligados: o das águas subterrâneas normais e o das águas termominerais. As primeiras são \náguas cuja temperatura de emergência se encontra diretamente condicionada pela temperatura do \nar, com resíduo seco inferior a 60 mg L\n–1. As águas minerais são hipertérmicas (com temperatura \nmáxima registada de 46 °C), com resíduo seco inferior a 170 mg L –1 e com teor em sílica (SiO 2) \nsuperior a 45 mg L–1.\nFigura 3\nBaseado em Espinha Marques, J., et al., «Modelação conceptual em Hidrogeologia: \num caso de estudo no Parque Natural da Serra da Estrela», Geonovas, n.º 21, 2008 \n\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11355,
+      "question_number": "7",
+      "statement": "7. No decurso da investigação, houve dificuldade em compatibilizar o aumento da biomassa (crescimento \ndas algas) com a acumulação dos carotenoides, o que foi ultrapassado com a separação da fase de \naumento da biomassa da fase de produção do β-caroteno.\nExplique, com base nos resultados traduzidos nos gráficos 2A e 2B, que condições devem ser criadas em \ncada fase do processo para otimizar a produção do β-caroteno em larga escala.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nProdução de β-caroteno em larga escala por algas unicelulares\nDunaliella salina é uma alga unicelular que, em resposta a condições de stress severo de sal, \nde luz e de nutrientes, acumula elevadas concentrações de β-caroteno. As numerosas gotículas de \nóleo que se acumulam no cloroplasto desempenham um papel fundamental na captação de luz e \nprotegem a alga de danos foto-oxidativos.\nCom o objetivo de promover a produção de β-caroteno em larga escala recorrendo à utilização \nde D. salina, os investigadores estudaram a influência de vários fatores, entre os quais o choque \nhipersalino, a disponibilidade de nutrientes e a intensidade luminosa.\nPara este estudo, foi realizado o seguinte procedimento experimental:\nMétodo:\n1 – \n Cultivou-se, \ndurante várias semanas, a uma temperatura de 23 °C e a uma iluminação de \n120 μmol m–2 s–1, uma estirpe de D. salina em dois meios de cultura, um com concentração \nde NaCl ajustada a 4% e um outro meio com concentração de NaCl ajustada a 9%.\n2 – \n Para \nestudar a resposta de D. salina a um súbito aumento da concentração de NaCl, as \ncélulas em crescimento, pré-adaptadas num meio de cultura contendo NaCl a 4%, foram \ntransferidas para um meio fresco contendo NaCl a 4%, a 9%, a 18% e a 27%, tendo sido \nmedida a acumulação de carotenoides durante 15 dias (Gráfico 1A).\n3 – \n Para \nobservar se a aclimatação a altas salinidades faz decrescer a suscetibilidade desta \nmicroalga a stress salino severo, as células de D. salina pré-adaptadas a 9% foram transferidas \npara um meio fresco contendo NaCl a 9%, a 18% e a 27%, tendo sido medida a acumulação \nde carotenoides durante 15 dias (Gráfico 1B).\n4 – \n A\n influência de suplementos de nutrientes e da luminosidade no crescimento celular e \nna acumulação de carotenoides está traduzida, respetivamente, nos Gráficos 2A e 2B. \n(+\n Nutrientes = com suplemento \nde nutrientes; –\n Nutrientes = sem suplemento \nde nutrientes; \nBL = baixa luminosidade de 65 μmol m–2 s–1; AL = alta luminosidade de 150 μmol m–2 s–1).\nResultados: os resultados das observações efetuadas encontram-se registados nos gráficos.\nGráfico 1A Gráfico 1B\n\nGráfico 2A Gráfico 2B\nBaseado em Baumgartner, A. C., et.al., «Nutrient limitation is the main regulatory factor for carotenoid\naccumulation and for Psy and Pds steady state transcript levels in Dunaliella salina (Chlorophyta) \nexposed to high light and salt stress», Marine Biotechnology, 2008\nNa resposta a cada um dos itens de 1. a 5., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11332,
+      "question_number": "8",
+      "statement": "8. A abertura de bacias oceânicas está associada à génese de plataformas continentais, por vezes de grande \nextensão.\nExplique de que modo a abertura das bacias oceânicas e o aparecimento de formas de vida possuidoras \nde exosqueletos rígidos contribuíram para a relativa abundância do registo fóssil em rochas do período \nCâmbrico.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22578,
+          "letter": "A",
+          "text": "nível de organização celular.",
+          "isCorrect": false
+        },
+        {
+          "id": 22579,
+          "letter": "B",
+          "text": "modo de nutrição.",
+          "isCorrect": false
+        },
+        {
+          "id": 22580,
+          "letter": "C",
+          "text": "grau de diferenciação.",
+          "isCorrect": false
+        },
+        {
+          "id": 22581,
+          "letter": "D",
+          "text": "tipo de interação nos ecossistemas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "8. ........................................................................................................... 10 pontos\n50 pontos\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nSupercontinentes anteriores à Pangeia\nRodínia é o nome dado a um supercontinente existente durante o Pré-Câmbrico, há \naproximadamente 1000 milhões de anos (M.a.). De acordo com um dos vários modelos propostos \npara a reconstituição das posições paleogeográficas dos escudos e dos terrenos tectónicos pré- \n-câmbricos, a Rodínia ter-se-á formado por acreção e colisão de fragmentos de placas litosféricas, \nessencialmente resultantes das massas continentais constituintes de um supercontinente ainda \nmais antigo, a Colúmbia. A Rodínia fragmentou-se nos finais do Pré-Câmbrico, como se evidencia \nna Figura 1, e os blocos continentais voltaram a juntar-se, há 300 M.a., no supercontinente Pangeia. \nEm contraste com o volume atual de conhecimento sobre a Pangeia, pouco se sabe sobre a \nconfiguração exata e a história geodinâmica da Rodínia, uma vez que a reconstrução da morfologia \ne das posições das placas litosféricas durante o Pré-Câmbrico é dificultada pela ausência de \ncorrelações litológicas ao longo das margens continentais, pelo desconhecimento da forma dos \ncontinentes nessa época, pela falta de dados paleomagnéticos e pela quase inexistência de registo \nfóssil. A reconstituição paleogeográfica e tectónica da Rodínia é importante do ponto de vista \ncientífico, uma vez que o extremo arrefecimento do clima global há cerca de 700 M.a. e a rápida \nevolução da vida no final do Pré-Câmbrico e durante o Câmbrico têm vindo a ser considerados \ncomo efeitos da fragmentação do supercontinente Rodínia.\nBaseado em www.sccs.swarthmore.edu\n(consultado em outubro de 2011)\nFigura 1\nBaseado em www.camelclimatechange.org\n(consultado em outubro de 2011)\nNa resposta a cada um dos itens de 1. a 6., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11340,
+      "question_number": "8",
+      "statement": "8. Segundo o sistema de classificação de Whittaker, as algas verdes e as plantas pertencem a reinos \ndiferentes pelo facto de não apresentarem o mesmo",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nEvolução por fusão\nA representação da história evolutiva dos seres vivos pode aparecer sob a forma de árvores \nfilogenéticas. A árvore representada na Figura 2 mostra a formação de novos taxa, que implicam \na fusão de materiais genéticos provenientes de espécies diferentes, através de fenómenos como \na endossimbiose, a hibridação e a transferência de genes. Por exemplo, a maior parte das plantas \ncom flor evoluiu a partir de cruzamentos entre espécies diferentes (hibridação); algumas bactérias \npossuem genes de vírus que as infetaram; genes de uma bactéria podem circular para outra, através \nde pontes celulares (transferências horizontais de genes).\nElysia chlorotica, animal marinho do filo dos moluscos, consome uma alga cujos cloroplastos \nconserva apenas durante dez meses. A maior parte das proteínas destes cloroplastos é codificada \npor genes que se encontram no genoma nuclear da alga. O núcleo das células do molusco adquiriu \nalguns destes genes. Assim, para que os cloroplastos neste molusco se possam manter funcionais, \ntêm de contar com proteínas que são codificadas pelo genoma do molusco, permitindo, desta forma, \na síntese de clorofila. Elysia chlorotica transforma-se num «vegetal transitório».\nLynn Margulis afirmava que certas partes das células eucarióticas são, de facto, bactérias. \nAs células de numerosos eucariontes contêm bactérias, por vezes de várias espécies, que são \ntransmitidas através das divisões celulares.\nEstes exemplos permitem inferir que a simbiose é uma das forças primárias da evolução, dando \norigem a fusões de genomas e ao aparecimento de novas espécies (simbiogénese). Esta possibilidade \nde evolução por fusão constitui um novo mecanismo que se junta aos restantes mecanismos que \nconstituem a teoria neodarwinista, com implicações quer no aparecimento de novas espécies, quer \nno ritmo da evolução biológica. Na realidade, a evolução por fusão e a evolução por divergência não \nse excluem: são ambas mecanismos de inovação biológica, criando uma diversidade sobre a qual \natua a seleção natural.\n\nFigura 2\nBaseado em Selosse, M., «L’évolution par fusion», Pour la Science, n.º 400, fevereiro de 2011\nNa resposta a cada um dos itens de 1. a 8., selecione a única opção que permite obter uma afirmação correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11341,
+      "question_number": "9",
+      "statement": "9. Explique em que medida a simbiogénese, perante um ambiente em mudança, constitui um mecanismo \nevolutivo complementar dos mecanismos reconhecidos pela teoria neodarwinista.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. ........................................................................................................... 15 pontos\n55 pontos\n A transportar ............................. 105 pontos\nDecreto-Lei n.º 74/2004, de 26 de março\nEXAME NACIONAL DO ENSINO SECUNDÁRIO\nProva 702/1.ª F. • Página C/1/ 12\n\nProva 702/1.ª F. • Página C/2/ 12\n Transporte ................................. 105 pontos\nGRUPO III",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

@@ -4,26 +4,69 @@
   "subject": "Português",
   "year": 2017,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 239,
+      "id": 1499,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 240,
+      "id": 1500,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 241,
+      "id": 1501,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1760,
+      "id": 10784,
+      "question_number": "1",
+      "statement": "1. Nas três primeiras estrofes, são abordados dois processos de criação poética.\nExplicite esses dois processos, tendo em conta, por um lado, as comparações presentes nos versos 3 e 5 \ne, por outro lado, o sentido do verso 4 e o conteúdo da terceira estrofe.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4 Explicita os dois processos de criação poética, desenvolvendo, adequadamente, o \nconteúdo dos quatro tópicos de resposta. 12\n3\nExplicita os dois processos de criação poética, desenvolvendo, adequadamente, o \nconteúdo de três dos tópicos de resposta.\nOU\nExplicita os dois processos de criação poética, desenvolvendo, com pequenas imprecisões \ne/ou omissões, o conteúdo dos quatro tópicos de resposta.\n9\n2\nExplicita um ou os dois processos de criação poética, desenvolvendo, adequadamente, o \nconteúdo de dois dos tópicos de resposta.\nOU\nExplicita os dois processos de criação poética, desenvolvendo, com pequenas imprecisões \ne/ou omissões, o conteúdo de três dos tópicos de resposta.\n6\n1\nExplicita um ou os dois processos de criação poética, desenvolvendo, com pequenas \nimprecisões e/ou omissões, o conteúdo de dois dos tópicos de resposta.\nOU\nRefere-se, de forma vaga, aos processos de criação poética abordados nas três primeiras \nestrofes.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 1 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n– Processo de criação poética dos «poetas que são artistas» (v. 1):\n• trabalho minucioso/rigoroso/artesanal, à semelhança do trabalho do carpinteiro e do pedreiro;\n• poesia pensada/consciente.\n– Processo de criação poética dos poetas que sabem «florir» (v. 4):\n• ato involuntário/espontâneo;\n• em harmonia com a própria natureza, «única casa artística»; logo, o único modelo de arte. \n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nExemplo de resposta\nNo poema, são apresentados dois processos distintos de criação poética. De acordo com o primeiro \nprocesso – o dos «poetas que são artistas» (v. 1) –, a poesia corresponde a um trabalho minucioso, \nrigoroso e artesanal. Neste contexto, as comparações com o carpinteiro (v. 3) e com o pedreiro – «como \nquem construi um muro» (v. 5) – enfatizam o trabalho formal e, por conseguinte, consciente do poeta. \nO segundo processo – defendido pelo sujeito poético – é o que se deduz do verso 4, em que o «eu» \nmanifesta a sua tristeza e estranheza por haver poetas que não são capazes de «florir», ou seja, de fazer \nda criação poética um ato involuntário, espontâneo e tão natural quanto o ato de «florir».\nDeste modo, o primeiro processo, o de uma poesia pensada, opõe-se à ideia de uma poesia espontânea \ne simples, dado que está em contradição com a própria natureza que, na sua diversidade e harmonia, \nconstitui o modelo da verdadeira arte.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema XXXVI de «O Guardador de Rebanhos». Se necessário, consulte a nota.\n5\n10\n15\nE há poetas que são artistas\nE trabalham nos seus versos\nComo um carpinteiro nas tábuas!...\nQue triste não saber florir!\nTer que pôr verso sobre verso, como quem construi um muro\nE ver se está bem, e tirar se não está!...\nQuando a única casa artística é a Terra toda\nQue varia e está sempre boa e é sempre a mesma.\nPenso nisto, não como quem pensa, mas como quem não pensa,\nE olho para as flores e sorrio...\nNão sei se elas me compreendem\nNem se eu as compreendo a elas,\nMas sei que a verdade está nelas e em mim\nE na nossa comum divindade\nDe nos deixarmos ir e viver pela Terra\nE levar ao colo pelas Estações contentes\nE deixar que o vento cante para adormecermos,\nE não termos sonhos no nosso sono.\nFernando Pessoa, Poesia de Alberto Caeiro, edição de Fernando Cabral Martins e Richard Zenith, \n3.ª ed., Lisboa, Assírio & Alvim, 2009, p. 72\nNOTA\nconstrui (verso 5) – o mesmo que constrói."
+    },
+    {
+      "id": 10789,
+      "question_number": "1",
+      "statement": "1. De acordo com os dois primeiros parágrafos, o que permite distinguir a cultura científica das conceções \nmais comuns de ciência é o facto de a cultura científica",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
+    },
+    {
+      "id": 10796,
       "question_number": "1",
       "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2017/).",
       "question_type": "open",
@@ -34,9 +77,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1\nExplica a perceção de Vergílio Ferreira em relação à sua infância, apresentando, com \npequenas imprecisões e/ou omissões, o conteúdo de um dos tópicos de resposta. \nOU\nRefere-se, de forma vaga, à perceção de Vergílio Ferreira em relação à sua infância.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -44,9 +87,9 @@
       "contextText": "GRUPO III\n«A memória age como a lente de uma câmara escura; reduz todas as coisas e, dessa forma, produz uma \nimagem bem mais bela do que o original.»\nTraduzido a partir de Arthur Schopenhauer, Parerga and Paralipomena, Vol. I, \nOxford, Clarendon Press, 1974, p. 447 (adaptado)\nSerá que a memória permite sempre construir uma imagem idealizada do passado?\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda \numa perspetiva pessoal sobre o modo como o passado é percecionado através da memória.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 1761,
+      "id": 10785,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.\n5 × 20 pontos 100\nII 1. a 10.\n10 × 5 pontos 50\nIII Item único 50\nTOTAL 200",
+      "statement": "2. Interprete o verso «Penso nisto, não como quem pensa, mas como quem não pensa» (v. 9), atendendo à \nespecificidade da poesia de Alberto Caeiro.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +98,51 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, \nadequadamente, o conteúdo de um dos tópicos de resposta.\nOU\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, com \npequenas imprecisões e/ou omissões, o conteúdo de dois dos tópicos de resposta.",
+      "criteriaText": "2. Estes descontos são efetuados até ao limite das pontuações indicadas nos critérios específicos.\n\nFatores de desvalorização\n − Correção linguística\nAs desvalorizações no âmbito da correção linguística apresentadas no Quadro 2 aplicam-se aos itens de \nresposta restrita e ao item de resposta extensa.\nQuadro 2 – Desvalorizações no âmbito da correção linguística\nTipo de ocorrências Desvalorização\n(pontos)\n • erro inequívoco de pontuação\n • erro de ortografia (incluindo erro de acentuação, uso indevido de letra minúscula ou de letra \nmaiúscula e erro de translineação)\n • erro de morfologia\n • incumprimento das regras de citação de texto ou de referência a título de uma obra\n1\n • erro de sintaxe\n • impropriedade lexical 2\nEm cada resposta, é contabilizada como uma única ocorrência a repetição de uma palavra com o mesmo erro \nortográfico, bem como a presença de mais de um erro na mesma palavra (incluindo erro de acentuação, uso \nindevido de letra minúscula ou de letra maiúscula e erro de translineação).\nSe da aplicação deste fator de desvalorização resultar uma classificação inferior a zero pontos, atribui-se zero \npontos à correção linguística.\n − Limites de extensão\nSempre que não sejam respeitados os limites relativos ao número de palavras indicados na instrução do item \nde resposta extensa, desconta-se um ponto por cada palavra (a mais ou a menos), até ao máximo de cinco \n(1 × 5) pontos, depois de aplicados todos os critérios definidos para o item.\nCaso a resposta apresente uma extensão inferior a oitenta palavras, é classificada com zero pontos.\nPara efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, \nmesmo quando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma \núnica palavra, independentemente dos algarismos que o constituam (ex.: /2017/).\nNos casos em que da aplicação deste fator de desvalorização resultar uma classificação inferior a zero \npontos, é atribuída à resposta a classificação de zero pontos.\n\nCRITÉRIOS ESPECÍFICOS DE CLASSIFICAÇÃO\nGRUPO I .................................................................................................................................... 100 pontos\nA",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema XXXVI de «O Guardador de Rebanhos». Se necessário, consulte a nota.\n5\n10\n15\nE há poetas que são artistas\nE trabalham nos seus versos\nComo um carpinteiro nas tábuas!...\nQue triste não saber florir!\nTer que pôr verso sobre verso, como quem construi um muro\nE ver se está bem, e tirar se não está!...\nQuando a única casa artística é a Terra toda\nQue varia e está sempre boa e é sempre a mesma.\nPenso nisto, não como quem pensa, mas como quem não pensa,\nE olho para as flores e sorrio...\nNão sei se elas me compreendem\nNem se eu as compreendo a elas,\nMas sei que a verdade está nelas e em mim\nE na nossa comum divindade\nDe nos deixarmos ir e viver pela Terra\nE levar ao colo pelas Estações contentes\nE deixar que o vento cante para adormecermos,\nE não termos sonhos no nosso sono.\nFernando Pessoa, Poesia de Alberto Caeiro, edição de Fernando Cabral Martins e Richard Zenith, \n3.ª ed., Lisboa, Assírio & Alvim, 2009, p. 72\nNOTA\nconstrui (verso 5) – o mesmo que constrói."
+    },
+    {
+      "id": 10790,
+      "question_number": "2",
+      "statement": "2. De acordo com a perspetiva expressa pelos autores no terceiro parágrafo do texto, a aproximação à \nliteratura e à música realça a ideia de que a ciência deve",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
+    },
+    {
+      "id": 10797,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +150,53 @@
       "contextText": "GRUPO III\n«A memória age como a lente de uma câmara escura; reduz todas as coisas e, dessa forma, produz uma \nimagem bem mais bela do que o original.»\nTraduzido a partir de Arthur Schopenhauer, Parerga and Paralipomena, Vol. I, \nOxford, Clarendon Press, 1974, p. 447 (adaptado)\nSerá que a memória permite sempre construir uma imagem idealizada do passado?\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda \numa perspetiva pessoal sobre o modo como o passado é percecionado através da memória.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 1762,
+      "id": 10786,
+      "question_number": "3",
+      "statement": "3. Explique o modo como as sensações e a comunhão com a natureza são valorizadas na quarta estrofe do \npoema. Fundamente a sua resposta com elementos textuais pertinentes.\n\nB\nLeia o texto.\n5\n10\n15\nVejo o meu pai, no limite da minha infância, dobrar a porta do pátio, com um baú de folha \nna mão. Vejo-o de lado, e sem se voltar, eu estou dentro do pátio e não há, na minha memória, \nninguém mais ao pé de mim. Devo ter o olhar espantado e ofendido por ele partir. Mas alguns \nmeses depois o corredor da casa de minha avó amontoa-se de gente, na despedida de minha \nmãe e da minha irmã mais velha que partiam também. Do alto dos degraus de uma sala \ncontígua, descubro um mar de cabeças agitadas e aos gritos. Estou só ainda, na memória \nque me ficou. Depois, não sei como, vejo-me correndo atrás da charrete que as levava. O \ncavalo corria mais do que eu e a poeira que se ia erguendo tornava ainda a distância maior. \nMinha mãe dizia-me adeus de dentro da charrete e cada vez de mais longe. Até que deixei de \ncorrer. Dessa vez houve choro pela noite adiante — tia Quina contava, conta ainda. Mas não \nconta de choro algum dos meus dois irmãos que ficavam também. Deve-me ter vibrado pela \nvida fora esse choro que não lembro. É dos livros, suponho. Depois a infância recomeçou. \nTrês irmãos, duas tias e avó maternas, depois a vida recomeçou. Mas toda essa infância me \nparece atravessar apenas um longo inverno. É um inverno soturno de chuvas e de vento, de \nneves na montanha, de histórias de terror, contadas à luz da candeia no negrume da cozinha, \nassombrada de tempestade. Até que um dia um tio de minha mãe, que era padre na aldeia, \nse pôs o problema de eu não ser talvez estúpido. E imediatamente se empolgou para me \nconsagrar ao Altíssimo.\nVergílio Ferreira - Fotobiografia, organização de Helder Godinho e Serafim Ferreira, \nLisboa, Bertrand, 1993, p. 118",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21296,
+          "letter": "A",
+          "text": "enumeração de propriedades que definem a cultura científica.",
+          "isCorrect": false
+        },
+        {
+          "id": 21297,
+          "letter": "B",
+          "text": "enumeração de diversas características do método científico.",
+          "isCorrect": false
+        },
+        {
+          "id": 21298,
+          "letter": "C",
+          "text": "demonstração do valor intemporal das conclusões científicas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21299,
+          "letter": "D",
+          "text": "demonstração da objetividade própria dos saberes científicos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4\nExplica, com base em elementos textuais pertinentes, o modo como as sensações \ne a comunhão com a natureza são valorizadas na quarta estrofe, desenvolvendo, \nadequadamente, o conteúdo dos quatro tópicos de resposta.\n12\n3\nExplica, com base em elementos textuais pertinentes, o modo como as sensações \ne a comunhão com a natureza são valorizadas na quarta estrofe, desenvolvendo, \nadequadamente, o conteúdo de três dos tópicos de resposta.\nOU\nExplica, com base em elementos textuais pertinentes, o modo como as sensações e \na comunhão com a natureza são valorizadas na quarta estrofe, desenvolvendo, com \npequenas imprecisões e/ou omissões, o conteúdo dos quatro tópicos de resposta.\n9\n2\nExplica, com base em elementos textuais pertinentes, o modo como as sensações \ne/ou a comunhão com a natureza são valorizadas na quarta estrofe, desenvolvendo, \nadequadamente, o conteúdo de dois dos tópicos de resposta.\nOU\nExplica, com base em elementos textuais pertinentes, o modo como as sensações e \na comunhão com a natureza são valorizadas na quarta estrofe, desenvolvendo, com \npequenas imprecisões e/ou omissões, o conteúdo de três dos tópicos de resposta.\n6\n1\nExplica, com base em elementos textuais pertinentes, o modo como as sensações \ne/ou a comunhão com a natureza são valorizadas na quarta estrofe, desenvolvendo, com \npequenas imprecisões e/ou omissões, o conteúdo de dois dos tópicos de resposta.\nOU\nRefere-se, de forma vaga, ao modo como as sensações e/ou a comunhão com a natureza \nsão valorizadas na quarta estrofe.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 3 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes, devidamente \nfundamentados com elementos textuais.\n– Valorização das sensações:\n• privilégio da realidade captada pelos sentidos (vv. 10 e 17);\n• negação/recusa do pensamento (vv. 11-12).\n– Valorização da comunhão com a natureza:\n• o «eu» é um elemento da natureza tal como as flores, partilhando com elas uma «comum divindade» \n(v. 14);\n• a «Terra» é a mãe natureza, acolhedora e protetora (vv. 15-17).\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nExemplo de resposta\nNa quarta estrofe do poema, a valorização das sensações é evidenciada pelo facto de o sujeito poético \nprivilegiar a realidade captada pelos sentidos, concretamente a visão e a audição, como se comprova \nnos versos «E olho para as flores e sorrio...» (v. 10) e «E deixar que o vento cante para adormecermos» \n(v. 17). Nega-se, assim, a necessidade de compreender algo mais além daquilo a que se acede através \ndas sensações, atitude evidenciada nos versos «Não sei se elas me compreendem / Nem se eu as \ncompreendo a elas» (vv. 11-12). \nA comunhão com a natureza decorre, por um lado, do facto de o «eu» considerar que é um elemento da \nnatureza tal como as flores, partilhando com elas uma «comum divindade» (v. 14) que permite aceder \nà «verdade» (v. 13) e, por outro lado, do facto de «a Terra» ser caracterizada como a mãe natureza, \nacolhedora e protetora. Por esta razão, o homem entrega-se à natureza, numa atitude de desprendimento \ne de aceitação, sem qualquer mediação reflexiva (vv. 15-17).\n\nB",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema XXXVI de «O Guardador de Rebanhos». Se necessário, consulte a nota.\n5\n10\n15\nE há poetas que são artistas\nE trabalham nos seus versos\nComo um carpinteiro nas tábuas!...\nQue triste não saber florir!\nTer que pôr verso sobre verso, como quem construi um muro\nE ver se está bem, e tirar se não está!...\nQuando a única casa artística é a Terra toda\nQue varia e está sempre boa e é sempre a mesma.\nPenso nisto, não como quem pensa, mas como quem não pensa,\nE olho para as flores e sorrio...\nNão sei se elas me compreendem\nNem se eu as compreendo a elas,\nMas sei que a verdade está nelas e em mim\nE na nossa comum divindade\nDe nos deixarmos ir e viver pela Terra\nE levar ao colo pelas Estações contentes\nE deixar que o vento cante para adormecermos,\nE não termos sonhos no nosso sono.\nFernando Pessoa, Poesia de Alberto Caeiro, edição de Fernando Cabral Martins e Richard Zenith, \n3.ª ed., Lisboa, Assírio & Alvim, 2009, p. 72\nNOTA\nconstrui (verso 5) – o mesmo que constrói."
+    },
+    {
+      "id": 10791,
       "question_number": "3",
       "statement": "3. No quarto parágrafo do texto, a construção anafórica está ao serviço da",
       "question_type": "multiple_choice",
@@ -75,33 +206,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3142,
-          "letter": "A",
-          "text": "enumeração de propriedades que definem a cultura científica.",
-          "isCorrect": false
-        },
-        {
-          "id": 3143,
-          "letter": "B",
-          "text": "enumeração de diversas características do método científico.",
-          "isCorrect": false
-        },
-        {
-          "id": 3144,
-          "letter": "C",
-          "text": "demonstração do valor intemporal das conclusões científicas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3145,
-          "letter": "D",
-          "text": "demonstração da objetividade própria dos saberes científicos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 5 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n• Tempo (cronológico) da infância reduzido (psicologicamente) a um «longo inverno».\n• Descrição do inverno como um tempo lúgubre, tempestuoso e assustador.\n• Perceção da infância como um tempo penoso, marcado pela angústia, pelo abandono e pela solidão.\nExemplo de resposta\nA afirmação «Mas toda essa infância me parece atravessar apenas um longo inverno.» (ll. 13-14) sintetiza \na perceção de Vergílio Ferreira em relação à sua infância, na medida em que todo esse período é reduzido \na um «longo inverno» (l. 14), refletindo uma vivência psicológica do tempo marcada pela dor. Efetivamente, \no facto de a sua infância ter sido cristalizada na memória como um «longo inverno» sugere que se terá \ntratado de um tempo penoso, sofrido, marcado pela angústia, pelo abandono e pela solidão.\nNeste contexto, a descrição do inverno, caracterizado como um tempo lúgubre e tempestuoso, triste e \nassustador, confirma essa perceção.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -111,7 +217,53 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
     },
     {
-      "id": 1763,
+      "id": 10787,
+      "question_number": "4",
+      "statement": "4. Vergílio Ferreira evoca dois episódios marcantes da sua infância.\nCompare esses dois episódios, apresentando um aspeto que os aproxime e um outro que os distinga.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21300,
+          "letter": "A",
+          "text": "deriva exclusivamente do ensino da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 21301,
+          "letter": "B",
+          "text": "controla os efeitos da aplicação da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 21302,
+          "letter": "C",
+          "text": "contribui para o desenvolvimento da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 21303,
+          "letter": "D",
+          "text": "fomenta a curiosidade e o gosto pela ciência.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4 Compara os dois episódios, apresentando, adequadamente, um aspeto que os aproxima \ne um outro que os distingue. 12\n3 Compara os dois episódios, apresentando, com pequenas imprecisões e/ou omissões, \num aspeto que os aproxima e um outro que os distingue. 9\n2 Compara os dois episódios, apresentando, adequadamente, apenas um aspeto que os \naproxima ou um aspeto que os distingue. 6\n1\nCompara os dois episódios, apresentando, com pequenas imprecisões e/ou omissões, \napenas um aspeto que os aproxima ou um aspeto que os distingue.\nOU\nRefere-se, de forma vaga, a aspetos que permitem fazer uma comparação entre os dois \nepisódios.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 4 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, deve ser abordado um aspeto de cada um dos tópicos seguintes, ou outros igualmente \nrelevantes.\n– Os episódios da infância evocados por Vergílio Ferreira têm em comum o facto de serem:\n• partidas/despedidas de entes queridos que viajaram para longe;\n• situações de perda que não compreendeu e que lhe provocaram um sentimento agudo de solidão;\n• reconstruídos através da memória, no momento da escrita.\n– Os episódios distinguem-se pelo modo como essas partidas foram experienciadas por Vergílio Ferreira:\n• a sugestão de imobilidade e a ausência de choro, no momento da partida do pai, contrastam com a \ncorrida atrás da charrete e com o choro durante a noite, no momento da partida da mãe e da irmã \nmais velha; \n• o sentimento de abandono/perda/dor foi mais intenso aquando da segunda partida;\n• no momento da escrita, não tem memória de ter estado acompanhado quando o pai se foi embora, \nmas recorda-se de ter havido muita gente na despedida da mãe e da irmã. \nNota – O examinando terá de referir apenas uma semelhança e uma diferença.\nExemplo de resposta\nOs episódios evocados têm em comum o facto de corresponderem a situações de perda que o autor não \ncompreendeu e que provocaram nele um sentimento agudo de solidão. \nEstes episódios distinguem-se, no entanto, pelo modo como essas partidas foram experienciadas por \nVergílio Ferreira: quando o pai partiu, ficou a vê-lo afastar-se, sem exteriorizar o seu espanto e a sua \nmágoa; todavia, quando a mãe e a irmã partiram, reagiu, correndo atrás da charrete, na tentativa de as \nalcançar, e, depois, chorando durante a noite.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema XXXVI de «O Guardador de Rebanhos». Se necessário, consulte a nota.\n5\n10\n15\nE há poetas que são artistas\nE trabalham nos seus versos\nComo um carpinteiro nas tábuas!...\nQue triste não saber florir!\nTer que pôr verso sobre verso, como quem construi um muro\nE ver se está bem, e tirar se não está!...\nQuando a única casa artística é a Terra toda\nQue varia e está sempre boa e é sempre a mesma.\nPenso nisto, não como quem pensa, mas como quem não pensa,\nE olho para as flores e sorrio...\nNão sei se elas me compreendem\nNem se eu as compreendo a elas,\nMas sei que a verdade está nelas e em mim\nE na nossa comum divindade\nDe nos deixarmos ir e viver pela Terra\nE levar ao colo pelas Estações contentes\nE deixar que o vento cante para adormecermos,\nE não termos sonhos no nosso sono.\nFernando Pessoa, Poesia de Alberto Caeiro, edição de Fernando Cabral Martins e Richard Zenith, \n3.ª ed., Lisboa, Assírio & Alvim, 2009, p. 72\nNOTA\nconstrui (verso 5) – o mesmo que constrói."
+    },
+    {
+      "id": 10792,
       "question_number": "4",
       "statement": "4. Nos dois parágrafos finais, os autores defendem, sobretudo, a ideia de que a cultura científica",
       "question_type": "multiple_choice",
@@ -121,33 +273,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3146,
-          "letter": "A",
-          "text": "deriva exclusivamente do ensino da ciência.",
-          "isCorrect": false
-        },
-        {
-          "id": 3147,
-          "letter": "B",
-          "text": "controla os efeitos da aplicação da ciência.",
-          "isCorrect": false
-        },
-        {
-          "id": 3148,
-          "letter": "C",
-          "text": "contribui para o desenvolvimento da ciência.",
-          "isCorrect": false
-        },
-        {
-          "id": 3149,
-          "letter": "D",
-          "text": "fomenta a curiosidade e o gosto pela ciência.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 Explica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, \nadequadamente, o conteúdo dos três tópicos de resposta. 12",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -157,7 +284,53 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
     },
     {
-      "id": 1764,
+      "id": 10788,
+      "question_number": "5",
+      "statement": "5. «Mas toda essa infância me parece atravessar apenas um longo inverno.» (linhas 13-14).\nExplique em que medida esta afirmação, bem como a caracterização do inverno apresentada nas linhas \n14 a 16, sintetizam a perceção de Vergílio Ferreira em relação à sua infância.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21304,
+          "letter": "A",
+          "text": "complemento direto e de complemento indireto, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 21305,
+          "letter": "B",
+          "text": "complemento indireto e de complemento direto, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 21306,
+          "letter": "C",
+          "text": "complemento indireto, em ambos os casos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21307,
+          "letter": "D",
+          "text": "complemento direto, em ambos os casos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores de desempenho Pontuação\n4 Explica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, \nadequadamente, o conteúdo dos três tópicos de resposta. 12\n3\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, \nadequadamente, o conteúdo de dois dos tópicos de resposta.\nOU\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, com \npequenas imprecisões e/ou omissões, o conteúdo dos três tópicos de resposta.\n9\n2\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, \nadequadamente, o conteúdo de um dos tópicos de resposta.\nOU\nExplica a perceção de Vergílio Ferreira em relação à sua infância, desenvolvendo, com \npequenas imprecisões e/ou omissões, o conteúdo de dois dos tópicos de resposta.\n6\n1\nExplica a perceção de Vergílio Ferreira em relação à sua infância, apresentando, com \npequenas imprecisões e/ou omissões, o conteúdo de um dos tópicos de resposta. \nOU\nRefere-se, de forma vaga, à perceção de Vergílio Ferreira em relação à sua infância.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso ................................................................. 4 pontos\nCorreção linguística* 5 ...................................................................... 4 pontos\nTópicos de resposta\nNa resposta, devem ser abordados os aspetos seguintes, ou outros igualmente relevantes.\n• Tempo (cronológico) da infância reduzido (psicologicamente) a um «longo inverno».\n• Descrição do inverno como um tempo lúgubre, tempestuoso e assustador.\n• Perceção da infância como um tempo penoso, marcado pela angústia, pelo abandono e pela solidão.\nExemplo de resposta\nA afirmação «Mas toda essa infância me parece atravessar apenas um longo inverno.» (ll. 13-14) sintetiza \na perceção de Vergílio Ferreira em relação à sua infância, na medida em que todo esse período é reduzido \na um «longo inverno» (l. 14), refletindo uma vivência psicológica do tempo marcada pela dor. Efetivamente, \no facto de a sua infância ter sido cristalizada na memória como um «longo inverno» sugere que se terá \ntratado de um tempo penoso, sofrido, marcado pela angústia, pelo abandono e pela solidão.\nNeste contexto, a descrição do inverno, caracterizado como um tempo lúgubre e tempestuoso, triste e \nassustador, confirma essa perceção.\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nextensa (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema XXXVI de «O Guardador de Rebanhos». Se necessário, consulte a nota.\n5\n10\n15\nE há poetas que são artistas\nE trabalham nos seus versos\nComo um carpinteiro nas tábuas!...\nQue triste não saber florir!\nTer que pôr verso sobre verso, como quem construi um muro\nE ver se está bem, e tirar se não está!...\nQuando a única casa artística é a Terra toda\nQue varia e está sempre boa e é sempre a mesma.\nPenso nisto, não como quem pensa, mas como quem não pensa,\nE olho para as flores e sorrio...\nNão sei se elas me compreendem\nNem se eu as compreendo a elas,\nMas sei que a verdade está nelas e em mim\nE na nossa comum divindade\nDe nos deixarmos ir e viver pela Terra\nE levar ao colo pelas Estações contentes\nE deixar que o vento cante para adormecermos,\nE não termos sonhos no nosso sono.\nFernando Pessoa, Poesia de Alberto Caeiro, edição de Fernando Cabral Martins e Richard Zenith, \n3.ª ed., Lisboa, Assírio & Alvim, 2009, p. 72\nNOTA\nconstrui (verso 5) – o mesmo que constrói."
+    },
+    {
+      "id": 10793,
       "question_number": "5",
       "statement": "5. Nas expressões «sabermos orientar-nos» (linha 2) e «que nos permite» (linha 5), os pronomes pessoais \ndesempenham as funções sintáticas de",
       "question_type": "multiple_choice",
@@ -167,33 +340,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3150,
-          "letter": "A",
-          "text": "complemento direto e de complemento indireto, respetivamente.",
-          "isCorrect": false
-        },
-        {
-          "id": 3151,
-          "letter": "B",
-          "text": "complemento indireto e de complemento direto, respetivamente.",
-          "isCorrect": false
-        },
-        {
-          "id": 3152,
-          "letter": "C",
-          "text": "complemento indireto, em ambos os casos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3153,
-          "letter": "D",
-          "text": "complemento direto, em ambos os casos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5 4 3 2 1\nC\nLéxico e \nadequação \ndo discurso\n – Mobiliza, com intencionalidade, \nrecursos da língua expressivos \ne adequados (repertório lexical \nvariado e pertinente, figuras de \nretórica e tropos, procedimentos \nde modalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Mobiliza um repertório lexical \nadequado, mas pouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Utiliza vocabulário \nelementar e restrito (muitas \nvezes redundante) ou \nglobalmente inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência do \nregisto adequado ao texto, \nou recorre a um único \nregisto inadequado.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -203,7 +351,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
     },
     {
-      "id": 1770,
+      "id": 10794,
       "question_number": "6",
       "statement": "6. No contexto em que ocorrem, as palavras «literatura» e «música» (linha 12)",
       "question_type": "multiple_choice",
@@ -215,25 +363,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3154,
+          "id": 21308,
           "letter": "A",
           "text": "pertencem ao mesmo campo semântico.",
           "isCorrect": false
         },
         {
-          "id": 3155,
+          "id": 21309,
           "letter": "B",
           "text": "pertencem ao mesmo campo lexical.",
           "isCorrect": false
         },
         {
-          "id": 3156,
+          "id": 21310,
           "letter": "C",
           "text": "estabelecem uma relação de holonímia/meronímia.",
           "isCorrect": false
         },
         {
-          "id": 3157,
+          "id": 21311,
           "letter": "D",
           "text": "estabelecem uma relação de hiperonímia/hiponímia.",
           "isCorrect": false
@@ -249,7 +397,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\nO conceito de cultura científica é o mais vasto e o mais complexo. A cultura científica não \nconsiste apenas na capacidade de ler o mundo à nossa volta e de sabermos orientar-nos \nnele, nem consiste apenas na aquisição de conhecimentos científicos, como pretende o Public \nUnderstanding of Science.\nA cultura científica é um capital que nos permite não apenas ler, mas usufruir do mundo, \nnão apenas conhecer, mas manipular as ideias produzidas pela ciência, perceber as \npotencialidades e os riscos e as limitações da ciência, relacionar os conhecimentos da ciência \ncom outros saberes e culturas e integrá-los numa visão coerente e enriquecedora do mundo, \ne encarar a ciência sem a mínima atitude de servidão ou sequer de reverência, mas apenas \ncom curiosidade, emoção e sentido de responsabilidade.\nA promoção da cultura científica visa dar à ciência o mesmo estatuto que possuem saberes \ncomo a literatura ou a música: garantir a todos a capacidade para o seu usufruto, as condições \npara a sua apropriação e as ferramentas para o seu controlo.\nA cultura científica exige conhecimentos sobre a ciência, mas não conhecimentos \ndisciplinares. Trata-se de conhecimentos sobre a forma como a ciência progride, nunca \nlinearmente, mas com correções e desvios constantes; sobre a necessidade de hipóteses, \nde experiências, de confirmações e de desilusões; sobre a importância da imaginação e da \nexcentricidade; sobre o valor da diferença e a importância do trabalho em equipa; sobre a \nimportância do debate vivo e aberto; sobre as regras e os limites do método científico; sobre \na banalidade do erro, a frequência dos enganos, os inevitáveis enviesamentos e as humanas \nfraudes, que existem tanto na ciência como em qualquer outra atividade humana; sobre a \nobjetividade da ciência, mas também sobre o papel da subjetividade nas suas conclusões; \nsobre a intemporalidade da ciência, mas também sobre a forma como cada época gera as \nsuas verdades provisórias; sobre a universalidade da ciência, mas também sobre a forma \ncomo o contexto molda os consensos que constituem a «verdade científica».\nA promoção da cultura científica nada tem a ver com a promoção da ciência. Promover a \ncultura científica é promover este olhar e estimular o diálogo, alimentar o pensamento crítico e \na capacidade de fascínio com a descoberta, afastar o receio de questionar e ensinar-nos que \né lícito ver algo diferente do que todos os outros à nossa volta veem e sempre viram.\nPromover a cultura científica não é ensinar ciência – embora também o seja –, sendo \nfundamentalmente aproximar os cidadãos da ciência e familiarizá-los com os cientistas, com a \nsua atividade, e estimulá-los a questionar não só o mundo, mas a própria ciência.\nAntónio Granado e José Vítor Malheiros, Cultura Científica em Portugal: Ferramentas para Perceber o Mundo e Aprender a Mudá-lo, \n Lisboa, Fundação Francisco Manuel dos Santos, 2015, p. 19 (adaptado)"
     },
     {
-      "id": 1771,
+      "id": 10795,
       "question_number": "7",
       "statement": "7. No contexto em que ocorre, a conjunção «mas» está associada a uma ideia de adição",
       "question_type": "multiple_choice",
@@ -261,25 +409,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3158,
+          "id": 21312,
           "letter": "A",
           "text": "na linha 5.",
           "isCorrect": false
         },
         {
-          "id": 3159,
+          "id": 21313,
           "letter": "B",
           "text": "na linha 9.",
           "isCorrect": false
         },
         {
-          "id": 3160,
+          "id": 21314,
           "letter": "C",
           "text": "na linha 14.",
           "isCorrect": false
         },
         {
-          "id": 3161,
+          "id": 21315,
           "letter": "D",
           "text": "na linha 16.",
           "isCorrect": false

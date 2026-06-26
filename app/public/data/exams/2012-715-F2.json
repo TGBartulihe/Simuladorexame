@@ -4,64 +4,40 @@
   "subject": "Física e Química A",
   "year": 2012,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 411,
+      "id": 1602,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 412,
+      "id": 1603,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 413,
+      "id": 1604,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 414,
+      "id": 1605,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 415,
+      "id": 1606,
       "name": "GRUPO V",
       "order": 4
-    },
-    {
-      "id": 416,
-      "name": "GRUPO I",
-      "order": 5
-    },
-    {
-      "id": 417,
-      "name": "GRUPO II",
-      "order": 6
-    },
-    {
-      "id": 418,
-      "name": "GRUPO III",
-      "order": 7
-    },
-    {
-      "id": 419,
-      "name": "GRUPO IV",
-      "order": 8
-    },
-    {
-      "id": 420,
-      "name": "GRUPO V",
-      "order": 9
     }
   ],
   "questions": [
     {
-      "id": 2537,
+      "id": 11411,
       "question_number": "1",
-      "statement": "1. ........................................................................................................... 10 pontos",
-      "question_type": "open",
+      "statement": "1. A Figura 1 apresenta uma parte do gráfico da intensidade da radiação emitida por um corpo, a uma \ndeterminada temperatura, em função do comprimento de onda.\nFigura 1\nComprimento de onda\nIntensidade da radiação\nÀ temperatura considerada, o corpo emite",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -69,93 +45,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 A resolução apresenta apenas uma das etapas consideradas. 5\nA classificação a atribuir à resposta resulta da pontuação decorrente do enquadramento num dos níveis de \ndesempenho atrás descritos, à qual podem ser subtraídos pontos, de acordo com o enquadramento nos \nníveis de desempenho relacionados com o tipo de erros cometidos*.\n* Descritores e desvalorizações apresentados no primeiro quadro da página C/4 dos Critérios Gerais de Classificação.",
+      "criteriaText": "1. ................................................... 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
-    },
-    {
-      "id": 2541,
-      "question_number": "2",
-      "statement": "2. ........................................................................................................... 5 pontos\n15 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2 A resolução apresenta as duas etapas consideradas. 10",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO III",
-      "contextTitle": null,
-      "contextText": "GRUPO III\nO ácido sulfídrico, H2S(aq), é um ácido diprótico muito fraco, cuja ionização global em água ocorre em duas \netapas sucessivas. \nA primeira etapa da ionização ocorre em muito maior extensão do que a segunda e pode ser traduzida por\nH2S(aq) + H2O(l) ? HS-(aq) + H3O+(aq)\nA constante de acidez do H2S(aq), definida para a reação anterior, é 1,32 × 10-7, a 25 ºC."
-    },
-    {
-      "id": 2549,
-      "question_number": "3",
-      "statement": "3. ........................................................................................................... 10 pontos\n30 pontos\n TOTAL ......................................... 200 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "3. .................................................................................................................................................... 10 pontos\nA resolução deve apresentar as seguintes etapas:\nA) Cálculo do valor experimental da velocidade de propagação do som no ar (v = 324,0 m s-1).\nB) Cálculo do erro relativo, em percentagem, do valor experimental da velocidade de \npropagação do som no ar (5,35%).\nA resposta a este item deve ser enquadrada num dos níveis de desempenho relacionados com a consecução \ndas etapas, de acordo com a tabela seguinte.\nNíveis Descritores do nível de desempenho relacionados com a consecução das etapas Pontuação",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
-    },
-    {
-      "id": 2538,
-      "question_number": "4",
-      "statement": "4. ........................................................................................................... 15 pontos\n40 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "4\nA resposta apresenta:\n • os dois tópicos de referência;\n • organização coerente dos conteúdos;\n • linguagem científica adequada.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nA composição do gás natural depende, entre outros fatores, da localização do reservatório subterrâneo a \npartir do qual se faz a sua extração. No entanto, o gás natural é sempre maioritariamente constituído por \nmetano, \nCH4(g), embora possa conter outros gases, como, por exemplo, metilbutano, dióxido de carbono, \nvapor de água e sulfureto de hidrogénio."
-    },
-    {
-      "id": 2539,
-      "question_number": "5",
-      "statement": "5. ........................................................................................................... 5 pontos\n25 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "5\nA resposta apresenta:\n • os três tópicos de referência;\n • organização coerente dos conteúdos;\n • linguagem científica adequada.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
@@ -163,101 +55,9 @@
       "contextText": "GRUPO I\nQualquer que seja a temperatura a que se encontre, um corpo emite sempre radiação eletromagnética, \ndevido aos movimentos de agitação térmica das partículas que o constituem.\nO espectro da radiação térmica emitida por um corpo é um espectro contínuo em que o comprimento \nde onda da radiação de máxima intensidade emitida depende da temperatura a que o corpo se encontra: \nà medida que a temperatura, \nT, do corpo aumenta, o comprimento de onda ao qual ocorre a emissão de \nradiação de máxima intensidade, lmáxima, diminui proporcionalmente.\nA taxa temporal de emissão de energia de um corpo, sob a forma de radiação térmica, a partir da sua \nsuperfície, é proporcional à quarta potência da temperatura absoluta da superfície do corpo, dependendo \ntambém da sua área superficial e de uma constante chamada emissividade.\nAo mesmo tempo que emite, um corpo também absorve radiação eletromagnética da sua vizinhança. \nQuando um corpo está em equilíbrio com a sua vizinhança, emite e absorve energia, como radiação, à \nmesma taxa temporal.\nR. A. Serway, J. W. Jewett, Jr., Princípios de Física, vol. II, \nPioneira Thomson Learning, 2004 (adaptado)"
     },
     {
-      "id": 2546,
-      "question_number": "1.1",
-      "statement": "1.1. Qual é o esboço do gráfico que pode representar a distância percorrida pelo objeto de papel durante \no intervalo de tempo em que os dados foram registados?\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4752,
-          "letter": "A",
-          "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 4754,
-          "letter": "B",
-          "text": "",
-          "isCorrect": true
-        },
-        {
-          "id": 4753,
-          "letter": "C",
-          "text": "",
-          "isCorrect": true
-        },
-        {
-          "id": 4755,
-          "letter": "D",
-          "text": "0 0 0 0",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1.1. Versão 1 – (B); Versão 2 – (C) .............................................................................................. 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
-    },
-    {
-      "id": 2547,
-      "question_number": "1.2",
-      "statement": "1.2. Em qual dos esquemas seguintes estão corretamente representadas, para o intervalo de tempo \n[0,90; 1,30] s, as forças que atuam no objeto de papel?\n+",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4756,
-          "letter": "A",
-          "text": "+",
-          "isCorrect": false
-        },
-        {
-          "id": 4757,
-          "letter": "B",
-          "text": "+",
-          "isCorrect": true
-        },
-        {
-          "id": 4758,
-          "letter": "C",
-          "text": "+",
-          "isCorrect": true
-        },
-        {
-          "id": 4759,
-          "letter": "D",
-          "text": "F → gravíticaF → gravítica F → gravítica F = 0 → → resistência do arF → resistência do arF → resistência do ar gravíticaF → F → resistência do ar",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1.2. Versão 1 – (C); Versão 2 – (B) .............................................................................................. 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
-    },
-    {
-      "id": 2556,
-      "question_number": "1.3",
-      "statement": "1.3. Admita que a massa do objeto de papel é 0,23 g.\nCalcule a energia dissipada pelo sistema objeto de papel + Terra no intervalo de tempo [0,90; 1,30] s.\nApresente todas as etapas de resolução.",
+      "id": 11414,
+      "question_number": "1",
+      "statement": "1. Considere que se extrai, de um determinado reservatório subterrâneo, gás natural contendo 70%, em \nvolume, de metano.\nDetermine o número de moléculas de metano que existem numa amostra de 5,0 dm3 do gás natural, nas \ncondições normais de pressão e de temperatura.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
@@ -266,17 +66,336 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1.3. ................................................................................................................................................. 15 pontos\nA resolução deve apresentar as seguintes etapas:\nA) Determinação da variação da energia cinética do objeto de papel no intervalo de tempo \nconsiderado (DEc = 0).\nOU\nA) Determinação do trabalho realizado pela força gravítica, que atua no objeto de papel, no \nintervalo de tempo considerado (W F\n→\ngravítica = 1,29 × 10-3 J).\nB) Determinação da variação da energia potencial gravítica do sistema objeto de papel + \n+ Terra no intervalo de tempo considerado (DEp = -1,29 × 10-3 J).\nOU\nA) Determinação do trabalho realizado pela força de resistência do ar, que atua no objeto \nde papel, no intervalo de tempo considerado (W F\n→\nresistência do ar = -1,29 × 10-3 J).\nC) Determinação da energia dissipada pelo sistema objeto de papel + Terra no intervalo de \ntempo considerado (Ed = 1,3 × 10-3 J).\nA resposta a este item deve ser enquadrada num dos níveis de desempenho relacionados com a consecução \ndas etapas, de acordo com a tabela seguinte.\nNíveis Descritores do nível de desempenho relacionados com a consecução das etapas Pontuação",
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA composição do gás natural depende, entre outros fatores, da localização do reservatório subterrâneo a \npartir do qual se faz a sua extração. No entanto, o gás natural é sempre maioritariamente constituído por \nmetano, \nCH4(g), embora possa conter outros gases, como, por exemplo, metilbutano, dióxido de carbono, \nvapor de água e sulfureto de hidrogénio."
+    },
+    {
+      "id": 11417,
+      "question_number": "1",
+      "statement": "1. Considere 250,0 cm3 de uma solução de ácido sulfídrico cujo pH, a 25 ºC, é 3,94.\nDetermine a quantidade de ácido sulfídrico não ionizado que existe naquele volume de solução, \nconsiderando apenas a contribuição da reação acima indicada para a ionização do ácido em água.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO ácido sulfídrico, H2S(aq), é um ácido diprótico muito fraco, cuja ionização global em água ocorre em duas \netapas sucessivas. \nA primeira etapa da ionização ocorre em muito maior extensão do que a segunda e pode ser traduzida por\nH2S(aq) + H2O(l) ? HS-(aq) + H3O+(aq)\nA constante de acidez do H2S(aq), definida para a reação anterior, é 1,32 × 10-7, a 25 ºC."
+    },
+    {
+      "id": 11419,
+      "question_number": "1",
+      "statement": "1. O etanol, C2H5OH (M = 46,08 g mol-1), pode reagir com o cloro, Cl2 (M= 70,90 g mol-1), formando-se um \ncomposto orgânico denominado cloral, CCl3CHO (M = 147,38 g mol-1), e cloreto de hidrogénio, HCl(g). \nA reação pode ser traduzida por\nC2H5OH(l) + 4 Cl2(g) \" CCl3CHO(l) + 5 HCl(g)",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11427,
+      "question_number": "1",
+      "statement": "1.\n Indique \na razão pela qual os alunos ligaram o altifalante ao gerador de sinais e a razão pela qual ligaram \no microfone ao osciloscópio.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material).\n1. Considere, numa primeira situação, que o objeto de papel cai no ar.\nNa Figura 2, está representado o gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto \nde papel em função do tempo, t. Os dados registados foram adquiridos com um sensor de movimento.\n0,00\n0,20\n0,40\n0,60\n0,80\n1,00\n1,20\n1,40\n0,00 0,20 0,40 0,60 0,80 1,00 1,20 1,40 1,60 1,80\ny / m\nt / s\nFigura 2\n\n1.1. Qual é o esboço do gráfico que pode representar a distância percorrida pelo objeto de papel durante \no intervalo de tempo em que os dados foram registados?\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\n(A)\n(C)\n(B)\n(D)\n0 0\n0 0\n1.2. Em qual dos esquemas seguintes estão corretamente representadas, para o intervalo de tempo \n[0,90; 1,30] s, as forças que atuam no objeto de papel?\n+\n(A)\n+\n(B)\n+\n(C)\n+\n(D)\nF\n→\ngravíticaF\n→\ngravítica\nF\n→\ngravítica\nF = 0\n→ →\nresistência do arF\n→\nresistência do arF\n→\nresistência do ar\ngravíticaF\n→\nF\n→\nresistência do ar\n1.3. Admita que a massa do objeto de papel é 0,23 g.\nCalcule a energia dissipada pelo sistema objeto de papel + Terra no intervalo de tempo [0,90; 1,30] s.\nApresente todas as etapas de resolução.\n\n2. Considere agora, numa segunda situação, que o objeto de papel, abandonado da mesma altura, tem um \nmovimento de queda livre.\nAdmita que o eixo Oy do referencial tem origem no solo e sentido positivo de baixo para cima.\n2.1. Apresente o esboço do gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto de \npapel em função do tempo, t, desde o instante em que é abandonado até chegar ao solo.\n2.2. A equação v(t ) da componente escalar, segundo o eixo Oy, da velocidade, vy, do objeto de papel é\n (A) vy = 10 t\n (B) vy = -10 t\n (C) vy = 1,20 - 10 t\n (D) vy = 1,20 + 10 t\n2.3. Qual das expressões seguintes permite calcular o tempo, em segundos ( s), que o objeto de papel \ndemorará a chegar ao solo se a altura da qual é abandonado se reduzir a metade?\n (A) ,\ng\n21 20#\n (B) ,\ng2\n12 0\n (C) \n,\ng\n2\n12 0\n (D) ,\ng\n12 0\n2.4. Admita que, em simultâneo com o objeto de papel, se abandona da mesma altura uma esfera metálica \nde maior massa.\nSe o objeto de papel e a esfera metálica caírem livremente, a esfera chegará ao solo com velocidade de\n (A) igual módulo e energia cinética maior.\n (B) igual módulo e energia cinética igual.\n (C) maior módulo e energia cinética igual.\n (D) maior módulo e energia cinética maior.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––\n\nGRUPO VI\nCom o objetivo de determinar experimentalmente a velocidade de propagação do som no ar, um grupo de \nalunos fez uma montagem semelhante à representada na Figura 3, na qual utilizou um osciloscópio, um \ngerador de sinais, um microfone, um altifalante com suporte e fios de ligação.\nAltifalante\nOsciloscópio Gerador de sinais\nMicrofone\nFigura 3\nOs alunos começaram por ligar o gerador de sinais ao osciloscópio para produzir um sinal elétrico que \nregistaram no osciloscópio. Ligaram depois o altifalante ao gerador de sinais e o microfone ao osciloscópio, \ntendo o cuidado de alinhar sempre o altifalante e o microfone, no decorrer das experiências que realizaram.\nO valor tabelado da velocidade de propagação do som no ar, nas condições em que foram realizadas as \nexperiências, é \n342,3 m s-1."
+    },
+    {
+      "id": 11415,
+      "question_number": "2",
+      "statement": "2. Qual das fórmulas de estrutura seguintes pode representar a molécula de metilbutano?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. ................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA composição do gás natural depende, entre outros fatores, da localização do reservatório subterrâneo a \npartir do qual se faz a sua extração. No entanto, o gás natural é sempre maioritariamente constituído por \nmetano, \nCH4(g), embora possa conter outros gases, como, por exemplo, metilbutano, dióxido de carbono, \nvapor de água e sulfureto de hidrogénio."
+    },
+    {
+      "id": 11418,
+      "question_number": "2",
+      "statement": "2. O ião sulfureto, S2-(aq), é a base conjugada da espécie HS-(aq) na reação que corresponde à segunda \netapa da ionização do ácido sulfídrico em água.\nA reação entre o ião \nS2-(aq) e a água pode ser traduzida por",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO ácido sulfídrico, H2S(aq), é um ácido diprótico muito fraco, cuja ionização global em água ocorre em duas \netapas sucessivas. \nA primeira etapa da ionização ocorre em muito maior extensão do que a segunda e pode ser traduzida por\nH2S(aq) + H2O(l) ? HS-(aq) + H3O+(aq)\nA constante de acidez do H2S(aq), definida para a reação anterior, é 1,32 × 10-7, a 25 ºC."
+    },
+    {
+      "id": 11422,
+      "question_number": "2",
+      "statement": "2.\n Considere a reação traduzida por\nCl2(g) + 2 Na(s) \" 2 NaCl(s)\nNesta reação, o cloro atua como",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11428,
+      "question_number": "2",
+      "statement": "2.\n Os alunos mantiveram o altifalante e o microfone à mesma distância um do outro.\nA\n Figura 4 representa o ecrã do osciloscópio onde estão registados os sinais obtidos no decorrer da \nexperiência.\n/MT49/MT32/MT109/MT115\nFigura 4",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material).\n1. Considere, numa primeira situação, que o objeto de papel cai no ar.\nNa Figura 2, está representado o gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto \nde papel em função do tempo, t. Os dados registados foram adquiridos com um sensor de movimento.\n0,00\n0,20\n0,40\n0,60\n0,80\n1,00\n1,20\n1,40\n0,00 0,20 0,40 0,60 0,80 1,00 1,20 1,40 1,60 1,80\ny / m\nt / s\nFigura 2\n\n1.1. Qual é o esboço do gráfico que pode representar a distância percorrida pelo objeto de papel durante \no intervalo de tempo em que os dados foram registados?\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\n(A)\n(C)\n(B)\n(D)\n0 0\n0 0\n1.2. Em qual dos esquemas seguintes estão corretamente representadas, para o intervalo de tempo \n[0,90; 1,30] s, as forças que atuam no objeto de papel?\n+\n(A)\n+\n(B)\n+\n(C)\n+\n(D)\nF\n→\ngravíticaF\n→\ngravítica\nF\n→\ngravítica\nF = 0\n→ →\nresistência do arF\n→\nresistência do arF\n→\nresistência do ar\ngravíticaF\n→\nF\n→\nresistência do ar\n1.3. Admita que a massa do objeto de papel é 0,23 g.\nCalcule a energia dissipada pelo sistema objeto de papel + Terra no intervalo de tempo [0,90; 1,30] s.\nApresente todas as etapas de resolução.\n\n2. Considere agora, numa segunda situação, que o objeto de papel, abandonado da mesma altura, tem um \nmovimento de queda livre.\nAdmita que o eixo Oy do referencial tem origem no solo e sentido positivo de baixo para cima.\n2.1. Apresente o esboço do gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto de \npapel em função do tempo, t, desde o instante em que é abandonado até chegar ao solo.\n2.2. A equação v(t ) da componente escalar, segundo o eixo Oy, da velocidade, vy, do objeto de papel é\n (A) vy = 10 t\n (B) vy = -10 t\n (C) vy = 1,20 - 10 t\n (D) vy = 1,20 + 10 t\n2.3. Qual das expressões seguintes permite calcular o tempo, em segundos ( s), que o objeto de papel \ndemorará a chegar ao solo se a altura da qual é abandonado se reduzir a metade?\n (A) ,\ng\n21 20#\n (B) ,\ng2\n12 0\n (C) \n,\ng\n2\n12 0\n (D) ,\ng\n12 0\n2.4. Admita que, em simultâneo com o objeto de papel, se abandona da mesma altura uma esfera metálica \nde maior massa.\nSe o objeto de papel e a esfera metálica caírem livremente, a esfera chegará ao solo com velocidade de\n (A) igual módulo e energia cinética maior.\n (B) igual módulo e energia cinética igual.\n (C) maior módulo e energia cinética igual.\n (D) maior módulo e energia cinética maior.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––\n\nGRUPO VI\nCom o objetivo de determinar experimentalmente a velocidade de propagação do som no ar, um grupo de \nalunos fez uma montagem semelhante à representada na Figura 3, na qual utilizou um osciloscópio, um \ngerador de sinais, um microfone, um altifalante com suporte e fios de ligação.\nAltifalante\nOsciloscópio Gerador de sinais\nMicrofone\nFigura 3\nOs alunos começaram por ligar o gerador de sinais ao osciloscópio para produzir um sinal elétrico que \nregistaram no osciloscópio. Ligaram depois o altifalante ao gerador de sinais e o microfone ao osciloscópio, \ntendo o cuidado de alinhar sempre o altifalante e o microfone, no decorrer das experiências que realizaram.\nO valor tabelado da velocidade de propagação do som no ar, nas condições em que foram realizadas as \nexperiências, é \n342,3 m s-1."
+    },
+    {
+      "id": 11423,
+      "question_number": "3",
+      "statement": "3.\n Considere que a energia necessária para dissociar uma mole de moléculas de Cl2(g) é 242,7 kJ.\nA variação de energia associada à formação de duas moles de átomos de cloro, em fase gasosa, a partir \nde uma mole de Cl2(g) é",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. ................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11431,
+      "question_number": "3",
+      "statement": "3. Os alunos afastaram depois gradualmente o microfone do altifalante e mediram, para cada distância entre \nestes, o tempo que o sinal sonoro demorava a percorrer essa distância.\nOs valores obtidos estão registados na tabela seguinte.\nDistância / m Tempo / ms\n0,200 0,54\n0,400 1,26\n0,600 1,77\n0,800 2,52\n1,000 2,98\nDetermine o erro relativo, em percentagem, do valor experimental da velocidade de propagação do som \nno ar.\nComece por obter o valor experimental da velocidade de propagação do som no ar, em metro por \nsegundo (m s–1), a partir do declive da reta que melhor se ajusta ao conjunto de valores apresentados na \ntabela (utilize a calculadora gráfica).\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material).\n1. Considere, numa primeira situação, que o objeto de papel cai no ar.\nNa Figura 2, está representado o gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto \nde papel em função do tempo, t. Os dados registados foram adquiridos com um sensor de movimento.\n0,00\n0,20\n0,40\n0,60\n0,80\n1,00\n1,20\n1,40\n0,00 0,20 0,40 0,60 0,80 1,00 1,20 1,40 1,60 1,80\ny / m\nt / s\nFigura 2\n\n1.1. Qual é o esboço do gráfico que pode representar a distância percorrida pelo objeto de papel durante \no intervalo de tempo em que os dados foram registados?\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\n(A)\n(C)\n(B)\n(D)\n0 0\n0 0\n1.2. Em qual dos esquemas seguintes estão corretamente representadas, para o intervalo de tempo \n[0,90; 1,30] s, as forças que atuam no objeto de papel?\n+\n(A)\n+\n(B)\n+\n(C)\n+\n(D)\nF\n→\ngravíticaF\n→\ngravítica\nF\n→\ngravítica\nF = 0\n→ →\nresistência do arF\n→\nresistência do arF\n→\nresistência do ar\ngravíticaF\n→\nF\n→\nresistência do ar\n1.3. Admita que a massa do objeto de papel é 0,23 g.\nCalcule a energia dissipada pelo sistema objeto de papel + Terra no intervalo de tempo [0,90; 1,30] s.\nApresente todas as etapas de resolução.\n\n2. Considere agora, numa segunda situação, que o objeto de papel, abandonado da mesma altura, tem um \nmovimento de queda livre.\nAdmita que o eixo Oy do referencial tem origem no solo e sentido positivo de baixo para cima.\n2.1. Apresente o esboço do gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto de \npapel em função do tempo, t, desde o instante em que é abandonado até chegar ao solo.\n2.2. A equação v(t ) da componente escalar, segundo o eixo Oy, da velocidade, vy, do objeto de papel é\n (A) vy = 10 t\n (B) vy = -10 t\n (C) vy = 1,20 - 10 t\n (D) vy = 1,20 + 10 t\n2.3. Qual das expressões seguintes permite calcular o tempo, em segundos ( s), que o objeto de papel \ndemorará a chegar ao solo se a altura da qual é abandonado se reduzir a metade?\n (A) ,\ng\n21 20#\n (B) ,\ng2\n12 0\n (C) \n,\ng\n2\n12 0\n (D) ,\ng\n12 0\n2.4. Admita que, em simultâneo com o objeto de papel, se abandona da mesma altura uma esfera metálica \nde maior massa.\nSe o objeto de papel e a esfera metálica caírem livremente, a esfera chegará ao solo com velocidade de\n (A) igual módulo e energia cinética maior.\n (B) igual módulo e energia cinética igual.\n (C) maior módulo e energia cinética igual.\n (D) maior módulo e energia cinética maior.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––\n\nGRUPO VI\nCom o objetivo de determinar experimentalmente a velocidade de propagação do som no ar, um grupo de \nalunos fez uma montagem semelhante à representada na Figura 3, na qual utilizou um osciloscópio, um \ngerador de sinais, um microfone, um altifalante com suporte e fios de ligação.\nAltifalante\nOsciloscópio Gerador de sinais\nMicrofone\nFigura 3\nOs alunos começaram por ligar o gerador de sinais ao osciloscópio para produzir um sinal elétrico que \nregistaram no osciloscópio. Ligaram depois o altifalante ao gerador de sinais e o microfone ao osciloscópio, \ntendo o cuidado de alinhar sempre o altifalante e o microfone, no decorrer das experiências que realizaram.\nO valor tabelado da velocidade de propagação do som no ar, nas condições em que foram realizadas as \nexperiências, é \n342,3 m s-1."
+    },
+    {
+      "id": 11412,
+      "question_number": "4",
+      "statement": "4. Se a temperatura absoluta da superfície de um corpo aumentar duas vezes, a taxa temporal de emissão \nde energia do corpo, sob a forma de radiação térmica, a partir da sua superfície, aumentará",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "4. ................................................... 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nQualquer que seja a temperatura a que se encontre, um corpo emite sempre radiação eletromagnética, \ndevido aos movimentos de agitação térmica das partículas que o constituem.\nO espectro da radiação térmica emitida por um corpo é um espectro contínuo em que o comprimento \nde onda da radiação de máxima intensidade emitida depende da temperatura a que o corpo se encontra: \nà medida que a temperatura, \nT, do corpo aumenta, o comprimento de onda ao qual ocorre a emissão de \nradiação de máxima intensidade, lmáxima, diminui proporcionalmente.\nA taxa temporal de emissão de energia de um corpo, sob a forma de radiação térmica, a partir da sua \nsuperfície, é proporcional à quarta potência da temperatura absoluta da superfície do corpo, dependendo \ntambém da sua área superficial e de uma constante chamada emissividade.\nAo mesmo tempo que emite, um corpo também absorve radiação eletromagnética da sua vizinhança. \nQuando um corpo está em equilíbrio com a sua vizinhança, emite e absorve energia, como radiação, à \nmesma taxa temporal.\nR. A. Serway, J. W. Jewett, Jr., Princípios de Física, vol. II, \nPioneira Thomson Learning, 2004 (adaptado)"
+    },
+    {
+      "id": 11416,
+      "question_number": "4",
+      "statement": "4. As moléculas de água, H2O, e de sulfureto de hidrogénio, H2S, apresentam geometria semelhante.\nPreveja, justificando com base nas posições relativas dos elementos oxigénio e enxofre na tabela periódica, \nqual das ligações, H – O ou H – S, terá maior comprimento, na respetiva molécula.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA composição do gás natural depende, entre outros fatores, da localização do reservatório subterrâneo a \npartir do qual se faz a sua extração. No entanto, o gás natural é sempre maioritariamente constituído por \nmetano, \nCH4(g), embora possa conter outros gases, como, por exemplo, metilbutano, dióxido de carbono, \nvapor de água e sulfureto de hidrogénio."
+    },
+    {
+      "id": 11413,
+      "question_number": "5",
+      "statement": "5. A Terra emite e absorve radiação a uma taxa temporal __________, pelo que a temperatura média da sua \nsuperfície __________.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22766,
+          "letter": "A",
+          "text": "igual ... varia",
+          "isCorrect": false
+        },
+        {
+          "id": 22767,
+          "letter": "B",
+          "text": "diferente ... varia",
+          "isCorrect": false
+        },
+        {
+          "id": 22768,
+          "letter": "C",
+          "text": "igual ... não varia",
+          "isCorrect": false
+        },
+        {
+          "id": 22769,
+          "letter": "D",
+          "text": "diferente ... não varia",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. ................................................... 5 pontos\n25 pontos\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nQualquer que seja a temperatura a que se encontre, um corpo emite sempre radiação eletromagnética, \ndevido aos movimentos de agitação térmica das partículas que o constituem.\nO espectro da radiação térmica emitida por um corpo é um espectro contínuo em que o comprimento \nde onda da radiação de máxima intensidade emitida depende da temperatura a que o corpo se encontra: \nà medida que a temperatura, \nT, do corpo aumenta, o comprimento de onda ao qual ocorre a emissão de \nradiação de máxima intensidade, lmáxima, diminui proporcionalmente.\nA taxa temporal de emissão de energia de um corpo, sob a forma de radiação térmica, a partir da sua \nsuperfície, é proporcional à quarta potência da temperatura absoluta da superfície do corpo, dependendo \ntambém da sua área superficial e de uma constante chamada emissividade.\nAo mesmo tempo que emite, um corpo também absorve radiação eletromagnética da sua vizinhança. \nQuando um corpo está em equilíbrio com a sua vizinhança, emite e absorve energia, como radiação, à \nmesma taxa temporal.\nR. A. Serway, J. W. Jewett, Jr., Princípios de Física, vol. II, \nPioneira Thomson Learning, 2004 (adaptado)"
+    },
+    {
+      "id": 11420,
+      "question_number": "1.1",
+      "statement": "1.1. Considere que se fez reagir 3,0 mol de etanol com 10,0 mol de cloro.\nIdentifique, justificando, o reagente limitante.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1.1. ........................................... 10 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO IV",
       "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      "contextText": null
     },
     {
-      "id": 2558,
+      "id": 11421,
+      "question_number": "1.2",
+      "statement": "1.2.\n Determine, \nnuma outra situação, a massa de etanol que é necessário fazer reagir para se obter, na \nprática, 1,5 kg de cloral, admitindo que aquela reação apresenta um rendimento médio de 30%.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1.2. ........................................... 10 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 11429,
       "question_number": "2.1",
       "statement": "2.1. Os sinais registados no ecrã do osciloscópio apresentam",
       "question_type": "multiple_choice",
@@ -288,41 +407,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4772,
+          "id": 22794,
           "letter": "A",
           "text": "igual amplitude e igual frequência.",
           "isCorrect": false
         },
         {
-          "id": 4773,
+          "id": 22795,
           "letter": "B",
           "text": "igual amplitude e diferente frequência.",
           "isCorrect": false
         },
         {
-          "id": 4774,
+          "id": 22796,
           "letter": "C",
           "text": "diferente amplitude e diferente frequência.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 4775,
+          "id": 22797,
           "letter": "D",
           "text": "diferente amplitude e igual frequência.",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
-      "criteriaText": "2.1. Versão 1 – (d); Versão 2 – (C) .............................................................................................. 5 pontos",
+      "criteriaText": "2.1. ........................................... 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material).\n1. Considere, numa primeira situação, que o objeto de papel cai no ar.\nNa Figura 2, está representado o gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto \nde papel em função do tempo, t. Os dados registados foram adquiridos com um sensor de movimento.\n0,00\n0,20\n0,40\n0,60\n0,80\n1,00\n1,20\n1,40\n0,00 0,20 0,40 0,60 0,80 1,00 1,20 1,40 1,60 1,80\ny / m\nt / s\nFigura 2\n\n1.1. Qual é o esboço do gráfico que pode representar a distância percorrida pelo objeto de papel durante \no intervalo de tempo em que os dados foram registados?\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\n(A)\n(C)\n(B)\n(D)\n0 0\n0 0\n1.2. Em qual dos esquemas seguintes estão corretamente representadas, para o intervalo de tempo \n[0,90; 1,30] s, as forças que atuam no objeto de papel?\n+\n(A)\n+\n(B)\n+\n(C)\n+\n(D)\nF\n→\ngravíticaF\n→\ngravítica\nF\n→\ngravítica\nF = 0\n→ →\nresistência do arF\n→\nresistência do arF\n→\nresistência do ar\ngravíticaF\n→\nF\n→\nresistência do ar\n1.3. Admita que a massa do objeto de papel é 0,23 g.\nCalcule a energia dissipada pelo sistema objeto de papel + Terra no intervalo de tempo [0,90; 1,30] s.\nApresente todas as etapas de resolução.\n\n2. Considere agora, numa segunda situação, que o objeto de papel, abandonado da mesma altura, tem um \nmovimento de queda livre.\nAdmita que o eixo Oy do referencial tem origem no solo e sentido positivo de baixo para cima.\n2.1. Apresente o esboço do gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto de \npapel em função do tempo, t, desde o instante em que é abandonado até chegar ao solo.\n2.2. A equação v(t ) da componente escalar, segundo o eixo Oy, da velocidade, vy, do objeto de papel é\n (A) vy = 10 t\n (B) vy = -10 t\n (C) vy = 1,20 - 10 t\n (D) vy = 1,20 + 10 t\n2.3. Qual das expressões seguintes permite calcular o tempo, em segundos ( s), que o objeto de papel \ndemorará a chegar ao solo se a altura da qual é abandonado se reduzir a metade?\n (A) ,\ng\n21 20#\n (B) ,\ng2\n12 0\n (C) \n,\ng\n2\n12 0\n (D) ,\ng\n12 0\n2.4. Admita que, em simultâneo com o objeto de papel, se abandona da mesma altura uma esfera metálica \nde maior massa.\nSe o objeto de papel e a esfera metálica caírem livremente, a esfera chegará ao solo com velocidade de\n (A) igual módulo e energia cinética maior.\n (B) igual módulo e energia cinética igual.\n (C) maior módulo e energia cinética igual.\n (D) maior módulo e energia cinética maior.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––\n\nGRUPO VI\nCom o objetivo de determinar experimentalmente a velocidade de propagação do som no ar, um grupo de \nalunos fez uma montagem semelhante à representada na Figura 3, na qual utilizou um osciloscópio, um \ngerador de sinais, um microfone, um altifalante com suporte e fios de ligação.\nAltifalante\nOsciloscópio Gerador de sinais\nMicrofone\nFigura 3\nOs alunos começaram por ligar o gerador de sinais ao osciloscópio para produzir um sinal elétrico que \nregistaram no osciloscópio. Ligaram depois o altifalante ao gerador de sinais e o microfone ao osciloscópio, \ntendo o cuidado de alinhar sempre o altifalante e o microfone, no decorrer das experiências que realizaram.\nO valor tabelado da velocidade de propagação do som no ar, nas condições em que foram realizadas as \nexperiências, é \n342,3 m s-1."
     },
     {
-      "id": 2559,
+      "id": 11430,
       "question_number": "2.2",
       "statement": "2.2. Quanto tempo demorou o sinal sonoro a percorrer a distância entre o altifalante e o microfone?",
       "question_type": "multiple_choice",
@@ -334,108 +453,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4776,
+          "id": 22798,
           "letter": "A",
           "text": "10 ms",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 4777,
+          "id": 22799,
           "letter": "B",
           "text": "2 ms",
           "isCorrect": false
         },
         {
-          "id": 4778,
+          "id": 22800,
           "letter": "C",
           "text": "1 ms",
           "isCorrect": false
         },
         {
-          "id": 4779,
+          "id": 22801,
           "letter": "D",
           "text": "0,5 ms",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
-      "criteriaText": "2.2. Versão 1 – (d); Versão 2 – (A) .............................................................................................. 5 pontos",
+      "criteriaText": "2.2. ........................................... 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material).\n1. Considere, numa primeira situação, que o objeto de papel cai no ar.\nNa Figura 2, está representado o gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto \nde papel em função do tempo, t. Os dados registados foram adquiridos com um sensor de movimento.\n0,00\n0,20\n0,40\n0,60\n0,80\n1,00\n1,20\n1,40\n0,00 0,20 0,40 0,60 0,80 1,00 1,20 1,40 1,60 1,80\ny / m\nt / s\nFigura 2\n\n1.1. Qual é o esboço do gráfico que pode representar a distância percorrida pelo objeto de papel durante \no intervalo de tempo em que os dados foram registados?\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\nTempo\nDistância percorrida\n(A)\n(C)\n(B)\n(D)\n0 0\n0 0\n1.2. Em qual dos esquemas seguintes estão corretamente representadas, para o intervalo de tempo \n[0,90; 1,30] s, as forças que atuam no objeto de papel?\n+\n(A)\n+\n(B)\n+\n(C)\n+\n(D)\nF\n→\ngravíticaF\n→\ngravítica\nF\n→\ngravítica\nF = 0\n→ →\nresistência do arF\n→\nresistência do arF\n→\nresistência do ar\ngravíticaF\n→\nF\n→\nresistência do ar\n1.3. Admita que a massa do objeto de papel é 0,23 g.\nCalcule a energia dissipada pelo sistema objeto de papel + Terra no intervalo de tempo [0,90; 1,30] s.\nApresente todas as etapas de resolução.\n\n2. Considere agora, numa segunda situação, que o objeto de papel, abandonado da mesma altura, tem um \nmovimento de queda livre.\nAdmita que o eixo Oy do referencial tem origem no solo e sentido positivo de baixo para cima.\n2.1. Apresente o esboço do gráfico da componente escalar, segundo o eixo Oy, da posição, y, do objeto de \npapel em função do tempo, t, desde o instante em que é abandonado até chegar ao solo.\n2.2. A equação v(t ) da componente escalar, segundo o eixo Oy, da velocidade, vy, do objeto de papel é\n (A) vy = 10 t\n (B) vy = -10 t\n (C) vy = 1,20 - 10 t\n (D) vy = 1,20 + 10 t\n2.3. Qual das expressões seguintes permite calcular o tempo, em segundos ( s), que o objeto de papel \ndemorará a chegar ao solo se a altura da qual é abandonado se reduzir a metade?\n (A) ,\ng\n21 20#\n (B) ,\ng2\n12 0\n (C) \n,\ng\n2\n12 0\n (D) ,\ng\n12 0\n2.4. Admita que, em simultâneo com o objeto de papel, se abandona da mesma altura uma esfera metálica \nde maior massa.\nSe o objeto de papel e a esfera metálica caírem livremente, a esfera chegará ao solo com velocidade de\n (A) igual módulo e energia cinética maior.\n (B) igual módulo e energia cinética igual.\n (C) maior módulo e energia cinética igual.\n (D) maior módulo e energia cinética maior.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––\n\nGRUPO VI\nCom o objetivo de determinar experimentalmente a velocidade de propagação do som no ar, um grupo de \nalunos fez uma montagem semelhante à representada na Figura 3, na qual utilizou um osciloscópio, um \ngerador de sinais, um microfone, um altifalante com suporte e fios de ligação.\nAltifalante\nOsciloscópio Gerador de sinais\nMicrofone\nFigura 3\nOs alunos começaram por ligar o gerador de sinais ao osciloscópio para produzir um sinal elétrico que \nregistaram no osciloscópio. Ligaram depois o altifalante ao gerador de sinais e o microfone ao osciloscópio, \ntendo o cuidado de alinhar sempre o altifalante e o microfone, no decorrer das experiências que realizaram.\nO valor tabelado da velocidade de propagação do som no ar, nas condições em que foram realizadas as \nexperiências, é \n342,3 m s-1."
     },
     {
-      "id": 2560,
-      "question_number": "2.3",
-      "statement": "2.3. Qual das expressões seguintes permite calcular o tempo, em segundos ( s), que o objeto de papel \ndemorará a chegar ao solo se a altura da qual é abandonado se reduzir a metade?",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 4764,
-          "letter": "A",
-          "text": ", g 21 20#",
-          "isCorrect": false
-        },
-        {
-          "id": 4765,
-          "letter": "B",
-          "text": ", g2 12 0",
-          "isCorrect": true
-        },
-        {
-          "id": 4766,
-          "letter": "C",
-          "text": ", g 2 12 0",
-          "isCorrect": false
-        },
-        {
-          "id": 4767,
-          "letter": "D",
-          "text": ", g 12 0",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "2.3. Versão 1 – (d); Versão 2 – (B) .............................................................................................. 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
-    },
-    {
-      "id": 2561,
-      "question_number": "2.4",
-      "statement": "2.4. .................................................................................................. 5 pontos\n45 pontos\nGRUPO VI",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2.4. Versão 1 – (A); Versão 2 – (d) .............................................................................................. 5 pontos\nGRUPO VI",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nUm pequeno objeto de papel, abandonado de uma certa altura, cai verticalmente até ao solo, segundo uma \ntrajetória retilínea, coincidente com o eixo Oy de um referencial unidimensional.\nAdmita que o objeto de papel pode ser representado pelo seu centro de massa (modelo da partícula material)."
-    },
-    {
-      "id": 2550,
+      "id": 11424,
       "question_number": "4.1",
       "statement": "4.1. Num átomo de cloro, no estado fundamental, existem, no total,",
       "question_type": "multiple_choice",
@@ -447,33 +499,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4744,
+          "id": 22786,
           "letter": "A",
           "text": "cinco eletrões de valência distribuídos por três orbitais.",
           "isCorrect": false
         },
         {
-          "id": 4745,
+          "id": 22787,
           "letter": "B",
           "text": "cinco eletrões de valência distribuídos por duas orbitais.",
           "isCorrect": false
         },
         {
-          "id": 4746,
+          "id": 22788,
           "letter": "C",
           "text": "sete eletrões de valência distribuídos por duas orbitais.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 4747,
+          "id": 22789,
           "letter": "D",
           "text": "sete eletrões de valência distribuídos por quatro orbitais.",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
-      "criteriaText": "4.1. Versão 1 – (d); Versão 2 – (C) .............................................................................................. 5 pontos",
+      "criteriaText": "4.1. ........................................... 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -481,7 +533,7 @@
       "contextText": null
     },
     {
-      "id": 2551,
+      "id": 11425,
       "question_number": "4.2",
       "statement": "4.2. Uma das orbitais de valência mais energéticas de um átomo de cloro, no estado fundamental, pode \nser caracterizada pelo conjunto de números quânticos",
       "question_type": "multiple_choice",
@@ -493,33 +545,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4748,
+          "id": 22790,
           "letter": "A",
           "text": "(3, 1, 0)",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 4749,
+          "id": 22791,
           "letter": "B",
           "text": "(3, 0, 1)",
           "isCorrect": false
         },
         {
-          "id": 4750,
+          "id": 22792,
           "letter": "C",
           "text": "(3, 0, 0)",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 4751,
+          "id": 22793,
           "letter": "D",
           "text": "(3, 1, 2)",
           "isCorrect": false
         }
       ],
-      "criteriaText": "4.2. Versão 1 – (A); Versão 2 – (C) .............................................................................................. 5 pontos",
+      "criteriaText": "4.2. ........................................... 5 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -527,9 +579,9 @@
       "contextText": null
     },
     {
-      "id": 2552,
+      "id": 11426,
       "question_number": "4.3",
-      "statement": "4.3. .................................................................................................. 5 pontos\n45 pontos",
+      "statement": "4.3. Como se designa a energia mínima necessária para remover um eletrão de um átomo de cloro, \nisolado e em fase gasosa, no estado fundamental?",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -538,7 +590,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4.3. ................................................................................................................................................. 5 pontos\nEnergia de ionização [de um átomo de cloro].\n\nProva 715/2.ª F. • Página C/11/ 13\nGRUPO V",
+      "criteriaText": "4.3. ........................................... 5 pontos\n45 pontos\nGRUPO V",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

@@ -4,26 +4,48 @@
   "subject": "Português",
   "year": 2019,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 185,
+      "id": 1445,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 186,
+      "id": 1446,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 187,
+      "id": 1447,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1383,
+      "id": 10449,
+      "question_number": "1",
+      "statement": "1. De acordo com o primeiro parágrafo do texto, a imaginação \n \n(\na\n)\n inibe a capacidade de construir conhecimento sobre o mundo que nos rodeia.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 16 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒ espaço de sonho/espaço da imaginação – «Onde há paisagens que não pode haver» (v. 2)/«Sei, sim, é \nbelo, é longe, é impossível» (v. 13)/«E, ainda que não haja» (v. 15);\n‒ espaço belo, suave e acolhedor – «Tão belas que são como que o veludo» (v. 3);\n‒ espaço perspetivado como promessa de felicidade – «tudo o que é a vida / Tornado amor e luz» (vv. 6-7);\n‒ espaço propiciador da ilusão do amor – «Passa de leve por meu pensamento / E o pensamento julga \nque é amor» (vv. 11-12).\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Apresenta, adequadamente, duas características do espaço descrito no poema, \nexemplificando cada uma delas com uma transcrição pertinente. 10\n3\nApresenta, adequadamente, duas características do espaço descrito no poema, mas \napenas exemplifica uma delas com uma transcrição pertinente.\nOU\nApresenta duas características do espaço descrito no poema, uma adequadamente e \noutra com pequenas imprecisões e/ou omissões, exemplificando cada uma delas com \numa transcrição pertinente.\n8\n2\nApresenta duas características do espaço descrito no poema, uma adequadamente e \noutra com pequenas imprecisões e/ou omissões, mas apenas exemplifica uma delas com \numa transcrição pertinente.\nOU\nApresenta duas características do espaço descrito no poema, ambas com pequenas \nimprecisões e/ou omissões, exemplificando pelo menos uma delas com uma transcrição \npertinente.\nOU\nApresenta, adequadamente, uma característica do espaço descrito no poema, \nexemplificando-a com uma transcrição pertinente.\n5\n1\nApresenta, adequadamente, duas características do espaço descrito no poema, sem as \nexemplificar com transcrições pertinentes.\nOU\nApresenta, com pequenas imprecisões e/ou omissões, uma característica do espaço \ndescrito no poema, exemplificando-a com uma transcrição pertinente.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 1 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
+    },
+    {
+      "id": 10456,
       "question_number": "1",
       "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2019/).",
       "question_type": "open",
@@ -34,9 +56,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Escreve um texto com uma organização pouco satisfatória, recorrendo a insuficientes \nmecanismos de coesão ou mobilizando-os de forma inadequada. 2\n\nCotaçÕES\ngrupo item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -44,9 +66,30 @@
       "contextText": "GRUPO III\nSe algumas pessoas consideram que o acesso rápido e livre à informação é uma mais-valia na sociedade \natual, outras defendem que esta facilidade pode ter um impacto negativo, tanto em termos pessoais como \nsociais.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a problemática apresentada.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 1390,
+      "id": 10450,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7.\n16 16 16 16 16 8 16 104\nII 1. 2. 3. 4. 5. 6. 7.\n8 8 8 8 8 8 8 56\nIII Item único 40\nt\nota\nL 200",
+      "statement": "2. Do ponto de vista do autor , é essencial à atividade criativa\n \n(\na\n)\n a fuga a situações geradoras de fracasso.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 16 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ comparação entre a beleza das ilhas e o «veludo», para sugerir a suavidade/a felicidade que o mundo \npode proporcionar, se existir harmonia/se a tessitura dos seus elementos for harmoniosa;\n‒ enquadramento na temática do sonho e da realidade, na medida em que as ilhas imaginadas permitem \nao sujeito poético vislumbrar um mundo de plenitude a que, no entanto, só pode aceder através do \nsonho.\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Explica o conteúdo dos versos 3 e 4 e relaciona-o com a temática pessoana em evidência \nno poema, abordando dois tópicos de resposta adequadamente. 10\n3\nExplica o conteúdo dos versos 3 e 4 e relaciona-o com a temática pessoana em evidência \nno poema, abordando um tópico de resposta adequadamente e outro com pequenas \nimprecisões e/ou omissões.\n8\n2\nExplica o conteúdo dos versos 3 e 4 e relaciona-o com a temática pessoana em evidência \nno poema, abordando dois tópicos de resposta, ambos com pequenas imprecisões e/ou \nomissões.\nOU\nExplica o conteúdo dos versos 3 e 4, abordando, adequadamente, o primeiro tópico de \nresposta, mas sem estabelecer uma relação com a temática pessoana em evidência no \npoema.\nOU\nExplica a temática pessoana em evidência no poema, abordando, adequadamente, o \nsegundo tópico de resposta, mas sem estabelecer uma relação com o conteúdo dos \nversos 3 e 4.\n5\n1\nExplica o conteúdo dos versos 3 e 4, abordando, com pequenas imprecisões e/ou \nomissões, o primeiro tópico de resposta, mas sem estabelecer uma relação com a \ntemática pessoana em evidência no poema.\nOU\nExplica a temática pessoana em evidência no poema, abordando, com pequenas \nimprecisões e/ou omissões, o segundo tópico de resposta, mas sem estabelecer uma \nrelação com o conteúdo dos versos 3 e 4.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 2 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
+    },
+    {
+      "id": 10457,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados \n– entre duzentas e trezentas e cinquenta palavras –, há \nque atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +98,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais \ndos aspetos indicados neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +108,7 @@
       "contextText": "GRUPO III\nSe algumas pessoas consideram que o acesso rápido e livre à informação é uma mais-valia na sociedade \natual, outras defendem que esta facilidade pode ter um impacto negativo, tanto em termos pessoais como \nsociais.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a problemática apresentada.\nNo seu texto:\n–\n explicite, de forma clara e pertinente, o seu ponto de vista, \nfundamentando-o em dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n–\n utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 1384,
+      "id": 10451,
       "question_number": "3",
       "statement": "3.\n A\n pergunta «Porquê?» (linhas 23, 24 e 28) é fundamental, na medida em que\n \n(\na\n)\n conduz geralmente às respostas desejadas.",
       "question_type": "multiple_choice",
@@ -77,27 +120,27 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2316,
+          "id": 20522,
           "letter": "B",
           "text": "relativiza a curiosidade que nos fica da infância.",
           "isCorrect": false
         },
         {
-          "id": 2317,
+          "id": 20523,
           "letter": "C",
           "text": "alimenta um desejo insaciável de conhecimento.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 2318,
+          "id": 20524,
           "letter": "D",
           "text": "valoriza o sucesso dos resultados alcançados.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "3\nEscreve um texto globalmente bem organizado, em que evidencia domínio dos \nmecanismos de coesão textual, mas em que apresenta falhas pontuais em um ou dois \ndos aspetos indicados neste parâmetro.",
+      "criteriaText": "3. .................................................................................................................................................... 16 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n‒ a afirmação da consciência de que o espaço descrito existe apenas no sonho;\n‒ a afirmação da certeza de que o espaço descrito é um espaço de felicidade, mas também de que, sendo \nfruto do sonho, é inacessível;\n‒ a afirmação da consciência de que o sonho é inerente à essência do sujeito poético.\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Explicita, adequadamente, dois sentidos das anáforas e das suas variantes, tendo em \nconta o desenvolvimento temático do poema. 10\n3\nExplicita dois sentidos das anáforas e das suas variantes, um adequadamente e outro \ncom pequenas imprecisões e/ou omissões, tendo em conta o desenvolvimento temático \ndo poema.\n8\n2\nExplicita, adequadamente, apenas um dos sentidos das anáforas e das suas variantes, \ntendo em conta o desenvolvimento temático do poema.\nOU\nExplicita dois sentidos das anáforas e das suas variantes, ambos com pequenas \nimprecisões e/ou omissões, tendo em conta o desenvolvimento temático do poema.\n5\n1 Explicita, com pequenas imprecisões e/ou omissões, um dos sentidos das anáforas e das \nsuas variantes, tendo em conta o desenvolvimento temático do poema. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 3 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 3).",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -105,7 +148,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
     },
     {
-      "id": 1385,
+      "id": 10452,
       "question_number": "4",
       "statement": "4.\n Ao \nrecorrer às expressões «cartografias mentais» (linha 6) e «para além do horizonte» (linha 29), o autor \nutiliza\n \n(\na\n)\n a metáfora para \nevidenciar o poder da imaginação enquanto meio de sobrevivência, no primeiro caso, \ne a hipérbole para enfatizar a força da imaginação enquanto geradora de frustração, no segundo caso.",
       "question_type": "multiple_choice",
@@ -117,27 +160,27 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2319,
+          "id": 20525,
           "letter": "B",
           "text": "a hipérbole para enfatizar a força da imaginação enquanto geradora de frustração, no primeiro caso, e a metáfora para evidenciar o poder da imaginação enquanto meio de sobrevivência, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 2320,
+          "id": 20526,
           "letter": "C",
           "text": "a metáfora para evidenciar o poder da imaginação enquanto meio de sobrevivência, no primeiro caso, e enquanto motor da evolução, no segundo caso.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 2321,
+          "id": 20527,
           "letter": "D",
           "text": "a hipérb ole para evidenciar o poder da imaginação enquanto meio de sobrevivência, no primeiro caso, e enquanto motor da evolução, no segundo caso.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes parágrafos, corretamente marcados, \ndevidamente proporcionados e articulados entre si de modo consistente;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "criteriaText": "4. .................................................................................................................................................... 16 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ elogio do orador ao comportamento dos peixes, que se mantêm afastados do homem, revelando, por \nessa razão, grande prudência;\n‒ constatação de que o isolamento dos peixes os protege da influência humana/da subjugação humana, \nao contrário do que acontece com os outros animais que, vivendo junto do homem, se deixam domesticar \n(e sofrem devido a essa subjugação).\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4\nJustifica a opinião de Vieira relativamente aos peixes, tendo em conta a comparação entre \no comportamento dos peixes e o dos outros animais, abordando dois tópicos de resposta \nadequadamente.\n10\n3\nJustifica a opinião de Vieira relativamente aos peixes, tendo em conta a comparação entre \no comportamento dos peixes e o dos outros animais, abordando um tópico de resposta \nadequadamente e outro com pequenas imprecisões e/ou omissões.\n8\n2\nJustifica a opinião de Vieira relativamente aos peixes, tendo em conta a comparação entre \no comportamento dos peixes e o dos outros animais, abordando dois tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões.\nOU\nExplicita a opinião de Vieira relativamente aos peixes, abordando, adequadamente, o \nprimeiro tópico de resposta, mas sem ter em conta a comparação entre o comportamento \ndos peixes e o dos outros animais.\nOU\nExplicita a comparação entre o comportamento dos peixes e o dos outros animais, \nabordando, adequadamente, o segundo tópico de resposta, mas sem fazer referência à \nopinião de Vieira relativamente aos peixes.\n5\n1\nExplicita a opinião de Vieira relativamente aos peixes, abordando, com pequenas \nimprecisões e/ou omissões, o primeiro tópico de resposta, mas sem ter em conta a \ncomparação entre o comportamento dos peixes e o dos outros animais.\nOU\nExplicita a comparação entre o comportamento dos peixes e o dos outros animais, \nabordando, com pequenas imprecisões e/ou omissões, o segundo tópico de resposta, \nmas sem fazer referência à opinião de Vieira relativamente aos peixes.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 4 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 3).",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -145,7 +188,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
     },
     {
-      "id": 1386,
+      "id": 10453,
       "question_number": "5",
       "statement": "5.\n As orações subordinadas iniciadas por «que» nas linhas 10 e 16 classificam-se como\n \n(\na\n)\n substantiva completiva, no primeiro caso, e adjetiva relativa explicativa, no segundo caso.",
       "question_type": "multiple_choice",
@@ -157,25 +200,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2322,
+          "id": 20528,
           "letter": "B",
           "text": "adjetiva relativa restritiva, no primeiro caso, e substantiva completiva, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 2323,
+          "id": 20529,
           "letter": "C",
           "text": "substantiva completiva, no primeiro caso, e adjetiva relativa restritiva, no segundo caso.",
           "isCorrect": true
         },
         {
-          "id": 2324,
+          "id": 20530,
           "letter": "D",
           "text": "adjetiva relativa explicativa, no primeiro caso, e substantiva completiva, no segundo caso.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5. .................................................................................................................................................... 16 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ os exemplos apresentam situações do conhecimento geral, facilmente compreendidas, para fundamentar \no conselho do pregador (a distância face aos homens é o que garante a liberdade aos peixes);\n‒ os exemplos enfatizam a ideia de que os animais referidos, apesar de aparentemente viverem bem junto \ndo homem, estão, na realidade, privados da sua liberdade (e são por eles explorados).\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação",
+      "criteriaText": "5. .................................................................................................................................................... 16 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒ os exemplos apresentam situações do conhecimento geral, facilmente compreendidas, para fundamentar \no conselho do pregador (a distância face aos homens é o que garante a liberdade aos peixes);\n‒ os exemplos enfatizam a ideia de que os animais referidos, apesar de aparentemente viverem bem junto \ndo homem, estão, na realidade, privados da sua liberdade (e são por eles explorados).\n•  Aspetos de conteúdo (C) .................................................................................... 10 pontos\nNíveis descritores de desempenho Pontuação\n4 Comprova a pertinência dos exemplos apresentados por Vieira, abordando dois tópicos \nde resposta adequadamente. 10\n3 Comprova a pertinência dos exemplos apresentados por Vieira, abordando um tópico de \nresposta adequadamente e outro com pequenas imprecisões e/ou omissões. 8\n2\nComprova a pertinência dos exemplos apresentados por Vieira, abordando dois tópicos \nde resposta, ambos com pequenas imprecisões e/ou omissões.\nOU\nComprova a pertinência dos exemplos apresentados por Vieira, abordando, \nadequadamente, apenas um dos tópicos de resposta.\n5\n1 Comprova a pertinência dos exemplos apresentados por Vieira, abordando, com pequenas \nimprecisões e/ou omissões, apenas um dos tópicos de resposta. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 6 pontos\n• Estruturação do discurso1 ............................................................ 2 pontos\nNíveis descritores de desempenho Pontuação\n2 Os mecanismos de coesão textual utilizados asseguram, adequadamente, a progressão \ne o encadeamento das ideias. 2\n1 Os mecanismos de coesão textual utilizados asseguram, com alguma descontinuidade, a \nprogressão e o encadeamento das ideias. 1\n• Correção linguística2 5 ................................................................... 4 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 3).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -185,7 +228,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
     },
     {
-      "id": 1387,
+      "id": 10454,
       "question_number": "6",
       "statement": "6.\n Identifique as funções sintáticas desempenhadas pelas expressões:\na)\n «de palavras, cores ou números» (linhas 17 e 18);\nb)\n «os momentos em que os nossos inspirados \nArquimedes gritam “Eureca!” no banho» (linhas 18 e 19).",
       "question_type": "open",
@@ -196,7 +239,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6. .................................................................................................................................................... 8 pontos\na) Complemento do nome; b) Complemento direto.\nNíveis descritores de desempenho Pontuação",
+      "criteriaText": "6. .................................................................................................................................................... 8 pontos\na) 1; b) 4.\nNíveis descritores de desempenho Pontuação\n2 Seleciona as duas opções corretas. 8\n1 Seleciona uma opção correta. 4",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -206,7 +249,28 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nSegundo a teoria de Darwin, a imaginação humana é um instrumento de sobrevivência. \nPara melhor compreender o mundo e, por conseguinte, estar mais preparado para lidar com \nas suas rasteiras e os seus perigos, o Homo sapiens desenvolveu a capacidade de reconstruir \na realidade exterior na mente e de conceber situações com que pudesse confrontar-se antes \nde realmente se deparar com elas. Conscientes de nós mesmos e do mundo à nossa volta, \nsomos capazes de construir cartografias mentais desses territórios, de os explorar num número \ninfinito de maneiras e, depois, de escolher a melhor e mais eficaz. Imaginamos para existir, e \nsomos curiosos para satisfazer o nosso desejo imaginativo.\nA imaginação, enquanto atividade criativa essencial, desenvolve-se com a prática; não por \nmeio de êxitos, que são conclusões e, portanto, becos sem saída, mas por meio de fracassos, \npor meio de tentativas que se mostram erradas e que exigem novas tentativas que, também \nelas, se os astros forem bondosos, conduzirão a novos fracassos. A história da arte e da \nliteratura, como a da filosofia e da ciência, é a história desses fracassos iluminados. «Falhar. \nTentar outra vez. Falhar melhor.», foi o resumo de Beckett. \nContudo, para falhar melhor, temos de ser capazes de reconhecer, imaginativamente, os \nerros e as incongruências. Temos de ser capazes de perceber que tal e tal caminho não \nnos conduzem na direção ambicionada, ou que tal e tal combinação de palavras, cores ou \nnúmeros não se aproxima da visão intuída na nossa mente. Recordamos com orgulho os \nmomentos em que os nossos inspirados Arquimedes gritam «Eureca!» no banho; somos \nmenos propensos a recordar os muitos mais momentos em que eles, como o pintor Frenhofer \nda história de Balzac, olham para a sua obra-prima desconhecida e dizem: «Nada, nada!... \nNão terei produzido nada!». Através desses poucos momentos de triunfo e desses muitos mais \nmomentos de derrota, perpassa a grande pergunta da imaginação: «Porquê?».\n«Porquê?» (nas suas muitas variações) é uma pergunta assaz mais importante na sua \nformulação do que na expectativa de uma resposta. O próprio facto de a colocarmos abre \ninúmeras possibilidades, pode acabar com preconceitos, resumir infindáveis dúvidas profícuas. \nPode desencadear respostas hesitantes, mas, se a pergunta for suficientemente poderosa, \nnenhuma dessas respostas se revelará suficiente. «Porquê?», como as crianças intuem, é \numa pergunta que situa, sempre e implicitamente, o nosso objetivo para além do horizonte.\nAlberto Manguel, Uma História da Curiosidade, Lisboa, \nTinta-da-China, 2015, pp. 11-12. (Texto adaptado)"
     },
     {
-      "id": 1388,
+      "id": 10448,
+      "question_number": "7",
+      "statement": "7. Do diálogo de José Saramago com o «passado» emerge, em romances como Memorial do Convento e \nO Ano da Morte de Ricardo Reis, uma visão crítica sobre o tempo histórico representado e sobre a \nsociedade desse tempo.\nEscreva uma breve exposição na qual comprove a afirmação anterior, baseando-se na sua experiência de \nleitura de um dos romances mencionados.\nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um desenvolvim\nento no qual explicite dois aspetos que são objeto de crítica pelo narrador, fundamentando \ncada um desses aspetos em, pelo menos, um exemplo pertinente;\n•  uma conclusão adequada ao desenvolvimento do tema.\nComece por indicar, na folha de respostas, o título da obra por si selecionada.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "7. .................................................................................................................................................... 16 pontos\nRelativamente à obra selecionada, devem ser abordados dois dos tópicos seguintes, ou outros igualmente \nrelevantes.\nEm Memorial do Convento, é evidente o olhar crítico do narrador sobre:\n‒ a prepotência do rei D. João V, patente, por exemplo, no recrutamento compulsivo de homens de todo \no país, escravizados e vivendo em condições miseráveis;\n‒ a ostentação/megalomania do monarca português, patente, por exemplo, na sucessiva ampliação do \nConvento de Mafra e na importação de materiais e objetos diversos;\n‒ a violência/a opressão exercida pela Inquisição, patente, por exemplo, nos autos de fé;\n‒ o contraste entre a miséria do povo e a riqueza/a opulência do rei D. João V e da Igreja, patente, por \nexemplo, no facto de Baltasar e Blimunda dormirem no chão, enquanto o rei encomenda uma cama \nluxuosa/dispendiosa para a rainha.\nEm O Ano da Morte de Ricardo Reis, é evidente o olhar crítico do narrador sobre:\n‒ a opressão vivida durante o Estado Novo, patente, por exemplo, no controlo exercido pela PVDE/pela \npolícia política sobre a população e na existência de delatores;\n‒ a repressão de manifestações de revolta, como a que ocorreu durante a sublevação dos marinheiros;\n‒ a manipulação da informação transmitida pelos meios de comunicação social, por exemplo, sobre as \nnotícias da guerra na Europa;\n‒ a propaganda política, patente, por exemplo, no enaltecimento de Salazar, perspetivado como um \nmodelo para os outros países/como o «salvador» da pátria.\n\n•  Aspetos de conteúdo (C) .................................................................................... 9 pontos\nNíveis descritores de desempenho Pontuação\n4 Explicita, adequadamente, dois aspetos que são objeto de crítica pelo narrador, \nfundamentando cada um deles com um exemplo pertinente. 9\n3\nExplicita, adequadamente, dois aspetos que são objeto de crítica pelo narrador, mas \napenas fundamenta um deles com um exemplo pertinente.\nOU\nExplicita dois aspetos que são objeto de crítica pelo narrador, um adequadamente e \noutro com pequenas imprecisões e/ou omissões, fundamentando cada um deles com um \nexemplo pertinente.\n7\n2\nExplicita, adequadamente, dois aspetos que são objeto de crítica pelo narrador, mas sem \nos fundamentar com exemplos pertinentes.\nOU\nExplicita dois aspetos que são objeto de crítica pelo narrador, ambos com pequenas \nimprecisões e/ou omissões, fundamentando cada um deles com um exemplo pertinente.\nOU\nExplicita, adequadamente, um aspeto que é objeto de crítica pelo narrador, \nfundamentando-o com um exemplo pertinente.\n5\n1\nExplicita, adequadamente, um aspeto que é objeto de crítica pelo narrador, sem o \nfundamentar com um exemplo pertinente.\nOU\nExplicita, com pequenas imprecisões e/ou omissões, um aspeto que é objeto de crítica \npelo narrador, fundamentando-o com um exemplo pertinente.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 7 pontos\n• Estruturação do discurso1 ............................................................ 4 pontos\nNíveis descritores de desempenho Pontuação\n4\nEscreve um texto bem estruturado, constituído por três partes (introdução, desenvolvimento \ne conclusão) devidamente proporcionadas e assegurando, adequadamente, a progressão \ne o encadeamento das ideias.\n4\n3\nEscreve um texto globalmente bem estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção ou apresentando falhas \npontuais no que diz respeito à progressão e ao encadeamento das ideias.\n3\n2\nEscreve um texto suficientemente estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e apresentando falhas \npontuais no que diz respeito à progressão e ao encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado, apresentando diversas falhas no que diz \nrespeito à progressão e ao encadeamento das ideias. 1\n• Correção linguística2 6 ................................................................... 3 pontos\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 Vide Fatores de desvalorização no âmbito da correção linguística (p. 3).\n\nGRUPO IIP ................................................................................................................................... 56 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\n5\n10\n15\n20\nBem sei que há ilhas lá ao sul de tudo\nOnde há paisagens que não pode haver.\nTão belas que são como que o veludo\nDo tecido que o mundo pode ser.\nBem sei. Vegetações olhando o mar,\nCoral, encostas, tudo o que é a vida\nTornado amor e luz, o que o sonhar\nDá à imaginação anoitecida.\nBem sei. Vejo isso tudo. O mesmo vento\nQue ali agita os ramos em torpor\nPassa de leve por meu pensamento\nE o pensamento julga que é amor.\nSei, sim, é belo, é longe, é impossível,\nExiste, dorme, tem a cor e o fim,\nE, ainda que não haja, é tão visível\nQue é uma parte natural de mim.\nSei tudo, sei, sei tudo. E sei também\nQue não é lá que há isso que lá está.\nSei qual é a luz que essa paisagem tem\nE qual a rota que nos leva lá.\nFernando Pessoa, Poesia do Eu, edição de Richard Zenith, \n2.ª ed., Lisboa, Assírio & Alvim, 2008, pp. 314-315.\n1. Nas três primeiras estrofes, o sujeito poético descreve um lugar idealizado.\nApresente \nduas características desse espaço e exemplifique cada uma delas com uma transcrição \npertinente.\n2.\n Explique o conteúdo dos versos 3 e 4 e relacione-o com a temática pessoana em evidência no poema.\n3.\n Explicite dois sentidos das anáforas e das suas variantes\n (versos 1, 5, 9, 13, 17 e 19), tendo em conta o \ndesenvolvimento temático do poema.\n\nPart E B\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\nFalando dos peixes, Aristóteles diz que só eles, entre todos os animais, se não domam \nnem domesticam. Dos animais terrestres, o cão é tão doméstico, o cavalo tão sujeito, o boi tão \nserviçal, o bugio\n1 tão amigo ou tão lisonjeiro, e até os leões e os tigres com arte e benefícios se \namansam. Dos animais do ar, afora aquelas aves que se criam e vivem connosco, o papagaio \nnos fala, o rouxinol nos canta, o açor nos ajuda e nos recreia; e até as grandes aves de \nrapina, encolhendo as unhas, reconhecem a mão de quem recebem o sustento. Os peixes, \npelo contrário, lá se vivem nos seus mares e rios, lá se mergulham nos seus pegos\n2, lá se \nescondem nas suas grutas, e não há nenhum tão grande que se fie do homem, nem tão \npequeno que não fuja dele. Os Autores comummente condenam esta condição dos peixes, \ne a deitam à pouca docilidade ou demasiada bruteza; mas eu sou de mui diferente opinião. \nNão condeno, antes louvo muito aos peixes este seu retiro, e me parece que, se não fora \nnatureza, era grande prudência. Peixes! Quanto mais longe dos homens, tanto melhor; \ntrato e familiaridade com eles, Deus vos livre! Se os animais da terra e do ar querem ser \nseus familiares, façam-no muito embora, que com suas pensões\n3 o fazem. Cante-lhes aos \nhomens o rouxinol, mas na sua gaiola; diga-lhes ditos o papagaio, mas na sua cadeia; vá com \neles à caça o açor, mas nas suas piozes\n4; faça-lhes bufonerias 5 o bugio, mas no seu cepo; \ncontente-se o cão de lhes roer um osso, mas levado onde não quer pela trela; preze-se o boi \nde lhe chamarem fermoso ou fidalgo, mas com o jugo sobre a cerviz 6, puxando pelo arado e \npelo carro; glorie-se o cavalo de mastigar freios dourados, mas debaixo da vara e da espora; \ne se os tigres e os leões lhes comem a ração da carne que não caçaram nos bosques, sejam \npresos e encerrados com grades de ferro. E entretanto vós, peixes, longe dos homens e fora \ndessas cortesanias\n7, vivereis só convosco, sim, mas como peixe na água. De casa e das \nportas adentro tendes o exemplo de toda esta verdade, o qual vos quero lembrar, porque há \nFilósofos que dizem que não tendes memória.\nPadre António Vieira, Sermão de Santo António (aos peixes) e Sermão da Sexagésima, \nedição de Margarida Vieira Mendes, Lisboa, Seara Nova, 1978, pp. 73-74.\nNotaS\n1bugio – espécie de macaco.\n2pegos – locais onde os rios ou os mares são mais profundos.\n3pensões – obrigações; encargos.\n4piozes – correntes colocadas nas patas de algumas aves de caça.\n5bufonerias – graçolas; caretas.\n6cerviz – parte posterior do pescoço.\n7cortesanias – hábitos de cortesãos.\n4. «Os Autores comummente condenam esta condição dos peixes, e a deitam à pouca docilidade ou \ndemasiada bruteza; mas eu sou de mui diferente opinião.» (linhas 9 e 10).\nJustifique a opinião de Vieira relativamente aos peixes, tendo em conta a comparação entre o comportamento \ndos peixes e o dos outros animais (linhas 1 a 12).\n\n5. «Peixes! Quanto mais longe dos homens, tanto melhor; trato e familiaridade com eles, Deus vos livre!» \n(linhas 12 e 13).\nComprove a pertinência dos exemplos apresentados por Vieira (linhas 14 a 21) para fundamentar este \nconselho dado aos peixes.\n6.\n Complete as \nafirmações abaixo apresentadas, selecionando da tabela a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras e o número que corresponde à opção selecionada em cada \num dos casos.\nUm dos objetivos da oratória é delectare, ou seja, agradar ao auditório; para o alcançar, nas linhas 14 a 21, \nentre outros processos, Vieira socorre-se de uma construção na qual existe uma\n ______a)____, que contribui \npara uma evidente\n ______b)____ do discurso.\na) b)"
+    },
+    {
+      "id": 10455,
       "question_number": "7",
       "statement": "7.\n Indique a modalidade e o valor modal expressos em «temos de ser capazes de reconhecer\n, imaginativamente, \nos erros e as incongruências» (linhas 15 e 16).",
       "question_type": "open",
@@ -217,9 +281,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. .................................................................................................................................................... 8 pontos\n(modalidade) deôntica (com valor) de obrigação.\nNíveis descritores de desempenho Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",

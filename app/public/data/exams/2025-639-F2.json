@@ -4,29 +4,30 @@
   "subject": "Português",
   "year": 2025,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 18,
+      "id": 1334,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 19,
+      "id": 1335,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 20,
+      "id": 1336,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 172,
+      "id": 9558,
       "question_number": "1",
-      "statement": "1. 2. 4. 5. 7. 1. 2. 5. 6.\nCotação (em pontos) 13 13 13 13 13 13 13 13 13 44 161\nDestes 5 itens, contribuem para a \nclassificação final da prova os 3 itens cujas \nrespostas obtenham melhor pontuação.\nI II\nSubtotal",
-      "question_type": "open",
+      "statement": "1. A designada Gruta de Camões, em Macau, surpreende",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -34,19 +35,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+      "criteriaText": "1. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n − o sujeito poético questiona-se sobre o alegado «mistério das cousas», que não é visível na natureza \n(«Onde está ele que não aparece / Pelo menos a mostrar-nos que é mistério?» – vv. 2-3), dando a \nentender que este não existe;\n − o riso irónico deve-se ao facto de o sujeito poético se distinguir dos outros homens, que, através do \npensamento, atribuem significados ocultos às coisas (vv. 6-7), quando os «sentidos»/as sensações são \no único caminho para o conhecimento objetivo do mundo.\n \n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNível Descritor de desempenho Pontuação\n5\nRefere os motivos do riso irónico do sujeito poético, abordando, adequadamente, os dois \ntópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nRefere os motivos do riso irónico do sujeito poético, abordando, adequadamente, os dois \ntópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRefere os motivos do riso irónico do sujeito poético, abordando os dois tópicos de resposta, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nRefere os motivos do riso irónico do sujeito poético, abordando os dois tópicos de resposta, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRefere os motivos do riso irónico do sujeito poético, abordando os dois tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\nOU\nRefere um dos motivos do riso irónico do sujeito poético, abordando, adequadamente, \napenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNível Descritor de desempenho Pontuação\n2\nRefere os motivos do riso irónico do sujeito poético, abordando os dois tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRefere um dos motivos do riso irónico do sujeito poético, abordando, adequadamente, \napenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n1\nRefere um dos motivos do riso irónico do sujeito poético, abordando, com pequenas \nimprecisões e/ou omissões, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ... .............................................................. 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta palavras, \nfaça a apreciação crítica do cartoon «Reflorestação», da autoria de Victor Solís.\nNo seu texto, deve incluir:\n  − a descrição da cena apresentada, \ndestacando \nelementos significativos da \ncomposição da imagem;\n  − um comentário \ncrítico, fundamentando \na sua apreciação em, pelo menos, três \naspetos relevantes e utilizando um \ndiscurso valorativo;\n  −\n uma conclusão\n adequada aos pontos de \nvista \ndesenvolvidos.\nWorld Press Cartoon – Caldas da Rainha 2022, p. 143.\nObservações:"
+      "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\nUm busto de bronze de um português antigo entre umas rochas num jardim do Extremo \nOriente. O que é isto, como se compreende isto? Wenceslau de Moraes deixou-nos uma \ndescrição deste jardim tal como o encontrou em 1890: «Pedras amontoadas sobre pedras, \nconstituindo um pequeno outeiro eriçado de arestas musgosas; abraçando-se ao granito, \nestendendo as raízes por entre os negros mamelões¹, soberbas árvores seculares; tal é o que \nem Macau se chama a Gruta de Camões, e que já de longe destaca, na aridez quase uniforme \nda costa, como um grande ramalhete de verdura.»\nNão há grandiloquência neste texto. O Camões-histórico é referido como «um pobre \nprocurador dos defuntos e ausentes» que deambulava por aquelas bandas e se refugiava à \nsombra de três grandes pedras, a suposta «gruta». A cidade de Macau, «pequenino domínio» \nportuguês, vê-se reduzida a «uma língua de rocha, apenas percetível nas cartas geográficas». \nE, no entanto, este jardim tem uma qualquer grandeza, e essa grandeza vem do «encanto \nnatural da posição dominante», dos «horizontes vastos», «da vegetação vigorosa que aqui \nencontra asilo, conchegada com as rochas contra a fúria inclemente dos tufões». O texto não é \numa apoteose² camoniana, e ainda menos um ditirambo³ imperial; imbuído do espírito japonês, \nMoraes mostra-se sobretudo tocado pela serenidade de um jardim inesperado, «a face limosa⁴ \ndas pedras abruptas», «a solidão das áleas⁵ sombreadas», «o encanto dos panoramas» \nde onde se veem as casas negras, a azáfama do porto, o fogo de artifício. Esta evocação \npaisagística abdica da faceta «patriótica», mas não deixa de ter o turbulento Camões como \nimprovável patrono daquela tranquilidade, daquela ausência momentânea de amargura, que \nele próprio nunca experimentou, e que nos deixa «compenetrados no respeito das coisas».\nTrês décadas mais tarde, a 10 de junho de 1924, outro grande «asiático» português, \nCamilo Pessanha, proferiu uma conferência intitulada «Macau e a gruta de Camões». Apesar \nda ocasião oficial, Pessanha evita igualmente o tom nacionalista. A grande questão que o \npreocupa é a possibilidade ou impossibilidade de um poeta continuar a ser poeta em terras \ndistantes, uma vez que «a inspiração poética é emotividade, educada, desde a infância e \ncom profundas raízes, no húmus⁶ do solo natal». Pessanha tem um entendimento bucólico, \nlocalista, da poesia, ou da sua origem, e não esconde o seu ceticismo: não há verdadeira \ncapacidade poética quando a pátria está distante. A gruta de Camões suscita-lhe então uma \nideia original: a do génio como ilusão de estar em casa.\nPedro Mexia, «Camões em Macau», Lá Fora, Lisboa, Edições Tinta-da-china, 2018, pp. 86-87.\nNOTAS\n1 mamelões – colinas; outeiros.\n2 apoteose – homenagem grandiosa.\n3 ditirambo – poesia de carácter elogioso.\n4 limosa – coberta de algas.\n5 áleas – ruas ladeadas por árvores.\n6 húmus – matéria orgânica resultante da decomposição de detritos vegetais e animais."
     },
     {
-      "id": 173,
-      "question_number": "2",
-      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n  − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n  −um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "id": 9565,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2025/).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +56,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +66,49 @@
       "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta palavras, \nfaça a apreciação crítica do cartoon «Reflorestação», da autoria de Victor Solís.\nNo seu texto, deve incluir:\n  − a descrição da cena apresentada, \ndestacando \nelementos significativos da \ncomposição da imagem;\n  − um comentário \ncrítico, fundamentando \na sua apreciação em, pelo menos, três \naspetos relevantes e utilizando um \ndiscurso valorativo;\n  −\n uma conclusão\n adequada aos pontos de \nvista \ndesenvolvidos.\nWorld Press Cartoon – Caldas da Rainha 2022, p. 143.\nObservações:"
     },
     {
-      "id": 174,
+      "id": 9559,
+      "question_number": "2",
+      "statement": "2. No contexto em que ocorre, a sequência «E, no entanto» (linha 12) permite estabelecer uma comparação",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes.\nO «eu» e os outros homens têm modos distintos de conhecer a natureza:\n − os outros homens buscam a compreensão do que está além do observável – o «sentido oculto das \ncousas» (v. 8) – através da imaginação (como é o caso dos poetas), ou do pensamento (como é o \ncaso dos filósofos), pelo que acrescentam sentidos (subjetivos ou simbólicos) às coisas;\n − o «eu», porém, defende que o conhecimento da natureza advém exclusivamente do que é apreendido \npelos sentidos, na medida em que as coisas apenas existem, «não têm significação» (v. 16).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................. 10 pontos\nNível Descritor de desempenho Pontuação\n5\nExplicita em que consiste a oposição entre o «eu» e os outros homens, relativamente ao \nmodo como se constrói o conhecimento das «cousas», abordando os dois tópicos, ambos \nadequadamente.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nExplicita em que consiste a oposição entre o «eu» e os outros homens, relativamente ao \nmodo como se constrói o conhecimento das «cousas», abordando os dois tópicos, ambos \nadequadamente.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita em que consiste a oposição entre o «eu» e os outros homens, relativamente \nao modo como se constrói o conhecimento das «cousas», abordando um tópico \nadequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nExplicita em que consiste a oposição entre o «eu» e os outros homens, relativamente \nao modo como se constrói o conhecimento das «cousas», abordando um tópico \nadequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita em que consiste a oposição entre o «eu» e os outros homens, relativamente ao \nmodo como se constrói o conhecimento das «cousas», abordando os dois tópicos, ambos \ncom pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNível Descritor de desempenho Pontuação\n2\nExplicita em que consiste a oposição entre o «eu» e os outros homens, relativamente ao \nmodo como se constrói o conhecimento das «cousas», abordando os dois tópicos, ambos \ncom pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n1\nRefere o modo como o «eu» ou os outros homens constrói/constroem o conhecimento \ndas «cousas», mas sem explicitar em que consiste a oposição.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ... ............................................................. 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\nUm busto de bronze de um português antigo entre umas rochas num jardim do Extremo \nOriente. O que é isto, como se compreende isto? Wenceslau de Moraes deixou-nos uma \ndescrição deste jardim tal como o encontrou em 1890: «Pedras amontoadas sobre pedras, \nconstituindo um pequeno outeiro eriçado de arestas musgosas; abraçando-se ao granito, \nestendendo as raízes por entre os negros mamelões¹, soberbas árvores seculares; tal é o que \nem Macau se chama a Gruta de Camões, e que já de longe destaca, na aridez quase uniforme \nda costa, como um grande ramalhete de verdura.»\nNão há grandiloquência neste texto. O Camões-histórico é referido como «um pobre \nprocurador dos defuntos e ausentes» que deambulava por aquelas bandas e se refugiava à \nsombra de três grandes pedras, a suposta «gruta». A cidade de Macau, «pequenino domínio» \nportuguês, vê-se reduzida a «uma língua de rocha, apenas percetível nas cartas geográficas». \nE, no entanto, este jardim tem uma qualquer grandeza, e essa grandeza vem do «encanto \nnatural da posição dominante», dos «horizontes vastos», «da vegetação vigorosa que aqui \nencontra asilo, conchegada com as rochas contra a fúria inclemente dos tufões». O texto não é \numa apoteose² camoniana, e ainda menos um ditirambo³ imperial; imbuído do espírito japonês, \nMoraes mostra-se sobretudo tocado pela serenidade de um jardim inesperado, «a face limosa⁴ \ndas pedras abruptas», «a solidão das áleas⁵ sombreadas», «o encanto dos panoramas» \nde onde se veem as casas negras, a azáfama do porto, o fogo de artifício. Esta evocação \npaisagística abdica da faceta «patriótica», mas não deixa de ter o turbulento Camões como \nimprovável patrono daquela tranquilidade, daquela ausência momentânea de amargura, que \nele próprio nunca experimentou, e que nos deixa «compenetrados no respeito das coisas».\nTrês décadas mais tarde, a 10 de junho de 1924, outro grande «asiático» português, \nCamilo Pessanha, proferiu uma conferência intitulada «Macau e a gruta de Camões». Apesar \nda ocasião oficial, Pessanha evita igualmente o tom nacionalista. A grande questão que o \npreocupa é a possibilidade ou impossibilidade de um poeta continuar a ser poeta em terras \ndistantes, uma vez que «a inspiração poética é emotividade, educada, desde a infância e \ncom profundas raízes, no húmus⁶ do solo natal». Pessanha tem um entendimento bucólico, \nlocalista, da poesia, ou da sua origem, e não esconde o seu ceticismo: não há verdadeira \ncapacidade poética quando a pátria está distante. A gruta de Camões suscita-lhe então uma \nideia original: a do génio como ilusão de estar em casa.\nPedro Mexia, «Camões em Macau», Lá Fora, Lisboa, Edições Tinta-da-china, 2018, pp. 86-87.\nNOTAS\n1 mamelões – colinas; outeiros.\n2 apoteose – homenagem grandiosa.\n3 ditirambo – poesia de carácter elogioso.\n4 limosa – coberta de algas.\n5 áleas – ruas ladeadas por árvores.\n6 húmus – matéria orgânica resultante da decomposição de detritos vegetais e animais."
+    },
+    {
+      "id": 9566,
+      "question_number": "2",
+      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n  − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n  −um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta palavras, \nfaça a apreciação crítica do cartoon «Reflorestação», da autoria de Victor Solís.\nNo seu texto, deve incluir:\n  − a descrição da cena apresentada, \ndestacando \nelementos significativos da \ncomposição da imagem;\n  − um comentário \ncrítico, fundamentando \na sua apreciação em, pelo menos, três \naspetos relevantes e utilizando um \ndiscurso valorativo;\n  −\n uma conclusão\n adequada aos pontos de \nvista \ndesenvolvidos.\nWorld Press Cartoon – Caldas da Rainha 2022, p. 143.\nObservações:"
+    },
+    {
+      "id": 9560,
       "question_number": "3",
       "statement": "3.\n Na conferência proferida em 10 de junho de 1924, Camilo Pessanha defende que",
       "question_type": "multiple_choice",
@@ -77,31 +120,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 278,
+          "id": 18875,
           "letter": "A",
           "text": "a genialidade poética está associada a uma profunda ligação à terra natal.",
           "isCorrect": false
         },
         {
-          "id": 279,
+          "id": 18876,
           "letter": "B",
           "text": "a inspiração poética é intensificada quando o poeta está ausente da pátria.",
           "isCorrect": false
         },
         {
-          "id": 280,
+          "id": 18877,
           "letter": "C",
           "text": "a inspiração de Camões em terras distantes só se pode explicar pela saudade.",
           "isCorrect": false
         },
         {
-          "id": 281,
+          "id": 18878,
           "letter": "D",
           "text": "a genialidade de Camões é influenciada pelo sentimento nacionalista.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "3. 6. 3. 4. 7.\nCotação (em pontos) 3 × 13 pontos 39\nTOTAL 200",
+      "criteriaText": "3. .................................................................................................................................................... 13 pontos\nVersão 1 ‒ A, D e E\nVersão 2 ‒ B, C e E \n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -111,7 +154,7 @@
       "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\nUm busto de bronze de um português antigo entre umas rochas num jardim do Extremo \nOriente. O que é isto, como se compreende isto? Wenceslau de Moraes deixou-nos uma \ndescrição deste jardim tal como o encontrou em 1890: «Pedras amontoadas sobre pedras, \nconstituindo um pequeno outeiro eriçado de arestas musgosas; abraçando-se ao granito, \nestendendo as raízes por entre os negros mamelões¹, soberbas árvores seculares; tal é o que \nem Macau se chama a Gruta de Camões, e que já de longe destaca, na aridez quase uniforme \nda costa, como um grande ramalhete de verdura.»\nNão há grandiloquência neste texto. O Camões-histórico é referido como «um pobre \nprocurador dos defuntos e ausentes» que deambulava por aquelas bandas e se refugiava à \nsombra de três grandes pedras, a suposta «gruta». A cidade de Macau, «pequenino domínio» \nportuguês, vê-se reduzida a «uma língua de rocha, apenas percetível nas cartas geográficas». \nE, no entanto, este jardim tem uma qualquer grandeza, e essa grandeza vem do «encanto \nnatural da posição dominante», dos «horizontes vastos», «da vegetação vigorosa que aqui \nencontra asilo, conchegada com as rochas contra a fúria inclemente dos tufões». O texto não é \numa apoteose² camoniana, e ainda menos um ditirambo³ imperial; imbuído do espírito japonês, \nMoraes mostra-se sobretudo tocado pela serenidade de um jardim inesperado, «a face limosa⁴ \ndas pedras abruptas», «a solidão das áleas⁵ sombreadas», «o encanto dos panoramas» \nde onde se veem as casas negras, a azáfama do porto, o fogo de artifício. Esta evocação \npaisagística abdica da faceta «patriótica», mas não deixa de ter o turbulento Camões como \nimprovável patrono daquela tranquilidade, daquela ausência momentânea de amargura, que \nele próprio nunca experimentou, e que nos deixa «compenetrados no respeito das coisas».\nTrês décadas mais tarde, a 10 de junho de 1924, outro grande «asiático» português, \nCamilo Pessanha, proferiu uma conferência intitulada «Macau e a gruta de Camões». Apesar \nda ocasião oficial, Pessanha evita igualmente o tom nacionalista. A grande questão que o \npreocupa é a possibilidade ou impossibilidade de um poeta continuar a ser poeta em terras \ndistantes, uma vez que «a inspiração poética é emotividade, educada, desde a infância e \ncom profundas raízes, no húmus⁶ do solo natal». Pessanha tem um entendimento bucólico, \nlocalista, da poesia, ou da sua origem, e não esconde o seu ceticismo: não há verdadeira \ncapacidade poética quando a pátria está distante. A gruta de Camões suscita-lhe então uma \nideia original: a do génio como ilusão de estar em casa.\nPedro Mexia, «Camões em Macau», Lá Fora, Lisboa, Edições Tinta-da-china, 2018, pp. 86-87.\nNOTAS\n1 mamelões – colinas; outeiros.\n2 apoteose – homenagem grandiosa.\n3 ditirambo – poesia de carácter elogioso.\n4 limosa – coberta de algas.\n5 áleas – ruas ladeadas por árvores.\n6 húmus – matéria orgânica resultante da decomposição de detritos vegetais e animais."
     },
     {
-      "id": 175,
+      "id": 9561,
       "question_number": "4",
       "statement": "4.\n As palavras sublinhadas \nnas sequências «tal como o encontrou» (linha 3) e «uma qualquer grandeza, e \nessa grandeza» (linha 12) são mecanismos que contribuem para a coesão",
       "question_type": "multiple_choice",
@@ -123,31 +166,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 282,
+          "id": 18879,
           "letter": "A",
           "text": "lexical por substituição, no primeiro caso, e lexical por reiteração, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 283,
+          "id": 18880,
           "letter": "B",
           "text": "gramatical referencial, no primeiro caso, e gramatical frásica, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 284,
+          "id": 18881,
           "letter": "C",
           "text": "lexical por substituição, no primeiro caso, e gramatical frásica, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 285,
+          "id": 18882,
           "letter": "D",
           "text": "gramatical referencial, no primeiro caso, e lexical por reiteração, no segundo caso.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "criteriaText": "4. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n − a afirmação evidencia o contraste que seria de esperar entre as ações dos homens, dotados de pensamento \ne do uso do raciocínio, e as ações dos peixes, seres desprovidos de razão;\n − contudo, no episódio da vida de Santo António, relatado entre as linhas 1 e 13, foram os homens a revelar \num comportamento irracional (que os aproximava das feras) ao perseguir, ferozmente, António, enquanto \nos peixes revelaram respeito e devoção pela palavra de Deus, escutando o Santo, em silêncio e quietação, \ncomo se fossem capazes de o entender.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)\n1 ............................ 10 pontos\nNível Descritor de desempenho Pontuação\n5\nRelaciona o sentido da afirmação com o episódio da vida de Santo António evocado nas \nlinhas de 1 a 13, abordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nRelaciona o sentido da afirmação com o episódio da vida de Santo António evocado nas \nlinhas de 1 a 13, abordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRelaciona o sentido da afirmação com o episódio da vida de Santo António evocado nas \nlinhas de 1 a 13, abordando os dois tópicos de resposta, um adequadamente e outro com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nRelaciona o sentido da afirmação com o episódio da vida de Santo António evocado nas \nlinhas de 1 a 13, abordando os dois tópicos de resposta, um adequadamente e outro com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRelaciona o sentido da afirmação com o episódio da vida de Santo António evocado \nnas linhas de 1 a 13, abordando os dois tópicos de resposta, ambos com pequenas \nimprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n2\nRelaciona o sentido da afirmação com o episódio da vida de Santo António evocado \nnas linhas de 1 a 13, abordando os dois tópicos de resposta, ambos com pequenas \nimprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n1\nRefere-se ao sentido da afirmação e ao episódio da vida de Santo António evocado nas \nlinhas de 1 a 13, mas sem os relacionar.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ... ............................................................. 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -157,7 +200,7 @@
       "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\nUm busto de bronze de um português antigo entre umas rochas num jardim do Extremo \nOriente. O que é isto, como se compreende isto? Wenceslau de Moraes deixou-nos uma \ndescrição deste jardim tal como o encontrou em 1890: «Pedras amontoadas sobre pedras, \nconstituindo um pequeno outeiro eriçado de arestas musgosas; abraçando-se ao granito, \nestendendo as raízes por entre os negros mamelões¹, soberbas árvores seculares; tal é o que \nem Macau se chama a Gruta de Camões, e que já de longe destaca, na aridez quase uniforme \nda costa, como um grande ramalhete de verdura.»\nNão há grandiloquência neste texto. O Camões-histórico é referido como «um pobre \nprocurador dos defuntos e ausentes» que deambulava por aquelas bandas e se refugiava à \nsombra de três grandes pedras, a suposta «gruta». A cidade de Macau, «pequenino domínio» \nportuguês, vê-se reduzida a «uma língua de rocha, apenas percetível nas cartas geográficas». \nE, no entanto, este jardim tem uma qualquer grandeza, e essa grandeza vem do «encanto \nnatural da posição dominante», dos «horizontes vastos», «da vegetação vigorosa que aqui \nencontra asilo, conchegada com as rochas contra a fúria inclemente dos tufões». O texto não é \numa apoteose² camoniana, e ainda menos um ditirambo³ imperial; imbuído do espírito japonês, \nMoraes mostra-se sobretudo tocado pela serenidade de um jardim inesperado, «a face limosa⁴ \ndas pedras abruptas», «a solidão das áleas⁵ sombreadas», «o encanto dos panoramas» \nde onde se veem as casas negras, a azáfama do porto, o fogo de artifício. Esta evocação \npaisagística abdica da faceta «patriótica», mas não deixa de ter o turbulento Camões como \nimprovável patrono daquela tranquilidade, daquela ausência momentânea de amargura, que \nele próprio nunca experimentou, e que nos deixa «compenetrados no respeito das coisas».\nTrês décadas mais tarde, a 10 de junho de 1924, outro grande «asiático» português, \nCamilo Pessanha, proferiu uma conferência intitulada «Macau e a gruta de Camões». Apesar \nda ocasião oficial, Pessanha evita igualmente o tom nacionalista. A grande questão que o \npreocupa é a possibilidade ou impossibilidade de um poeta continuar a ser poeta em terras \ndistantes, uma vez que «a inspiração poética é emotividade, educada, desde a infância e \ncom profundas raízes, no húmus⁶ do solo natal». Pessanha tem um entendimento bucólico, \nlocalista, da poesia, ou da sua origem, e não esconde o seu ceticismo: não há verdadeira \ncapacidade poética quando a pátria está distante. A gruta de Camões suscita-lhe então uma \nideia original: a do génio como ilusão de estar em casa.\nPedro Mexia, «Camões em Macau», Lá Fora, Lisboa, Edições Tinta-da-china, 2018, pp. 86-87.\nNOTAS\n1 mamelões – colinas; outeiros.\n2 apoteose – homenagem grandiosa.\n3 ditirambo – poesia de carácter elogioso.\n4 limosa – coberta de algas.\n5 áleas – ruas ladeadas por árvores.\n6 húmus – matéria orgânica resultante da decomposição de detritos vegetais e animais."
     },
     {
-      "id": 176,
+      "id": 9562,
       "question_number": "5",
       "statement": "5.\n Na \nexpressão «que deambulava por aquelas bandas e se refugiava» (linha 9), exprime-se, simultaneamente,",
       "question_type": "multiple_choice",
@@ -169,31 +212,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 286,
+          "id": 18883,
           "letter": "A",
           "text": "um valor perfetivo e uma situação habitual.",
           "isCorrect": false
         },
         {
-          "id": 287,
+          "id": 18884,
           "letter": "B",
           "text": "um valor imperfetivo e uma situação genérica.",
           "isCorrect": false
         },
         {
-          "id": 288,
+          "id": 18885,
           "letter": "C",
           "text": "uma situação habitual e um valor imperfetivo.",
           "isCorrect": false
         },
         {
-          "id": 289,
+          "id": 18886,
           "letter": "D",
           "text": "uma situação genérica e um valor perfetivo.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou \nmetafórico da palavra «entranhas», abordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.",
+      "criteriaText": "5. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n − a atitude dos homens opõe-se à atitude do peixe, porque os homens revelaram maldade ao terem \na coragem de lançar Jonas ao mar, enquanto o peixe o engoliu, acolhendo-o no seu interior e \ntransportando-o até Nínive (os homens dar-lhe-iam a morte, mas o peixe deu-lhe a salvação);\n − o jogo com a palavra «entranhas» deve-se ao facto de esta ter um sentido figurado, no primeiro caso, \npois remete para o atrevimento dos homens (que indicia a vileza humana), e um sentido literal, no \nsegundo caso, dado que se refere ao interior do corpo do peixe.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)\n1 ............................ 10 pontos\nNível Descritor de desempenho Pontuação\n5\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou \nmetafórico da palavra «entranhas», abordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou \nmetafórico da palavra «entranhas», abordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado \nou metafórico da palavra «entranhas», abordando os dois tópicos de resposta, um \nadequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado \nou metafórico da palavra «entranhas», abordando os dois tópicos de resposta, um \nadequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou \nmetafórico da palavra «entranhas», abordando os dois tópicos de resposta, ambos com \npequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\nOU\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou \nmetafórico da palavra «entranhas», abordando, adequadamente, um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n2\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou \nmetafórico da palavra «entranhas», abordando os dois tópicos de resposta, ambos com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou \nmetafórico da palavra «entranhas», abordando, adequadamente, um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\n1\nInterpreta a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado \nou metafórico da palavra «entranhas», abordando, com pequenas imprecisões e/ou \nomissões, um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ... ............................................................. 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -203,7 +246,7 @@
       "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\nUm busto de bronze de um português antigo entre umas rochas num jardim do Extremo \nOriente. O que é isto, como se compreende isto? Wenceslau de Moraes deixou-nos uma \ndescrição deste jardim tal como o encontrou em 1890: «Pedras amontoadas sobre pedras, \nconstituindo um pequeno outeiro eriçado de arestas musgosas; abraçando-se ao granito, \nestendendo as raízes por entre os negros mamelões¹, soberbas árvores seculares; tal é o que \nem Macau se chama a Gruta de Camões, e que já de longe destaca, na aridez quase uniforme \nda costa, como um grande ramalhete de verdura.»\nNão há grandiloquência neste texto. O Camões-histórico é referido como «um pobre \nprocurador dos defuntos e ausentes» que deambulava por aquelas bandas e se refugiava à \nsombra de três grandes pedras, a suposta «gruta». A cidade de Macau, «pequenino domínio» \nportuguês, vê-se reduzida a «uma língua de rocha, apenas percetível nas cartas geográficas». \nE, no entanto, este jardim tem uma qualquer grandeza, e essa grandeza vem do «encanto \nnatural da posição dominante», dos «horizontes vastos», «da vegetação vigorosa que aqui \nencontra asilo, conchegada com as rochas contra a fúria inclemente dos tufões». O texto não é \numa apoteose² camoniana, e ainda menos um ditirambo³ imperial; imbuído do espírito japonês, \nMoraes mostra-se sobretudo tocado pela serenidade de um jardim inesperado, «a face limosa⁴ \ndas pedras abruptas», «a solidão das áleas⁵ sombreadas», «o encanto dos panoramas» \nde onde se veem as casas negras, a azáfama do porto, o fogo de artifício. Esta evocação \npaisagística abdica da faceta «patriótica», mas não deixa de ter o turbulento Camões como \nimprovável patrono daquela tranquilidade, daquela ausência momentânea de amargura, que \nele próprio nunca experimentou, e que nos deixa «compenetrados no respeito das coisas».\nTrês décadas mais tarde, a 10 de junho de 1924, outro grande «asiático» português, \nCamilo Pessanha, proferiu uma conferência intitulada «Macau e a gruta de Camões». Apesar \nda ocasião oficial, Pessanha evita igualmente o tom nacionalista. A grande questão que o \npreocupa é a possibilidade ou impossibilidade de um poeta continuar a ser poeta em terras \ndistantes, uma vez que «a inspiração poética é emotividade, educada, desde a infância e \ncom profundas raízes, no húmus⁶ do solo natal». Pessanha tem um entendimento bucólico, \nlocalista, da poesia, ou da sua origem, e não esconde o seu ceticismo: não há verdadeira \ncapacidade poética quando a pátria está distante. A gruta de Camões suscita-lhe então uma \nideia original: a do génio como ilusão de estar em casa.\nPedro Mexia, «Camões em Macau», Lá Fora, Lisboa, Edições Tinta-da-china, 2018, pp. 86-87.\nNOTAS\n1 mamelões – colinas; outeiros.\n2 apoteose – homenagem grandiosa.\n3 ditirambo – poesia de carácter elogioso.\n4 limosa – coberta de algas.\n5 áleas – ruas ladeadas por árvores.\n6 húmus – matéria orgânica resultante da decomposição de detritos vegetais e animais."
     },
     {
-      "id": 177,
+      "id": 9563,
       "question_number": "6",
       "statement": "6.\n A\n única expressão que desempenha a função sintática de complemento oblíquo é",
       "question_type": "multiple_choice",
@@ -215,25 +258,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 290,
+          "id": 18887,
           "letter": "A",
           "text": "«de arestas musgosas» (linha 4).",
           "isCorrect": false
         },
         {
-          "id": 291,
+          "id": 18888,
           "letter": "B",
           "text": "«de Macau» (linha 10).",
           "isCorrect": false
         },
         {
-          "id": 292,
+          "id": 18889,
           "letter": "C",
           "text": "«dos tufões» (linha 14).",
           "isCorrect": false
         },
         {
-          "id": 293,
+          "id": 18890,
           "letter": "D",
           "text": "«da faceta “patriótica”» (linha 19).",
           "isCorrect": false
@@ -249,7 +292,53 @@
       "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\nUm busto de bronze de um português antigo entre umas rochas num jardim do Extremo \nOriente. O que é isto, como se compreende isto? Wenceslau de Moraes deixou-nos uma \ndescrição deste jardim tal como o encontrou em 1890: «Pedras amontoadas sobre pedras, \nconstituindo um pequeno outeiro eriçado de arestas musgosas; abraçando-se ao granito, \nestendendo as raízes por entre os negros mamelões¹, soberbas árvores seculares; tal é o que \nem Macau se chama a Gruta de Camões, e que já de longe destaca, na aridez quase uniforme \nda costa, como um grande ramalhete de verdura.»\nNão há grandiloquência neste texto. O Camões-histórico é referido como «um pobre \nprocurador dos defuntos e ausentes» que deambulava por aquelas bandas e se refugiava à \nsombra de três grandes pedras, a suposta «gruta». A cidade de Macau, «pequenino domínio» \nportuguês, vê-se reduzida a «uma língua de rocha, apenas percetível nas cartas geográficas». \nE, no entanto, este jardim tem uma qualquer grandeza, e essa grandeza vem do «encanto \nnatural da posição dominante», dos «horizontes vastos», «da vegetação vigorosa que aqui \nencontra asilo, conchegada com as rochas contra a fúria inclemente dos tufões». O texto não é \numa apoteose² camoniana, e ainda menos um ditirambo³ imperial; imbuído do espírito japonês, \nMoraes mostra-se sobretudo tocado pela serenidade de um jardim inesperado, «a face limosa⁴ \ndas pedras abruptas», «a solidão das áleas⁵ sombreadas», «o encanto dos panoramas» \nde onde se veem as casas negras, a azáfama do porto, o fogo de artifício. Esta evocação \npaisagística abdica da faceta «patriótica», mas não deixa de ter o turbulento Camões como \nimprovável patrono daquela tranquilidade, daquela ausência momentânea de amargura, que \nele próprio nunca experimentou, e que nos deixa «compenetrados no respeito das coisas».\nTrês décadas mais tarde, a 10 de junho de 1924, outro grande «asiático» português, \nCamilo Pessanha, proferiu uma conferência intitulada «Macau e a gruta de Camões». Apesar \nda ocasião oficial, Pessanha evita igualmente o tom nacionalista. A grande questão que o \npreocupa é a possibilidade ou impossibilidade de um poeta continuar a ser poeta em terras \ndistantes, uma vez que «a inspiração poética é emotividade, educada, desde a infância e \ncom profundas raízes, no húmus⁶ do solo natal». Pessanha tem um entendimento bucólico, \nlocalista, da poesia, ou da sua origem, e não esconde o seu ceticismo: não há verdadeira \ncapacidade poética quando a pátria está distante. A gruta de Camões suscita-lhe então uma \nideia original: a do génio como ilusão de estar em casa.\nPedro Mexia, «Camões em Macau», Lá Fora, Lisboa, Edições Tinta-da-china, 2018, pp. 86-87.\nNOTAS\n1 mamelões – colinas; outeiros.\n2 apoteose – homenagem grandiosa.\n3 ditirambo – poesia de carácter elogioso.\n4 limosa – coberta de algas.\n5 áleas – ruas ladeadas por árvores.\n6 húmus – matéria orgânica resultante da decomposição de detritos vegetais e animais."
     },
     {
-      "id": 178,
+      "id": 9557,
+      "question_number": "7",
+      "statement": "7. Leia a cantiga de amigo de Martim Codax.\n5\nAi ondas, que eu vim veer,\nse me saberedes dizer\n porque tarda meu amigo sem mim?\nAi ondas, que eu vim mirar,\nse me saberedes contar\n porque tarda meu amigo sem mim?\nA Lírica Galego-Portuguesa, edição de Elsa Gonçalves e Maria Ana Ramos, 2.ª ed.,\nLisboa, Editorial Comunicação, 1985, p. 265.\nEscreva uma breve exposição na qual compare o modo como a natureza é perspetivada na poesia de \nAlberto Caeiro e na cantiga de amigo apresentada.\nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um desenvolvi\nmento no qual explicite dois aspetos em que a representação da natureza na poesia de \nCaeiro se distingue da representação da natureza na cantiga de amigo apresentada;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 18891,
+          "letter": "A",
+          "text": "adjetiva relativa restritiva, no primeiro caso, e adverbial concessiva, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 18892,
+          "letter": "B",
+          "text": "adjetiva relativa explicativa, no primeiro caso, e adverbial causal, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 18893,
+          "letter": "C",
+          "text": "adjetiva relativa restritiva, no primeiro caso, e adverbial causal, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 18894,
+          "letter": "D",
+          "text": "adjetiva relativa explicativa, no primeiro caso, e adverbial concessiva, no segundo caso.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n − Caeiro fala da natureza, considerando-se um elemento tão natural como uma árvore, enquanto a \ndonzela/o sujeito poético fala com a natureza como algo exterior a si;\n − Caeiro tem uma perceção objetiva da natureza, porque a apreende através dos sentidos, referindo-se a \nelementos concretos, como o girassol, a árvore, a pedra ou o rio, enquanto na cantiga de amigo, a natureza \né representada de um ponto de vista subjetivo, assumindo um papel de interlocutor (ou confidente);\n − para Caeiro, apenas existe aquilo que ele vê, recusando-se a atribuir à natureza significados que \nresultam do pensamento ou da imaginação, enquanto na cantiga de amigo, a donzela personifica a \nnatureza, ao atribuir às ondas do mar a capacidade de responder às suas perguntas.\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).\n\n•  Aspetos de conteúdo (C) ... ................................................................................. 8 pontos\nNível Descritor de desempenho Pontuação\n4 Explicita, adequadamente, dois aspetos em que a representação da natureza na poesia \nde Caeiro se distingue da representação da natureza na cantiga de amigo apresentada. 8\n3\nExplicita dois aspetos em que a representação da natureza na poesia de Caeiro se distingue \nda representação da natureza na cantiga de amigo apresentada, adequadamente num \ndos casos e com pequenas imprecisões e/ou omissões no outro caso.\n6\n2\nExplicita dois aspetos em que a representação da natureza na poesia de Caeiro se \ndistingue da representação da natureza na cantiga de amigo apresentada, com pequenas \nimprecisões e/ou omissões em ambos os casos.\nOU\nExplicita, adequadamente, apenas um aspeto em que a representação da natureza \nna poesia de Caeiro se distingue da representação da natureza na cantiga de amigo \napresentada.\n4\n1\nExplicita, com pequenas imprecisões e/ou omissões, apenas um aspeto referente \nà representação da natureza na poesia de Caeiro ou apenas um aspeto referente à \nrepresentação da natureza na cantiga de amigo apresentada.\n2\n•  Aspetos de estruturação do discurso (ED)1 ........................................................ 3 pontos\nNível Descritor de desempenho Pontuação\n3\nEscreve um texto bem estruturado constituído por três partes (introdução, desenvolvimento \ne conclusão), devidamente proporcionadas, e utiliza mecanismos de coesão textual que \nasseguram de modo global a progressão e o encadeamento das ideias.\n3\n2\nEscreve um texto globalmente bem estruturado constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e/ou utiliza mecanismos \nde coesão textual com a eventual ocorrência de falhas que não comprometem de modo \nglobal a progressão e o encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado e/ou utiliza mecanismos de coesão textual \ncom falhas que comprometem de modo global a progressão e o encadeamento das ideias. 1\n1 Além dos descritores de desempenho relativos à estruturação temática e discursiva, há que atender aos Critérios Gerais (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ... ............................................................. 2 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 2 2 1 1\n1 1\nGRUPO II\nITEM VERSÃO 1 VERSÃO 2 PONTUAÇÃO",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o poema.\n5\n10\n15\nXXXIX\nO mistério das cousas, onde está ele?\nOnde está ele que não aparece\nPelo menos a mostrar-nos que é mistério?\nQue sabe o rio disso e que sabe a árvore?\nE eu, que não sou mais do que eles, que sei disso?\nSempre que olho para as cousas e penso no que os homens pensam delas,\nRio como um regato que soa fresco numa pedra.\nPorque o único sentido oculto das cousas\nÉ elas não terem sentido oculto nenhum.\nÉ mais estranho do que todas as estranhezas\nE do que os sonhos de todos os poetas\nE os pensamentos de todos os filósofos,\nQue as cousas sejam realmente o que parecem ser\nE não haja nada que compreender.\nSim, eis o que os meus sentidos aprenderam sozinhos: —\nAs cousas não têm significação: têm existência.\nAs cousas são o único sentido oculto das cousas.\nFernando Pessoa, Poesia de Alberto Caeiro, edição de Fernando Cabral Martins \ne Richard Zenith, 3.ª ed., Lisboa, Assírio & Alvim, 2014, p. 75.\n1. As interrogações retóricas presentes na primeira estrofe estão ao serviço da ironia manifestada no riso do \nsujeito poético.\nRefira os motivos desse riso irónico.\n2.\n Releia os versos de 6 a 17. \nExplicite \nem que consiste a oposição entre o «eu» e os outros homens, relativamente ao modo como se \nconstrói o conhecimento das «cousas».\n\n3. As afirmações seguintes referem-se à poesia de Alberto Caeiro.\nA.\n Os poemas deste heterón\nimo pessoano apresentam, frequentemente, marcas do texto argumentativo.\nB.\n Deambulando \npelo campo e observando aquilo que o rodeia, o sujeito poético afirma o seu indiscutível \nam\n or à «Natureza sem gente».\nC.\n Para \no sujeito poético, o tempo reduz-se ao momento presente, o que lhe permite apreciar a eterna \nnovidade do mundo.\nD.\n O \ndiscurso poético aproxima-se da fluidez coloquial da fala, ao recriar uma linguagem simples através \nde repetições, quer vocabulares quer sintáticas.\nE.\n A\n liberdade formal e o predomínio de verbos no presente do indicativo são características da poesia \nde Caeiro.\nIdentifique as três afirmações que podem ser comprovadas através da leitura do poema apresentado.\nEscreva, na folha de respostas, o número do item e as três letras que correspondem às afirmações \nselecionadas.\n\nPARTE B\nLeia o texto e a nota.\n5\n10\n15\n20\nVindo pois, irmãos, às vossas virtudes, que são as que só podem dar o verdadeiro louvor, a \nprimeira que se me oferece aos olhos hoje é aquela obediência, com que chamados acudistes \ntodos pela honra de vosso Criador e Senhor, e aquela ordem, quietação e atenção com que \nouvistes a palavra de Deus da boca de seu servo António. Oh grande louvor verdadeiramente \npara os peixes, e grande afronta e confusão para os homens! Os homens perseguindo a \nAntónio, querendo-o lançar da terra e ainda do mundo, se pudessem, porque lhe repreendia \nseus vícios, porque lhe não queria falar à vontade e condescender com seus erros, e no mesmo \ntempo os peixes em inumerável concurso acudindo à sua voz, atentos e suspensos às suas \npalavras, escutando com silêncio, e com sinais de admiração e assenso¹ (como se tiveram \nentendimento) o que não entendiam! Quem olhasse neste passo para o mar e para a terra, \ne visse na terra os homens tão furiosos e obstinados e no mar os peixes tão quietos e tão \ndevotos, que havia de dizer? Poderia cuidar que os peixes irracionais se tinham convertido em \nhomens, e os homens não em peixes, mas em feras. Aos homens deu Deus uso de razão, e \nnão aos peixes; mas neste caso os homens tinham a razão sem o uso, e os peixes o uso sem a \nrazão. Muito louvor mereceis, peixes, por este respeito e devoção que tivestes aos Pregadores \nda palavra de Deus, e tanto mais quanto não foi só esta a vez em que assim o fizestes. \nIa Jonas, Pregador do mesmo Deus, embarcado em um navio, quando se levantou aquela \ngrande tempestade; e como o trataram os homens, como o trataram os peixes? Os homens \nlançaram-no ao mar a ser comido dos peixes, e o peixe que o comeu levou-o às praias de \nNínive, para que lá pregasse e salvasse aqueles homens. É possível que os peixes ajudam à \nsalvação dos homens, e os homens lançam ao mar os ministros da salvação? Vede, peixes, e \nnão vos venha vanglória, quanto melhores sois que os homens. Os homens tiveram entranhas \npara deitar Jonas ao mar, e o peixe recolheu nas entranhas a Jonas, para o levar vivo à terra.\nPadre António Vieira, Sermão de Sto. António (aos peixes) e Sermão da Sexagésima,\n edição de Margarida Vieira Mendes, Lisboa, Seara Nova, 1978, pp. 71-73.\nNOTA\n1 assenso – concordância.\n4. «Aos homens deu Deus uso de razão, e não aos peixes; mas neste caso os homens tinham a razão sem \no uso, e os peixes o uso sem a razão.» (linhas de 13 a 15).\nRelacione o sentido da afirmação com o episódio da vida de Santo António evocado nas linhas de 1 a 13.\n5.\n «Os \nhomens tiveram entranhas para deitar Jonas ao mar, e o peixe recolheu nas entranhas a Jonas, para o \nlevar vivo à terra.» (linhas 22 e 23).\nInterprete a afirmação, tendo em conta o jogo entre o sentido literal e o sentido figurado ou metafórico da \npalavra «entranhas».\n\n6. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a) e b) – e, para cada uma delas, o número que \ncorresponde à opção selecionada.\nNo excerto do Sermão de Santo António (aos peixes) apresentado, evidenciam-se diversos recursos \nusados pelo orador quer para deleitar quer para persuadir o auditório. \nObserva-se, assim, nas linhas 4 e 5, o recurso\n \na)\n para realçar \na intenção crítica do orador. \nEsta intenção é também reforçada pela referência à situação vivida por Jonas (linhas 17 a 20), a qual \nconstitui \n \nb)\n . \na) b)\n1. à apóstrofe e à metáfora\n2. à exclamação e à antítese\n3. \n à anáfora e à personificação"
+    },
+    {
+      "id": 9564,
       "question_number": "7",
       "statement": "7.\n A\n oração iniciada pela palavra «que» (linha 20) e a oração iniciada pela expressão «uma vez que» (linha \n26) são subordinadas",
       "question_type": "multiple_choice",
@@ -259,33 +348,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 294,
-          "letter": "A",
-          "text": "adjetiva relativa restritiva, no primeiro caso, e adverbial concessiva, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 295,
-          "letter": "B",
-          "text": "adjetiva relativa explicativa, no primeiro caso, e adverbial causal, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 296,
-          "letter": "C",
-          "text": "adjetiva relativa restritiva, no primeiro caso, e adverbial causal, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 297,
-          "letter": "D",
-          "text": "adjetiva relativa explicativa, no primeiro caso, e adverbial concessiva, no segundo caso.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,

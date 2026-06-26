@@ -4,34 +4,25 @@
   "subject": "Matemática A",
   "year": 2015,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 313,
+      "id": 1553,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 314,
+      "id": 1554,
       "name": "GRUPO II",
       "order": 1
-    },
-    {
-      "id": 315,
-      "name": "GRUPO I",
-      "order": 2
-    },
-    {
-      "id": 316,
-      "name": "GRUPO II",
-      "order": 3
     }
   ],
   "questions": [
     {
-      "id": 2139,
+      "id": 11121,
       "question_number": "1",
-      "statement": "1. ........................................................................................................... 15 pontos",
-      "question_type": "open",
+      "statement": "1. A tabela de distribuição de probabilidades de uma certa variável aleatória X é\nxi 1 2 3\nP( X = xi ) a 2a 0,4\n(a designa um número real)\nQual é o valor médio desta variável aleatória?",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -39,9 +30,30 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ........................................................................................................... 15 pontos",
+      "criteriaText": "1. a 8. ............................................................... (8 × 5 pontos) ....................................................... 40 pontos\nItens 1 2 3 4 5 6 7 8\nVersão 1 B B D A C D B C\nVersão 2 C C A B D C D B\nGRUPO II",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11129,
+      "question_number": "1",
+      "statement": "1. Em C, conjunto dos números complexos, seja \ncis\nz i\n2 12\n1\n1 r= −+\nDetermine os números complexos z que são solução da equação zz4 1= , sem utilizar a calculadora.\nApresente esses números na forma trigonométrica.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -49,7 +61,28 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2140,
+      "id": 11122,
+      "question_number": "2",
+      "statement": "2. Um saco contém nove bolas indistinguíveis ao tato, numeradas de 1 a 9. As bolas numeradas de 1 a 5 são \npretas e as restantes são brancas.\nRetira-se, ao acaso, uma bola do saco e observa-se a sua cor e o seu número.\nConsidere os seguintes acontecimentos, associados a esta experiência aleatória:\nA : «a bola retirada é preta»\nB : «o número da bola retirada é um número par»\nQual é o valor da probabilidade condicionada PA B^h ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2.º Processo\nDeterminar \ncis2 12\nr` j na forma algébrica ....................................................... 2 pontos\nMultiplicar ambos os termos da fração pelo conjugado do denominador ................ 1 pontos\nDeterminar z1 na forma algébrica .......................................................................... 2 pontos\nEscrever z1 na forma algébrica ............................................................................ 1 pontos\nEscrever z1 na forma trigonométrica .................................................................... 2 pontos\nEscrever ,, ,cisz k k4\n2 01 23com !ri= + ^h \", , sendo i um argumento\nde z1 ....................................................................................................................... 3 pontos\nObter as soluções da equação ,, ,cisc is cisc is63 6\n5\n3\n4rr rr−`c j m .. (1+1+1+1) ... 4 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11130,
       "question_number": "2",
       "statement": "2. Um cubo encontra-se em movimento oscilatório provocado pela força elástica exercida por uma mola.\nA Figura 2 esquematiza esta situação. Nesta figura, os pontos O e A são pontos fixos. O ponto P \nrepresenta o centro do cubo e desloca-se sobre a semirreta OAo\nPO A\nFigura 2\nAdmita que não existe qualquer resistência ao movimento. \nSabe-se que a distância, em metros, do ponto P ao ponto O é dada por\nsendt t1 2\n1\n6r r= ++] cg m\nA variável t designa o tempo, medido em segundos, que decorre desde o instante em que foi iniciada a \ncontagem do tempo ,t 0 3! +^h 66 .\nResolva os itens 2.1. e 2.2. sem recorrer à calculadora.",
       "question_type": "open",
@@ -60,9 +93,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. A expressão que dá o número de casos favoráveis é o produto das expressões 4C2 , 5C2 e 5! \nPor cada expressão incorreta ou não apresentada devem ser descontados 4 pontos. A mesma \ndesvalorização deve ser feita caso seja considerada, uma ou mais vezes, uma operação diferente \nda multiplicação. Se, por aplicação deste critério, o valor obtido for negativo, esta etapa deve ser \npontuada com 0 pontos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -70,7 +103,28 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2141,
+      "id": 11123,
+      "question_number": "3",
+      "statement": "3. Para certos valores de a e de b ab 11e22^h , tem-se log a 3\n1\nb = \nQual é, para esses valores de a e de b, o valor de log aba 2^h ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. Se não for apresentada a substituição de sen3 6r r+` j por sen 6\nr− ` j ou por \n2\n1− , a \npontuação a atribuir nesta etapa é 0 pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11133,
       "question_number": "3",
       "statement": "3. Seja f a função, de domínio R, definida por \nln ln\nfx xe x\nxx x\n13\n33\nse\nse\nx\n2\n#= +\n−−\n^\n] ^\nh\ng h\n*\nResolva os itens 3.1., 3.2. e 3.3., recorrendo a métodos analíticos, sem utilizar a calculadora.",
       "question_type": "open",
@@ -81,9 +135,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. Se a etapa relativa ao número de casos possíveis e a etapa relativa ao número de casos favoráveis \ntiverem sido pontuadas com 0 pontos, a pontuação a atribuir a esta etapa é 0 pontos. A pontuação de \n0 pontos também deve ser atribuída caso o valor obtido não pertença ao intervalo ,016 @\n\nCOTAÇÕES\nGRUPO I",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -91,9 +145,30 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2142,
+      "id": 11124,
       "question_number": "4",
-      "statement": "4. ........................................................................................................... 15 pontos",
+      "statement": "4. Para um certo número real k, é contínua em R a função f definida por\nln\nfx\nex\nx\nxx x\n20\n21 0\nse\nse\nxk\n2\n#\n=\n+\n++\n+\n^\n]\nh\ng\nZ\n[\n\\\n]]\n]]\nQual é o valor de k ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "4. Se não for apresentada a substituição de sen4 6r r+` j por sen 6\nr` j ou por \n2\n1 , a pontuação \na atribuir nesta etapa é 0 pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11135,
+      "question_number": "4",
+      "statement": "4. Seja :f RR\" uma função tal que:\n•  f tem derivada finita em todos os pontos do seu domínio;\n•  f 002l]g\n•  fx 01ll^h , para qualquer ,x 03! − 6@\nNenhum dos gráficos a seguir apresentados é o gráfico da função f\nGráfico A\nO x\ny\nGráfico B Gráfico C\ny\nx x\ny y\nElabore uma composição na qual apresente, para cada um dos gráficos, uma razão pela qual esse gráfico \nnão pode ser o gráfico da função f",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -102,9 +177,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4. ........................................................................................................... 15 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -112,9 +187,30 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2143,
+      "id": 11125,
       "question_number": "5",
-      "statement": "5. ........................................................................................................... 15 pontos",
+      "statement": "5. Seja f a função, de domínio R, definida por senfx x3 2=^^ hh \nQual das expressões seguintes define a função f ll, segunda derivada de f ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "5. Se o conjunto solução apresentado resultar da resolução da inequação e 2x 2 , em vez de \nresultar da resolução da inequação xe 20x 2−^h , a pontuação máxima a atribuir nesta etapa é \nde 2 pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11136,
+      "question_number": "5",
+      "statement": "5. Seja X, conjunto finito, o espaço de resultados associado a uma certa experiência aleatória.\nSejam A e B dois acontecimentos AB e11XX_i , com PA 0!^h\nProve que PA BP BP AP BA1, #−+ =^ ^^ ^h hh h",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -123,9 +219,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5. ........................................................................................................... 15 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -133,7 +229,28 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2144,
+      "id": 11126,
+      "question_number": "6",
+      "statement": "6. Na Figura 1, está representado, no plano complexo, um triângulo equilátero OAB5 ? \nSabe-se que:\n•  o ponto O é a origem do referencial;\n•  o ponto A pertence ao eixo real e tem abcissa igual a 1\n•  o ponto B pertence ao quarto quadrante e é a imagem \ngeométrica de um complexo z\nQual das afirmações seguintes é verdadeira?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 11137,
       "question_number": "6",
       "statement": "6. Na Figura 3, está representado, num referencial o.n. Oxyz, o poliedro \nNOPQRSTUV6@ que se pode decompor num cubo e numa pirâmide \nquadrangular regular. Sabe-se que:\n•  o vértice P pertence ao eixo Ox\n•  o vértice N pertence ao eixo Oy\n•  o vértice T pertence ao eixo Oz\n•  o vértice R tem coordenadas ,,222^h\n•  o plano PQV é definido pela equação xz61 20+− =",
       "question_type": "open",
@@ -144,9 +261,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6 Na resposta, são contemplados os três tópicos, com organização coerente dos conteúdos \ne linguagem científica adequada. 15",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -154,7 +271,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2145,
+      "id": 11127,
       "question_number": "7",
       "statement": "7. Considere, num referencial o.n. xOy , a circunferência definida pela equação\nxy 122 2+− =^h\nEsta circunferência intersecta o eixo Ox em dois pontos. Destes pontos, seja A o que tem abcissa \npositiva.\nSeja r a reta tangente à circunferência no ponto A\nQual é a equação reduzida da reta r ?",
       "question_type": "multiple_choice",
@@ -166,25 +283,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3982,
+          "id": 22080,
           "letter": "A",
           "text": "yx 1= +",
           "isCorrect": false
         },
         {
-          "id": 3983,
+          "id": 22081,
           "letter": "B",
           "text": "yx 1= −",
           "isCorrect": false
         },
         {
-          "id": 3984,
+          "id": 22082,
           "letter": "C",
           "text": "yx 22= +",
           "isCorrect": false
         },
         {
-          "id": 3985,
+          "id": 22083,
           "letter": "D",
           "text": "yx 22= −",
           "isCorrect": false
@@ -200,7 +317,7 @@
       "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2146,
+      "id": 11128,
       "question_number": "8",
       "statement": "8. Qual das expressões seguintes é termo geral de uma sucessão monótona e limitada?",
       "question_type": "multiple_choice",
@@ -212,25 +329,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3986,
+          "id": 22084,
           "letter": "A",
           "text": "1 n−^h",
           "isCorrect": false
         },
         {
-          "id": 3987,
+          "id": 22085,
           "letter": "B",
           "text": ".n1 n−^h",
           "isCorrect": false
         },
         {
-          "id": 3988,
+          "id": 22086,
           "letter": "C",
           "text": "n 1−",
           "isCorrect": false
         },
         {
-          "id": 3989,
+          "id": 22087,
           "letter": "D",
           "text": "n1 2+ –––––—––––––––––—–—–—–—— Página em branco –––––––––—–—–––—–————–-––",
           "isCorrect": false
@@ -246,7 +363,7 @@
       "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2149,
+      "id": 11131,
       "question_number": "2.1",
       "statement": "2.1. No instante em que se iniciou a contagem do tempo, o ponto P coincidia com o ponto A \nDurante os primeiros três segundos do movimento, o ponto P passou pelo ponto A mais do que \numa vez.\nDetermine os instantes, diferentes do inicial, em que tal aconteceu.\nApresente os valores exatos das soluções, em segundos.",
       "question_type": "calculation",
@@ -257,7 +374,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.1. ................................................................................................... 10 pontos",
+      "criteriaText": "2.1. ................................................................................................................................................. 10 pontos\nDeterminar d(0) .................................................................................................. 1 pontos\nEquacionar o problema dt d 0=] ]` g gj .............................................................. 2 pontos\nObter a expressão geral das soluções da equação dt d 0=] ]g g ...................... 3 pontos\nDeterminar as soluções da equação dt d 0=] ]g g pertencentes ao \nintervalo ,03@@ .................................................................................................... 3 pontos\nResponder ao problema ,ss s3\n2 2 3\n8e` j ........................................................ 1 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -267,7 +384,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2150,
+      "id": 11132,
       "question_number": "2.2",
       "statement": "2.2. Justifique, recorrendo ao teorema de Bolzano, que houve, pelo menos, um instante, entre os \ntrês segundos e os quatro segundos após o início da contagem do tempo, em que a distância do \nponto \nP ao ponto O foi igual a 1,1 metros.",
       "question_type": "essay",
@@ -278,7 +395,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.2. ................................................................................................... 15 pontos",
+      "criteriaText": "2.2. ................................................................................................................................................. 15 pontos\nEste item pode ser resolvido por, pelo menos, dois processos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -288,7 +405,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2152,
+      "id": 11134,
       "question_number": "3.2",
       "statement": "3.2. Resolva, em ,33−@@ , a condição fx x21 2−^h\nApresente o conjunto solução, usando a notação de intervalos de números reais.",
       "question_type": "open",
@@ -299,7 +416,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.2. ................................................................................................... 15 pontos",
+      "criteriaText": "3.2. ................................................................................................................................................. 15 pontos\nEscrever fx xx ex21 12 1x+22−+ −^h ............................................... 1 pontos\nEscrever xe xx ex12 12 0xx +22+− − ................................................. 1 pontos\nEscrever xe xx e20 20xx +22−− ^h (ver nota 1) .................................. 3 pontos\nApresentar um quadro de sinais (ou equivalente) (ver notas 2 e 3) ................... 6 pontos\nApresentar o conjunto solução ,, ln02 3,3−` j6@ @@ (ver notas 4 e 5) .......... 4 pontos\n\nNotas:",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -309,7 +426,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2156,
+      "id": 11138,
       "question_number": "6.3",
       "statement": "6.3. Seja A um ponto pertencente ao plano QRS \nSabe-se que:\n•  o ponto A tem cota igual ao cubo da abcissa;\n•  os vetores OA e TQ são perpendiculares.\nDetermine a abcissa do ponto A, recorrendo à calculadora gráfica.\nNa sua resposta:\n•  equacione o problema;\n•  reproduza, num referencial, o(s) gráfico(s) da(s) função(ões) que visualizar na calculadora e que \nlhe permite(m) resolver a equação, devidamente identificado(s) (sugere-se a utilização da janela \nde visualização em que ,,xy 44 27e!!−−66 @@ );\n•  apresente a abcissa do ponto A arredondada às centésimas.",
       "question_type": "calculation",
@@ -320,7 +437,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6.3. ................................................................................................... 15 pontos",
+      "criteriaText": "6.3. ................................................................................................................................................. 15 pontos\nReconhecer que o ponto A tem coordenadas da forma ,,xx2 3^h .................. 2 pontos\nIdentificar as coordenadas do vetor OA com as do ponto A ........................... 1 pontos\nDeterminar as coordenadas do vetor TQ ........................................................... 2 pontos\nEscrever .OA TQ , em função de x ................................................................. 1 pontos\nEquacionar o problema ........................................................................................ 2 pontos\nReproduzir o(s) gráfico(s) da(s) função(ões) visualizado(s) na calculadora, que\npermite(m) resolver a equação (ver nota) .......................................................... 3 pontos\nApresentar a abcissa do ponto ,A 15 2^h .......................................................... 4 pontos\nNota – Se não for apresentado o referencial, a pontuação a atribuir nesta etapa deve ser desvalorizada \nem 1 ponto.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -330,10 +447,10 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 2157,
+      "id": 11139,
       "question_number": "6.4",
-      "statement": "6.4. ................................................................................................... 15 pontos\n160 pontos\n TOTAL .............................................. 200 pontos",
-      "question_type": "open",
+      "statement": "6.4. Dispõe-se de sete cores diferentes, das quais uma é branca e outra é azul, para colorir as nove faces \ndo poliedro NOPQRSTUV6@ . Cada face vai ser colorida com uma única cor.\nConsidere a experiência aleatória que consiste em colorir, ao acaso, as nove faces do poliedro, \npodendo cada face ser colorida por qualquer uma das sete cores.\nDetermine a probabilidade de, no final da experiência, o poliedro ficar com exatamente duas faces \nbrancas, ambas triangulares, exatamente duas faces azuis, ambas quadradas, e as restantes faces \ncoloridas com cores todas diferentes.\nApresente o resultado na forma de dízima, arredondado às décimas de milésima.",
+      "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -341,7 +458,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "6.4. ................................................................................................... 15 pontos\n160 pontos\n TOTAL .............................................. 200 pontos",
+      "criteriaText": "6.4. ................................................................................................................................................. 15 pontos\nReconhecer que o número de casos possíveis é 79 (ver nota 1) ....................... 6 pontos\nReconhecer que o número de casos favoráveis é !CC 54 2 5 2## (ver nota 2) 8 pontos\nObter a probabilidade pedida (0,0002) (ver nota 3) ............................................ 1 pontos\nNotas:",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

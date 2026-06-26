@@ -4,28 +4,29 @@
   "subject": "Português",
   "year": 2022,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 91,
+      "id": 1379,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 92,
+      "id": 1380,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 93,
+      "id": 1381,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 730,
+      "id": 9966,
       "question_number": "1",
-      "statement": "1. 2. 4. 5. 7. 1. 2. 3. 6.\nCotação (em pontos) 13 13 13 13 13 13 13 13 13 44 161\nDestes 5 itens, contribuem para a \nclassificação final da prova os 3 itens cujas \nrespostas obtenham melhor pontuação.\nI II\nSubtotal",
+      "statement": "1. No poema, está presente um «eu», D. Sebastião, que se dirige a um «vós», os Portugueses. \nExplicite o apelo feito na primeira estrofe e, com base nesse apelo, infira os sentimentos desse «eu» e \ndesse «vós».",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -34,19 +35,40 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+      "criteriaText": "1. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes.\n − Explicitação do apelo que D. Sebastião dirige aos portugueses: incita-os a aguardar o seu regresso \nmessiânico (no pressuposto de que a morte física é um momento transitório em que os sonhos «são \nDeus» – v. 4).\n − Identificação dos sentimentos do «eu» e do «vós»: D. Sebastião revela confiança na concretização \ndos seus sonhos (apesar da sua morte); o apelo de D. Sebastião permite inferir que os portugueses \nmanifestam desânimo/descrença, o que leva o rei a incutir-lhes um sentimento de esperança no seu \nregresso/naquilo de que ele é o símbolo.\n \n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nExplicita o apelo feito na primeira estrofe e infere os sentimentos do «eu» e do «vós», \nabordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nExplicita o apelo feito na primeira estrofe e infere os sentimentos do «eu» e do «vós», \nabordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita o apelo feito na primeira estrofe e infere os sentimentos do «eu» e do «vós», \nabordando os dois tópicos de resposta, um adequadamente e outro com pequenas \nimprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nExplicita o apelo feito na primeira estrofe e infere os sentimentos do «eu» e do «vós», \nabordando os dois tópicos de resposta, um adequadamente e outro com pequenas \nimprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita o apelo feito na primeira estrofe e infere os sentimentos do «eu» e do «vós», \nabordando os dois tópicos de resposta, ambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nAborda, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNíveis Descritores de desempenho Pontuação\n2\nExplicita o apelo feito na primeira estrofe e infere os sentimentos do «eu» e do «vós», \nabordando os dois tópicos de resposta, ambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nAborda, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\n4\n1\nAborda, com pequenas imprecisões e/ou omissões, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................. 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO III\nPara muitas pessoas, o heroísmo exige percorrer um caminho árduo, que implica renúncia e sofrimento.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a conceção de heroísmo apresentada.\nNo seu texto:\n − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o \nem dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n − formule uma conclusão adequada à argumentação desenvolvida;\n − utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\nD. Sebastião\n5\n‘Sperai! Caí no areal e na hora adversa\nQue Deus concede aos seus\nPara o intervalo em que esteja a alma imersa\nEm sonhos que são Deus.\nQue importa o areal e a morte e a desventura\nSe com Deus me guardei?\nÉ O que eu me sonhei que eterno dura,\nÉ Esse que regressarei.\nFernando Pessoa, Mensagem e Outros Poemas sobre Portugal, edição de Fernando \nCabral Martins e Richard Zenith, Lisboa, Assírio & Alvim, 2014, p. 102."
     },
     {
-      "id": 731,
-      "question_number": "2",
-      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "id": 9973,
+      "question_number": "1",
+      "statement": "1. No primeiro parágrafo, com as referências a autores e a obras consagrados, Mário de Carvalho pretende, \nsobretudo,\n \n(\na\n)\n enaltecer a grande quantidade e diversidade de estudos literários publicados.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nAs grandes bibliotecas – imagino eu as grandes bibliotecas… – atraem-me e apavoram-me, \ncomo a montanha magnética dos contos antigos. Convencem-me da minha tremendíssima, \nacabrunhante e arrasadora ignorância. Eu atrevo-me a murmurar «Homero» e logo me salta a \n«questão homérica», os milhares de volumes sobre Homero, em rolos, em códices\n1, alinhados \npor prateleiras sem fim, vergadas ao peso deles. Eu quero citar Dickens e logo vejo as multidões \nde comentadores de Dickens, exibindo folhas e folhas de anotações, a rir alvarmente\n2 do meu \ndesacerto. Eu tenho umas pobres opiniões sobre a Montanha Mágica , mas hei de calar-me, \nquando se altaneiram3 resmas e resmas, alpínicas e ameaçadoras, contendo exegeses4 sábias \nsobre Thomas Mann. E o D. Quixote da Mancha? Meu Deus, estou proibido de me pronunciar \nsobre o D. Quixote. Pode desabar-me em cima toda uma parede de livros, alguns bem grossos \ne esmagadores, que esmiuçam a obra ao pormenor e não toleram a observação veleira\n5 \ndo diletante que diz por dizer, ou por lhe parecer. E Montaigne? Ah, distante Montaigne… E \nGogol? Ah, inacessível Gogol…\nComo é triste e deprimente ser-se tão desconhecedor… Não se trata de retórica, daquele \n«só sei que nada sei» que foi atirado ao populacho pelo «mais sábio dos homens». Nem \ntampouco o «eu nem sei se nada sei», triunfal, do nosso Francisco Sanches. Nem sequer dum \n«eu nem isso sei», aposto num vezo\n6 retórico de querer mais, por saber ainda menos. É que \neu não sei mesmo absolutamente nada.\nE, portanto, posso falar sobre o quê? Sobre nada. Que é tarefa muito mais difícil do que \nfalar sobre tudo, porque esta supõe que se sabe tudo sobre tudo e, pelo que se vê em volta, \nsaber tudo sobre tudo é muito mais fácil e generalizado do que nada saber sobre nada.\nNo Para Sempre de Vergílio Ferreira uma personagem percorre o corredor duma biblioteca. \nLá, os autores, desde o cabo da História palram, palram, palram e gargalham. É uma zoada \npara os ouvidos. A personagem não pode deixar de saber que eles lá estão. Os livros são \nfalantes, discutem, cochicham, incomodam, não dormem, não se calam. De facto, mal eu me \nchego à Biblioteca Nacional, ou à Torre do Tombo, hei de sentir aquele ruído, aquele zunzum, \nde gente a querer contar coisas, a querer demonstrar coisas, a exibir, a refutar, a impor-se. \nE eu sei que não vou conseguir entender-me, ali no meio. Vou ficar confundido. Vou ficar \nreduzido. Vou-me ver do tamanho daqueles insetos predadores de papel, quase translúcidos, \nínfimos e mesquinhos, mas sem possuir sequer as corrosivas mandíbulas que eles têm de \ndefesa. \nComo é que se pode viver, com esta deficiência, esta inferioridade? É uma boa pergunta, \ncom que me confronto repetidamente. E só posso responder com a confissão da gelada \nrealidade dos factos. A caridade dalguns dos meus concidadãos vale-me e sustenta-me. \nGraças lhes dou.\nMário de Carvalho, «As Vascas. Da Ignorância. Redenção», in A Visagem do Cronista – Antologia de Crónica Autobiográfica \nPortuguesa (Séculos XIX-XXI), Vol. II, edição de Carina Infante do Carmo, Lisboa, Arranha-céus, 2020, pp. 163-164.\nNotaS\n1 códices – livros manuscritos, organizados em cadernos cosidos e encadernados.\n2 alvarmente – estupidamente; grosseiramente.\n3 se altaneiram – se elevam orgulhosamente.\n4 exegeses – análises, interpretações ou explicações detalhadas de uma obra ou de um texto.\n5 veleira – ligeira.\n6 vezo – vício; costume."
+    },
+    {
+      "id": 9979,
+      "question_number": "1",
+      "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2022/).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +77,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +87,110 @@
       "contextText": "GRUPO III\nPara muitas pessoas, o heroísmo exige percorrer um caminho árduo, que implica renúncia e sofrimento.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a conceção de heroísmo apresentada.\nNo seu texto:\n − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o \nem dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n − formule uma conclusão adequada à argumentação desenvolvida;\n − utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
     },
     {
-      "id": 732,
+      "id": 9967,
+      "question_number": "2",
+      "statement": "2.\n Evidencie \na presença do herói histórico e a presença do herói mítico na segunda estrofe do poema, \nfundamentando a resposta com a referência a um elemento textual para cada um dos tipos de herói.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 13 pontos\nRelativamente a cada uma das dimensões do herói, deve ser abordado um dos tópicos seguintes, ou \noutros igualmente relevantes:\nHerói histórico\n − referência ao «areal» para identificar o local da batalha em Alcácer Quibir/no Norte de África; \n − referência à «morte» física de D. Sebastião no decurso da batalha;\n − referência à «desventura» que conduziu à morte do rei (e à desgraça do país).\nHerói mítico\n − referência ao carácter transcendente de D. Sebastião, enquanto figura guardada por Deus/enquanto \nfigura identificada através do uso de maiúsculas em «O» e «Esse»;\n − referência à permanência do sonho do rei, que é aquilo que «eterno dura» (v. 7);\n − referência à certeza do regresso do rei enquanto sonho criador.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nEvidencia as duas dimensões do herói, fundamentando, adequadamente, a resposta com \na referência a um elemento textual relativo a cada um dos tipos de herói.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nEvidencia as duas dimensões do herói, fundamentando, adequadamente, a resposta com \na referência a um elemento textual relativo a cada um dos tipos de herói.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nEvidencia as duas dimensões do herói, fundamentando a resposta com a referência a um \nelemento textual relativo a cada um dos tipos de herói, adequadamente num dos casos e \ncom pequenas imprecisões e/ou omissões no outro.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nEvidencia as duas dimensões do herói, fundamentando a resposta com a referência a um \nelemento textual relativo a cada um dos tipos de herói, adequadamente num dos casos e \ncom pequenas imprecisões e/ou omissões no outro.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nEvidencia as duas dimensões do herói, fundamentando a resposta com a referência a um \nelemento textual relativo a cada um dos tipos de herói, com pequenas imprecisões e/ou \nomissões em ambos os casos.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nEvidencia apenas uma das dimensões do herói, fundamentando, adequadamente, a \nresposta com a referência a um elemento textual relativo a esse tipo de herói.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNíveis Descritores de desempenho Pontuação\n2\nEvidencia as duas dimensões do herói, fundamentando a resposta com a referência a um \nelemento textual relativo a cada um dos tipos de herói, com pequenas imprecisões e/ou \nomissões em ambos os casos.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nEvidencia apenas uma das dimensões do herói, fundamentando, adequadamente, a \nresposta com a referência a um elemento textual relativo a esse tipo de herói.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\n4\n1\nEvidencia apenas uma das dimensões do herói, fundamentando, com pequenas \nimprecisões e/ou omissões, a resposta com a referência a um elemento textual relativo a \nesse tipo de herói.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\nD. Sebastião\n5\n‘Sperai! Caí no areal e na hora adversa\nQue Deus concede aos seus\nPara o intervalo em que esteja a alma imersa\nEm sonhos que são Deus.\nQue importa o areal e a morte e a desventura\nSe com Deus me guardei?\nÉ O que eu me sonhei que eterno dura,\nÉ Esse que regressarei.\nFernando Pessoa, Mensagem e Outros Poemas sobre Portugal, edição de Fernando \nCabral Martins e Richard Zenith, Lisboa, Assírio & Alvim, 2014, p. 102."
+    },
+    {
+      "id": 9974,
+      "question_number": "2",
+      "statement": "2.\n No segundo parágrafo, o recurso às expressões «Não», «Nem tampouco» e «Nem sequer» contribui para \na coesão interfrásica, exprimindo uma ideia de\n \n(\na\n)\n oposição.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nAs grandes bibliotecas – imagino eu as grandes bibliotecas… – atraem-me e apavoram-me, \ncomo a montanha magnética dos contos antigos. Convencem-me da minha tremendíssima, \nacabrunhante e arrasadora ignorância. Eu atrevo-me a murmurar «Homero» e logo me salta a \n«questão homérica», os milhares de volumes sobre Homero, em rolos, em códices\n1, alinhados \npor prateleiras sem fim, vergadas ao peso deles. Eu quero citar Dickens e logo vejo as multidões \nde comentadores de Dickens, exibindo folhas e folhas de anotações, a rir alvarmente\n2 do meu \ndesacerto. Eu tenho umas pobres opiniões sobre a Montanha Mágica , mas hei de calar-me, \nquando se altaneiram3 resmas e resmas, alpínicas e ameaçadoras, contendo exegeses4 sábias \nsobre Thomas Mann. E o D. Quixote da Mancha? Meu Deus, estou proibido de me pronunciar \nsobre o D. Quixote. Pode desabar-me em cima toda uma parede de livros, alguns bem grossos \ne esmagadores, que esmiuçam a obra ao pormenor e não toleram a observação veleira\n5 \ndo diletante que diz por dizer, ou por lhe parecer. E Montaigne? Ah, distante Montaigne… E \nGogol? Ah, inacessível Gogol…\nComo é triste e deprimente ser-se tão desconhecedor… Não se trata de retórica, daquele \n«só sei que nada sei» que foi atirado ao populacho pelo «mais sábio dos homens». Nem \ntampouco o «eu nem sei se nada sei», triunfal, do nosso Francisco Sanches. Nem sequer dum \n«eu nem isso sei», aposto num vezo\n6 retórico de querer mais, por saber ainda menos. É que \neu não sei mesmo absolutamente nada.\nE, portanto, posso falar sobre o quê? Sobre nada. Que é tarefa muito mais difícil do que \nfalar sobre tudo, porque esta supõe que se sabe tudo sobre tudo e, pelo que se vê em volta, \nsaber tudo sobre tudo é muito mais fácil e generalizado do que nada saber sobre nada.\nNo Para Sempre de Vergílio Ferreira uma personagem percorre o corredor duma biblioteca. \nLá, os autores, desde o cabo da História palram, palram, palram e gargalham. É uma zoada \npara os ouvidos. A personagem não pode deixar de saber que eles lá estão. Os livros são \nfalantes, discutem, cochicham, incomodam, não dormem, não se calam. De facto, mal eu me \nchego à Biblioteca Nacional, ou à Torre do Tombo, hei de sentir aquele ruído, aquele zunzum, \nde gente a querer contar coisas, a querer demonstrar coisas, a exibir, a refutar, a impor-se. \nE eu sei que não vou conseguir entender-me, ali no meio. Vou ficar confundido. Vou ficar \nreduzido. Vou-me ver do tamanho daqueles insetos predadores de papel, quase translúcidos, \nínfimos e mesquinhos, mas sem possuir sequer as corrosivas mandíbulas que eles têm de \ndefesa. \nComo é que se pode viver, com esta deficiência, esta inferioridade? É uma boa pergunta, \ncom que me confronto repetidamente. E só posso responder com a confissão da gelada \nrealidade dos factos. A caridade dalguns dos meus concidadãos vale-me e sustenta-me. \nGraças lhes dou.\nMário de Carvalho, «As Vascas. Da Ignorância. Redenção», in A Visagem do Cronista – Antologia de Crónica Autobiográfica \nPortuguesa (Séculos XIX-XXI), Vol. II, edição de Carina Infante do Carmo, Lisboa, Arranha-céus, 2020, pp. 163-164.\nNotaS\n1 códices – livros manuscritos, organizados em cadernos cosidos e encadernados.\n2 alvarmente – estupidamente; grosseiramente.\n3 se altaneiram – se elevam orgulhosamente.\n4 exegeses – análises, interpretações ou explicações detalhadas de uma obra ou de um texto.\n5 veleira – ligeira.\n6 vezo – vício; costume."
+    },
+    {
+      "id": 9980,
+      "question_number": "2",
+      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nPara muitas pessoas, o heroísmo exige percorrer um caminho árduo, que implica renúncia e sofrimento.\nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a conceção de heroísmo apresentada.\nNo seu texto:\n − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o \nem dois argumentos, cada \num deles ilustrado com um exemplo significativo;\n − formule uma conclusão adequada à argumentação desenvolvida;\n − utilize um discurso valorativo (juízo de valor explícito ou implícito).\nobservações:"
+    },
+    {
+      "id": 9968,
+      "question_number": "3",
+      "statement": "3.\n Selecione a opção de resposta adequada para completar a afirmação.\nNa \nprimeira estrofe, o uso do vocábulo «intervalo» remete para um antes e um depois, correspondendo a \num tempo\n \n(\na\n)\n de desistência durante o qual a essência do sujeito poético perdura.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19548,
+          "letter": "B",
+          "text": "confirma a semelhança entre o exemplo apresentado e o seu caso pessoal.",
+          "isCorrect": false
+        },
+        {
+          "id": 19549,
+          "letter": "C",
+          "text": "expressa a certeza de que a situação mencionada ocorre esporadicamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 19550,
+          "letter": "D",
+          "text": "estabelece a ligação com as ideias enunciadas no parágrafo seguinte.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. Versão 1: (D); Versão 2: (B) ..................................................................................................... 13 pontos\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\nD. Sebastião\n5\n‘Sperai! Caí no areal e na hora adversa\nQue Deus concede aos seus\nPara o intervalo em que esteja a alma imersa\nEm sonhos que são Deus.\nQue importa o areal e a morte e a desventura\nSe com Deus me guardei?\nÉ O que eu me sonhei que eterno dura,\nÉ Esse que regressarei.\nFernando Pessoa, Mensagem e Outros Poemas sobre Portugal, edição de Fernando \nCabral Martins e Richard Zenith, Lisboa, Assírio & Alvim, 2014, p. 102."
+    },
+    {
+      "id": 9975,
       "question_number": "3",
       "statement": "3.\n Através do recurso à expressão «De facto» (linha 25), o autor\n \n(\na\n)\n introduz novos eventos, como a ida à Biblioteca Nacional ou à \nTorre do Tombo.",
       "question_type": "multiple_choice",
@@ -75,27 +200,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1187,
-          "letter": "B",
-          "text": "confirma a semelhança entre o exemplo apresentado e o seu caso pessoal.",
-          "isCorrect": false
-        },
-        {
-          "id": 1188,
-          "letter": "C",
-          "text": "expressa a certeza de que a situação mencionada ocorre esporadicamente.",
-          "isCorrect": false
-        },
-        {
-          "id": 1189,
-          "letter": "D",
-          "text": "estabelece a ligação com as ideias enunciadas no parágrafo seguinte.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3. 6. 4. 5. 7.\nCotação (em pontos) 3 × 13 pontos 39\nTOTAL 200",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -105,7 +211,47 @@
       "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nAs grandes bibliotecas – imagino eu as grandes bibliotecas… – atraem-me e apavoram-me, \ncomo a montanha magnética dos contos antigos. Convencem-me da minha tremendíssima, \nacabrunhante e arrasadora ignorância. Eu atrevo-me a murmurar «Homero» e logo me salta a \n«questão homérica», os milhares de volumes sobre Homero, em rolos, em códices\n1, alinhados \npor prateleiras sem fim, vergadas ao peso deles. Eu quero citar Dickens e logo vejo as multidões \nde comentadores de Dickens, exibindo folhas e folhas de anotações, a rir alvarmente\n2 do meu \ndesacerto. Eu tenho umas pobres opiniões sobre a Montanha Mágica , mas hei de calar-me, \nquando se altaneiram3 resmas e resmas, alpínicas e ameaçadoras, contendo exegeses4 sábias \nsobre Thomas Mann. E o D. Quixote da Mancha? Meu Deus, estou proibido de me pronunciar \nsobre o D. Quixote. Pode desabar-me em cima toda uma parede de livros, alguns bem grossos \ne esmagadores, que esmiuçam a obra ao pormenor e não toleram a observação veleira\n5 \ndo diletante que diz por dizer, ou por lhe parecer. E Montaigne? Ah, distante Montaigne… E \nGogol? Ah, inacessível Gogol…\nComo é triste e deprimente ser-se tão desconhecedor… Não se trata de retórica, daquele \n«só sei que nada sei» que foi atirado ao populacho pelo «mais sábio dos homens». Nem \ntampouco o «eu nem sei se nada sei», triunfal, do nosso Francisco Sanches. Nem sequer dum \n«eu nem isso sei», aposto num vezo\n6 retórico de querer mais, por saber ainda menos. É que \neu não sei mesmo absolutamente nada.\nE, portanto, posso falar sobre o quê? Sobre nada. Que é tarefa muito mais difícil do que \nfalar sobre tudo, porque esta supõe que se sabe tudo sobre tudo e, pelo que se vê em volta, \nsaber tudo sobre tudo é muito mais fácil e generalizado do que nada saber sobre nada.\nNo Para Sempre de Vergílio Ferreira uma personagem percorre o corredor duma biblioteca. \nLá, os autores, desde o cabo da História palram, palram, palram e gargalham. É uma zoada \npara os ouvidos. A personagem não pode deixar de saber que eles lá estão. Os livros são \nfalantes, discutem, cochicham, incomodam, não dormem, não se calam. De facto, mal eu me \nchego à Biblioteca Nacional, ou à Torre do Tombo, hei de sentir aquele ruído, aquele zunzum, \nde gente a querer contar coisas, a querer demonstrar coisas, a exibir, a refutar, a impor-se. \nE eu sei que não vou conseguir entender-me, ali no meio. Vou ficar confundido. Vou ficar \nreduzido. Vou-me ver do tamanho daqueles insetos predadores de papel, quase translúcidos, \nínfimos e mesquinhos, mas sem possuir sequer as corrosivas mandíbulas que eles têm de \ndefesa. \nComo é que se pode viver, com esta deficiência, esta inferioridade? É uma boa pergunta, \ncom que me confronto repetidamente. E só posso responder com a confissão da gelada \nrealidade dos factos. A caridade dalguns dos meus concidadãos vale-me e sustenta-me. \nGraças lhes dou.\nMário de Carvalho, «As Vascas. Da Ignorância. Redenção», in A Visagem do Cronista – Antologia de Crónica Autobiográfica \nPortuguesa (Séculos XIX-XXI), Vol. II, edição de Carina Infante do Carmo, Lisboa, Arranha-céus, 2020, pp. 163-164.\nNotaS\n1 códices – livros manuscritos, organizados em cadernos cosidos e encadernados.\n2 alvarmente – estupidamente; grosseiramente.\n3 se altaneiram – se elevam orgulhosamente.\n4 exegeses – análises, interpretações ou explicações detalhadas de uma obra ou de um texto.\n5 veleira – ligeira.\n6 vezo – vício; costume."
     },
     {
-      "id": 733,
+      "id": 9969,
+      "question_number": "4",
+      "statement": "4. Releia a estância 15.\nExplicite \no modo como se desenvolve a estratégia argumentativa usada pelo poeta nessa estância para \nincitar o rei D. Sebastião à ação gloriosa.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19551,
+          "letter": "B",
+          "text": "a necessidade de conhecer estudos académicos sobre as obras.",
+          "isCorrect": false
+        },
+        {
+          "id": 19552,
+          "letter": "C",
+          "text": "a segurança que advém da ideia de que «só sei que nada sei».",
+          "isCorrect": false
+        },
+        {
+          "id": 19553,
+          "letter": "D",
+          "text": "a importância de ancorar as opiniões pessoais nas dos comentadores literários.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes.\n − Primeiramente, o poeta tece o elogio do rei – «Sublime Rei» –, dando a entender que ele está predestinado \na cometer tão grandes feitos que o poeta afirma não ousar cantá-los.\n − Seguidamente, o poeta aconselha o rei D. Sebastião:\n•  a assumir o controlo e a responsabilidade da governação (o que dará assunto para um novo e singular \ncanto épico);\n•  a dominar as terras de África e os mares do Oriente (vitórias que serão exaltadas e admiradas por \ntodos).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando os dois tópicos de resposta, um adequadamente e outro com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando os dois tópicos de resposta, um adequadamente e outro com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando os dois tópicos de resposta, ambos com pequenas imprecisões \ne/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNíveis Descritores de desempenho Pontuação\n2\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando os dois tópicos de resposta, ambos com pequenas imprecisões \ne/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\n4\n1\nExplicita a estratégia argumentativa usada pelo poeta para incitar o rei D. Sebastião à \nação gloriosa, abordando, com pequenas imprecisões e/ou omissões, apenas um dos \ntópicos de resposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\nD. Sebastião\n5\n‘Sperai! Caí no areal e na hora adversa\nQue Deus concede aos seus\nPara o intervalo em que esteja a alma imersa\nEm sonhos que são Deus.\nQue importa o areal e a morte e a desventura\nSe com Deus me guardei?\nÉ O que eu me sonhei que eterno dura,\nÉ Esse que regressarei.\nFernando Pessoa, Mensagem e Outros Poemas sobre Portugal, edição de Fernando \nCabral Martins e Richard Zenith, Lisboa, Assírio & Alvim, 2014, p. 102."
+    },
+    {
+      "id": 9976,
       "question_number": "4",
       "statement": "4.\n A\n partir da leitura do texto, deduz-se que o autor defende\n \n(\na\n)\n a liberdade de formar e de exprimir opiniões próprias sobre as obras.",
       "question_type": "multiple_choice",
@@ -115,27 +261,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1190,
-          "letter": "B",
-          "text": "a necessidade de conhecer estudos académicos sobre as obras.",
-          "isCorrect": false
-        },
-        {
-          "id": 1191,
-          "letter": "C",
-          "text": "a segurança que advém da ideia de que «só sei que nada sei».",
-          "isCorrect": false
-        },
-        {
-          "id": 1192,
-          "letter": "D",
-          "text": "a importância de ancorar as opiniões pessoais nas dos comentadores literários.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -145,7 +272,7 @@
       "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nAs grandes bibliotecas – imagino eu as grandes bibliotecas… – atraem-me e apavoram-me, \ncomo a montanha magnética dos contos antigos. Convencem-me da minha tremendíssima, \nacabrunhante e arrasadora ignorância. Eu atrevo-me a murmurar «Homero» e logo me salta a \n«questão homérica», os milhares de volumes sobre Homero, em rolos, em códices\n1, alinhados \npor prateleiras sem fim, vergadas ao peso deles. Eu quero citar Dickens e logo vejo as multidões \nde comentadores de Dickens, exibindo folhas e folhas de anotações, a rir alvarmente\n2 do meu \ndesacerto. Eu tenho umas pobres opiniões sobre a Montanha Mágica , mas hei de calar-me, \nquando se altaneiram3 resmas e resmas, alpínicas e ameaçadoras, contendo exegeses4 sábias \nsobre Thomas Mann. E o D. Quixote da Mancha? Meu Deus, estou proibido de me pronunciar \nsobre o D. Quixote. Pode desabar-me em cima toda uma parede de livros, alguns bem grossos \ne esmagadores, que esmiuçam a obra ao pormenor e não toleram a observação veleira\n5 \ndo diletante que diz por dizer, ou por lhe parecer. E Montaigne? Ah, distante Montaigne… E \nGogol? Ah, inacessível Gogol…\nComo é triste e deprimente ser-se tão desconhecedor… Não se trata de retórica, daquele \n«só sei que nada sei» que foi atirado ao populacho pelo «mais sábio dos homens». Nem \ntampouco o «eu nem sei se nada sei», triunfal, do nosso Francisco Sanches. Nem sequer dum \n«eu nem isso sei», aposto num vezo\n6 retórico de querer mais, por saber ainda menos. É que \neu não sei mesmo absolutamente nada.\nE, portanto, posso falar sobre o quê? Sobre nada. Que é tarefa muito mais difícil do que \nfalar sobre tudo, porque esta supõe que se sabe tudo sobre tudo e, pelo que se vê em volta, \nsaber tudo sobre tudo é muito mais fácil e generalizado do que nada saber sobre nada.\nNo Para Sempre de Vergílio Ferreira uma personagem percorre o corredor duma biblioteca. \nLá, os autores, desde o cabo da História palram, palram, palram e gargalham. É uma zoada \npara os ouvidos. A personagem não pode deixar de saber que eles lá estão. Os livros são \nfalantes, discutem, cochicham, incomodam, não dormem, não se calam. De facto, mal eu me \nchego à Biblioteca Nacional, ou à Torre do Tombo, hei de sentir aquele ruído, aquele zunzum, \nde gente a querer contar coisas, a querer demonstrar coisas, a exibir, a refutar, a impor-se. \nE eu sei que não vou conseguir entender-me, ali no meio. Vou ficar confundido. Vou ficar \nreduzido. Vou-me ver do tamanho daqueles insetos predadores de papel, quase translúcidos, \nínfimos e mesquinhos, mas sem possuir sequer as corrosivas mandíbulas que eles têm de \ndefesa. \nComo é que se pode viver, com esta deficiência, esta inferioridade? É uma boa pergunta, \ncom que me confronto repetidamente. E só posso responder com a confissão da gelada \nrealidade dos factos. A caridade dalguns dos meus concidadãos vale-me e sustenta-me. \nGraças lhes dou.\nMário de Carvalho, «As Vascas. Da Ignorância. Redenção», in A Visagem do Cronista – Antologia de Crónica Autobiográfica \nPortuguesa (Séculos XIX-XXI), Vol. II, edição de Carina Infante do Carmo, Lisboa, Arranha-céus, 2020, pp. 163-164.\nNotaS\n1 códices – livros manuscritos, organizados em cadernos cosidos e encadernados.\n2 alvarmente – estupidamente; grosseiramente.\n3 se altaneiram – se elevam orgulhosamente.\n4 exegeses – análises, interpretações ou explicações detalhadas de uma obra ou de um texto.\n5 veleira – ligeira.\n6 vezo – vício; costume."
     },
     {
-      "id": 734,
+      "id": 9970,
       "question_number": "5",
       "statement": "5.\n Nas estâncias 16 e 17, o poeta confere ao rei D. Sebastião uma dimensão excecional.\nComprove esta afirmação, recorrendo a dois exemplos pertinentes mencionados nessas estâncias.",
       "question_type": "open",
@@ -156,7 +283,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5\nComprova a dimensão excecional de D. Sebastião, apresentando, adequadamente, dois \nexemplos textuais.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.",
+      "criteriaText": "5. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n − D. Sebastião assusta de tal modo os Mouros e os Gentios que os primeiros o veem como a causa da \nsua ruína futura e os segundos se mostram já predispostos a submeter-se-lhe;\n − a própria Tétis deseja oferecer a filha em casamento a D. Sebastião e, como dote, o controlo dos mares;\n − os feitos de D. Sebastião serão motivo de orgulho para os seus antepassados, que esperam dele \na realização de feitos tão grandiosos como os do passado/de feitos que mereçam ser para sempre \nrecordados.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNíveis Descritores de desempenho Pontuação\n5\nComprova a dimensão excecional de D. Sebastião, apresentando, adequadamente, dois \nexemplos textuais.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nComprova a dimensão excecional de D. Sebastião, apresentando, adequadamente, dois \nexemplos textuais.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global\na progressão e o encadeamento das ideias.\nOU\nComprova a dimensão excecional de D. Sebastião, apresentando dois exemplos textuais, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nComprova a dimensão excecional de D. Sebastião, apresentando dois exemplos textuais, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nComprova a dimensão excecional de D. Sebastião, apresentando dois exemplos textuais, \nambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nComprova a dimensão excecional de D. Sebastião, apresentando, adequadamente \napenas um exemplo textual.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nComprova a dimensão excecional de D. Sebastião, apresentando dois exemplos textuais, \nambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\nOU\nComprova a dimensão excecional de D. Sebastião, apresentando, adequadamente \napenas um exemplo textual.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global a \nprogressão e o encadeamento das ideias.\n4\n1\nComprova a dimensão excecional de D. Sebastião, apresentando, com pequenas \nimprecisões e/ou omissões, apenas um exemplo textual.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -166,9 +293,9 @@
       "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\nD. Sebastião\n5\n‘Sperai! Caí no areal e na hora adversa\nQue Deus concede aos seus\nPara o intervalo em que esteja a alma imersa\nEm sonhos que são Deus.\nQue importa o areal e a morte e a desventura\nSe com Deus me guardei?\nÉ O que eu me sonhei que eterno dura,\nÉ Esse que regressarei.\nFernando Pessoa, Mensagem e Outros Poemas sobre Portugal, edição de Fernando \nCabral Martins e Richard Zenith, Lisboa, Assírio & Alvim, 2014, p. 102."
     },
     {
-      "id": 735,
+      "id": 9971,
       "question_number": "6",
-      "statement": "6. T al como em «vale-me» (linha 34), o pronome pessoal com função de complemento indireto está presente em\n \n(\na\n)\n «atraem-me» (linha 1).",
+      "statement": "6.\n Selecione a opção de resposta adequada para completar a afirmação.\nA\n par do louvor aos feitos dos navegadores cantados n’Os Lusíadas, na estância 18, está subjacente \n \n(\na\n)\n a crítica à ambição desmesurada que o rei manifesta.",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -178,19 +305,19 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1193,
+          "id": 19554,
           "letter": "B",
           "text": "«me salta» (linha 3).",
           "isCorrect": false
         },
         {
-          "id": 1194,
+          "id": 19555,
           "letter": "C",
           "text": "«me confronto» (linha 33).",
           "isCorrect": false
         },
         {
-          "id": 1195,
+          "id": 19556,
           "letter": "D",
           "text": "«sustenta-me» (linha 34).",
           "isCorrect": false
@@ -201,12 +328,73 @@
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\nD. Sebastião\n5\n‘Sperai! Caí no areal e na hora adversa\nQue Deus concede aos seus\nPara o intervalo em que esteja a alma imersa\nEm sonhos que são Deus.\nQue importa o areal e a morte e a desventura\nSe com Deus me guardei?\nÉ O que eu me sonhei que eterno dura,\nÉ Esse que regressarei.\nFernando Pessoa, Mensagem e Outros Poemas sobre Portugal, edição de Fernando \nCabral Martins e Richard Zenith, Lisboa, Assírio & Alvim, 2014, p. 102."
+    },
+    {
+      "id": 9977,
+      "question_number": "6",
+      "statement": "6. T al como em «vale-me» (linha 34), o pronome pessoal com função de complemento indireto está presente em\n \n(\na\n)\n «atraem-me» (linha 1).",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
       "contextText": "GRUPO II\nLeia o texto e as notas.\n5\n10\n15\n20\n25\n30\n35\nAs grandes bibliotecas – imagino eu as grandes bibliotecas… – atraem-me e apavoram-me, \ncomo a montanha magnética dos contos antigos. Convencem-me da minha tremendíssima, \nacabrunhante e arrasadora ignorância. Eu atrevo-me a murmurar «Homero» e logo me salta a \n«questão homérica», os milhares de volumes sobre Homero, em rolos, em códices\n1, alinhados \npor prateleiras sem fim, vergadas ao peso deles. Eu quero citar Dickens e logo vejo as multidões \nde comentadores de Dickens, exibindo folhas e folhas de anotações, a rir alvarmente\n2 do meu \ndesacerto. Eu tenho umas pobres opiniões sobre a Montanha Mágica , mas hei de calar-me, \nquando se altaneiram3 resmas e resmas, alpínicas e ameaçadoras, contendo exegeses4 sábias \nsobre Thomas Mann. E o D. Quixote da Mancha? Meu Deus, estou proibido de me pronunciar \nsobre o D. Quixote. Pode desabar-me em cima toda uma parede de livros, alguns bem grossos \ne esmagadores, que esmiuçam a obra ao pormenor e não toleram a observação veleira\n5 \ndo diletante que diz por dizer, ou por lhe parecer. E Montaigne? Ah, distante Montaigne… E \nGogol? Ah, inacessível Gogol…\nComo é triste e deprimente ser-se tão desconhecedor… Não se trata de retórica, daquele \n«só sei que nada sei» que foi atirado ao populacho pelo «mais sábio dos homens». Nem \ntampouco o «eu nem sei se nada sei», triunfal, do nosso Francisco Sanches. Nem sequer dum \n«eu nem isso sei», aposto num vezo\n6 retórico de querer mais, por saber ainda menos. É que \neu não sei mesmo absolutamente nada.\nE, portanto, posso falar sobre o quê? Sobre nada. Que é tarefa muito mais difícil do que \nfalar sobre tudo, porque esta supõe que se sabe tudo sobre tudo e, pelo que se vê em volta, \nsaber tudo sobre tudo é muito mais fácil e generalizado do que nada saber sobre nada.\nNo Para Sempre de Vergílio Ferreira uma personagem percorre o corredor duma biblioteca. \nLá, os autores, desde o cabo da História palram, palram, palram e gargalham. É uma zoada \npara os ouvidos. A personagem não pode deixar de saber que eles lá estão. Os livros são \nfalantes, discutem, cochicham, incomodam, não dormem, não se calam. De facto, mal eu me \nchego à Biblioteca Nacional, ou à Torre do Tombo, hei de sentir aquele ruído, aquele zunzum, \nde gente a querer contar coisas, a querer demonstrar coisas, a exibir, a refutar, a impor-se. \nE eu sei que não vou conseguir entender-me, ali no meio. Vou ficar confundido. Vou ficar \nreduzido. Vou-me ver do tamanho daqueles insetos predadores de papel, quase translúcidos, \nínfimos e mesquinhos, mas sem possuir sequer as corrosivas mandíbulas que eles têm de \ndefesa. \nComo é que se pode viver, com esta deficiência, esta inferioridade? É uma boa pergunta, \ncom que me confronto repetidamente. E só posso responder com a confissão da gelada \nrealidade dos factos. A caridade dalguns dos meus concidadãos vale-me e sustenta-me. \nGraças lhes dou.\nMário de Carvalho, «As Vascas. Da Ignorância. Redenção», in A Visagem do Cronista – Antologia de Crónica Autobiográfica \nPortuguesa (Séculos XIX-XXI), Vol. II, edição de Carina Infante do Carmo, Lisboa, Arranha-céus, 2020, pp. 163-164.\nNotaS\n1 códices – livros manuscritos, organizados em cadernos cosidos e encadernados.\n2 alvarmente – estupidamente; grosseiramente.\n3 se altaneiram – se elevam orgulhosamente.\n4 exegeses – análises, interpretações ou explicações detalhadas de uma obra ou de um texto.\n5 veleira – ligeira.\n6 vezo – vício; costume."
     },
     {
-      "id": 736,
+      "id": 9972,
+      "question_number": "7",
+      "statement": "7. Baseando-se na sua experiência de leitura de Mensagem, de Fernando Pessoa, e de Frei Luís de Sousa, \nde Almeida Garrett, escreva uma breve exposição sobre o modo como o sebastianismo emerge em cada \numa das obras.\nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um \ndesenvolvimento no qual compare as duas obras, referindo uma manifestação significativa do \nsebastianismo em cada uma delas;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19557,
+          "letter": "B",
+          "text": "«Ah, inacessível Gogol…» (linha 13).",
+          "isCorrect": false
+        },
+        {
+          "id": 19558,
+          "letter": "C",
+          "text": "«Como é triste e deprimente ser-se tão desconhecedor…» (linha 14).",
+          "isCorrect": false
+        },
+        {
+          "id": 19559,
+          "letter": "D",
+          "text": "«A personagem não pode deixar de saber que eles lá estão.» (linha 24).",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 13 pontos\nRelativamente a cada obra, deve ser abordado um dos tópicos seguintes, ou outro igualmente relevante.\nMensagem\n − Séculos após a Batalha de Alcácer Quibir, não é mais a crença no regresso do rei vivo que está em \ncausa, mas o que ele representa – o mito, fecundador da realidade/o Desejado, que surge como o \nSalvador.\n − D. Sebastião surge na obra como o mito que exprime o drama nacional de um país decadente que \nprecisa de acreditar nas suas capacidades para superar o presente de «nevoeiro» (recusa do presente \ne crença no futuro).\n − O sebastianismo evidencia-se na crença no regresso messiânico do Salvador que conduzirá Portugal a \nnova conquista – o império espiritual e civilizacional («Senhor, falta cumprir-se Portugal!»).\n − D. Sebastião é o símbolo da loucura positiva, da sede de infinito que caracteriza o ser humano que \npretende ultrapassar a sua própria natureza («Louco, sim, louco, porque quis grandeza»).\nFrei Luís de Sousa\n − Num contexto em que Portugal está sob o domínio filipino, o sebastianismo evidencia-se na crença \nnacional de que D. Sebastião não morreu na batalha de Alcácer Quibir.\n − O sebastianismo evidencia-se na convicção de que o regresso de D. Sebastião devolverá a Portugal \na independência e a liberdade perdidas.\n − Existem na obra personagens fortemente sebastianistas: Telmo, vinte e um anos passados sobre \na fatídica batalha, mantém a esperança de que o seu antigo amo esteja vivo e regresse, o que significaria \nque D. Sebastião poderia também regressar / Maria, porta-voz da ilusão popular de que D. Sebastião \nestá vivo, acredita que o rei regressará a qualquer momento para salvar o seu povo do jugo castelhano.\n − A mensagem sebastianista não é absolutamente linear: se com a chegada do Romeiro, ou seja, de \nD. João, se verifica a destruição de quem ele ama (o seu regresso, em vez de ser uma graça, é uma \ndes – graça), o hipotético regresso de D. Sebastião também poderia não ser a melhor solução para \nPortugal.\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).\n\n•  Aspetos de conteúdo (C) .................................................................................... 8 pontos\nNíveis Descritores de desempenho Pontuação\n4 Refere, adequadamente, uma manifestação significativa do sebastianismo em cada uma \ndas obras. 8\n3\nRefere uma manifestação significativa do sebastianismo em cada uma das obras, \nadequadamente num dos casos e com pequenas imprecisões e/ou omissões no outro \ncaso.\n6\n2\nRefere uma manifestação significativa do sebastianismo em cada uma das obras, com \npequenas imprecisões e/ou omissões em ambos os casos.\nOU\nRefere, adequadamente, uma manifestação significativa do sebastianismo em apenas \numa das obras.\n4\n1 Refere, com pequenas imprecisões e/ou omissões, uma manifestação significativa do \nsebastianismo em apenas uma das obras. 2\n•  Aspetos de estruturação do discurso (ED)1 ........................................................ 3 pontos\nNíveis Descritores de desempenho Pontuação\n3\nEscreve um texto bem estruturado constituído por três partes (introdução, desenvolvimento \ne conclusão) devidamente proporcionadas e utiliza mecanismos de coesão textual que \nasseguram de modo global a progressão e o encadeamento das ideias.\n3\n2\nEscreve um texto globalmente bem estruturado constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e/ou utiliza mecanismos \nde coesão textual com a eventual ocorrência de falhas, que não comprometem de modo \nglobal a progressão e o encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado e/ou utiliza mecanismos de coesão textual \ncom falhas que comprometem de modo global a progressão e o encadeamento das ideias. 1\n•  Aspetos de correção linguística (CL)2 ................................................................ 2 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros \ndo tipo A\n0 1 2\nNúmero de \nerros do\n tipo B\n0 2 2 1\n1 1\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n2 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).\n\nGRUPO II\nChave\nITENS VERSÃO 1 VERSÃO 2 PONTUAÇÃO",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o poema.\nD. Sebastião\n5\n‘Sperai! Caí no areal e na hora adversa\nQue Deus concede aos seus\nPara o intervalo em que esteja a alma imersa\nEm sonhos que são Deus.\nQue importa o areal e a morte e a desventura\nSe com Deus me guardei?\nÉ O que eu me sonhei que eterno dura,\nÉ Esse que regressarei.\nFernando Pessoa, Mensagem e Outros Poemas sobre Portugal, edição de Fernando \nCabral Martins e Richard Zenith, Lisboa, Assírio & Alvim, 2014, p. 102."
+    },
+    {
+      "id": 9978,
       "question_number": "7",
       "statement": "7.\n T\nodas as frases abaixo transcritas exemplificam a modalidade apreciativa, exceto a frase\n \n(\na\n)\n «É uma boa pergunta, com que me confronto repetidamente.» (linhas 32 e 33).",
       "question_type": "multiple_choice",
@@ -216,27 +404,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1196,
-          "letter": "B",
-          "text": "«Ah, inacessível Gogol…» (linha 13).",
-          "isCorrect": false
-        },
-        {
-          "id": 1197,
-          "letter": "C",
-          "text": "«Como é triste e deprimente ser-se tão desconhecedor…» (linha 14).",
-          "isCorrect": false
-        },
-        {
-          "id": 1198,
-          "letter": "D",
-          "text": "«A personagem não pode deixar de saber que eles lá estão.» (linha 24).",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,

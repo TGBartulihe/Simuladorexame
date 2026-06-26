@@ -4,29 +4,30 @@
   "subject": "Português",
   "year": 2021,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 122,
+      "id": 1398,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 123,
+      "id": 1399,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 124,
+      "id": 1400,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1010,
+      "id": 10150,
       "question_number": "1",
-      "statement": "1. 2. 5. 6. 7. 1. 3. 4. 6.\nCotação (em pontos) 13 13 13 13 13 13 13 13 13 44 161\nDestes 5 itens, contribuem para a \nclassificação final da prova os 3 itens cujas \nrespostas obtenham melhor pontuação.\nI II\nSubtotal",
-      "question_type": "open",
+      "statement": "1. No primeiro parágrafo, o autor cita Pavel Florenskij com a intenção de\n \n(\na\n)\n dar a conhecer um dos filósofos mais relevantes da atualidade.",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -34,19 +35,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Vide Tipologia de erros no âmbito da correção linguística (p. 3).",
+      "criteriaText": "1. .................................................................................................................................................... 13 pontos\nPara \nque a resposta seja considerada adequada, devem ser abordados dois dos tópicos seguintes, ou \noutros igualmente relevantes:\n‒\n a \nreferência à sequência das estações do ano através da caracterização de elementos da natureza (em \n«Correm turvas as águas deste rio, / que as do Céu e as do monte as enturbaram» – vv. 1-2, remete\n-\nse \npara o inverno; em «os campos florecidos» – v. 3, aponta-se para a primavera; em «os campos [...] se \nsecaram» – v. 3, indicia-se o verão; em «intratável se fez o vale, e frio» – v. 4, sugere-se o outono);\n‒\n a \nreferência aos efeitos que a passagem do tempo provoca na natureza/a referência às transformações \nocorridas na natureza resultantes da passagem inevitável do tempo (como o turvar das águas do rio ou \no secar dos campos florescidos);\n‒\n a \nassociação entre a passagem do tempo e a ideia de mudança, evidente no recurso aos verbos \n«passar» e «trocar» (vv. 5-6).\nNota – Os tópicos podem ser abordados separadamente ou de forma integrada.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNíveis d escritores de desempenho Pontuação\n5\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando, adequadamente, pelo menos dois dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando, adequadamente, pelo menos dois dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando pelo menos dois dos tópicos de resposta, um adequadamente e outro(s) com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n(continua)\n\n3\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando pelo menos dois dos tópicos de resposta, um adequadamente e outro(s) com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando pelo menos dois dos tópicos de resposta, todos com pequenas imprecisões e/\nou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando pelo menos dois dos tópicos de resposta, todos com pequenas imprecisões e/\nou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\n4\n1\nExplica o modo como a passagem do tempo é representada nas duas primeiras estrofes, \nabordando, com pequenas imprecisões e/ou omissões, apenas um dos tópicos de \nresposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nNíveis d escritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1\n1 V ide Tipologia de erros no âmbito da correção linguística (p. 3) .",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo \nde duzentas e um máximo de trezentas e \ncinquenta palavras, faça a apreciação crítica da \npintura A Engomadeira, da autoria de José de \nAlmada Negreiros.\nO seu texto deve incluir:\n–\n a descrição da imagem\n apresentada, \ndestacando elementos significativos da \nsua composição;\n–\n um comentário crítico, fundamentando \na\n sua apreciação em, pelo menos, três \naspetos relevantes e utilizando um discurso \nvalorativo.\nJosé de Almada Negreiros, A Engomadeira, 1938,\nin www.gulbenkian.pt (consultado em outubro de 2020).\nobservações:"
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nUm dos filósofos mais originais e discretos do século XX, o russo Pavel Florenskij, escreveu: \n«A nossa vida escapa-nos como um sonho, e é possível não chegar a tempo de fazer coisa \nalguma neste breve instante que é a vida. Por isso, é necessário aprender a arte de viver, a \nmais difícil e a mais importante das artes: a capacidade de conferir a cada hora um conteúdo \nsubstancial, conscientes de que aquela hora não tornará jamais.» Pode, de facto, acontecer-nos \n«não chegar a tempo» até porque, precisamente, o tempo é uma alta febre que nos toma e que, \nnão raro, nos atira borda fora da nossa própria embarcação. Desde que ganhámos consciência \nde que estamos dentro do tempo, de que somos seres amassados na argila do tempo, deixámos \nde ter tempo. A nossa vida, quase por completo, está destinada ao fazer e ao produzir, a essa \nluta certamente áspera, monótona ou dilacerante, mas também apaixonada, envolvente e, à \nsua maneira, vital. Na verdade, não há, à partida, nenhum problema com a vida ativa da qual \ndependemos, e não só para garantir a basilar luta pela sobrevivência. O coágulo forma-se \nquando a atividade se torna o fim e nós os instrumentos; quando, manhã após manhã, o espelho \ntestemunha como nos estamos a transformar em elementos puramente instrumentais de uma \nvida que já não quer saber de nós. Muitas vezes, a esse lampejo de consciência, reagimos \npressionando ainda com mais força o pé contra o acelerador, deixando-nos ir, aceitando que não \nnos resta outra forma de aceitar a temporalidade. E tentamo-nos consolar dizendo: «não tenho \nvida, mas tenho coisas», «não tenho tempo para nada, mas adquiro poder de compra». \nÀs nossas sociedades falta uma reflexão séria sobre a completude da experiência humana e \nsobre as reivindicações – a maior parte delas sufocada – por um estilo de vida mais equilibrado. \nO dever ou o direito de fazer não tem de se construir sacrificando a toda a linha o dever ou o \ndireito de ser. A estimulação para o ativismo não tem de ser tão brutal que insista em queimar \n– com a rapidez com que arde um fósforo – todos os recursos, exteriores e interiores, que \nalguém possui para viver. A pressa não pode ignorar por completo a lentidão. A vida ativa não \ntem necessariamente de suprimir a necessidade que cada um de nós sente de contemplação. \nVêm-me ao pensamento os versos do «Canto Noturno de Um Pastor Errante da Ásia», do \npoeta Giacomo Leopardi: «Que fazes tu no céu, ó lua? Diz-me / que fazes, silenciosa lua? […] / \nDiz\n-\nme ó lua, afinal / que vale ao pastor a sua vida, / ou para que te serve a ti a tua? Diz-me para \nque direção / caminha este meu breve vagar / e para onde se dirige o teu curso imortal?» Na \ncomposição, o pastor errante contempla a lua. Com que necessidade? Em busca de quê? Em \nbusca de uma profundidade que porventura nunca conseguiremos atingir completamente, mas \nna qual precisamos de nos sentir imersos. Há um horizonte mais amplo, para lá da resolução \nindividual da minha existência: ficarei incompleto, alguma porção essencial de mim ficará por \nse desenvolver, se nunca tiver chegado verdadeiramente a confrontar o «meu breve vagar» \ncom o «curso imortal». Na língua latina, a palavra contemplação deriva da junção de dois \ntermos: cum e templum, que indicava na antiguidade o espaço aberto nas cúpulas para que se \ninterpretassem os sinais do futuro. Contemplar é não apenas introduzir uma benéfica lentidão \nno nosso olhar. É também colher o tempo da vida como um tecido relacional, uma intersecção \ndialógica que dilata ao infinito o sentido da nossa existência.\nJosé Tolentino Mendonça, «Que fazes tu no céu, ó lua?», in E – A Revista do Expresso, 18 de julho de 2020, p. 90."
     },
     {
-      "id": 1005,
-      "question_number": "2",
-      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCotaÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "id": 10157,
+      "question_number": "1",
+      "statement": "1. \n Para efeitos de contagem, considera-se uma palavra\n qualquer sequência delimitada por espaços em branco, \nmesmo quando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única \npalavra, independentemente do número de algarismos que o constituam (ex.: /2021/).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +56,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +66,110 @@
       "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo \nde duzentas e um máximo de trezentas e \ncinquenta palavras, faça a apreciação crítica da \npintura A Engomadeira, da autoria de José de \nAlmada Negreiros.\nO seu texto deve incluir:\n–\n a descrição da imagem\n apresentada, \ndestacando elementos significativos da \nsua composição;\n–\n um comentário crítico, fundamentando \na\n sua apreciação em, pelo menos, três \naspetos relevantes e utilizando um discurso \nvalorativo.\nJosé de Almada Negreiros, A Engomadeira, 1938,\nin www.gulbenkian.pt (consultado em outubro de 2020).\nobservações:"
     },
     {
-      "id": 1006,
+      "id": 10145,
+      "question_number": "2",
+      "statement": "2.\n «T\nem o tempo sua ordem já sabida; / o mundo, não» (versos 9 e 10).\nExplicite a oposição presente nestes versos, tendo em conta a globalidade do poema.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒\n a \nprevisibilidade/a constância natural da passagem do tempo, evidenciada pelo ritmo cíclico das \nestações do ano; \n‒\n a \nimprevisibilidade da natureza humana/dos comportamentos humanos, provocando tal desconcerto no \nmundo que «parece que dele Deus se esquece» (v. 11).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 .......................... 10 pontos\nNíveis d escritores de desempenho Pontuação\n5\nExplicita a oposição presente nos versos 9 e 10, abordando, adequadamente, ambos os \ntópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nExplicita a oposição presente nos versos 9 e 10, abordando, adequadamente, ambos os \ntópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nExplicita a oposição presente nos versos 9 e 10, abordando os dois tópicos de resposta, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nExplicita a oposição presente nos versos 9 e 10, abordando os dois tópicos de resposta, \num adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nExplicita a oposição presente nos versos 9 e 10, abordando os dois tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nExplicita a oposição presente nos versos 9 e 10, abordando os dois tópicos de resposta, \nambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\n4\n1\nAborda, adequadamente, um dos tópicos de resposta, sem explicar a oposição presente \nnos versos 9 e 10.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nNíveis d escritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o soneto e as notas.\n5\n10\nCorrem turvas as águas deste rio,\nque as do Céu e as do monte as enturbaram1;\nos campos florecidos se secaram,\nintratável2 se fez o vale, e frio.\nPassou o verão, passou o ardente estio3,\nũas cousas por outras se trocaram;\nos fementidos\n4 Fados já deixaram\ndo mundo o regimento5, ou desvario6.\nTem o tempo sua ordem já sabida;\no mundo, não; mas anda tão confuso,\nque parece que dele Deus se esquece.\nCasos, opiniões, natura\n7 e uso\nfazem que nos pareça desta vida\nque não há nela mais que o que parece.\nLuís de Camões, Rimas, edição de Álvaro J. da Costa Pimpão, Coimbra, Almedina, 1994, p. 168.\nNotaS\n1 enturbaram – tornaram turvas.\n2 intratável – inacessível; intransitável.\n3 estio – tempo quente e seco.\n4 fementidos – enganosos.\n5 regimento – governo.\n6 desvario – loucura; inquietação; excesso.\n7 natura – natureza humana."
+    },
+    {
+      "id": 10151,
+      "question_number": "2",
+      "statement": "2. Ao longo do texto, o autor defende que a azáfama da vida ativa\n \n(\na\n)\n pode colocar em perigo a saúde do ser humano.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nUm dos filósofos mais originais e discretos do século XX, o russo Pavel Florenskij, escreveu: \n«A nossa vida escapa-nos como um sonho, e é possível não chegar a tempo de fazer coisa \nalguma neste breve instante que é a vida. Por isso, é necessário aprender a arte de viver, a \nmais difícil e a mais importante das artes: a capacidade de conferir a cada hora um conteúdo \nsubstancial, conscientes de que aquela hora não tornará jamais.» Pode, de facto, acontecer-nos \n«não chegar a tempo» até porque, precisamente, o tempo é uma alta febre que nos toma e que, \nnão raro, nos atira borda fora da nossa própria embarcação. Desde que ganhámos consciência \nde que estamos dentro do tempo, de que somos seres amassados na argila do tempo, deixámos \nde ter tempo. A nossa vida, quase por completo, está destinada ao fazer e ao produzir, a essa \nluta certamente áspera, monótona ou dilacerante, mas também apaixonada, envolvente e, à \nsua maneira, vital. Na verdade, não há, à partida, nenhum problema com a vida ativa da qual \ndependemos, e não só para garantir a basilar luta pela sobrevivência. O coágulo forma-se \nquando a atividade se torna o fim e nós os instrumentos; quando, manhã após manhã, o espelho \ntestemunha como nos estamos a transformar em elementos puramente instrumentais de uma \nvida que já não quer saber de nós. Muitas vezes, a esse lampejo de consciência, reagimos \npressionando ainda com mais força o pé contra o acelerador, deixando-nos ir, aceitando que não \nnos resta outra forma de aceitar a temporalidade. E tentamo-nos consolar dizendo: «não tenho \nvida, mas tenho coisas», «não tenho tempo para nada, mas adquiro poder de compra». \nÀs nossas sociedades falta uma reflexão séria sobre a completude da experiência humana e \nsobre as reivindicações – a maior parte delas sufocada – por um estilo de vida mais equilibrado. \nO dever ou o direito de fazer não tem de se construir sacrificando a toda a linha o dever ou o \ndireito de ser. A estimulação para o ativismo não tem de ser tão brutal que insista em queimar \n– com a rapidez com que arde um fósforo – todos os recursos, exteriores e interiores, que \nalguém possui para viver. A pressa não pode ignorar por completo a lentidão. A vida ativa não \ntem necessariamente de suprimir a necessidade que cada um de nós sente de contemplação. \nVêm-me ao pensamento os versos do «Canto Noturno de Um Pastor Errante da Ásia», do \npoeta Giacomo Leopardi: «Que fazes tu no céu, ó lua? Diz-me / que fazes, silenciosa lua? […] / \nDiz\n-\nme ó lua, afinal / que vale ao pastor a sua vida, / ou para que te serve a ti a tua? Diz-me para \nque direção / caminha este meu breve vagar / e para onde se dirige o teu curso imortal?» Na \ncomposição, o pastor errante contempla a lua. Com que necessidade? Em busca de quê? Em \nbusca de uma profundidade que porventura nunca conseguiremos atingir completamente, mas \nna qual precisamos de nos sentir imersos. Há um horizonte mais amplo, para lá da resolução \nindividual da minha existência: ficarei incompleto, alguma porção essencial de mim ficará por \nse desenvolver, se nunca tiver chegado verdadeiramente a confrontar o «meu breve vagar» \ncom o «curso imortal». Na língua latina, a palavra contemplação deriva da junção de dois \ntermos: cum e templum, que indicava na antiguidade o espaço aberto nas cúpulas para que se \ninterpretassem os sinais do futuro. Contemplar é não apenas introduzir uma benéfica lentidão \nno nosso olhar. É também colher o tempo da vida como um tecido relacional, uma intersecção \ndialógica que dilata ao infinito o sentido da nossa existência.\nJosé Tolentino Mendonça, «Que fazes tu no céu, ó lua?», in E – A Revista do Expresso, 18 de julho de 2020, p. 90."
+    },
+    {
+      "id": 10158,
+      "question_number": "2",
+      "statement": "2. Relativamente \nao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nNum texto bem estruturado, com um mínimo \nde duzentas e um máximo de trezentas e \ncinquenta palavras, faça a apreciação crítica da \npintura A Engomadeira, da autoria de José de \nAlmada Negreiros.\nO seu texto deve incluir:\n–\n a descrição da imagem\n apresentada, \ndestacando elementos significativos da \nsua composição;\n–\n um comentário crítico, fundamentando \na\n sua apreciação em, pelo menos, três \naspetos relevantes e utilizando um discurso \nvalorativo.\nJosé de Almada Negreiros, A Engomadeira, 1938,\nin www.gulbenkian.pt (consultado em outubro de 2020).\nobservações:"
+    },
+    {
+      "id": 10146,
+      "question_number": "3",
+      "statement": "3. Selecione a opção de resposta adequada para completar as afirmações abaixo apresentadas.\nNeste soneto, além do tema da mudança, \ntambém se destaca o tema\n . Perante a realidade \nque perceciona, o sujeito poético evidencia um sentimento de\n .\n \n(\na\n)\n da reflexão sobre a vida pessoal … indiferença",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19858,
+          "letter": "B",
+          "text": "o mundo espiritual.",
+          "isCorrect": false
+        },
+        {
+          "id": 19859,
+          "letter": "C",
+          "text": "o mundo material.",
+          "isCorrect": false
+        },
+        {
+          "id": 19860,
+          "letter": "D",
+          "text": "a liberdade pessoal.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. Versão 1: (d); Versão 2: (B) ...................................................................................................... 13 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o soneto e as notas.\n5\n10\nCorrem turvas as águas deste rio,\nque as do Céu e as do monte as enturbaram1;\nos campos florecidos se secaram,\nintratável2 se fez o vale, e frio.\nPassou o verão, passou o ardente estio3,\nũas cousas por outras se trocaram;\nos fementidos\n4 Fados já deixaram\ndo mundo o regimento5, ou desvario6.\nTem o tempo sua ordem já sabida;\no mundo, não; mas anda tão confuso,\nque parece que dele Deus se esquece.\nCasos, opiniões, natura\n7 e uso\nfazem que nos pareça desta vida\nque não há nela mais que o que parece.\nLuís de Camões, Rimas, edição de Álvaro J. da Costa Pimpão, Coimbra, Almedina, 1994, p. 168.\nNotaS\n1 enturbaram – tornaram turvas.\n2 intratável – inacessível; intransitável.\n3 estio – tempo quente e seco.\n4 fementidos – enganosos.\n5 regimento – governo.\n6 desvario – loucura; inquietação; excesso.\n7 natura – natureza humana."
+    },
+    {
+      "id": 10152,
       "question_number": "3",
       "statement": "3.\n De acordo com o texto, o ser humano, por norma, coloca em primeiro lugar\n \n(\na\n)\n a qualidade de vida.",
       "question_type": "multiple_choice",
@@ -75,27 +179,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1557,
-          "letter": "B",
-          "text": "o mundo espiritual.",
-          "isCorrect": false
-        },
-        {
-          "id": 1558,
-          "letter": "C",
-          "text": "o mundo material.",
-          "isCorrect": false
-        },
-        {
-          "id": 1559,
-          "letter": "D",
-          "text": "a liberdade pessoal.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3. 4. 2. 5. 7.\nCotação (em pontos) 3 x 13 pontos 39\nt\notal 200",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -105,9 +190,9 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nUm dos filósofos mais originais e discretos do século XX, o russo Pavel Florenskij, escreveu: \n«A nossa vida escapa-nos como um sonho, e é possível não chegar a tempo de fazer coisa \nalguma neste breve instante que é a vida. Por isso, é necessário aprender a arte de viver, a \nmais difícil e a mais importante das artes: a capacidade de conferir a cada hora um conteúdo \nsubstancial, conscientes de que aquela hora não tornará jamais.» Pode, de facto, acontecer-nos \n«não chegar a tempo» até porque, precisamente, o tempo é uma alta febre que nos toma e que, \nnão raro, nos atira borda fora da nossa própria embarcação. Desde que ganhámos consciência \nde que estamos dentro do tempo, de que somos seres amassados na argila do tempo, deixámos \nde ter tempo. A nossa vida, quase por completo, está destinada ao fazer e ao produzir, a essa \nluta certamente áspera, monótona ou dilacerante, mas também apaixonada, envolvente e, à \nsua maneira, vital. Na verdade, não há, à partida, nenhum problema com a vida ativa da qual \ndependemos, e não só para garantir a basilar luta pela sobrevivência. O coágulo forma-se \nquando a atividade se torna o fim e nós os instrumentos; quando, manhã após manhã, o espelho \ntestemunha como nos estamos a transformar em elementos puramente instrumentais de uma \nvida que já não quer saber de nós. Muitas vezes, a esse lampejo de consciência, reagimos \npressionando ainda com mais força o pé contra o acelerador, deixando-nos ir, aceitando que não \nnos resta outra forma de aceitar a temporalidade. E tentamo-nos consolar dizendo: «não tenho \nvida, mas tenho coisas», «não tenho tempo para nada, mas adquiro poder de compra». \nÀs nossas sociedades falta uma reflexão séria sobre a completude da experiência humana e \nsobre as reivindicações – a maior parte delas sufocada – por um estilo de vida mais equilibrado. \nO dever ou o direito de fazer não tem de se construir sacrificando a toda a linha o dever ou o \ndireito de ser. A estimulação para o ativismo não tem de ser tão brutal que insista em queimar \n– com a rapidez com que arde um fósforo – todos os recursos, exteriores e interiores, que \nalguém possui para viver. A pressa não pode ignorar por completo a lentidão. A vida ativa não \ntem necessariamente de suprimir a necessidade que cada um de nós sente de contemplação. \nVêm-me ao pensamento os versos do «Canto Noturno de Um Pastor Errante da Ásia», do \npoeta Giacomo Leopardi: «Que fazes tu no céu, ó lua? Diz-me / que fazes, silenciosa lua? […] / \nDiz\n-\nme ó lua, afinal / que vale ao pastor a sua vida, / ou para que te serve a ti a tua? Diz-me para \nque direção / caminha este meu breve vagar / e para onde se dirige o teu curso imortal?» Na \ncomposição, o pastor errante contempla a lua. Com que necessidade? Em busca de quê? Em \nbusca de uma profundidade que porventura nunca conseguiremos atingir completamente, mas \nna qual precisamos de nos sentir imersos. Há um horizonte mais amplo, para lá da resolução \nindividual da minha existência: ficarei incompleto, alguma porção essencial de mim ficará por \nse desenvolver, se nunca tiver chegado verdadeiramente a confrontar o «meu breve vagar» \ncom o «curso imortal». Na língua latina, a palavra contemplação deriva da junção de dois \ntermos: cum e templum, que indicava na antiguidade o espaço aberto nas cúpulas para que se \ninterpretassem os sinais do futuro. Contemplar é não apenas introduzir uma benéfica lentidão \nno nosso olhar. É também colher o tempo da vida como um tecido relacional, uma intersecção \ndialógica que dilata ao infinito o sentido da nossa existência.\nJosé Tolentino Mendonça, «Que fazes tu no céu, ó lua?», in E – A Revista do Expresso, 18 de julho de 2020, p. 90."
     },
     {
-      "id": 1007,
+      "id": 10147,
       "question_number": "4",
-      "statement": "4.\n Do ponto de vista do autor\n, a arte de saber viver consiste em\n \n(\na\n)\n apostar na busca do bem-estar quotidiano.",
+      "statement": "4. Selecione a opção de resposta adequada para completar as afirmações abaixo apresentadas.\nNa descrição \nda fachada e do prédio (linhas 2 a 4), são utilizados alguns recursos expressivos, \nnomeadamente, a\n ,\n presente em «O próprio \nprédio parecia dormir, sereno, sorrindo ao sol». \nAtravés deste recurso, o narrador transmite ideias\n .\n \n(\na\n)\n metonímia … de bem-estar e de sossego",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -117,25 +202,46 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1560,
+          "id": 19861,
           "letter": "B",
           "text": "conciliar o trabalho com a contemplação.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 1561,
+          "id": 19862,
           "letter": "C",
           "text": "dedicar-se sobretudo a uma vida espiritual.",
           "isCorrect": false
         },
         {
-          "id": 1562,
+          "id": 19863,
           "letter": "D",
           "text": "encontrar tempo para a interação humana.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n•\n apresenta \num texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n•\n marca, corretamente, os parágrafos;\n•\n utiliza, adequadamente, mecanismos de articulação interfrásica;\n•\n mantém, \nde forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n•\n estabelece \nconexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "criteriaText": "4. \n Versão 1: (B); Versão 2: (\nd\n)\n \n...................................................................................................... 13 pontos\n1 V ide Tipologia de erros no âmbito da correção linguística (p. 3) .",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o soneto e as notas.\n5\n10\nCorrem turvas as águas deste rio,\nque as do Céu e as do monte as enturbaram1;\nos campos florecidos se secaram,\nintratável2 se fez o vale, e frio.\nPassou o verão, passou o ardente estio3,\nũas cousas por outras se trocaram;\nos fementidos\n4 Fados já deixaram\ndo mundo o regimento5, ou desvario6.\nTem o tempo sua ordem já sabida;\no mundo, não; mas anda tão confuso,\nque parece que dele Deus se esquece.\nCasos, opiniões, natura\n7 e uso\nfazem que nos pareça desta vida\nque não há nela mais que o que parece.\nLuís de Camões, Rimas, edição de Álvaro J. da Costa Pimpão, Coimbra, Almedina, 1994, p. 168.\nNotaS\n1 enturbaram – tornaram turvas.\n2 intratável – inacessível; intransitável.\n3 estio – tempo quente e seco.\n4 fementidos – enganosos.\n5 regimento – governo.\n6 desvario – loucura; inquietação; excesso.\n7 natura – natureza humana."
+    },
+    {
+      "id": 10153,
+      "question_number": "4",
+      "statement": "4.\n Do ponto de vista do autor\n, a arte de saber viver consiste em\n \n(\na\n)\n apostar na busca do bem-estar quotidiano.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -145,7 +251,7 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nUm dos filósofos mais originais e discretos do século XX, o russo Pavel Florenskij, escreveu: \n«A nossa vida escapa-nos como um sonho, e é possível não chegar a tempo de fazer coisa \nalguma neste breve instante que é a vida. Por isso, é necessário aprender a arte de viver, a \nmais difícil e a mais importante das artes: a capacidade de conferir a cada hora um conteúdo \nsubstancial, conscientes de que aquela hora não tornará jamais.» Pode, de facto, acontecer-nos \n«não chegar a tempo» até porque, precisamente, o tempo é uma alta febre que nos toma e que, \nnão raro, nos atira borda fora da nossa própria embarcação. Desde que ganhámos consciência \nde que estamos dentro do tempo, de que somos seres amassados na argila do tempo, deixámos \nde ter tempo. A nossa vida, quase por completo, está destinada ao fazer e ao produzir, a essa \nluta certamente áspera, monótona ou dilacerante, mas também apaixonada, envolvente e, à \nsua maneira, vital. Na verdade, não há, à partida, nenhum problema com a vida ativa da qual \ndependemos, e não só para garantir a basilar luta pela sobrevivência. O coágulo forma-se \nquando a atividade se torna o fim e nós os instrumentos; quando, manhã após manhã, o espelho \ntestemunha como nos estamos a transformar em elementos puramente instrumentais de uma \nvida que já não quer saber de nós. Muitas vezes, a esse lampejo de consciência, reagimos \npressionando ainda com mais força o pé contra o acelerador, deixando-nos ir, aceitando que não \nnos resta outra forma de aceitar a temporalidade. E tentamo-nos consolar dizendo: «não tenho \nvida, mas tenho coisas», «não tenho tempo para nada, mas adquiro poder de compra». \nÀs nossas sociedades falta uma reflexão séria sobre a completude da experiência humana e \nsobre as reivindicações – a maior parte delas sufocada – por um estilo de vida mais equilibrado. \nO dever ou o direito de fazer não tem de se construir sacrificando a toda a linha o dever ou o \ndireito de ser. A estimulação para o ativismo não tem de ser tão brutal que insista em queimar \n– com a rapidez com que arde um fósforo – todos os recursos, exteriores e interiores, que \nalguém possui para viver. A pressa não pode ignorar por completo a lentidão. A vida ativa não \ntem necessariamente de suprimir a necessidade que cada um de nós sente de contemplação. \nVêm-me ao pensamento os versos do «Canto Noturno de Um Pastor Errante da Ásia», do \npoeta Giacomo Leopardi: «Que fazes tu no céu, ó lua? Diz-me / que fazes, silenciosa lua? […] / \nDiz\n-\nme ó lua, afinal / que vale ao pastor a sua vida, / ou para que te serve a ti a tua? Diz-me para \nque direção / caminha este meu breve vagar / e para onde se dirige o teu curso imortal?» Na \ncomposição, o pastor errante contempla a lua. Com que necessidade? Em busca de quê? Em \nbusca de uma profundidade que porventura nunca conseguiremos atingir completamente, mas \nna qual precisamos de nos sentir imersos. Há um horizonte mais amplo, para lá da resolução \nindividual da minha existência: ficarei incompleto, alguma porção essencial de mim ficará por \nse desenvolver, se nunca tiver chegado verdadeiramente a confrontar o «meu breve vagar» \ncom o «curso imortal». Na língua latina, a palavra contemplação deriva da junção de dois \ntermos: cum e templum, que indicava na antiguidade o espaço aberto nas cúpulas para que se \ninterpretassem os sinais do futuro. Contemplar é não apenas introduzir uma benéfica lentidão \nno nosso olhar. É também colher o tempo da vida como um tecido relacional, uma intersecção \ndialógica que dilata ao infinito o sentido da nossa existência.\nJosé Tolentino Mendonça, «Que fazes tu no céu, ó lua?», in E – A Revista do Expresso, 18 de julho de 2020, p. 90."
     },
     {
-      "id": 1014,
+      "id": 10154,
       "question_number": "5",
       "statement": "5.\n Ao recorrer às expressões \n«alta febre» (linha 6) e «nos atira borda fora da nossa própria embarcação» \n(linha 7), o autor utiliza\n \n(\na\n)\n a metáfora para evidenciar \na intensidade da pressão do tempo, no primeiro caso, e a hipérbole para \nenfatizar os efeitos perniciosos do tempo, no segundo caso.",
       "question_type": "multiple_choice",
@@ -157,25 +263,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1563,
+          "id": 19864,
           "letter": "B",
           "text": "a hipér bole para enfatizar os efeitos perniciosos do tempo, no primeiro caso, e a metáfora para evidenciar a intensidade da pressão do tempo, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 1564,
+          "id": 19865,
           "letter": "C",
           "text": "metáforas para evidenciar a intensidade da pressão do tempo, no primeiro caso, e os efeitos perniciosos do tempo, no segundo caso.",
           "isCorrect": false
         },
         {
-          "id": 1565,
+          "id": 19866,
           "letter": "D",
           "text": "hipérboles para evidenciar os efeitos perniciosos do tempo, no primeiro caso, e a intensidade da pressão do tempo, no segundo caso.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5\nRefere duas marcas linguísticas que comprovam o uso de um registo que se aproxima da \noralidade e transcreve um exemplo significativo de cada uma dessas marcas.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.",
+      "criteriaText": "5. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes:\n‒\n inicialmente, \na perplexidade e a apreensão, ao constatar que em casa do Fonseca não há indícios de \natividade, pelo que, provavelmente, este não terá feito os preparativos necessários para a viagem e \nestará ainda a dormir;\n‒\n em \nseguida (pela acumulação de indícios que confirmam a impressão inicial), uma crescente irritação \nrelativamente ao comportamento do Fonseca e ao atraso que esse comportamento irá provocar;\n‒ \n finalmente \n(apesar de, por momentos, o narrador ser atravessado por um sentimento de inquietação/apesar \nde o narrador pôr a hipótese de uma desgraça), um estado de fúria, patente na forma violenta como toca \nà campainha e nos quatro murros que assenta na porta.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)\n1 .......................... 10 pontos\nNíveis d escritores de desempenho Pontuação\n5\nAnalisa a evolução do estado de espírito do narrador, abordando, adequadamente, os \ntrês tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nAnalisa a evolução do estado de espírito do narrador, abordando, adequadamente, os \ntrês tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nAnalisa a evolução do estado de espírito do narrador, abordando os três tópicos de \nresposta, dois adequadamente e um com pequenas imprecisões e/ou omissões ou um \nadequadamente e dois com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nAnalisa a evolução do estado de espírito do narrador, abordando os três tópicos de \nresposta, dois adequadamente e um com pequenas imprecisões e/ou omissões ou um \nadequadamente e dois com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nAnalisa a evolução do estado de espírito do narrador, abordando os três tópicos de \nresposta, todos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nAnalisa a evolução do estado de espírito do narrador, abordando apenas dois tópicos de \nresposta, ambos adequadamente.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nAnalisa a evolução do estado de espírito do narrador, abordando os três tópicos de \nresposta, todos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nAnalisa a evolução do estado de espírito do narrador, abordando apenas dois tópicos de \nresposta, ambos adequadamente.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\n4\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n(continua)\n\n1\nAnalisa a evolução do estado de espírito do narrador, abordando apenas dois tópicos \nde resposta, um adequadamente e outro com pequenas imprecisões e/ou omissões ou \nambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nNíveis d escritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1\n1 V ide Tipologia de erros no âmbito da correção linguística (p. 3) .",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -185,7 +291,47 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nUm dos filósofos mais originais e discretos do século XX, o russo Pavel Florenskij, escreveu: \n«A nossa vida escapa-nos como um sonho, e é possível não chegar a tempo de fazer coisa \nalguma neste breve instante que é a vida. Por isso, é necessário aprender a arte de viver, a \nmais difícil e a mais importante das artes: a capacidade de conferir a cada hora um conteúdo \nsubstancial, conscientes de que aquela hora não tornará jamais.» Pode, de facto, acontecer-nos \n«não chegar a tempo» até porque, precisamente, o tempo é uma alta febre que nos toma e que, \nnão raro, nos atira borda fora da nossa própria embarcação. Desde que ganhámos consciência \nde que estamos dentro do tempo, de que somos seres amassados na argila do tempo, deixámos \nde ter tempo. A nossa vida, quase por completo, está destinada ao fazer e ao produzir, a essa \nluta certamente áspera, monótona ou dilacerante, mas também apaixonada, envolvente e, à \nsua maneira, vital. Na verdade, não há, à partida, nenhum problema com a vida ativa da qual \ndependemos, e não só para garantir a basilar luta pela sobrevivência. O coágulo forma-se \nquando a atividade se torna o fim e nós os instrumentos; quando, manhã após manhã, o espelho \ntestemunha como nos estamos a transformar em elementos puramente instrumentais de uma \nvida que já não quer saber de nós. Muitas vezes, a esse lampejo de consciência, reagimos \npressionando ainda com mais força o pé contra o acelerador, deixando-nos ir, aceitando que não \nnos resta outra forma de aceitar a temporalidade. E tentamo-nos consolar dizendo: «não tenho \nvida, mas tenho coisas», «não tenho tempo para nada, mas adquiro poder de compra». \nÀs nossas sociedades falta uma reflexão séria sobre a completude da experiência humana e \nsobre as reivindicações – a maior parte delas sufocada – por um estilo de vida mais equilibrado. \nO dever ou o direito de fazer não tem de se construir sacrificando a toda a linha o dever ou o \ndireito de ser. A estimulação para o ativismo não tem de ser tão brutal que insista em queimar \n– com a rapidez com que arde um fósforo – todos os recursos, exteriores e interiores, que \nalguém possui para viver. A pressa não pode ignorar por completo a lentidão. A vida ativa não \ntem necessariamente de suprimir a necessidade que cada um de nós sente de contemplação. \nVêm-me ao pensamento os versos do «Canto Noturno de Um Pastor Errante da Ásia», do \npoeta Giacomo Leopardi: «Que fazes tu no céu, ó lua? Diz-me / que fazes, silenciosa lua? […] / \nDiz\n-\nme ó lua, afinal / que vale ao pastor a sua vida, / ou para que te serve a ti a tua? Diz-me para \nque direção / caminha este meu breve vagar / e para onde se dirige o teu curso imortal?» Na \ncomposição, o pastor errante contempla a lua. Com que necessidade? Em busca de quê? Em \nbusca de uma profundidade que porventura nunca conseguiremos atingir completamente, mas \nna qual precisamos de nos sentir imersos. Há um horizonte mais amplo, para lá da resolução \nindividual da minha existência: ficarei incompleto, alguma porção essencial de mim ficará por \nse desenvolver, se nunca tiver chegado verdadeiramente a confrontar o «meu breve vagar» \ncom o «curso imortal». Na língua latina, a palavra contemplação deriva da junção de dois \ntermos: cum e templum, que indicava na antiguidade o espaço aberto nas cúpulas para que se \ninterpretassem os sinais do futuro. Contemplar é não apenas introduzir uma benéfica lentidão \nno nosso olhar. É também colher o tempo da vida como um tecido relacional, uma intersecção \ndialógica que dilata ao infinito o sentido da nossa existência.\nJosé Tolentino Mendonça, «Que fazes tu no céu, ó lua?», in E – A Revista do Expresso, 18 de julho de 2020, p. 90."
     },
     {
-      "id": 1008,
+      "id": 10148,
+      "question_number": "6",
+      "statement": "6.\n Refira \nduas marcas linguísticas que comprovem o uso de um registo que se aproxima da oralidade. \nTranscreva, para cada uma delas, um exemplo significativo.\nPart E C",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19867,
+          "letter": "B",
+          "text": "subordinada substantiva relativa, com função de complemento do nome.",
+          "isCorrect": false
+        },
+        {
+          "id": 19868,
+          "letter": "C",
+          "text": "subordinada substantiva completiva, com função de complemento oblíquo.",
+          "isCorrect": false
+        },
+        {
+          "id": 19869,
+          "letter": "D",
+          "text": "subordinada substantiva completiva, com função de complemento do adjetivo.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois\n dos tópicos seguintes, ou outros igualmente relevantes:\n‒\n as interjeições ‒ «hum!» (l. 2)/«Ó senhor» (l. 19)/«Ah» (l. 23);\n‒\n as exclamações ‒ «Mas que silêncio nesta rua nova!» (ll. 5-6)/«imagine-se!» (l. 12);\n‒\n as interrogações ‒ «Mas tocariam as campainhas?» (l. 7)/«já teria o pneu cheio?» (l. 12);\n‒\n os diminutivos ‒ «calçadinha» (l. 6)/«pauzinho» (l. 16);\n‒\n o \nregisto de língua informal/familiar ‒ «A coisa estava bonita» (l. 15)/«desatarraxei» (l. 16)/«pinga de \nágua» (l. 17)/«Fui-me à campainha» (ll. 19-20)/«carreguei-lhe furiosamente» (l. 20)/«danado» (l. 32)/«sair \nda cama ao cantar do galo» (ll. 32-33).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 .......................... 10 pontos\nNíveis d escritores de desempenho Pontuação\n5\nRefere duas marcas linguísticas que comprovam o uso de um registo que se aproxima da \noralidade e transcreve um exemplo significativo de cada uma dessas marcas.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n10\n4\nRefere duas marcas linguísticas que comprovam o uso de um registo que se aproxima da \noralidade e transcreve um exemplo significativo de cada uma dessas marcas.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nRefere duas marcas linguísticas que comprovam o uso de um registo que se aproxima \nda oralidade, mas apenas transcreve um exemplo significativo de uma dessas marcas.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n8\n3\nRefere duas marcas linguísticas que comprovam o uso de um registo que se aproxima \nda oralidade, mas apenas transcreve um exemplo significativo de uma dessas marcas.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nRefere uma marca linguística que comprova o uso de um registo que se aproxima da \noralidade e transcreve um exemplo significativo dessa marca.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\nOU\nRefere duas marcas linguísticas que comprovam o uso de um registo que se aproxima da \noralidade, sem transcrever exemplos significativos de nenhuma dessas marcas.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram de modo global a progressão e o encadeamento das ideias.\n6\n2\nRefere uma marca linguística que comprova o uso de um registo que se aproxima da \noralidade e transcreve um exemplo significativo dessa marca.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\nOU\nRefere duas marcas linguísticas que comprovam o uso de um registo que se aproxima da \noralidade, sem transcrever exemplos significativos de nenhuma dessas marcas.\nUtiliza mecanismos de coesão textual com falhas que comprometem de modo global \na progressão e o encadeamento das ideias.\n4\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n(continua)\n\n1\nRefere uma marca linguística que comprova o uso de um registo que se aproxima da \noralidade, sem transcrever um exemplo significativo dessa marca.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que \ncomprometem, ou não, a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nNíveis d escritores de desempenho Pontuação\n3 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 3\n2\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n2\n1\nProduz um discurso com a ocorrência de:\n• três erros do tipo A;\nOU\n• um erro do tipo A e um erro do tipo B.\n1\n1 V ide Tipologia de erros no âmbito da correção linguística (p. 3) .",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o soneto e as notas.\n5\n10\nCorrem turvas as águas deste rio,\nque as do Céu e as do monte as enturbaram1;\nos campos florecidos se secaram,\nintratável2 se fez o vale, e frio.\nPassou o verão, passou o ardente estio3,\nũas cousas por outras se trocaram;\nos fementidos\n4 Fados já deixaram\ndo mundo o regimento5, ou desvario6.\nTem o tempo sua ordem já sabida;\no mundo, não; mas anda tão confuso,\nque parece que dele Deus se esquece.\nCasos, opiniões, natura\n7 e uso\nfazem que nos pareça desta vida\nque não há nela mais que o que parece.\nLuís de Camões, Rimas, edição de Álvaro J. da Costa Pimpão, Coimbra, Almedina, 1994, p. 168.\nNotaS\n1 enturbaram – tornaram turvas.\n2 intratável – inacessível; intransitável.\n3 estio – tempo quente e seco.\n4 fementidos – enganosos.\n5 regimento – governo.\n6 desvario – loucura; inquietação; excesso.\n7 natura – natureza humana."
+    },
+    {
+      "id": 10155,
       "question_number": "6",
       "statement": "6.\n A\n oração «que aquela hora não tornará jamais» (linha 5) é \n \n(\na\n)\n subordinada substantiva relativa, com função de complemento direto.",
       "question_type": "multiple_choice",
@@ -195,27 +341,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1566,
-          "letter": "B",
-          "text": "subordinada substantiva relativa, com função de complemento do nome.",
-          "isCorrect": false
-        },
-        {
-          "id": 1567,
-          "letter": "C",
-          "text": "subordinada substantiva completiva, com função de complemento oblíquo.",
-          "isCorrect": false
-        },
-        {
-          "id": 1568,
-          "letter": "D",
-          "text": "subordinada substantiva completiva, com função de complemento do adjetivo.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois\n dos tópicos seguintes, ou outros igualmente relevantes:\n‒\n as interjeições ‒ «hum!» (l. 2)/«Ó senhor» (l. 19)/«Ah» (l. 23);\n‒\n as exclamações ‒ «Mas que silêncio nesta rua nova!» (ll. 5-6)/«imagine-se!» (l. 12);\n‒\n as interrogações ‒ «Mas tocariam as campainhas?» (l. 7)/«já teria o pneu cheio?» (l. 12);\n‒\n os diminutivos ‒ «calçadinha» (l. 6)/«pauzinho» (l. 16);\n‒\n o \nregisto de língua informal/familiar ‒ «A coisa estava bonita» (l. 15)/«desatarraxei» (l. 16)/«pinga de \nágua» (l. 17)/«Fui-me à campainha» (ll. 19-20)/«carreguei-lhe furiosamente» (l. 20)/«danado» (l. 32)/«sair \nda cama ao cantar do galo» (ll. 32-33).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 .......................... 10 pontos\nNíveis d escritores de desempenho Pontuação",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -225,7 +352,47 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nUm dos filósofos mais originais e discretos do século XX, o russo Pavel Florenskij, escreveu: \n«A nossa vida escapa-nos como um sonho, e é possível não chegar a tempo de fazer coisa \nalguma neste breve instante que é a vida. Por isso, é necessário aprender a arte de viver, a \nmais difícil e a mais importante das artes: a capacidade de conferir a cada hora um conteúdo \nsubstancial, conscientes de que aquela hora não tornará jamais.» Pode, de facto, acontecer-nos \n«não chegar a tempo» até porque, precisamente, o tempo é uma alta febre que nos toma e que, \nnão raro, nos atira borda fora da nossa própria embarcação. Desde que ganhámos consciência \nde que estamos dentro do tempo, de que somos seres amassados na argila do tempo, deixámos \nde ter tempo. A nossa vida, quase por completo, está destinada ao fazer e ao produzir, a essa \nluta certamente áspera, monótona ou dilacerante, mas também apaixonada, envolvente e, à \nsua maneira, vital. Na verdade, não há, à partida, nenhum problema com a vida ativa da qual \ndependemos, e não só para garantir a basilar luta pela sobrevivência. O coágulo forma-se \nquando a atividade se torna o fim e nós os instrumentos; quando, manhã após manhã, o espelho \ntestemunha como nos estamos a transformar em elementos puramente instrumentais de uma \nvida que já não quer saber de nós. Muitas vezes, a esse lampejo de consciência, reagimos \npressionando ainda com mais força o pé contra o acelerador, deixando-nos ir, aceitando que não \nnos resta outra forma de aceitar a temporalidade. E tentamo-nos consolar dizendo: «não tenho \nvida, mas tenho coisas», «não tenho tempo para nada, mas adquiro poder de compra». \nÀs nossas sociedades falta uma reflexão séria sobre a completude da experiência humana e \nsobre as reivindicações – a maior parte delas sufocada – por um estilo de vida mais equilibrado. \nO dever ou o direito de fazer não tem de se construir sacrificando a toda a linha o dever ou o \ndireito de ser. A estimulação para o ativismo não tem de ser tão brutal que insista em queimar \n– com a rapidez com que arde um fósforo – todos os recursos, exteriores e interiores, que \nalguém possui para viver. A pressa não pode ignorar por completo a lentidão. A vida ativa não \ntem necessariamente de suprimir a necessidade que cada um de nós sente de contemplação. \nVêm-me ao pensamento os versos do «Canto Noturno de Um Pastor Errante da Ásia», do \npoeta Giacomo Leopardi: «Que fazes tu no céu, ó lua? Diz-me / que fazes, silenciosa lua? […] / \nDiz\n-\nme ó lua, afinal / que vale ao pastor a sua vida, / ou para que te serve a ti a tua? Diz-me para \nque direção / caminha este meu breve vagar / e para onde se dirige o teu curso imortal?» Na \ncomposição, o pastor errante contempla a lua. Com que necessidade? Em busca de quê? Em \nbusca de uma profundidade que porventura nunca conseguiremos atingir completamente, mas \nna qual precisamos de nos sentir imersos. Há um horizonte mais amplo, para lá da resolução \nindividual da minha existência: ficarei incompleto, alguma porção essencial de mim ficará por \nse desenvolver, se nunca tiver chegado verdadeiramente a confrontar o «meu breve vagar» \ncom o «curso imortal». Na língua latina, a palavra contemplação deriva da junção de dois \ntermos: cum e templum, que indicava na antiguidade o espaço aberto nas cúpulas para que se \ninterpretassem os sinais do futuro. Contemplar é não apenas introduzir uma benéfica lentidão \nno nosso olhar. É também colher o tempo da vida como um tecido relacional, uma intersecção \ndialógica que dilata ao infinito o sentido da nossa existência.\nJosé Tolentino Mendonça, «Que fazes tu no céu, ó lua?», in E – A Revista do Expresso, 18 de julho de 2020, p. 90."
     },
     {
-      "id": 1009,
+      "id": 10149,
+      "question_number": "7",
+      "statement": "7. T al como no excerto do conto que acabou de ler o narrador repara na figura do «padeiro» que distribui \n«pão fresco», também no poema «O Sentimento dum Ocidental», de Cesário Verde, o olhar do sujeito \npoético se detém, frequentemente, naqueles que trabalham.\nEscreva uma breve exposição sobre a «Dor humana» sentida por aqueles que trabalham, no poema \n«O Sentimento dum Ocidental».\nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um \ndesenvolvimento no qual refira de que modo duas das personagens observadas pelo sujeito poético \ncomprovam o sofrimento daqueles que trabalham;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19870,
+          "letter": "B",
+          "text": "gramatical interfrásica, no primeiro caso, e lexical por reiteração, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 19871,
+          "letter": "C",
+          "text": "gramatical frásica, no primeiro caso, e gramatical referencial, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 19872,
+          "letter": "D",
+          "text": "gramatical frásica, no primeiro caso, e lexical por reiteração, no segundo caso.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois\n dos tópicos seguintes, ou outros igualmente relevantes:\n‒\n as \nvarinas, que trabalham todo o dia descalças nas descargas de carvão, que transportam os filhos nas \ncanastras e que vivem em bairros sem condições sanitárias e onde proliferam as infeções, representam \no trabalho difícil e as degradantes condições de vida do povo; \n‒\n as \ncostureiras e as floristas, a quem custa elevar os pescoços (porque trabalham diariamente curvadas) \ne que, à noite, trabalham no teatro como comparsas ou coristas, representam o trabalho árduo do povo \npara sobreviver;\n‒\n o \nvelho professor de Latim, que pede esmola, representa a inexistência de apoio na velhice a quem \ndedicou a vida ao trabalho.\n•  Aspetos de conteúdo (C) ...\n................................................................................. 8 pontos\nNíveis d escritores de desempenho Pontuação\n4 Refere, adequadamente, o modo como duas das personagens observadas pelo sujeito \npoético comprovam o sofrimento daqueles que trabalham. 8\n3\nRefere o modo como duas das personagens observadas pelo sujeito poético comprovam \no sofrimento daqueles que trabalham, adequadamente num dos casos e com pequenas \nimprecisões e/ou omissões no outro caso.\n6\n2\nRefere o modo como duas das personagens observadas pelo sujeito poético comprovam \no sofrimento daqueles que trabalham, com pequenas imprecisões e/ou omissões em \nambos os casos.\nOU\nRefere, adequadamente, o modo como uma das personagens observadas pelo sujeito \npoético comprova o sofrimento daqueles que trabalham.\n4\n1 Refere, com pequenas imprecisões e/ou omissões, o modo como uma das personagens \nobservadas pelo sujeito poético comprova o sofrimento daqueles que trabalham. 2\n•  Aspetos de estruturação do discurso (ED)1 ...................................................... 3 pontos\nNíveis d escritores de desempenho Pontuação\n3\nEscreve um texto bem estruturado, constituído por três partes (introdução, desenvolvimento \ne conclusão) devidamente proporcionadas e utiliza mecanismos de coesão textual que \nasseguram de modo global a progressão e o encadeamento das ideias.\n3\n2\nEscreve um texto globalmente bem estruturado, constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e/ou utiliza mecanismos \nde coesão textual que, apesar da eventual ocorrência de falhas, não comprometem de \nmodo global a progressão e o encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado e/ou utiliza mecanismos de coesão textual \ncom falhas que comprometem de modo global a progressão e o encadeamento das ideias. 1\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 .............................................................. 2 pontos\nNíveis d escritores de desempenho Pontuação\n2 Produz um discurso sem quaisquer erros ou com a ocorrência de, no máximo, um erro \ndo tipo A. 2\n1\nProduz um discurso com a ocorrência de:\n• dois erros do tipo A;\nOU\n• um erro do tipo B.\n1\nGRUPO II\nChave\nitENS VE r S ão 1 VE r S ão 2 Po N tuação",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPart E a\nLeia o soneto e as notas.\n5\n10\nCorrem turvas as águas deste rio,\nque as do Céu e as do monte as enturbaram1;\nos campos florecidos se secaram,\nintratável2 se fez o vale, e frio.\nPassou o verão, passou o ardente estio3,\nũas cousas por outras se trocaram;\nos fementidos\n4 Fados já deixaram\ndo mundo o regimento5, ou desvario6.\nTem o tempo sua ordem já sabida;\no mundo, não; mas anda tão confuso,\nque parece que dele Deus se esquece.\nCasos, opiniões, natura\n7 e uso\nfazem que nos pareça desta vida\nque não há nela mais que o que parece.\nLuís de Camões, Rimas, edição de Álvaro J. da Costa Pimpão, Coimbra, Almedina, 1994, p. 168.\nNotaS\n1 enturbaram – tornaram turvas.\n2 intratável – inacessível; intransitável.\n3 estio – tempo quente e seco.\n4 fementidos – enganosos.\n5 regimento – governo.\n6 desvario – loucura; inquietação; excesso.\n7 natura – natureza humana."
+    },
+    {
+      "id": 10156,
       "question_number": "7",
       "statement": "7.\n A\n utilização da expressão «de facto» (linha 5) e do pronome «tua» (linha 28) contribui para a coesão\n \n(\na\n)\n gramatical interfrásica, no primeiro caso, e gramatical referencial, no segundo caso.",
       "question_type": "multiple_choice",
@@ -235,27 +402,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 1569,
-          "letter": "B",
-          "text": "gramatical interfrásica, no primeiro caso, e lexical por reiteração, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 1570,
-          "letter": "C",
-          "text": "gramatical frásica, no primeiro caso, e gramatical referencial, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 1571,
-          "letter": "D",
-          "text": "gramatical frásica, no primeiro caso, e lexical por reiteração, no segundo caso.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7 2\nCotaçÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\ng rupo\nSubtotalI II III",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,

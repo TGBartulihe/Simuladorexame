@@ -4,37 +4,17 @@
   "subject": "Matemática A",
   "year": 2023,
   "phase": "F1",
+  "triageStatus": "revisar",
   "groups": [
     {
-      "id": 55,
+      "id": 1361,
       "name": "SEM GRUPO",
       "order": 0
     }
   ],
   "questions": [
     {
-      "id": 520,
-      "question_number": "1",
-      "statement": "1. 3. 4.1. 5.1. 5.3. 6.1. 6.2. 8. 9. 10. 12.1. 13. Subtotal\nCotação (em pontos) 12 14 14 12 14 12 14 14 14 12 12 14 158\nDestes 6 itens, contribuem \npara a classificação final da \nprova os 3 itens cujas respostas \nobtenham melhor pontuação.",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "1. 3. 4.1. 5.1. 5.3. 6.1. 6.2. 8. 9. 10. 12.1. 13. Subtotal\nCotação (em pontos) 12 14 14 12 14 12 14 14 14 12 12 14 158\nDestes 6 itens, contribuem \npara a classificação final da \nprova os 3 itens cujas respostas \nobtenham melhor pontuação.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "SEM GRUPO",
-      "contextTitle": null,
-      "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
-    },
-    {
-      "id": 503,
+      "id": 9764,
       "question_number": "2",
       "statement": "2. A Figura 1 representa uma linha poligonal simples que começou a ser \nconstruída a partir do segmento de reta [AB]. O segundo segmento \nde reta, com uma das extremidades em B, foi construído com mais \n2 cm do que o primeiro, o terceiro segmento foi construído com mais \n2 cm do que o segundo, e assim sucessivamente, tendo cada segmento \nde reta sempre mais 2 cm do que o anterior.\nContinuando a construção da linha poligonal, do modo acima descrito, \naté ao 100.º segmento de reta, obtém-se uma linha poligonal com o \ncomprimento total de 104 metros.\nDetermine o comprimento do segmento de reta [AB] .\nApresente o valor pedido em centímetros.",
       "question_type": "calculation",
@@ -45,7 +25,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. 4.2. 5.2. 7. 11. 12.2. Subtotal\nCotação (em pontos) 3 × 14 pontos 42\nTOTAL 200",
+      "criteriaText": "2.\n Utilização \nde processos de resolução que não \nrespeitem as instruções dadas [exemplos: «sem \nrecorrer à calculadora», «recorrendo a métodos \nanalíticos, sem utilizar a calculadora»].\nA etapa em que a instrução não é respeitada e todas as \netapas subsequentes que dela dependam são pontuadas \ncom zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -55,7 +35,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 504,
+      "id": 9765,
       "question_number": "3",
       "statement": "3. Resolva este item sem recorrer à calculadora.\nSeja f uma função diferenciável, de domínio R, cuja derivada, f l, é dada por\nf x xe2 x1 2\n/g32/g16 /g16l]g\nEstude a função f quanto ao sentido das concavidades do seu gráfico e quanto à existência de pontos \nde inflexão.\nNa sua resposta, apresente:\n – o(s) intervalo(s) em que o gráfico de f tem concavidade voltada para baixo;\n – o(s) intervalo(s) em que o gráfico de f tem concavidade voltada para cima;\n – a(s) abcissa(s) do(s) ponto(s) de inflexão do gráfico de f , caso este(s) exista(m).",
       "question_type": "open",
@@ -66,7 +46,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3/g14/g16 /g16cm ............................ 2 pontos",
+      "criteriaText": "3.\n Apresentação \napenas do resultado final quando é \npedida a apresentação de cálculos ou justificações.\nA resposta é classificada com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -76,7 +56,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 505,
+      "id": 9766,
       "question_number": "4",
       "statement": "4. Considere a função g , de domínio R, definida por\nse\nse\ng x e\nx x\nx\n1\n44 1\n73 31\nx\nx\n1\n1#\n1\n$\n/g32 /g16\n/g16\n/g16\n/g16\n/g16\n]g\nZ\n[\n\\\n]]\n]]\nResolva os itens 4.1. e 4.2. sem recorrer à calculadora.",
       "question_type": "open",
@@ -87,7 +67,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4 Apresenta, de forma completa, duas justificações e, de forma incompleta, \numa justificação. 10",
+      "criteriaText": "4.\n Ausência \nde apresentação de cálculos ou de justificações \nnecessários à resolução de uma etapa.\nA etapa é pontuada com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -97,7 +77,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 509,
+      "id": 9770,
       "question_number": "6",
       "statement": "6. Na Figura 2, está representado, em referencial o.n. Oxyz , \no prisma triangular reto [OABCDE] , de bases [ABC] \ne [OED] .\nSabe-se que:\n• as bases do prisma estão inscritas em \nsemicircunferências, respetivamente, de diâmetros \n[AB] e [OE] ;\n• os vértices A e E do prisma pertencem, \nrespetivamente, aos semieixos positivos Ox e Oy ;\n• ,OE 12 5= ;\n• a reta AC é definida pela equação vetorial ,, ,, ,, ,xy z kk1000 04 3 R!/g32 /g14^ ^^h hh .",
       "question_type": "open",
@@ -118,7 +98,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 511,
+      "id": 9772,
       "question_number": "7",
       "statement": "7. Na Figura 3, estão representados, em referencial o.n. Oxy , \numa circunferência de centro na origem e os pontos A , P e \nQ , que pertencem à circunferência.\nSabe-se que:\n• o ponto A tem coordenadas ,20^h ;\n• o ângulo orientado AOQ tem amplitude , 2\n3!a r r :D ;\n• os pontos P e Q têm a mesma abcissa;\n• :OP OQ 3= .\nDetermine o valor de cos 2 a^h .\nz\nx\nyO\nAB\nC\nD\nE\nFigura 2\ny\nx\nαP\nOA\nQ\nFigura 3",
       "question_type": "calculation",
@@ -129,7 +109,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7.\n \n.................................................................................................................................................... 14 pontos\nEste item pode ser resolvido por\n, pelo menos, dois processos.",
+      "criteriaText": "7.\n T\nranscrição incorreta de um número ou de um sinal, \nna resolução de uma etapa.\nSe a dificuldade da resolução da etapa não diminuir, é \nsubtraído um ponto à pontuação da etapa.\nSe a dificuldade da resolução da etapa diminuir, a \npontuação máxima a atribuir a essa etapa é a parte inteira \nde metade da pontuação prevista.\nAs etapas subsequentes são pontuadas de acordo com \nos efeitos do erro cometido (ver nota 2).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -139,7 +119,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 512,
+      "id": 9773,
       "question_number": "8",
       "statement": "8. Uma empresa está a desenvolver um programa de testes para melhorar a propulsão de foguetes.\nOs foguetes utilizados partem do solo e seguem uma trajetória vertical. \nEm relação a um dos modelos de foguete utilizados, admita que, após o lançamento e até se esgotar o \ncombustível, a sua distância ao solo, a , em metros, é dada, a cada instante t , em segundos, por\n,lna t t t t t100 10 1 10 49 2/g32 /g14/g16 /g16 /g16]] bgg l: D , com ,t 08! 6@\nDetermine, utilizando a calculadora gráfica, o instante a partir do qual, durante 3 segundos, esse foguete \npercorre 25 metros.\nApresente o resultado em segundos, arredondado às décimas.\nNão justifique a validade do resultado obtido na calculadora.\nNa sua resposta:\n – apresente uma equação que lhe permita resolver o problema;\n – represente, num referencial, o(s) gráfico(s) da(s) função(ões) visualizado(s) na calculadora e assinale \no(s) ponto(s) relevante(s), que lhe permitem resolver a equação.",
       "question_type": "essay",
@@ -150,7 +130,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "8.\n \n.................................................................................................................................................... 14 pontos\nIdentificar a distância percorrida pelo foguete durante os 3 segundos com\na t a t3/g14/g16^ ]h g ..................................................................................................... 3 pontos\nApresentar a equação a t a t3 25/g14/g16 /g32^ ]h g (ou equivalente) (ver nota 1) ...... 2 pontos\nRepresentar \no(s) gráfico(s) da(s) função(ões) visualizado(s) na calculadora que\npermite(m) resolver a equação (ver nota 2) \n ......\n................................................... 5 pontos\nAssinalar o ponto relevante \n.................................................................................... 2 pontos\nApresentar o valor pedido (1,8 s) ......................................................................... 2 pontos\nNotas:",
+      "criteriaText": "8.\n Ocorrência \nde um erro ocasional num cálculo, na \nresolução de uma etapa.\nÉ subtraído um ponto à pontuação da etapa em que o \nerro ocorre.\nAs etapas subsequentes são pontuadas de acordo com \nos efeitos do erro cometido (ver nota 2).\n\nSituação Classificação",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -160,7 +140,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 513,
+      "id": 9774,
       "question_number": "9",
       "statement": "9. Sejam f e g funções duas vezes diferenciáveis, de domínios R e ,0 3+ 6@ , respetivamente, e seja r \na reta de equação yx 21/g32/g16 .\nSabe-se que:\n• a reta r é tangente ao gráfico de g no ponto de abcissa 1 ;\n• lim f x x21 0\nx\n/g16/g14/g32\n\" 3/g14\n^ ]g h ;\n• nos respetivos domínios, o gráfico de f tem concavidade voltada para cima e o gráfico de g tem \nconcavidade voltada para baixo.\nConsidere as proposições seguintes.\nI. O gráfico da função f admite uma assíntota horizontal quando x tende para 3+ .\nII. lim g x 2\nx 1\n=\n\"\n]g .\nIII. , ,f x g x x 06 3! +1ll ll]] gg 6@ .\nJustifique que as proposições I, II e III são falsas.\nNa sua resposta, apresente, para cada uma das proposições, uma razão que justifique a sua falsidade.",
       "question_type": "essay",
@@ -171,7 +151,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 14 pontos\nTópicos de resposta\n•  Justifica que a proposição I é falsa: Dado que lim f x x21 0\nx\n/g16/g14/g32\n\" 3/g14\n^ ]g h , a reta de equação yx 21/g32/g16\né assíntota oblíqua ao gráfico de f em 3+ , pelo que não existe assíntota horizontal ao gráfico de f em 3+ .\n•  Justifica que a proposição II é falsa: Dado que a reta de equação yx 21/g32/g16 é tangente ao gráfico da função g \nno ponto de abcissa 1, g 1 1=^h e, como g é diferenciável e, por conseguinte, contínua, lim g x 1\nx 1\n=\n\"\n]g . \n•  Justifica que a proposição III é falsa: Dado que o gráfico de f tem concavidade voltada para cima e o gráfico \nde g tem concavidade voltada para baixo, ,f x x0 R6$!ll]g e , ,g x x0 06 3#! +ll]g 6 @, pelo que \n, ,f x g x x 06 3$! +ll ll]] gg 6 @ . \n\nParâmetros Níveis Descritores de desempenho Pontuação\nA\nConteúdos",
+      "criteriaText": "9.\n Ocorrência \nde um erro que revela desconhecimento de \nconceitos, de regras ou de propriedades, na resolução \nde uma etapa.\nA pontuação máxima a atribuir a essa etapa é a parte \ninteira de metade da pontuação prevista.\nAs etapas subsequentes são pontuadas de acordo com \nos efeitos do erro cometido (ver nota 2).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -181,7 +161,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 514,
+      "id": 9775,
       "question_number": "10",
       "statement": "10. Na Figura 4, estão representados, no plano complexo, os \npontos A e B .\nO ponto O é a origem do referencial.\nO ponto A é o afixo de um número complexo z tal que \nIm Rezz=]] gg e Re z 02]g .\nO ponto B é o afixo de um número complexo w tal que \no ângulo convexo AOB tem amplitude 8\n5r radianos.\nQual dos valores seguintes é um argumento de wz# ?",
       "question_type": "multiple_choice",
@@ -193,33 +173,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 871,
+          "id": 19268,
           "letter": "A",
           "text": "8 3r",
           "isCorrect": false
         },
         {
-          "id": 872,
+          "id": 19269,
           "letter": "B",
           "text": "8 5r",
           "isCorrect": false
         },
         {
-          "id": 873,
+          "id": 19270,
           "letter": "C",
           "text": "8 9r",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 874,
+          "id": 19271,
           "letter": "D",
           "text": "8 11r",
           "isCorrect": false
         }
       ],
-      "criteriaText": "10. .................................................................................................................................................. 12 pontos\nOpção \n(C)",
+      "criteriaText": "10.\n Resolução incompleta de uma etapa. Se \nà resolução da etapa faltar apenas a passagem final, é \nsubtraído um ponto à pontuação da etapa; caso contrário, \na pontuação máxima a atribuir é a parte inteira de metade \nda pontuação prevista.",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "SEM GRUPO",
@@ -227,7 +207,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 515,
+      "id": 9776,
       "question_number": "11",
       "statement": "11. Resolva este item sem recorrer à calculadora.\nConsidere, em C , conjunto dos números complexos, o número \n6\nw i\nei\ni 5\n17\n/g32 /g16\nr\n .\nDetermine, em C , as soluções da equação zw2 = .\nApresente os valores pedidos na forma ab i+ , com ,ab R! .",
       "question_type": "calculation",
@@ -238,7 +218,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "11.\n \n.................................................................................................................................................. 14 pontos\nEste item pode ser resolvido por\n, pelo menos, dois processos.",
+      "criteriaText": "11.\n Apresentação \nde cálculos intermédios com um \nnúmero de casas decimais diferente do solicitado ou \napresentação de um arredondamento incorreto.\nÉ subtraído um ponto à soma das pontuações atribuídas, \nsalvo se houver indicação em contrário no critério \nespecífico de classificação.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -248,7 +228,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 516,
+      "id": 9777,
       "question_number": "12",
       "statement": "12. Seja f a função, de domínio ,0 r6@ , definida por senf xx x2/g32 /g14] ^g h , e seja r a reta de equação \nyx 2/g32/g16/g14 .",
       "question_type": "open",
@@ -259,7 +239,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "12.\n Apresentação \ndo resultado final que não respeita a \nforma solicitada [exemplo: é pedido o resultado na \nforma de fração, e a resposta apresenta-se na forma \ndecimal].\nÉ subtraído um ponto à pontuação da etapa correspondente \nà apresentação do resultado final.",
+      "criteriaText": "12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nCritérios de Classificação 13 Páginas\nCRITÉRIOS GERAIS DE CLASSIFICAÇÃO\nA classificação a atribuir a cada resposta resulta da aplicação dos critérios gerais e dos critérios específicos \napresentados para cada item e é expressa por um número inteiro.\nAs respostas ilegíveis ou que não possam ser claramente identificadas são classificadas com zero pontos.\nEm caso de omissão ou de engano na identificação de uma resposta, esta pode ser classificada se for \npossível identificar inequivocamente o item a que diz respeito.\nSe for apresentada mais do que uma resposta ao mesmo item, só é classificada a resposta que surgir em \nprimeiro lugar.\nITENS DE SELEÇÃO\nNos itens de escolha múltipla, a pontuação só é atribuída às respostas que apresentem de forma inequívoca \na opção correta. Todas as outras respostas são classificadas com zero pontos.\nNas respostas aos itens de escolha múltipla, a transcrição do texto da opção escolhida é considerada \nequivalente à indicação da letra correspondente.\nITENS DE CONSTRUÇÃO\nNos itens de construção, os critérios de classificação podem apresentar-se organizados apenas por níveis de \ndesempenho, por parâmetros, com os respetivos níveis de desempenho, ou por etapas.\nNos itens em que os critérios de classificação se apresentem organizados apenas por níveis de desempenho, \na cada nível de desempenho corresponde uma dada pontuação. Se permanecerem dúvidas quanto ao nível \na atribuir, deve optar-se pelo nível mais elevado de entre os dois tidos em consideração. Qualquer resposta \nque não atinja o nível 1 de desempenho é classificada com zero pontos.\nNos itens em que os critérios de classificação se apresentem organizados por parâmetros, a classificação \na atribuir à resposta resulta da soma das pontuações atribuídas aos parâmetros seguintes: (A) Conteúdos, \n(B) Linguagem científica. A atribuição da classificação de zero pontos no parâmetro (A) implica a atribuição \nde zero pontos no parâmetro (B).\nNos itens em que os critérios de classificação se apresentem organizados por etapas, a classificação a \natribuir à resposta resulta da soma das pontuações atribuídas às etapas apresentadas e da aplicação dos \ncritérios de desvalorização definidos para situações específicas.\n\nAs respostas que não apresentem exatamente os termos ou expressões constantes nos critérios específicos \nde classificação são classificadas em igualdade de circunstâncias com aquelas que os apresentem, desde \nque o seu conteúdo seja cientificamente válido, adequado ao solicitado e enquadrado pelos documentos \ncurriculares de referência.\nA classificação das respostas aos itens que envolvam o uso obrigatório das potencialidades gráficas da \ncalculadora tem em conta a apresentação, num referencial, do gráfico da função ou dos gráficos das funções \nvisualizados.\nNo quadro seguinte, apresentam-se os critérios de classificação a aplicar, em situações específicas, às \nrespostas aos itens de construção cujos critérios se apresentem organizados por etapas:\nSituação Classificação",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -269,9 +249,9 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 519,
+      "id": 9780,
       "question_number": "13",
-      "statement": "13. Sejam a e b números reais, não nulos, tais que a reta de equação ya xb/g32/g14 é tangente ao gráfico \nda função f , de domínio R , definida por f x ax bx2/g32 /g14]g .\nDetermine as coordenadas do ponto de tangência.\nFIM\nIm (z)\nRe (z)\nA\nB\nO\n8\n5r\nFigura 4\n\nCOTAÇÕES\nAs pontuações obtidas nas \nrespostas a estes 12 itens \nda prova contribuem \nobrigatoriamente para a \nclassificação final.",
+      "statement": "13. Sejam a e b números reais, não nulos, tais que a reta de equação ya xb/g32/g14 é tangente ao gráfico \nda função f , de domínio R , definida por f x ax bx2/g32 /g14]g .\nDetermine as coordenadas do ponto de tangência.",
       "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
@@ -280,7 +260,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "13. .................................................................................................................................................. 14 pontos\nEste item pode ser resolvido por\n, pelo menos, dois processos.",
+      "criteriaText": "13.\n Utilização \nde valores exatos nos cálculos intermédios \ne apresentação do resultado final com aproximação \nquando deveria ter sido apresentado o valor exato.\nÉ subtraído um ponto à pontuação da etapa correspondente \nà apresentação do resultado final.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -290,7 +270,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 506,
+      "id": 9767,
       "question_number": "5.1",
       "statement": "5.1. Dez dos jovens do grupo vão deslocar-se em fila, pela praia, para uma aula de surf.\nA Ana, o Diogo e o Francisco são três desses jovens.\nDe quantas formas diferentes se podem dispor os jovens na fila, ficando a Ana, o Diogo e o Francisco \njuntos?",
       "question_type": "multiple_choice",
@@ -302,25 +282,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 863,
+          "id": 19260,
           "letter": "A",
           "text": "483 840",
           "isCorrect": false
         },
         {
-          "id": 864,
+          "id": 19261,
           "letter": "B",
           "text": "241 920",
           "isCorrect": true
         },
         {
-          "id": 865,
+          "id": 19262,
           "letter": "C",
           "text": "60 480",
           "isCorrect": false
         },
         {
-          "id": 866,
+          "id": 19263,
           "letter": "D",
           "text": "30 240",
           "isCorrect": false
@@ -336,7 +316,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 507,
+      "id": 9768,
       "question_number": "5.2",
       "statement": "5.2. No ato da inscrição, todos os jovens do grupo responderam a um questionário sobre a prática das \nmodalidades de surf e de skate.\nDe acordo com as respostas ao questionário:\n• 65% praticavam surf ;\n• 20% praticavam skate e não praticavam surf ;\n• quatro em cada cinco dos que praticavam surf também praticavam skate. \nSelecionou-se, ao acaso, um jovem que, no questionário, tinha respondido que não praticava skate.\nDetermine a probabilidade de esse jovem, no questionário, também ter respondido que praticava surf.\nApresente o resultado na forma de fração irredutível.",
       "question_type": "calculation",
@@ -357,7 +337,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 508,
+      "id": 9769,
       "question_number": "5.3",
       "statement": "5.3. Considere que, no grupo, há 70 jovens com 13 ou 14 anos de idade, sendo o número de jovens com \n14 anos maior do que o número de jovens com 13 anos.\nPara realizar uma determinada tarefa, vão ser selecionados, aleatoriamente, dois desses jovens.\nSabe-se que a probabilidade de selecionar dois desses jovens com idades distintas é 35\n16 .\nDetermine o número de jovens com 13 anos que há no grupo.",
       "question_type": "calculation",
@@ -368,7 +348,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5.3. ................................................................................................................................................. 14 pontos\nDesignemos por n o número de jovens com 13 anos.\nIdentificar o número de jovens com 14 anos com n70- ................................. 1 ponto\nIdentificar o número de casos possíveis com C70 2 (ou com A70 2) (ver nota 1) 4 pontos\nIdentificar o número de casos favoráveis em função de n com n n70-^h\n(ou, tendo em conta a etapa anterior, com n n2 70-^h ) (ver nota 2) .............. 3 pontos\nEscrever a equação \nC\nn n70",
+      "criteriaText": "5.3. ................................................................................................................................................. 14 pontos\nDesignemos por n o número de jovens com 13 anos.\nIdentificar o número de jovens com 14 anos com n70- ................................. 1 ponto\nIdentificar o número de casos possíveis com C70 2 (ou com A70 2) (ver nota 1) 4 pontos\nIdentificar o número de casos favoráveis em função de n com n n70-^h\n(ou, tendo em conta a etapa anterior, com n n2 70-^h ) (ver nota 2) .............. 3 pontos\nEscrever a equação \nC\nn n70\n35\n16\n70 2\n/g16/g32^h (ou equivalente) ... ................................ 3 pontos\nObter as soluções da equação (24 e 46) .......................................................... 2 pontos\nApresentar o valor pedido (24) .......................................................................... 1 ponto\nNotas:",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -378,7 +358,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 510,
+      "id": 9771,
       "question_number": "6.1",
       "statement": "6.1. Qual das seguintes equações vetoriais define a reta OD ?",
       "question_type": "multiple_choice",
@@ -390,25 +370,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 867,
+          "id": 19264,
           "letter": "A",
           "text": ",, ,, ,, ,xy z kk06 8 02 2 3 R!/g32 /g14^ ^ ah h k",
           "isCorrect": false
         },
         {
-          "id": 868,
+          "id": 19265,
           "letter": "B",
           "text": ",, ,, ,, ,xy z kk04 3 02 2 3 R!/g32/g16/g16/g14^ ^ ah h k",
           "isCorrect": true
         },
         {
-          "id": 869,
+          "id": 19266,
           "letter": "C",
           "text": ",, ,, ,, ,xy z kk04 30 34 R!/g32/g16/g16/g14 /g16^ ^^h hh",
           "isCorrect": false
         },
         {
-          "id": 870,
+          "id": 19267,
           "letter": "D",
           "text": ",, ,, ,, ,xy z kk06 8 03 4 R!/g32 /g14 /g16^ ^^h hh",
           "isCorrect": false
@@ -424,7 +404,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 517,
+      "id": 9778,
       "question_number": "12.1",
       "statement": "12.1. Qual das expressões seguintes pode definir a função derivada de f ?",
       "question_type": "multiple_choice",
@@ -436,25 +416,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 875,
+          "id": 19272,
           "letter": "A",
           "text": "cos x22 2−",
           "isCorrect": false
         },
         {
-          "id": 876,
+          "id": 19273,
           "letter": "B",
           "text": "sen x22 2−",
           "isCorrect": false
         },
         {
-          "id": 877,
+          "id": 19274,
           "letter": "C",
           "text": "cos x34 2−",
           "isCorrect": false
         },
         {
-          "id": 878,
+          "id": 19275,
           "letter": "D",
           "text": "sen x34 2−",
           "isCorrect": true
@@ -470,7 +450,7 @@
       "contextText": "Exame Final Nacional de Matemática A\nProva 635 | 1.ª Fase | Ensino Secundário | 2023\n12.º Ano de Escolaridade\nDecreto-Lei n.º 55/2018, de 6 de julho | Decreto-Lei n.º 22/2023, de 3 de abril\nDuração da Prova: 150 minutos. | Tolerância: 30 minutos. 8 Páginas\nPara cada resposta, identifique o item.\nUtilize apenas caneta ou esferográfica de tinta azul ou preta.\nNão é permitido o uso de corretor. Risque aquilo que pretende que não seja classificado.\nÉ permitido o uso de régua, compasso, esquadro, transferidor e calculadora gráfica.\nApresente apenas uma resposta para cada item.\nAs cotações dos itens encontram-se no final do enunciado da prova.\nA prova inclui um formulário.\nNas respostas aos itens de escolha múltipla, selecione a opção correta. Escreva, na folha de respostas, o \nnúmero do item e a letra que identifica a opção escolhida.\nNas respostas aos restantes itens, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias. Quando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato.\nA prova inclui 12 itens, devidamente identificados no enunciado, cujas respostas contribuem \nobrigatoriamente para a classificação final. Dos restantes 6 itens da prova, apenas contribuem para a \nclassificação final os 3 itens cujas respostas obtenham melhor pontuação.\n\nFormulário\nGeometria\nComprimento de um arco de circunferência:\n,, ;amplitudee mr adianosd on guloao centro raiorr âaa --^h\nÁrea de um polígono regular: íóSemiperm etro Ap tema#\nÁrea de um sector circular:\n,, ;amplitudee mr adianosd on guloao centro raior r2 â\n2a a --^h\nÁrea lateral de um cone: ;raioda base geratrizrg rgr --^h \nÁrea de uma superfície esférica: raior4 2 -rr ^h \nVolume de uma pirâmide: Áread a baseA ltura3\n1 ##\nVolume de um cone: Áread a baseA ltura3\n1 ##\nVolume de uma esfera: raiorr3\n4 3r -^h\nProgressões\nSoma dos n primeiros termos de uma progressão un_i :\nProgressão aritmética: uu n2\nn1 #+\nProgressão geométrica: u r\nr\n1\n1 n\n1 # -\n-\nTrigonometria\nab ab basens en coss en cos+= +]g\nab ab abcosc os coss en sen+= -]g\nComplexos\ne ei n ni nt t=i i^h\nnee\nkin n i 2\ntt =\ni ri +\n ,,kn n01 e Nf!! -^h !+\nRegras de derivação\nu\nu\nu\nu\nu\nu\nsenc os\ncoss en\ntg cos\nln\nln\nlog ln\nuv uv\nuv uv uv\nv\nu\nv\nuv uv\nun uu n\nuu u\nuu\nu u\nee\naa aa\nu u\nu ua a\n1\n1\nR\nR\nR\nnn\nuu\nuu\na\n2\n1\n2\n!\n!\n!\n+= +\n=+\n= -\n=\n=\n= -\n=\n=\n=\n=\n=\n-\n+\n+\nl ll\nl ll\nll l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\nl l\n^\n^\n`\n^ ^\n^\n^\n^\n^\n^ ^\n^\n^ ^\nh\nh\nj\nh h\nh\nh\nh\nh\nh h\nh\nh h\n\"\n\"\n,\n,\nLimites notáveis\n3\nlim\nlim sen\nlim\nlim ln\nlim\nn en\nx\nx\nx\ne\nx\nx\nx\ne p\n1 1\n1\n1 1\n0\nN\nR\nn\nx\nx\nx\nx\nx p\nx\n0\n0\n!\n!\n+ =\n=\n- =\n=\n= +\n\"\n\"\n\"\n\"\n3\n3\n+\n+\nb ^\n^\nl h\nh"
     },
     {
-      "id": 518,
+      "id": 9779,
       "question_number": "12.2",
       "statement": "12.2. Resolva este item sem recorrer à calculadora, exceto em eventuais cálculos numéricos.\nMostre, recorrendo ao teorema de Bolzano-Cauchy, que o gráfico da função f intersecta a reta r\nem, pelo menos, um ponto de abcissa pertencente ao intervalo ,63\nrr :D .",
       "question_type": "open",

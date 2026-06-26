@@ -110,6 +110,13 @@ def main():
     criteria = parse_criteria(criteria_pages)
     print(f"\nCritérios encontrados: {len(criteria)} (números: {sorted(criteria.keys())})")
 
+    # DIAGNÓSTICO EXTRA: salva o texto bruto do critério (já limpo por
+    # clean_text, antes do parse_criteria) para inspecionar exatamente
+    # o que o parse_criteria está vendo, sem reconstrução manual.
+    debug_dir.mkdir(exist_ok=True)
+    (debug_dir / "criteria_raw.txt").write_text(criteria_text, encoding="utf-8")
+    print(f"  (texto bruto do critério salvo em {debug_dir}/criteria_raw.txt)")
+
     # checagem específica: alguma questão sem critério correspondente?
     question_numbers = {q.number for q in questions}
     criteria_numbers = set(criteria.keys())

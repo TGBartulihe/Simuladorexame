@@ -4,43 +4,29 @@
   "subject": "Português",
   "year": 2014,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 379,
+      "id": 1586,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 380,
+      "id": 1587,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 381,
+      "id": 1588,
       "name": "GRUPO III",
       "order": 2
-    },
-    {
-      "id": 382,
-      "name": "GRUPO I",
-      "order": 3
-    },
-    {
-      "id": 383,
-      "name": "GRUPO II",
-      "order": 4
-    },
-    {
-      "id": 384,
-      "name": "GRUPO III",
-      "order": 5
     }
   ],
   "questions": [
     {
-      "id": 2401,
+      "id": 11311,
       "question_number": "1",
-      "statement": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "1. Releia a quarta fala de Matilde (linhas 21 a 40).\nExplicite as críticas que esta personagem tece à situação sociopolítica do seu tempo.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -49,19 +35,40 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4 Explicita, adequadamente, as críticas que Matilde tece à situação sociopolítica do seu \ntempo, de acordo com o conteúdo das linhas 21 a 40. 12\n3\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, as críticas \nque Matilde tece à situação sociopolítica do seu tempo, de acordo com o conteúdo das \nlinhas 21 a 40.\n9\n2\nExplicita, de modo não totalmente completo e com pequenas imprecisões, as críticas que \nMatilde tece à situação sociopolítica do seu tempo, de acordo com o conteúdo das linhas \n21 a 40.\nOU\nExplicita, de modo incompleto ou com imprecisões, as críticas que Matilde tece à situação \nsociopolítica do seu tempo, de acordo com o conteúdo das linhas 21 a 40.\n6\n1 Refere-se, de modo incompleto e impreciso, às críticas que Matilde tece à situação \nsociopolítica do seu tempo, de acordo com o conteúdo das linhas 21 a 40. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)1 ............................................................... 4 pontos\ncenário de resposta\nMatilde critica vários problemas relacionados com a situação social e política de repressão e medo vivida \nem Portugal:\n– o poder autocrático e discriminatório – «A injustiça e a tirania» (linha 25); «que o rei seja tirano» \n(linha 28);\n– as políticas erradas que conduzem à miséria – «o país miserável e mal governado» (linhas 28-29); \n«o povo a morrer de fome» (linha 31);\n– o modo abusivo como a justiça é aplicada – «as cadeias estejam cheias» (linha 30);\n– a penúria do exército – «o exército por pagar» (linhas 30-31).* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\nBeresford nem toma \no país nem as suas \ninstituições a sério e o seu \ntom é permanentemente \nzombeteiro.\nO facto de ser procurado \npor Matilde diverte \no marechal.\nEstas afirmações são \nproferidas em tom de \ndesafio, até porque não \ncorrespondem à verdade.\nMatilde, ao fazê-las, \nestá a desafiar a sua \nprópria consciência.\nMATILDE\n[…] Sou a mulher do general Gomes Freire d’Andrade.\nBERESFORD\nE que pretende de mim?\nMATILDE\nO que a sua mulher pretenderia, se o amasse, e se o senhor \nfosse preso na sua terra por um português promovido a comandante \nsupremo do exército britânico.\nBERESFORD\n(Francamente irónico)\nParece-lhe verosímil tal hipótese?\nMATILDE\nMentiria se lhe respondesse afirmativamente. Os homens, porém, \nnão se podem medir pela força dos exércitos que servem, mas pelos \nmotivos que os levam a servi-los. O meu homem nunca quis saber \nquantos soldados tinha atrás de si e, se alguma vez olhou para trás, \nfoi apenas para me ver.\nBERESFORD\n(Trocista)\nVem, então, pedir-me clemência?\nMATILDE\nVenho pedir-lhe que o liberte. É-me indiferente que o faça por \nfavor, por clemência ou por qualquer outro motivo.\nÀs mulheres, senhor, pouco interessa a justiça das causas que \nlevam os seus homens a afastar-se delas. A injustiça e a tirania, só \nas sente quem anda na rua, quem é homem ou quer ser homem.\n(Pausa)\nQue me importa, a mim, que o rei seja tirano e o país miserável e \nmal governado?\nQue me importa que as cadeias estejam cheias, o exército por \npagar e o povo a morrer de fome?\n(Pausa)\nQuero o meu homem! Quero o meu homem aqui, ao meu lado! \nQuero acabar os meus dias em paz!\n1\n5\n10\n15\n20\n25\n30\n\nO inimigo de Beresford \né sempre, e só, Gomes \nFreire. Se o conseguir \nhumilhar através da \nmulher, tanto melhor.\n(Pausa: domina-se)\nAs mulheres, Sr. Marechal, estão sempre dispostas a colaborar \ncom a tirania para conservarem os maridos em casa.\n(Pausa)\nSe não fosse o que lhe digo, já não haveria reis por essa Europa \nfora...\nBERESFORD\n(Rindo-se)\nO que diria o general Gomes Freire se a ouvisse falar?\nMATILDE\n(Envergonhada)\nPrefiro não saber.\nBERESFORD\nVende-lhe, assim, a honra para o salvar?\nMATILDE\nÉ a minha que vendo e não a dele.\nBERESFORD\nE porque pensa que devo fazer o que pede?\nMATILDE\nPorque é o comandante do exército, governador do Reino e... \nporque sabe que ele não cometeu qualquer crime.\nBERESFORD\nA simples existência de certos homens é já um crime.\n(Começam a ouvir-se sinos ao longe.)\nMATILDE\n(Exaltada)\nPorque dizem a verdade? Porque veem para além da cortina \nde hipocrisia com que os poderosos escondem a defesa dos seus \ninteresses?\n(O ruído dos sinos aumenta de intensidade.)\nBERESFORD\n(Sorrindo)\nPorque... são incómodos, minha senhora!\nMATILDE\n(Com amargura)\nÉ incómodo todo aquele que não confunde a vontade de Deus \ncom a vontade do rei…\n35\n40\n45\n50\n55\n60\n65\n70\n\n(Pausa)\nOu que vê para além das medalhas que usais no peito...\n(Pausa)\nOu que olha para vós de frente, e sorri...\nBERESFORD\n(Com ironia)\nOu que, devendo, por nascimento e posição, defender certos \ninteresses, defende outros... É o caso do general, minha senhora.\n(Ouve-se, fora do palco, o murmúrio de vozes humanas.)\nMATILDE\nQue vão fazer dele, Sr. Marechal?\nBERESFORD\n(Abrindo os braços para exprimir a sua \nimpossibilidade de responder à pergunta)\nJulgá-lo e... fazer justiça!\nMATILDE\n(Com desespero e como quem pensa pela primeira vez na hipótese)\nQuerem matá-lo! diga-me, Sr. Marechal, por amor de Deus \ndiga-me: querem matá-lo?\n75\n80\n85\n90\nLuís de Sttau Monteiro, Felizmente Há Luar!, s.l., Areal Editores, 2000, pp. 92-97\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2402,
+      "id": 11323,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2014/).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO ser humano é muitas vezes colocado perante a necessidade de optar entre o conformismo e a coragem \nde assumir riscos.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre o modo como esta opção é vivida na atualidade.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
+    },
+    {
+      "id": 11312,
       "question_number": "2",
-      "statement": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "2. No excerto transcrito, Matilde e Beresford veem de forma muito diferente o general Gomes Freire de \nAndrade.\nEvidencie esse contraste, referindo os traços caracterizadores do general apresentados por cada um \ndeles.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -70,20 +77,41 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": "2. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4\nEvidencia, adequadamente, o contraste entre Matilde e Beresford quanto ao modo como \nveem o general Gomes Freire de Andrade, referindo os traços caracterizadores do general \napresentados por cada um deles.\n12\n3\nEvidencia, com pequenas imprecisões, o contraste entre Matilde e Beresford quanto ao \nmodo como veem o general Gomes Freire de Andrade, referindo os traços caracterizadores \ndo general apresentados por cada um deles. \nOU\nEvidencia, adequadamente, o contraste entre Matilde e Beresford quanto ao modo \ncomo veem o general Gomes Freire de Andrade, referindo parcialmente os traços \ncaracterizadores do general apresentados por cada um deles.\n9\n2\nEvidencia, com imprecisões, o contraste entre Matilde e Beresford quanto ao modo como \nveem o general Gomes Freire de Andrade, referindo os traços caracterizadores do general \napresentados por cada um deles.\nOU\nEvidencia, com pequenas imprecisões, o contraste entre Matilde e Beresford quanto ao \nmodo como veem o general Gomes Freire de Andrade, referindo parcialmente os traços \ncaracterizadores do general apresentados por cada um deles.\n6\n1\nEvidencia, com imprecisões, o contraste entre Matilde e Beresford quanto ao modo \ncomo veem o general Gomes Freire de Andrade, referindo parcialmente os traços \ncaracterizadores do general apresentados por cada um deles.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)2 ............................................................... 4 pontos\ncenário de resposta\nMatilde caracteriza o general Gomes Freire de Andrade como um homem inocente que é vítima de uma \ninjustiça, destacando nele:\n– a superioridade moral, que o leva a agir em função de valores que defende e não de conveniências ou \nprestígio – «Os homens, porém, não se podem medir pela força dos exércitos que servem, mas pelos \nmotivos que os levam a servi-los.» (linhas 13-15); «Ou que vê para além das medalhas que usais no \npeito…» (linha 73);\n– a honestidade e o sentido de justiça – «Porque dizem a verdade? Porque veem para além da cortina \nde hipocrisia com que os poderosos escondem a defesa dos seus interesses?» (linhas 61-63); «É \nincómodo todo aquele que não confunde a vontade de Deus com a vontade do rei…» (linhas 70-71);\n– a coragem – «Ou que olha para vós de frente, e sorri…» (linha 75).\nPelo contrário, Beresford caracteriza o general Gomes Freire de Andrade como um homem perigoso que \ndeve ser julgado e punido, acusando-o de:\n– pôr em risco o regime – «Porque… são incómodos, minha senhora!» (linha 67);\n– não defender o estatuto e os interesses da classe a que pertence – «Ou que, devendo, por nascimento \ne posição, defender certos interesses, defende outros…» (linhas 78-79).\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\nBeresford nem toma \no país nem as suas \ninstituições a sério e o seu \ntom é permanentemente \nzombeteiro.\nO facto de ser procurado \npor Matilde diverte \no marechal.\nEstas afirmações são \nproferidas em tom de \ndesafio, até porque não \ncorrespondem à verdade.\nMatilde, ao fazê-las, \nestá a desafiar a sua \nprópria consciência.\nMATILDE\n[…] Sou a mulher do general Gomes Freire d’Andrade.\nBERESFORD\nE que pretende de mim?\nMATILDE\nO que a sua mulher pretenderia, se o amasse, e se o senhor \nfosse preso na sua terra por um português promovido a comandante \nsupremo do exército britânico.\nBERESFORD\n(Francamente irónico)\nParece-lhe verosímil tal hipótese?\nMATILDE\nMentiria se lhe respondesse afirmativamente. Os homens, porém, \nnão se podem medir pela força dos exércitos que servem, mas pelos \nmotivos que os levam a servi-los. O meu homem nunca quis saber \nquantos soldados tinha atrás de si e, se alguma vez olhou para trás, \nfoi apenas para me ver.\nBERESFORD\n(Trocista)\nVem, então, pedir-me clemência?\nMATILDE\nVenho pedir-lhe que o liberte. É-me indiferente que o faça por \nfavor, por clemência ou por qualquer outro motivo.\nÀs mulheres, senhor, pouco interessa a justiça das causas que \nlevam os seus homens a afastar-se delas. A injustiça e a tirania, só \nas sente quem anda na rua, quem é homem ou quer ser homem.\n(Pausa)\nQue me importa, a mim, que o rei seja tirano e o país miserável e \nmal governado?\nQue me importa que as cadeias estejam cheias, o exército por \npagar e o povo a morrer de fome?\n(Pausa)\nQuero o meu homem! Quero o meu homem aqui, ao meu lado! \nQuero acabar os meus dias em paz!\n1\n5\n10\n15\n20\n25\n30\n\nO inimigo de Beresford \né sempre, e só, Gomes \nFreire. Se o conseguir \nhumilhar através da \nmulher, tanto melhor.\n(Pausa: domina-se)\nAs mulheres, Sr. Marechal, estão sempre dispostas a colaborar \ncom a tirania para conservarem os maridos em casa.\n(Pausa)\nSe não fosse o que lhe digo, já não haveria reis por essa Europa \nfora...\nBERESFORD\n(Rindo-se)\nO que diria o general Gomes Freire se a ouvisse falar?\nMATILDE\n(Envergonhada)\nPrefiro não saber.\nBERESFORD\nVende-lhe, assim, a honra para o salvar?\nMATILDE\nÉ a minha que vendo e não a dele.\nBERESFORD\nE porque pensa que devo fazer o que pede?\nMATILDE\nPorque é o comandante do exército, governador do Reino e... \nporque sabe que ele não cometeu qualquer crime.\nBERESFORD\nA simples existência de certos homens é já um crime.\n(Começam a ouvir-se sinos ao longe.)\nMATILDE\n(Exaltada)\nPorque dizem a verdade? Porque veem para além da cortina \nde hipocrisia com que os poderosos escondem a defesa dos seus \ninteresses?\n(O ruído dos sinos aumenta de intensidade.)\nBERESFORD\n(Sorrindo)\nPorque... são incómodos, minha senhora!\nMATILDE\n(Com amargura)\nÉ incómodo todo aquele que não confunde a vontade de Deus \ncom a vontade do rei…\n35\n40\n45\n50\n55\n60\n65\n70\n\n(Pausa)\nOu que vê para além das medalhas que usais no peito...\n(Pausa)\nOu que olha para vós de frente, e sorri...\nBERESFORD\n(Com ironia)\nOu que, devendo, por nascimento e posição, defender certos \ninteresses, defende outros... É o caso do general, minha senhora.\n(Ouve-se, fora do palco, o murmúrio de vozes humanas.)\nMATILDE\nQue vão fazer dele, Sr. Marechal?\nBERESFORD\n(Abrindo os braços para exprimir a sua \nimpossibilidade de responder à pergunta)\nJulgá-lo e... fazer justiça!\nMATILDE\n(Com desespero e como quem pensa pela primeira vez na hipótese)\nQuerem matá-lo! diga-me, Sr. Marechal, por amor de Deus \ndiga-me: querem matá-lo?\n75\n80\n85\n90\nLuís de Sttau Monteiro, Felizmente Há Luar!, s.l., Areal Editores, 2000, pp. 92-97\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2403,
+      "id": 11324,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – um mínimo de duzentas e um máximo de trezentas \npalavras –, há que atender ao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO ser humano é muitas vezes colocado perante a necessidade de optar entre o conformismo e a coragem \nde assumir riscos.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre o modo como esta opção é vivida na atualidade.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
+    },
+    {
+      "id": 11313,
       "question_number": "3",
-      "statement": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
-      "question_type": "open",
+      "statement": "3. Relacione o desespero que Matilde manifesta na última fala com a forma como evolui o diálogo travado \ncom Beresford a partir da linha 56.\n\nB\nLeia o texto seguinte.\n1\n5\n10\n15\nMADALENA\nMeu adorado esposo, não te deites a perder, não te arrebates. Que farás tu contra esses \npoderosos? Eles já te querem tão mal pelo mais que tu vales que eles, pelo teu saber – que \nesses grandes fingem que desprezam... mas não é assim, o que eles têm é inveja! – O que \nfará, se lhes deres pretexto para se vingarem da afronta em que os traz a superioridade do teu \nmérito! – Manuel, meu esposo, Manuel de Sousa, pelo nosso amor...\nJORGE\nTua mulher tem razão. Prudência, e lembra-te de tua filha.\nMANUEL\nLembro-me de tudo, deixa estar. – Não te inquietes, Madalena: eles querem vir para aqui \namanhã de manhã; e nós forçosamente havemos de sair antes de eles entrarem. Por isso é \npreciso já.\nMADALENA\nMas para onde iremos nós, de repente, a estas horas?\nMANUEL\nPara a única parte para onde podemos ir: a casa não é minha… mas é tua, Madalena.\nAlmeida Garrett, Frei Luís de Sousa, Lisboa, Comunicação, 1982, pp. 120-121\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem.",
+      "question_type": "matching",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -91,41 +119,20 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4 Relaciona, adequadamente, o desespero que Matilde manifesta na última fala com o \ndiálogo travado com Beresford a partir da linha 56. 12\n3\nRelaciona, de modo não totalmente completo ou com pequenas imprecisões, o desespero \nque Matilde manifesta na última fala com o diálogo travado com Beresford a partir da \nlinha 56.\n9\n2\nRelaciona, de modo não totalmente completo e com pequenas imprecisões, o desespero \nque Matilde manifesta na última fala com o diálogo travado com Beresford a partir da \nlinha 56.\nOU\nRelaciona, de modo incompleto ou com imprecisões, o desespero que Matilde manifesta \nna última fala com o diálogo travado com Beresford a partir da linha 56.\n6\n1 Refere-se, de modo incompleto e impreciso, à relação entre o desespero que Matilde \nmanifesta na última fala e o diálogo travado com Beresford a partir da linha 56. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)3 ............................................................... 4 pontos\ncenário de resposta\nNum primeiro momento, apesar de as falas de Beresford indiciarem que o general Gomes Freire de \nAndrade será condenado («A simples existência de certos homens é já um crime» – linha 57; «Porque… \nsão incómodos» – linha 67), Matilde não tem ainda consciência de que a decisão está já tomada.\nPor isso, ela continua a apresentar argumentos para valorizar o carácter do seu companheiro e fundamentar \na sua inocência. Esta defesa é inútil, porque todos os seus argumentos são utilizados por Beresford para \nfundamentar acusações.\nO estado de desespero manifestado por Matilde no final do diálogo, quando Beresford anuncia que o \ngeneral será julgado («Julgá-lo e… fazer justiça!» – linha 86), decorre da forte suspeita de que a sua \ncondenação é inevitável e de que poderá culminar na morte («Querem matá-lo! diga-me, Sr. Marechal, por \namor de Deus diga-me: querem matá-lo?» – linhas 89-90).\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).\n\nB",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\nBeresford nem toma \no país nem as suas \ninstituições a sério e o seu \ntom é permanentemente \nzombeteiro.\nO facto de ser procurado \npor Matilde diverte \no marechal.\nEstas afirmações são \nproferidas em tom de \ndesafio, até porque não \ncorrespondem à verdade.\nMatilde, ao fazê-las, \nestá a desafiar a sua \nprópria consciência.\nMATILDE\n[…] Sou a mulher do general Gomes Freire d’Andrade.\nBERESFORD\nE que pretende de mim?\nMATILDE\nO que a sua mulher pretenderia, se o amasse, e se o senhor \nfosse preso na sua terra por um português promovido a comandante \nsupremo do exército britânico.\nBERESFORD\n(Francamente irónico)\nParece-lhe verosímil tal hipótese?\nMATILDE\nMentiria se lhe respondesse afirmativamente. Os homens, porém, \nnão se podem medir pela força dos exércitos que servem, mas pelos \nmotivos que os levam a servi-los. O meu homem nunca quis saber \nquantos soldados tinha atrás de si e, se alguma vez olhou para trás, \nfoi apenas para me ver.\nBERESFORD\n(Trocista)\nVem, então, pedir-me clemência?\nMATILDE\nVenho pedir-lhe que o liberte. É-me indiferente que o faça por \nfavor, por clemência ou por qualquer outro motivo.\nÀs mulheres, senhor, pouco interessa a justiça das causas que \nlevam os seus homens a afastar-se delas. A injustiça e a tirania, só \nas sente quem anda na rua, quem é homem ou quer ser homem.\n(Pausa)\nQue me importa, a mim, que o rei seja tirano e o país miserável e \nmal governado?\nQue me importa que as cadeias estejam cheias, o exército por \npagar e o povo a morrer de fome?\n(Pausa)\nQuero o meu homem! Quero o meu homem aqui, ao meu lado! \nQuero acabar os meus dias em paz!\n1\n5\n10\n15\n20\n25\n30\n\nO inimigo de Beresford \né sempre, e só, Gomes \nFreire. Se o conseguir \nhumilhar através da \nmulher, tanto melhor.\n(Pausa: domina-se)\nAs mulheres, Sr. Marechal, estão sempre dispostas a colaborar \ncom a tirania para conservarem os maridos em casa.\n(Pausa)\nSe não fosse o que lhe digo, já não haveria reis por essa Europa \nfora...\nBERESFORD\n(Rindo-se)\nO que diria o general Gomes Freire se a ouvisse falar?\nMATILDE\n(Envergonhada)\nPrefiro não saber.\nBERESFORD\nVende-lhe, assim, a honra para o salvar?\nMATILDE\nÉ a minha que vendo e não a dele.\nBERESFORD\nE porque pensa que devo fazer o que pede?\nMATILDE\nPorque é o comandante do exército, governador do Reino e... \nporque sabe que ele não cometeu qualquer crime.\nBERESFORD\nA simples existência de certos homens é já um crime.\n(Começam a ouvir-se sinos ao longe.)\nMATILDE\n(Exaltada)\nPorque dizem a verdade? Porque veem para além da cortina \nde hipocrisia com que os poderosos escondem a defesa dos seus \ninteresses?\n(O ruído dos sinos aumenta de intensidade.)\nBERESFORD\n(Sorrindo)\nPorque... são incómodos, minha senhora!\nMATILDE\n(Com amargura)\nÉ incómodo todo aquele que não confunde a vontade de Deus \ncom a vontade do rei…\n35\n40\n45\n50\n55\n60\n65\n70\n\n(Pausa)\nOu que vê para além das medalhas que usais no peito...\n(Pausa)\nOu que olha para vós de frente, e sorri...\nBERESFORD\n(Com ironia)\nOu que, devendo, por nascimento e posição, defender certos \ninteresses, defende outros... É o caso do general, minha senhora.\n(Ouve-se, fora do palco, o murmúrio de vozes humanas.)\nMATILDE\nQue vão fazer dele, Sr. Marechal?\nBERESFORD\n(Abrindo os braços para exprimir a sua \nimpossibilidade de responder à pergunta)\nJulgá-lo e... fazer justiça!\nMATILDE\n(Com desespero e como quem pensa pela primeira vez na hipótese)\nQuerem matá-lo! diga-me, Sr. Marechal, por amor de Deus \ndiga-me: querem matá-lo?\n75\n80\n85\n90\nLuís de Sttau Monteiro, Felizmente Há Luar!, s.l., Areal Editores, 2000, pp. 92-97\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2419,
-      "question_number": "4",
-      "statement": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO I",
-      "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
-    },
-    {
-      "id": 2404,
+      "id": 11314,
       "question_number": "5",
-      "statement": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos",
-      "question_type": "open",
+      "statement": "5. Explique os comportamentos manifestados por Madalena e por Manuel no excerto transcrito, fundamentando \na sua resposta com elementos textuais pertinentes.\n\n–—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–",
+      "question_type": "essay",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -133,17 +140,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos\nGRUPO II",
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\nCritérios específicos de classificação\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nníveis descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, os comportamentos manifestados por Madalena e por Manuel, \nfundamentando a resposta com elementos textuais pertinentes. 12\n3\nExplica, de modo não totalmente completo ou com pequenas imprecisões, os \ncomportamentos manifestados por Madalena e por Manuel, fundamentando a resposta \ncom elementos textuais pertinentes.\n9\n2\nExplica, adequadamente, os comportamentos manifestados por Madalena e por Manuel, \nsem fundamentar a resposta com elementos textuais pertinentes.\nOU\nExplica, de modo não totalmente completo e com pequenas imprecisões, os \ncomportamentos manifestados por Madalena e por Manuel, fundamentando a resposta \ncom elementos textuais pertinentes.\nOU\nExplica, de modo incompleto ou com imprecisões, os comportamentos manifestados por \nMadalena e por Manuel, fundamentando a resposta com elementos textuais pertinentes.\n6\n1\nExplica, de modo não totalmente completo ou com pequenas imprecisões, os \ncomportamentos manifestados por Madalena e por Manuel, sem fundamentar a resposta \ncom elementos textuais pertinentes.\nOU\nRefere-se, de modo incompleto e impreciso, aos comportamentos manifestados por \nMadalena e por Manuel, fundamentando a resposta com elementos textuais pertinentes.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\ncenário de resposta\nMadalena, movida pelo amor ao esposo e temendo a vingança dos poderosos, tenta refrear a ação \nde Manuel («Meu adorado esposo, não te deites a perder, não te arrebates. Que farás tu contra esses \npoderosos?» – linhas 2-3; «Manuel, meu esposo, Manuel de Sousa, pelo nosso amor...» – linha 6).\nManuel, movido pelo desejo de defender os seus valores, ignora os conselhos de Madalena e de Jorge \ne ousa enfrentar os seus inimigos – «eles querem vir para aqui amanhã de manhã; e nós forçosamente \nhavemos de sair antes de eles entrarem» (linhas 10-11).\n* Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nCritérios específicos de classificação\nchave\nitem Versão 1 Versão 2 Pontuação",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nA\nLeia o texto seguinte.\nBeresford nem toma \no país nem as suas \ninstituições a sério e o seu \ntom é permanentemente \nzombeteiro.\nO facto de ser procurado \npor Matilde diverte \no marechal.\nEstas afirmações são \nproferidas em tom de \ndesafio, até porque não \ncorrespondem à verdade.\nMatilde, ao fazê-las, \nestá a desafiar a sua \nprópria consciência.\nMATILDE\n[…] Sou a mulher do general Gomes Freire d’Andrade.\nBERESFORD\nE que pretende de mim?\nMATILDE\nO que a sua mulher pretenderia, se o amasse, e se o senhor \nfosse preso na sua terra por um português promovido a comandante \nsupremo do exército britânico.\nBERESFORD\n(Francamente irónico)\nParece-lhe verosímil tal hipótese?\nMATILDE\nMentiria se lhe respondesse afirmativamente. Os homens, porém, \nnão se podem medir pela força dos exércitos que servem, mas pelos \nmotivos que os levam a servi-los. O meu homem nunca quis saber \nquantos soldados tinha atrás de si e, se alguma vez olhou para trás, \nfoi apenas para me ver.\nBERESFORD\n(Trocista)\nVem, então, pedir-me clemência?\nMATILDE\nVenho pedir-lhe que o liberte. É-me indiferente que o faça por \nfavor, por clemência ou por qualquer outro motivo.\nÀs mulheres, senhor, pouco interessa a justiça das causas que \nlevam os seus homens a afastar-se delas. A injustiça e a tirania, só \nas sente quem anda na rua, quem é homem ou quer ser homem.\n(Pausa)\nQue me importa, a mim, que o rei seja tirano e o país miserável e \nmal governado?\nQue me importa que as cadeias estejam cheias, o exército por \npagar e o povo a morrer de fome?\n(Pausa)\nQuero o meu homem! Quero o meu homem aqui, ao meu lado! \nQuero acabar os meus dias em paz!\n1\n5\n10\n15\n20\n25\n30\n\nO inimigo de Beresford \né sempre, e só, Gomes \nFreire. Se o conseguir \nhumilhar através da \nmulher, tanto melhor.\n(Pausa: domina-se)\nAs mulheres, Sr. Marechal, estão sempre dispostas a colaborar \ncom a tirania para conservarem os maridos em casa.\n(Pausa)\nSe não fosse o que lhe digo, já não haveria reis por essa Europa \nfora...\nBERESFORD\n(Rindo-se)\nO que diria o general Gomes Freire se a ouvisse falar?\nMATILDE\n(Envergonhada)\nPrefiro não saber.\nBERESFORD\nVende-lhe, assim, a honra para o salvar?\nMATILDE\nÉ a minha que vendo e não a dele.\nBERESFORD\nE porque pensa que devo fazer o que pede?\nMATILDE\nPorque é o comandante do exército, governador do Reino e... \nporque sabe que ele não cometeu qualquer crime.\nBERESFORD\nA simples existência de certos homens é já um crime.\n(Começam a ouvir-se sinos ao longe.)\nMATILDE\n(Exaltada)\nPorque dizem a verdade? Porque veem para além da cortina \nde hipocrisia com que os poderosos escondem a defesa dos seus \ninteresses?\n(O ruído dos sinos aumenta de intensidade.)\nBERESFORD\n(Sorrindo)\nPorque... são incómodos, minha senhora!\nMATILDE\n(Com amargura)\nÉ incómodo todo aquele que não confunde a vontade de Deus \ncom a vontade do rei…\n35\n40\n45\n50\n55\n60\n65\n70\n\n(Pausa)\nOu que vê para além das medalhas que usais no peito...\n(Pausa)\nOu que olha para vós de frente, e sorri...\nBERESFORD\n(Com ironia)\nOu que, devendo, por nascimento e posição, defender certos \ninteresses, defende outros... É o caso do general, minha senhora.\n(Ouve-se, fora do palco, o murmúrio de vozes humanas.)\nMATILDE\nQue vão fazer dele, Sr. Marechal?\nBERESFORD\n(Abrindo os braços para exprimir a sua \nimpossibilidade de responder à pergunta)\nJulgá-lo e... fazer justiça!\nMATILDE\n(Com desespero e como quem pensa pela primeira vez na hipótese)\nQuerem matá-lo! diga-me, Sr. Marechal, por amor de Deus \ndiga-me: querem matá-lo?\n75\n80\n85\n90\nLuís de Sttau Monteiro, Felizmente Há Luar!, s.l., Areal Editores, 2000, pp. 92-97\n\nApresente, de forma bem estruturada, as suas respostas aos itens que se seguem."
     },
     {
-      "id": 2406,
+      "id": 11315,
       "question_number": "1.1",
       "statement": "1.1. A caracterização de Padre António Vieira como um «político total» (linha 1) exclui a referência",
       "question_type": "multiple_choice",
@@ -155,25 +162,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4448,
+          "id": 22498,
           "letter": "A",
           "text": "às várias funções que desempenhou ao longo da sua vida.",
           "isCorrect": false
         },
         {
-          "id": 4449,
+          "id": 22499,
           "letter": "B",
           "text": "às suas propostas relativamente à extinção da Inquisição.",
           "isCorrect": false
         },
         {
-          "id": 4450,
+          "id": 22500,
           "letter": "C",
           "text": "à capacidade de analisar o modo de vida do seu tempo.",
           "isCorrect": false
         },
         {
-          "id": 4451,
+          "id": 22501,
           "letter": "D",
           "text": "à sua preocupação com a transformação da sociedade.",
           "isCorrect": false
@@ -186,10 +193,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2407,
+      "id": 11316,
       "question_number": "1.2",
       "statement": "1.2. A expressão «cidadania do futuro» (linha 8) sugere que Vieira",
       "question_type": "multiple_choice",
@@ -201,25 +208,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4452,
+          "id": 22502,
           "letter": "A",
           "text": "resolveu muitos dos problemas com que se confrontou.",
           "isCorrect": false
         },
         {
-          "id": 4453,
+          "id": 22503,
           "letter": "B",
           "text": "defendeu ideais incompreendidos no tempo em que viveu.",
           "isCorrect": false
         },
         {
-          "id": 4454,
+          "id": 22504,
           "letter": "C",
           "text": "focou a sua atenção nos problemas das gerações seguintes.",
           "isCorrect": false
         },
         {
-          "id": 4455,
+          "id": 22505,
           "letter": "D",
           "text": "foi incapaz de compreender a sociedade da sua época.",
           "isCorrect": false
@@ -232,10 +239,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2408,
+      "id": 11317,
       "question_number": "1.3",
       "statement": "1.3. No contexto em que ocorre, a expressão «Por outro lado» (linha 19) é equivalente a",
       "question_type": "multiple_choice",
@@ -247,25 +254,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4456,
+          "id": 22506,
           "letter": "A",
           "text": "em contrapartida.",
           "isCorrect": false
         },
         {
-          "id": 4457,
+          "id": 22507,
           "letter": "B",
           "text": "por sua vez.",
           "isCorrect": false
         },
         {
-          "id": 4458,
+          "id": 22508,
           "letter": "C",
           "text": "assim.",
           "isCorrect": false
         },
         {
-          "id": 4459,
+          "id": 22509,
           "letter": "D",
           "text": "além disso.",
           "isCorrect": false
@@ -278,10 +285,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2409,
+      "id": 11318,
       "question_number": "1.4",
       "statement": "1.4. Relativamente ao conteúdo do terceiro parágrafo, o quarto parágrafo apresenta uma",
       "question_type": "multiple_choice",
@@ -293,25 +300,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4460,
+          "id": 22510,
           "letter": "A",
           "text": "comparação.",
           "isCorrect": false
         },
         {
-          "id": 4461,
+          "id": 22511,
           "letter": "B",
           "text": "generalização.",
           "isCorrect": false
         },
         {
-          "id": 4462,
+          "id": 22512,
           "letter": "C",
           "text": "exemplificação.",
           "isCorrect": false
         },
         {
-          "id": 4463,
+          "id": 22513,
           "letter": "D",
           "text": "síntese.",
           "isCorrect": false
@@ -324,10 +331,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2410,
+      "id": 11319,
       "question_number": "1.5",
       "statement": "1.5. Os processos de formação das palavras «cristãos-novos» (linha 12) e «confisco» (linha 17) são, \nrespetivamente,",
       "question_type": "multiple_choice",
@@ -339,25 +346,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4464,
+          "id": 22514,
           "letter": "A",
           "text": "derivação e amálgama.",
           "isCorrect": false
         },
         {
-          "id": 4465,
+          "id": 22515,
           "letter": "B",
           "text": "composição e truncação.",
           "isCorrect": false
         },
         {
-          "id": 4466,
+          "id": 22516,
           "letter": "C",
           "text": "amálgama e parassíntese.",
           "isCorrect": false
         },
         {
-          "id": 4467,
+          "id": 22517,
           "letter": "D",
           "text": "composição e derivação.",
           "isCorrect": false
@@ -370,10 +377,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2411,
+      "id": 11320,
       "question_number": "1.6",
       "statement": "1.6. No contexto em que ocorre, a palavra «emergência» (linha 19) significa",
       "question_type": "multiple_choice",
@@ -385,25 +392,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4468,
+          "id": 22518,
           "letter": "A",
           "text": "aparecimento.",
           "isCorrect": false
         },
         {
-          "id": 4469,
+          "id": 22519,
           "letter": "B",
           "text": "aceitação.",
           "isCorrect": false
         },
         {
-          "id": 4470,
+          "id": 22520,
           "letter": "C",
           "text": "relevância.",
           "isCorrect": false
         },
         {
-          "id": 4471,
+          "id": 22521,
           "letter": "D",
           "text": "urgência.",
           "isCorrect": false
@@ -416,10 +423,10 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2412,
+      "id": 11321,
       "question_number": "1.7",
       "statement": "1.7. No excerto «Denunciou as estruturas de corrupção, que considerava uma espécie de cancro que \nafetava gravemente a missão dos governos e o superior interesse do Reino e dos súbditos do rei.» \n(linhas 9 a 11), as palavras sublinhadas são",
       "question_type": "multiple_choice",
@@ -431,25 +438,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4472,
+          "id": 22522,
           "letter": "A",
           "text": "um pronome e uma conjunção, respetivamente.",
           "isCorrect": false
         },
         {
-          "id": 4473,
+          "id": 22523,
           "letter": "B",
           "text": "uma conjunção e um pronome, respetivamente.",
           "isCorrect": false
         },
         {
-          "id": 4474,
+          "id": 22524,
           "letter": "C",
           "text": "pronomes em ambos os contextos.",
           "isCorrect": false
         },
         {
-          "id": 4475,
+          "id": 22525,
           "letter": "D",
           "text": "conjunções em ambos os contextos.",
           "isCorrect": false
@@ -462,12 +469,12 @@
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     },
     {
-      "id": 2413,
+      "id": 11322,
       "question_number": "2.3",
-      "statement": "2.3. .................................................................................................. 5 pontos\n50 pontos",
+      "statement": "2.3. Identifique a função sintática desempenhada pelo pronome pessoal em «pode inspirar-nos em cada \ntempo» (linhas 29 e 30).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -476,14 +483,14 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.3. .................................................................................................. 5 pontos",
+      "criteriaText": "2.3. Complemento direto 5\nGRUPO III ................................................................................................................................. 50 pontos\nCritérios específicos de classificação\n•  Estruturação temática e discursiva (ETD)*6 ........................................................ 30 pontos\n•  Correção linguística (CL)**7 ................................................................................. 20 pontos\ncenário de resposta\nDada a natureza deste item, não é apresentado cenário de resposta.\n* Vide Critérios gerais (pp. 3-4) e descritores do nível de desempenho relativos à estruturação temática e discursiva \n(pp. 11-12).\n** Vide Fatores de desvalorização, no domínio da correção linguística, dos itens de construção – resposta restrita e \nresposta extensa (p. 4).\n\nPontuação\nParÂMetro\ndescritores dos níVeis de deseMPenHo (etd)\n15 12 9 6 3\na\nTema e \ntipologia\n – Trata, sem desvios, \no tema proposto.\n – Mobiliza informação ampla \ne diversificada com eficácia \nargumentativa, de acordo \ncom a tipologia solicitada:\n • produz um discurso \ncoerente e sem qualquer \ntipo de ambiguidade;\n • define com clareza o \nseu ponto de vista;\n • fundamenta a perspetiva \nadotada em, pelo \nmenos, dois argumentos, \ndistintos e pertinentes, \ncada um deles ilustrado \ncom, pelo menos, um \nexemplo significativo.\nn\ní\nV\ne\nl\ni\nn\nt\ne\nr\nc\na\nl\na\nr\n – Trata o tema proposto, \nembora com alguns desvios.\n – Mobiliza informação \nsuficiente, com eficácia \nargumentativa:\n • produz um discurso \nglobalmente coerente, \napesar de algumas \nambiguidades;\n • define o seu ponto de \nvista, eventualmente com \nlacunas que não afetam, \nporém, a inteligibilidade;\n • fundamenta a \nperspetiva adotada \nem, pelo menos, dois \nargumentos adequados, \napresentando um único \nexemplo significativo \n(ou dois exemplos \npouco adequados), ou \nfundamenta a perspetiva \nadotada em apenas um \nargumento, ilustrado \ncom, pelo menos, dois \nexemplos significativos.\nn\ní\nV\ne\nl\ni\nn\nt\ne\nr\nc\na\nl\na\nr\n – Aborda lateralmente \no tema proposto.\n – Mobiliza muito pouca \ninformação e com eficácia \nargumentativa reduzida:\n • produz um discurso \ngeralmente inconsistente \ne, por vezes, ininteligível;\n • não define um ponto \nde vista concreto;\n • apresenta um texto \nem que traços do tipo \nsolicitado se misturam, \nsem critério, com os de \noutros tipos textuais.\nPontuação\nParÂMetro\ndescritores dos níVeis de deseMPenHo (etd)\n10 8 6 4 2\nB\nEstrutura e \ncoesão\n – Redige um texto bem \nestruturado, refletindo uma \nplanificação adequada \ne evidenciando um bom \ndomínio dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três \npartes (introdução, \ndesenvolvimento, \nconclusão), \nindividualizadas, \ndevidamente \nproporcionadas e \narticuladas entre si de \nmodo consistente;\n • marca corretamente \nos parágrafos;\n • utiliza, adequadamente, \nconectores diversificados \ne outros mecanismos \nde coesão textual.\nn\ní\nV\ne\nl\ni\nn\nt\ne\nr\nc\na\nl\na\nr\n – Redige um texto \nsatisfatoriamente \nestruturado, refletindo \numa planificação com \nalgumas insuficiências e \nevidenciando um domínio \nsuficiente dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três \npartes (introdução, \ndesenvolvimento, \nconclusão), nem \nsempre devidamente \narticuladas entre si \nou com desequilíbrios \nde proporção mais ou \nmenos notórios;\n • marca parágrafos, mas \ncom algumas falhas;\n • utiliza apenas os \nconectores e os \nmecanismos de \ncoesão textual mais \ncomuns, embora sem \nincorreções graves.\nn\ní\nV\ne\nl\ni\nn\nt\ne\nr\nc\na\nl\na\nr\n – Redige um texto com \nestruturação muito \ndeficiente e com \ninsuficientes mecanismos \nde coesão textual:\n • apresenta um texto em \nque não se conseguem \nidentificar claramente \ntrês partes (introdução, \ndesenvolvimento e \nconclusão) ou em \nque estas estão \ninsuficientemente \narticuladas;\n • raramente marca \nparágrafos de \nforma correta;\n • raramente utiliza \nconectores e mecanismos \nde coesão textual ou \nutiliza-os de forma \ninadequada.\n(Continua na página seguinte)\n\n(Continuação)\nPontuação\nParÂMetro\ndescritores dos níVeis de deseMPenHo (etd)\n5 4 3 2 1\nc\nLéxico e \nadequação \ndiscursiva\n – Mobiliza, com \nintencionalidade, recursos \nda língua expressivos e \nadequados (repertório \nlexical variado e pertinente, \nfiguras de retórica e \ntropos, procedimentos de \nmodalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nn\ní\nV\ne\nl\ni\nn\nt\ne\nr\nc\na\nl\na\nr\n – Mobiliza um repertório \nlexical adequado, mas \npouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nn\ní\nV\ne\nl\ni\nn\nt\ne\nr\nc\na\nl\na\nr\n – Utiliza vocabulário elementar \ne restrito, frequentemente \nredundante e/ou inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência \ndo registo adequado ao \ntexto, ou recorre a um \núnico registo inadequado.\n\nCOTAÇÕES\nGRUPO I\nA ................................................................................................................................ 60 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar."
+      "contextText": "GRUPO II\nLeia o texto seguinte. Em caso de necessidade, consulte o glossário apresentado a seguir ao texto.\n1\n5\n10\n15\n20\n25\n30\nO Padre António Vieira foi um «político total». Tendo a sua vida atravessado quase todo \no século XVII, a multiplicidade de papéis desempenhados ao serviço da Igreja e do Reino \nde Portugal, nomeadamente como missionário, embaixador, pregador, conselheiro político, \nescritor, confessor e professor, teve sempre no horizonte trabalhar pela construção de um \nhomem novo e de uma sociedade nova.\nVieira gizou, a partir de um diagnóstico lúcido dos problemas do presente político, social, \neconómico e religioso, aquilo que o especialista Aníbal Pinto de Castro denominou como \nsendo uma «cidadania do futuro». Em tudo Vieira trabalhou para aperfeiçoar a vida do homem \nna sociedade do seu tempo. Denunciou as estruturas de corrupção, que considerava uma \nespécie de cancro que afetava gravemente a missão dos governos e o superior interesse do \nReino e dos súbditos do rei. Defendeu maior equidade social, exigindo o fim da discriminação \nentre cristãos-novos e cristãos-velhos que criava uma situação de desigualdade de tratamento \nno acesso aos cargos, a regalias e a direitos sociais. Não se conformou com esta divisão \nsocial que gerava a existência do que hoje em dia poderíamos chamar de cidadãos de primeira \ne de segunda categoria. Nesta linha, criticou fortemente a atuação da Inquisição e propôs uma \nreforma séria dos estilos, isto é, de algumas práticas judiciais deste tribunal, nomeadamente \no facto de manter sob anonimato os denunciantes e realizar o confisco prévio dos bens dos \narguidos.\nPor outro lado, Vieira foi um precursor de uma reflexão crítica que favoreceria a emergência \nde uma consciência moderna do que se veio a designar mais tarde por Direitos Humanos.\nNeste sentido, criticou as condições opressivas do trabalho escravo em vigor no seu \ntempo e praticado por todas as potências coloniais europeias. E, nessa esteira, defendeu a \nhumanização do trabalho de índios e de negros escravizados e a salvaguarda da dignidade de \ntodos os escravos como seres humanos plenos e iguais perante Deus.\nAs ideias de Vieira e as suas propostas reformistas, se bem que apreciadas por alguns, \nencontraram muitos opositores poderosos no seu tempo, os quais, em grande medida, \nacabaram por boicotar a sua aplicação plena. Só mais tarde os diagnósticos e as soluções \ndeste jesuíta serão justamente reconhecidos como válidos e até urgentes.\nO magistério crítico de Vieira ainda faz sentido nos dias de hoje e pode inspirar-nos em \ncada tempo para não desistirmos de construir uma sociedade mais justa e mais fraterna.\nJosé Eduardo Franco, «Um político total», Jornal de Letras, 17 a 30 de abril de 2013, p. 25 (adaptado)\nGLOSSáRIO\ngizar (linha 6) – delinear, traçar.\n1. Para responder a cada um dos itens de 1.1. a 1.7., selecione a opção correta.\nEscreva, na folha de respostas, o número de cada item e a letra que identifica a opção escolhida."
     }
   ]
 }

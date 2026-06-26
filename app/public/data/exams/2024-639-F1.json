@@ -4,29 +4,30 @@
   "subject": "Português",
   "year": 2024,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 37,
+      "id": 1347,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 38,
+      "id": 1348,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 39,
+      "id": 1349,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 348,
+      "id": 9703,
       "question_number": "1",
-      "statement": "1. 2. 4. 5. 7. 1. 2. 5. 6.\nCotação (em pontos) 13 13 13 13 13 13 13 13 13 44 161\nDestes 5 itens, contribuem para a \nclassificação final da prova os 3 itens cujas \nrespostas obtenham melhor pontuação.\nI II\nSubtotal",
-      "question_type": "open",
+      "statement": "1. Segundo o autor, é impossível ser indiferente à beleza,",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -34,19 +35,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+      "criteriaText": "1. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes.\n − a tentativa de camuflar o seu aspeto saudável («A minha cara ajeitava-se pouco à expressão dum \nvivo tormento de alma, em virtude de ser uma cara sadia, avermelhada, e bem fornida de fibra \nmusculosa.» ‒ ll. 11-12; «Era-me necessário remediar o infortúnio de ter saúde» ‒ ll. 12-13), construindo \na imagem de alguém fisicamente doente (pálido e com olheiras pronunciadas);\n − a tentativa de parecer, simultaneamente, um «génio» (l. 8) e alguém abatido e psicologicamente \ntranstornado («a desordem dos cabelos devia ser a imagem da minha alma» ‒ ll. 1-2).\n \n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNível Descritor de desempenho Pontuação\n5\nExplicita em que consiste a «farsa» criada pela personagem, abordando, adequadamente, \nos dois tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nExplicita em que consiste a «farsa» criada pela personagem, abordando, adequadamente, \nos dois tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita em que consiste a «farsa» criada pela personagem, abordando os dois tópicos \nde resposta, um adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nExplicita em que consiste a «farsa» criada pela personagem, abordando os dois tópicos \nde resposta, um adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita em que consiste a «farsa» criada pela personagem, abordando os dois tópicos \nde resposta, ambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\nOU\nExplicita em que consiste a «farsa» criada pela personagem, abordando, adequadamente, \napenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNível Descritor de desempenho Pontuação\n2\nExplicita em que consiste a «farsa» criada pela personagem, abordando os dois tópicos \nde resposta, ambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplicita em que consiste a «farsa» criada pela personagem, abordando, adequadamente, \napenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n1\nExplicita em que consiste a «farsa» criada pela personagem, abordando, com pequenas \nimprecisões e/ou omissões, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................. 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO III",
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO III\nAfirma-se, frequentemente, que as redes sociais são usadas pelas pessoas, quer para se mostrarem ao \nmundo, quer para se esconderem por detrás de uma imagem falsa, e que isso são formas igualmente \nquestionáveis de comunicação. \nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a afirmação apresentada.\nNo seu texto:\n − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada um \ndeles ilustrado com um exemplo significativo;\n − utilize um discurso valorativo (juízo de valor explícito ou implícito).\nObservações:"
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nA beleza pode ser consoladora, perturbadora, sagrada ou profana; pode revigorar, atrair, \ninspirar ou arrepiar. Pode afetar-nos de inúmeras maneiras. Todavia, nunca a olhamos com \nindiferença: a beleza exige visibilidade. Ela fala-nos diretamente, qual voz de um amigo íntimo. \nSe há pessoas indiferentes à beleza, é porque são, certamente, incapazes de a perceber.\nNo entanto, os juízos de beleza dizem respeito a questões de gosto e este pode não ter \num fundamento racional. Mas, se for o caso, como explicar o lugar de relevo que a beleza \nocupa nas nossas vidas e porque lamentamos o facto – se disso se trata – de a beleza estar \na desaparecer do nosso mundo? Será verdade, como sugeriram tantos escritores e artistas \ndesde Baudelaire a Nietzsche, que a beleza e a bondade podem divergir e que uma coisa pode \nser bela precisamente por causa da sua imoralidade?\nAlém disso, uma vez que é natural que os gostos variem, como pode o gosto de uma pessoa \nservir de critério para aferir o de outra? Como é possível dizer, por exemplo, que um certo tipo \nde música é superior ou inferior a outro, se os juízos comparativos refletem apenas o gosto \ndaquele que os faz?\nEste relativismo, hoje familiar, levou algumas pessoas a rejeitarem os juízos de beleza \npor serem puramente «subjetivos». Os gostos não se discutem, argumentam, pois, quando \nse critica um gosto, mais não se faz do que expressar um outro; assim sendo, nenhum \nensinamento ou aprendizagem pode vir de uma «crítica». Esta atitude tem posto em questão \nmuitas das disciplinas que tradicionalmente pertencem às humanidades. Os estudos de arte, \nmúsica, literatura e arquitetura, libertados da disciplina imposta pelo juízo estético, dão a \nsensação de terem perdido a sustentação firme na tradição e na técnica, que tinha levado \nos nossos predecessores a considerarem-nos nucleares ao currículo. Daí a atual «crise das \nhumanidades»: haverá alguma razão para estudar a nossa herança artística e cultural, se o \njuízo acerca da sua beleza é destituído de alicerces racionais? Ou, se resolvermos estudá-la, \nnão deveria esse estudo ser feito com um espírito cético, questionando as suas pretensões ao \nestatuto de autoridade objetiva, desconstruindo a sua pose de transcendência?\nRoger Scruton, Beleza: Uma Muito Breve Introdução, trad. Carlos Marques, Lisboa, Guerra & Paz, 2023, pp. 9-10."
     },
     {
-      "id": 349,
-      "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "id": 9710,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente do número de algarismos que o constituam (ex.: /2024/).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +56,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nEscreve um texto satisfatoriamente organizado, em que evidencia um domínio suficiente \ndos mecanismos de coesão textual, apresentando falhas pontuais em três ou mais dos \naspetos em avaliação neste parâmetro, ou falhas significativas em um ou dois desses \naspetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +66,95 @@
       "contextText": "GRUPO III\nAfirma-se, frequentemente, que as redes sociais são usadas pelas pessoas, quer para se mostrarem ao \nmundo, quer para se esconderem por detrás de uma imagem falsa, e que isso são formas igualmente \nquestionáveis de comunicação. \nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a afirmação apresentada.\nNo seu texto:\n − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada um \ndeles ilustrado com um exemplo significativo;\n − utilize um discurso valorativo (juízo de valor explícito ou implícito).\nObservações:"
     },
     {
-      "id": 350,
+      "id": 9704,
+      "question_number": "2",
+      "statement": "2. As interrogações utilizadas, no segundo e no terceiro parágrafos, constituem uma estratégia argumentativa \nque visa",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes.\n − o exagero no ritual diário com os cabelos, a fim de «dar à cabeça um ar fatal» (l. 2);\n − o absurdo de barbear a testa com a intenção de acentuar a imagem de «“desordem e génio”» (l. 8);\n − o ridículo de considerar que ter saúde é um infortúnio, pretendendo corrigir a natureza, para construir a \nimagem desejada (l. 13);\n − a «formal estupidez» (l. 15) de começar a fumar charutos, a fim de disfarçar, ingloriamente, a «cara \nsadia, avermelhada, e bem fornida de fibra musculosa» (l. 12);\n − o ridículo de recorrer a um médico para que este lhe indicasse um medicamento que o ajudasse a \naparentar um aspeto doentio, simulando olheiras carregadas (ll. 18-19).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................. 10 pontos\nNível Descritor de desempenho Pontuação\n5\nRefere dois aspetos que evidenciam a dimensão cómica do retrato do herói, ambos \nadequadamente.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nRefere dois aspetos que evidenciam a dimensão cómica do retrato do herói, ambos \nadequadamente.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRefere dois aspetos que evidenciam a dimensão cómica do retrato do herói, um \nadequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nRefere dois aspetos que evidenciam a dimensão cómica do retrato do herói, um \nadequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRefere dois aspetos que evidenciam a dimensão cómica do retrato do herói, ambos com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\nOU\nRefere, adequadamente, apenas um aspeto que evidencia a dimensão cómica do retrato \ndo herói.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNível Descritor de desempenho Pontuação\n2\nRefere dois aspetos que evidenciam a dimensão cómica do retrato do herói, ambos com \npequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nRefere, adequadamente, apenas um aspeto que evidencia a dimensão cómica do retrato \ndo herói.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n1\nRefere, com pequenas imprecisões e/ou omissões, apenas um aspeto que evidencia a \ndimensão cómica do retrato do herói.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nA beleza pode ser consoladora, perturbadora, sagrada ou profana; pode revigorar, atrair, \ninspirar ou arrepiar. Pode afetar-nos de inúmeras maneiras. Todavia, nunca a olhamos com \nindiferença: a beleza exige visibilidade. Ela fala-nos diretamente, qual voz de um amigo íntimo. \nSe há pessoas indiferentes à beleza, é porque são, certamente, incapazes de a perceber.\nNo entanto, os juízos de beleza dizem respeito a questões de gosto e este pode não ter \num fundamento racional. Mas, se for o caso, como explicar o lugar de relevo que a beleza \nocupa nas nossas vidas e porque lamentamos o facto – se disso se trata – de a beleza estar \na desaparecer do nosso mundo? Será verdade, como sugeriram tantos escritores e artistas \ndesde Baudelaire a Nietzsche, que a beleza e a bondade podem divergir e que uma coisa pode \nser bela precisamente por causa da sua imoralidade?\nAlém disso, uma vez que é natural que os gostos variem, como pode o gosto de uma pessoa \nservir de critério para aferir o de outra? Como é possível dizer, por exemplo, que um certo tipo \nde música é superior ou inferior a outro, se os juízos comparativos refletem apenas o gosto \ndaquele que os faz?\nEste relativismo, hoje familiar, levou algumas pessoas a rejeitarem os juízos de beleza \npor serem puramente «subjetivos». Os gostos não se discutem, argumentam, pois, quando \nse critica um gosto, mais não se faz do que expressar um outro; assim sendo, nenhum \nensinamento ou aprendizagem pode vir de uma «crítica». Esta atitude tem posto em questão \nmuitas das disciplinas que tradicionalmente pertencem às humanidades. Os estudos de arte, \nmúsica, literatura e arquitetura, libertados da disciplina imposta pelo juízo estético, dão a \nsensação de terem perdido a sustentação firme na tradição e na técnica, que tinha levado \nos nossos predecessores a considerarem-nos nucleares ao currículo. Daí a atual «crise das \nhumanidades»: haverá alguma razão para estudar a nossa herança artística e cultural, se o \njuízo acerca da sua beleza é destituído de alicerces racionais? Ou, se resolvermos estudá-la, \nnão deveria esse estudo ser feito com um espírito cético, questionando as suas pretensões ao \nestatuto de autoridade objetiva, desconstruindo a sua pose de transcendência?\nRoger Scruton, Beleza: Uma Muito Breve Introdução, trad. Carlos Marques, Lisboa, Guerra & Paz, 2023, pp. 9-10."
+    },
+    {
+      "id": 9711,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas e cinquenta palavras –, \nhá que atender ao seguinte:\n − um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido; \n − um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nAfirma-se, frequentemente, que as redes sociais são usadas pelas pessoas, quer para se mostrarem ao \nmundo, quer para se esconderem por detrás de uma imagem falsa, e que isso são formas igualmente \nquestionáveis de comunicação. \nNum texto de opinião bem estruturado, com um mínimo de duzentas e um máximo de trezentas e cinquenta \npalavras, defenda uma perspetiva pessoal sobre a afirmação apresentada.\nNo seu texto:\n − explicite, de forma clara e pertinente, o seu ponto de vista, fundamentando-o em dois argumentos, cada um \ndeles ilustrado com um exemplo significativo;\n − utilize um discurso valorativo (juízo de valor explícito ou implícito).\nObservações:"
+    },
+    {
+      "id": 9698,
+      "question_number": "3",
+      "statement": "3. exprime, hiperbolicamente, a sua convicção \nde que, embora seja difícil, é possível \nludibriar a natureza\n\nPARTE B\nLeia o poema.\n5\n10\nDepus a máscara e vi-me ao espelho...\nEra a criança de há quantos anos...\nNão tinha mudado nada...\nÉ essa a vantagem de saber tirar a máscara.\nÉ-se sempre a criança,\nO passado que fica,\nA criança.\nDepus a máscara, e tornei a pô-la.\nAssim é melhor.\nAssim sou a máscara.\nE volto à normalidade como a um términus de linha.\nÁlvaro de Campos, Poesia, edição de Teresa Rita Lopes, \nLisboa, Assírio & Alvim, 2002, p. 514.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19131,
+          "letter": "A",
+          "text": "rejeição do relativismo inerente aos juízos estéticos subjetivos.",
+          "isCorrect": false
+        },
+        {
+          "id": 19132,
+          "letter": "B",
+          "text": "subjugação dos juízos de valor à herança artística e cultural.",
+          "isCorrect": false
+        },
+        {
+          "id": 19133,
+          "letter": "C",
+          "text": "desvalorização do rigor crítico que deve reger o juízo estético.",
+          "isCorrect": false
+        },
+        {
+          "id": 19134,
+          "letter": "D",
+          "text": "recusa do espírito cético que contesta o conceito de beleza.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 13 pontos\nVersão 1 ‒ a) \" 3; b) \" 2\nVersão 2 ‒ a) \" 1; b) \" 3\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o texto e as notas.\nTal como em outras obras do século XIX, também na novela Coração, Cabeça e Estômago se caricatura a \nsensibilidade e o modo de vida românticos. No excerto que vai ler, são visíveis as transformações operadas \npelo protagonista com o intuito de se aproximar da imagem de um herói romântico. \n5\n10\n15\n20\n25\n30\nNa minha qualidade de cético, entendi que a desordem dos cabelos devia ser a imagem \nda minha alma. Comecei, pois, por dar à cabeça um ar fatal, que chamasse a atenção, e \naguçasse a curiosidade dum mundo já gasto em admirar cabeças não vulgares. A anarquia \ndos meus cabelos custava-me dinheiro e muito trabalho. Ia, todos os dias, ao cabeleireiro \ncalamistrar1 os longos anéis, que me ondeavam nas espáduas 2; depois desfazia as espirais, \nriçava-as em caprichosas ondulações, dava à fronte o máximo espaço, e sacudia a cabeça \npara desmanchar as torcidas deletreadas3 da madeixa. Como quer, porém, que a testa fosse \nmenos escampada4 que o preciso para significar «desordem e génio», comecei a barbear \na testa, fazendo recuar o domínio do cabelo, a pouco e pouco, até que me criei uma fronte \ndilatada, e umas bossas frontais, como a natureza as não dera a Shakespeare nem a Goethe. \nA minha cara ajeitava-se pouco à expressão dum vivo tormento de alma, em virtude de \nser uma cara sadia, avermelhada, e bem fornida de fibra musculosa. Era-me necessário \nremediar o infortúnio de ter saúde, sem atacar os órgãos essenciais da vida, mediante o uso \nde beberagens. Aconselharam-me os charutos do contrato 5; fumei alguns dias, sem mais \nresultado que uma ameaça de tubérculos 6, uma formal estupidez de espírito, e não sei que \nprofundo dissabor até da farsa em que eu a mim próprio me estava dando em espetáculo. \nA cara mantinha-se na prosa ignóbil do escarlate, mais incendiada ainda pelos acessos \nde tosse, provocados pelo fumo. Um médico da minha íntima amizade receitou-me uma \nessência roixa7 com a qual eu devia pintar o que vulgarmente se diz «olheiras». Ao deitar-me, \ncorria levemente algumas pinceladas sobre a cútis 8, que desce da pálpebra inferior até às \nproeminências malares; ao erguer-me, tinha todo o cuidado em não lavar a porção arroixada \npela tinta, e com uma maçaneta de algodão em rama desbastava a pintura nos pontos em \nque ela estivesse demasiadamente carregada. O artístico amor com que eu fazia isto deu em \nresultado uma tal perfeição no colorido, que até o próprio médico chegou a persuadir-se, de \nlonge, que o pisado dos meus olhos era natural, e eu mesmo também me parece que cheguei \nà persuasão do médico. \nFiz, pois, de mim uma cara entre o sentimental de Antony9 e o trágico de Fausto10. Seria, no \nentanto, mais completa a minha satisfação se à raiz do cabelo, no ponto em que eu barbeava \na cabeça para aumentar a testa, me não aparecesse um diadema 11 azulado. Era a natureza \na vingar-se.\nCamilo Castelo Branco, Coração, Cabeça e Estômago, edição de Cristina Sobral e Ariadne Nunes, \nLisboa, IN-CM, 2019, pp. 39-40.\n\nNOTAS\n1 calamistrar – tornar crespo ou frisado.\n2 espáduas – ombros.\n3 deletreadas – repartidas.\n4 escampada – ampla; larga.\n5 charutos do contrato – referência ao facto de o tabaco ser vendido por particulares através de um contrato estabelecido \ncom a Coroa, que detinha o monopólio deste produto.\n6 tubérculos – nódulos arredondados, nos pulmões, característicos da tuberculose.\n7 roixa – o mesmo que «roxa».\n8 cútis – pele da face.\n9 Antony – personagem de um drama romântico da autoria do romancista francês Alexandre Dumas (1802-1870).\n10 Fausto – protagonista de uma obra de Goethe, escritor romântico alemão (1749-1832).\n11 diadema – faixa semicircular no alto da testa.\n1. Ao referir a «farsa em que eu a mim próprio me estava dando em espetáculo» (linha 16), o protagonista \nrevela a sua intenção de criar uma imagem de si que não corresponde à realidade.\nExplicite em que consiste essa imagem.\n2. O texto constitui um retrato humorístico do herói romântico.\nRefira dois aspetos significativos que evidenciem a dimensão cómica desse retrato.\n3. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a) e b) – e, para cada uma delas, o número que \ncorresponde à opção selecionada.\nNo primeiro parágrafo, o narrador recorre a expressões como «Comecei» (linha 2), «todos os \ndias» (linha 4), «depois» (linha 5), «a pouco e pouco» (linha 9) e «até que» (linha 9) para a) . \nNo final do excerto, ao afirmar «Era a natureza a vingar-se.» (linhas 29 e 30), o narrador b) .\na) b)\n1. ilustrar sumariamente as exigências \nsistemáticas para manter a sua imagem\n2. organizar a sequência narrativa e descritiva, \napresentando os efeitos naturais da \npassagem do tempo\n3. relatar o percurso adotado para concretizar \no seu processo de transformação física"
+    },
+    {
+      "id": 9705,
       "question_number": "3",
       "statement": "3. De acordo com o texto, a «atual “crise das humanidades”» (linhas 22 e 23) é motivada pela",
       "question_type": "multiple_choice",
@@ -75,33 +164,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 562,
-          "letter": "A",
-          "text": "rejeição do relativismo inerente aos juízos estéticos subjetivos.",
-          "isCorrect": false
-        },
-        {
-          "id": 563,
-          "letter": "B",
-          "text": "subjugação dos juízos de valor à herança artística e cultural.",
-          "isCorrect": false
-        },
-        {
-          "id": 564,
-          "letter": "C",
-          "text": "desvalorização do rigor crítico que deve reger o juízo estético.",
-          "isCorrect": false
-        },
-        {
-          "id": 565,
-          "letter": "D",
-          "text": "recusa do espírito cético que contesta o conceito de beleza.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3. 6. 3. 4. 7.\nCotação (em pontos) 3 × 13 pontos 39\nTOTAL 200",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -111,7 +175,53 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nA beleza pode ser consoladora, perturbadora, sagrada ou profana; pode revigorar, atrair, \ninspirar ou arrepiar. Pode afetar-nos de inúmeras maneiras. Todavia, nunca a olhamos com \nindiferença: a beleza exige visibilidade. Ela fala-nos diretamente, qual voz de um amigo íntimo. \nSe há pessoas indiferentes à beleza, é porque são, certamente, incapazes de a perceber.\nNo entanto, os juízos de beleza dizem respeito a questões de gosto e este pode não ter \num fundamento racional. Mas, se for o caso, como explicar o lugar de relevo que a beleza \nocupa nas nossas vidas e porque lamentamos o facto – se disso se trata – de a beleza estar \na desaparecer do nosso mundo? Será verdade, como sugeriram tantos escritores e artistas \ndesde Baudelaire a Nietzsche, que a beleza e a bondade podem divergir e que uma coisa pode \nser bela precisamente por causa da sua imoralidade?\nAlém disso, uma vez que é natural que os gostos variem, como pode o gosto de uma pessoa \nservir de critério para aferir o de outra? Como é possível dizer, por exemplo, que um certo tipo \nde música é superior ou inferior a outro, se os juízos comparativos refletem apenas o gosto \ndaquele que os faz?\nEste relativismo, hoje familiar, levou algumas pessoas a rejeitarem os juízos de beleza \npor serem puramente «subjetivos». Os gostos não se discutem, argumentam, pois, quando \nse critica um gosto, mais não se faz do que expressar um outro; assim sendo, nenhum \nensinamento ou aprendizagem pode vir de uma «crítica». Esta atitude tem posto em questão \nmuitas das disciplinas que tradicionalmente pertencem às humanidades. Os estudos de arte, \nmúsica, literatura e arquitetura, libertados da disciplina imposta pelo juízo estético, dão a \nsensação de terem perdido a sustentação firme na tradição e na técnica, que tinha levado \nos nossos predecessores a considerarem-nos nucleares ao currículo. Daí a atual «crise das \nhumanidades»: haverá alguma razão para estudar a nossa herança artística e cultural, se o \njuízo acerca da sua beleza é destituído de alicerces racionais? Ou, se resolvermos estudá-la, \nnão deveria esse estudo ser feito com um espírito cético, questionando as suas pretensões ao \nestatuto de autoridade objetiva, desconstruindo a sua pose de transcendência?\nRoger Scruton, Beleza: Uma Muito Breve Introdução, trad. Carlos Marques, Lisboa, Guerra & Paz, 2023, pp. 9-10."
     },
     {
-      "id": 352,
+      "id": 9699,
+      "question_number": "4",
+      "statement": "4. Explique a importância da máscara na construção da dualidade do sujeito poético, tal como é apresentada \nao longo do poema.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19135,
+          "letter": "A",
+          "text": "uma metonímia, no primeiro caso, e uma hipérbole, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 19136,
+          "letter": "B",
+          "text": "uma comparação, no primeiro caso, e uma metáfora, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 19137,
+          "letter": "C",
+          "text": "uma comparação, no primeiro caso, e uma metonímia, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 19138,
+          "letter": "D",
+          "text": "uma metonímia, no primeiro caso, e uma comparação, no segundo caso.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 13 pontos\nDevem ser abordados os tópicos seguintes, ou outros igualmente relevantes.\n − a máscara esconde o Eu associado à infância, num jogo entre ser e parecer/passado e presente, no qual \na permanência do Eu passado surge quando a máscara é retirada;\n − a duplicidade permite que o sujeito poético mantenha o seu ser autêntico e, simultaneamente, que \ndesempenhe o papel social associado à máscara (optando pela identidade adquirida pela máscara).\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNível Descritor de desempenho Pontuação\n5\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando, adequadamente, os dois tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando os dois tópicos de resposta, um adequadamente e outro com pequenas \nimprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando os dois tópicos de resposta, um adequadamente e outro com pequenas \nimprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando os dois tópicos de resposta, ambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\nOU\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n2\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando os dois tópicos de resposta, ambos com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando, adequadamente, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n(Continua na página seguinte)\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n(Continuação)\nNível Descritor de desempenho Pontuação\n1\nExplica a importância da máscara na construção da dualidade do sujeito poético, \nabordando, com pequenas imprecisões e/ou omissões, apenas um dos tópicos de \nresposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o texto e as notas.\nTal como em outras obras do século XIX, também na novela Coração, Cabeça e Estômago se caricatura a \nsensibilidade e o modo de vida românticos. No excerto que vai ler, são visíveis as transformações operadas \npelo protagonista com o intuito de se aproximar da imagem de um herói romântico. \n5\n10\n15\n20\n25\n30\nNa minha qualidade de cético, entendi que a desordem dos cabelos devia ser a imagem \nda minha alma. Comecei, pois, por dar à cabeça um ar fatal, que chamasse a atenção, e \naguçasse a curiosidade dum mundo já gasto em admirar cabeças não vulgares. A anarquia \ndos meus cabelos custava-me dinheiro e muito trabalho. Ia, todos os dias, ao cabeleireiro \ncalamistrar1 os longos anéis, que me ondeavam nas espáduas 2; depois desfazia as espirais, \nriçava-as em caprichosas ondulações, dava à fronte o máximo espaço, e sacudia a cabeça \npara desmanchar as torcidas deletreadas3 da madeixa. Como quer, porém, que a testa fosse \nmenos escampada4 que o preciso para significar «desordem e génio», comecei a barbear \na testa, fazendo recuar o domínio do cabelo, a pouco e pouco, até que me criei uma fronte \ndilatada, e umas bossas frontais, como a natureza as não dera a Shakespeare nem a Goethe. \nA minha cara ajeitava-se pouco à expressão dum vivo tormento de alma, em virtude de \nser uma cara sadia, avermelhada, e bem fornida de fibra musculosa. Era-me necessário \nremediar o infortúnio de ter saúde, sem atacar os órgãos essenciais da vida, mediante o uso \nde beberagens. Aconselharam-me os charutos do contrato 5; fumei alguns dias, sem mais \nresultado que uma ameaça de tubérculos 6, uma formal estupidez de espírito, e não sei que \nprofundo dissabor até da farsa em que eu a mim próprio me estava dando em espetáculo. \nA cara mantinha-se na prosa ignóbil do escarlate, mais incendiada ainda pelos acessos \nde tosse, provocados pelo fumo. Um médico da minha íntima amizade receitou-me uma \nessência roixa7 com a qual eu devia pintar o que vulgarmente se diz «olheiras». Ao deitar-me, \ncorria levemente algumas pinceladas sobre a cútis 8, que desce da pálpebra inferior até às \nproeminências malares; ao erguer-me, tinha todo o cuidado em não lavar a porção arroixada \npela tinta, e com uma maçaneta de algodão em rama desbastava a pintura nos pontos em \nque ela estivesse demasiadamente carregada. O artístico amor com que eu fazia isto deu em \nresultado uma tal perfeição no colorido, que até o próprio médico chegou a persuadir-se, de \nlonge, que o pisado dos meus olhos era natural, e eu mesmo também me parece que cheguei \nà persuasão do médico. \nFiz, pois, de mim uma cara entre o sentimental de Antony9 e o trágico de Fausto10. Seria, no \nentanto, mais completa a minha satisfação se à raiz do cabelo, no ponto em que eu barbeava \na cabeça para aumentar a testa, me não aparecesse um diadema 11 azulado. Era a natureza \na vingar-se.\nCamilo Castelo Branco, Coração, Cabeça e Estômago, edição de Cristina Sobral e Ariadne Nunes, \nLisboa, IN-CM, 2019, pp. 39-40.\n\nNOTAS\n1 calamistrar – tornar crespo ou frisado.\n2 espáduas – ombros.\n3 deletreadas – repartidas.\n4 escampada – ampla; larga.\n5 charutos do contrato – referência ao facto de o tabaco ser vendido por particulares através de um contrato estabelecido \ncom a Coroa, que detinha o monopólio deste produto.\n6 tubérculos – nódulos arredondados, nos pulmões, característicos da tuberculose.\n7 roixa – o mesmo que «roxa».\n8 cútis – pele da face.\n9 Antony – personagem de um drama romântico da autoria do romancista francês Alexandre Dumas (1802-1870).\n10 Fausto – protagonista de uma obra de Goethe, escritor romântico alemão (1749-1832).\n11 diadema – faixa semicircular no alto da testa.\n1. Ao referir a «farsa em que eu a mim próprio me estava dando em espetáculo» (linha 16), o protagonista \nrevela a sua intenção de criar uma imagem de si que não corresponde à realidade.\nExplicite em que consiste essa imagem.\n2. O texto constitui um retrato humorístico do herói romântico.\nRefira dois aspetos significativos que evidenciem a dimensão cómica desse retrato.\n3. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a) e b) – e, para cada uma delas, o número que \ncorresponde à opção selecionada.\nNo primeiro parágrafo, o narrador recorre a expressões como «Comecei» (linha 2), «todos os \ndias» (linha 4), «depois» (linha 5), «a pouco e pouco» (linha 9) e «até que» (linha 9) para a) . \nNo final do excerto, ao afirmar «Era a natureza a vingar-se.» (linhas 29 e 30), o narrador b) .\na) b)\n1. ilustrar sumariamente as exigências \nsistemáticas para manter a sua imagem\n2. organizar a sequência narrativa e descritiva, \napresentando os efeitos naturais da \npassagem do tempo\n3. relatar o percurso adotado para concretizar \no seu processo de transformação física"
+    },
+    {
+      "id": 9706,
       "question_number": "4",
       "statement": "4. Nas expressões «qual voz de um amigo íntimo» (linha 3) e «alicerces racionais» (linha 24) está presente",
       "question_type": "multiple_choice",
@@ -121,33 +231,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 566,
-          "letter": "A",
-          "text": "uma metonímia, no primeiro caso, e uma hipérbole, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 567,
-          "letter": "B",
-          "text": "uma comparação, no primeiro caso, e uma metáfora, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 568,
-          "letter": "C",
-          "text": "uma comparação, no primeiro caso, e uma metonímia, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 569,
-          "letter": "D",
-          "text": "uma metonímia, no primeiro caso, e uma comparação, no segundo caso.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4\nEscreve um texto bem organizado, evidenciando um bom domínio dos mecanismos de \ncoesão textual:\n• apresenta um texto constituído por diferentes partes, devidamente proporcionadas e \narticuladas entre si de modo consistente;\n• marca, corretamente, os parágrafos;\n• utiliza, adequadamente, mecanismos de articulação interfrásica;\n• mantém, de forma sistemática, cadeias de referência através de substituições \nnominais e pronominais adequadas;\n• estabelece conexões adequadas entre coordenadas de enunciação (pessoa, tempo, \nespaço) ao longo do texto.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -157,7 +242,53 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nA beleza pode ser consoladora, perturbadora, sagrada ou profana; pode revigorar, atrair, \ninspirar ou arrepiar. Pode afetar-nos de inúmeras maneiras. Todavia, nunca a olhamos com \nindiferença: a beleza exige visibilidade. Ela fala-nos diretamente, qual voz de um amigo íntimo. \nSe há pessoas indiferentes à beleza, é porque são, certamente, incapazes de a perceber.\nNo entanto, os juízos de beleza dizem respeito a questões de gosto e este pode não ter \num fundamento racional. Mas, se for o caso, como explicar o lugar de relevo que a beleza \nocupa nas nossas vidas e porque lamentamos o facto – se disso se trata – de a beleza estar \na desaparecer do nosso mundo? Será verdade, como sugeriram tantos escritores e artistas \ndesde Baudelaire a Nietzsche, que a beleza e a bondade podem divergir e que uma coisa pode \nser bela precisamente por causa da sua imoralidade?\nAlém disso, uma vez que é natural que os gostos variem, como pode o gosto de uma pessoa \nservir de critério para aferir o de outra? Como é possível dizer, por exemplo, que um certo tipo \nde música é superior ou inferior a outro, se os juízos comparativos refletem apenas o gosto \ndaquele que os faz?\nEste relativismo, hoje familiar, levou algumas pessoas a rejeitarem os juízos de beleza \npor serem puramente «subjetivos». Os gostos não se discutem, argumentam, pois, quando \nse critica um gosto, mais não se faz do que expressar um outro; assim sendo, nenhum \nensinamento ou aprendizagem pode vir de uma «crítica». Esta atitude tem posto em questão \nmuitas das disciplinas que tradicionalmente pertencem às humanidades. Os estudos de arte, \nmúsica, literatura e arquitetura, libertados da disciplina imposta pelo juízo estético, dão a \nsensação de terem perdido a sustentação firme na tradição e na técnica, que tinha levado \nos nossos predecessores a considerarem-nos nucleares ao currículo. Daí a atual «crise das \nhumanidades»: haverá alguma razão para estudar a nossa herança artística e cultural, se o \njuízo acerca da sua beleza é destituído de alicerces racionais? Ou, se resolvermos estudá-la, \nnão deveria esse estudo ser feito com um espírito cético, questionando as suas pretensões ao \nestatuto de autoridade objetiva, desconstruindo a sua pose de transcendência?\nRoger Scruton, Beleza: Uma Muito Breve Introdução, trad. Carlos Marques, Lisboa, Guerra & Paz, 2023, pp. 9-10."
     },
     {
-      "id": 353,
+      "id": 9700,
+      "question_number": "5",
+      "statement": "5. Depois de tirar a máscara, o sujeito poético opta por tornar a pô-la. \nJustifique essa opção, com base em dois aspetos significativos.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19139,
+          "letter": "A",
+          "text": "a expressão «Além disso» (linha 11).",
+          "isCorrect": false
+        },
+        {
+          "id": 19140,
+          "letter": "B",
+          "text": "o vocábulo «Todavia» (linha 2).",
+          "isCorrect": false
+        },
+        {
+          "id": 19141,
+          "letter": "C",
+          "text": "a expressão «No entanto» (linha 5).",
+          "isCorrect": false
+        },
+        {
+          "id": 19142,
+          "letter": "D",
+          "text": "a expressão «Esta atitude» (linha 18).",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes:\n − a criança que a máscara oculta representa a vulnerabilidade do sujeito poético associada à infância;\n − o Eu sente-se mais confortável quando coloca a máscara, na medida em que a imagem que dá a ver \naos outros é a de alguém normal («E volto à normalidade» ‒ v. 11);\n − a normalidade (o «términus de linha» ‒ v. 11) é construída através do recurso à máscara na viagem de \nautoconhecimento que o sujeito poético realiza, o que implica viver o presente, aceitando as convenções \nsociais.\n•  Aspetos de conteúdo e de estruturação do discurso (C-ED)1 ............................ 10 pontos\nNível Descritor de desempenho Pontuação\n5\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando, adequadamente, \ndois dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n10\n4\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando, adequadamente, \ndois dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando dois dos tópicos \nde resposta, um adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n8\n3\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando dois dos tópicos \nde resposta, um adequadamente e outro com pequenas imprecisões e/ou omissões.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando dois dos tópicos \nde resposta, ambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\nOU\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando, adequadamente, \napenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.\n6\n2\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando dois dos tópicos \nde resposta, ambos com pequenas imprecisões e/ou omissões. \nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\nOU\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando, adequadamente, \napenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com falhas que comprometem a progressão e o \nencadeamento das ideias.\n4\n1\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando, com pequenas \nimprecisões e/ou omissões, apenas um dos tópicos de resposta.\nUtiliza mecanismos de coesão textual com eventual ocorrência de falhas que podem \ncomprometer a progressão e o encadeamento das ideias.\n2\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ................................................................ 3 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 3 3 2 1\n1 2 1",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o texto e as notas.\nTal como em outras obras do século XIX, também na novela Coração, Cabeça e Estômago se caricatura a \nsensibilidade e o modo de vida românticos. No excerto que vai ler, são visíveis as transformações operadas \npelo protagonista com o intuito de se aproximar da imagem de um herói romântico. \n5\n10\n15\n20\n25\n30\nNa minha qualidade de cético, entendi que a desordem dos cabelos devia ser a imagem \nda minha alma. Comecei, pois, por dar à cabeça um ar fatal, que chamasse a atenção, e \naguçasse a curiosidade dum mundo já gasto em admirar cabeças não vulgares. A anarquia \ndos meus cabelos custava-me dinheiro e muito trabalho. Ia, todos os dias, ao cabeleireiro \ncalamistrar1 os longos anéis, que me ondeavam nas espáduas 2; depois desfazia as espirais, \nriçava-as em caprichosas ondulações, dava à fronte o máximo espaço, e sacudia a cabeça \npara desmanchar as torcidas deletreadas3 da madeixa. Como quer, porém, que a testa fosse \nmenos escampada4 que o preciso para significar «desordem e génio», comecei a barbear \na testa, fazendo recuar o domínio do cabelo, a pouco e pouco, até que me criei uma fronte \ndilatada, e umas bossas frontais, como a natureza as não dera a Shakespeare nem a Goethe. \nA minha cara ajeitava-se pouco à expressão dum vivo tormento de alma, em virtude de \nser uma cara sadia, avermelhada, e bem fornida de fibra musculosa. Era-me necessário \nremediar o infortúnio de ter saúde, sem atacar os órgãos essenciais da vida, mediante o uso \nde beberagens. Aconselharam-me os charutos do contrato 5; fumei alguns dias, sem mais \nresultado que uma ameaça de tubérculos 6, uma formal estupidez de espírito, e não sei que \nprofundo dissabor até da farsa em que eu a mim próprio me estava dando em espetáculo. \nA cara mantinha-se na prosa ignóbil do escarlate, mais incendiada ainda pelos acessos \nde tosse, provocados pelo fumo. Um médico da minha íntima amizade receitou-me uma \nessência roixa7 com a qual eu devia pintar o que vulgarmente se diz «olheiras». Ao deitar-me, \ncorria levemente algumas pinceladas sobre a cútis 8, que desce da pálpebra inferior até às \nproeminências malares; ao erguer-me, tinha todo o cuidado em não lavar a porção arroixada \npela tinta, e com uma maçaneta de algodão em rama desbastava a pintura nos pontos em \nque ela estivesse demasiadamente carregada. O artístico amor com que eu fazia isto deu em \nresultado uma tal perfeição no colorido, que até o próprio médico chegou a persuadir-se, de \nlonge, que o pisado dos meus olhos era natural, e eu mesmo também me parece que cheguei \nà persuasão do médico. \nFiz, pois, de mim uma cara entre o sentimental de Antony9 e o trágico de Fausto10. Seria, no \nentanto, mais completa a minha satisfação se à raiz do cabelo, no ponto em que eu barbeava \na cabeça para aumentar a testa, me não aparecesse um diadema 11 azulado. Era a natureza \na vingar-se.\nCamilo Castelo Branco, Coração, Cabeça e Estômago, edição de Cristina Sobral e Ariadne Nunes, \nLisboa, IN-CM, 2019, pp. 39-40.\n\nNOTAS\n1 calamistrar – tornar crespo ou frisado.\n2 espáduas – ombros.\n3 deletreadas – repartidas.\n4 escampada – ampla; larga.\n5 charutos do contrato – referência ao facto de o tabaco ser vendido por particulares através de um contrato estabelecido \ncom a Coroa, que detinha o monopólio deste produto.\n6 tubérculos – nódulos arredondados, nos pulmões, característicos da tuberculose.\n7 roixa – o mesmo que «roxa».\n8 cútis – pele da face.\n9 Antony – personagem de um drama romântico da autoria do romancista francês Alexandre Dumas (1802-1870).\n10 Fausto – protagonista de uma obra de Goethe, escritor romântico alemão (1749-1832).\n11 diadema – faixa semicircular no alto da testa.\n1. Ao referir a «farsa em que eu a mim próprio me estava dando em espetáculo» (linha 16), o protagonista \nrevela a sua intenção de criar uma imagem de si que não corresponde à realidade.\nExplicite em que consiste essa imagem.\n2. O texto constitui um retrato humorístico do herói romântico.\nRefira dois aspetos significativos que evidenciem a dimensão cómica desse retrato.\n3. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a) e b) – e, para cada uma delas, o número que \ncorresponde à opção selecionada.\nNo primeiro parágrafo, o narrador recorre a expressões como «Comecei» (linha 2), «todos os \ndias» (linha 4), «depois» (linha 5), «a pouco e pouco» (linha 9) e «até que» (linha 9) para a) . \nNo final do excerto, ao afirmar «Era a natureza a vingar-se.» (linhas 29 e 30), o narrador b) .\na) b)\n1. ilustrar sumariamente as exigências \nsistemáticas para manter a sua imagem\n2. organizar a sequência narrativa e descritiva, \napresentando os efeitos naturais da \npassagem do tempo\n3. relatar o percurso adotado para concretizar \no seu processo de transformação física"
+    },
+    {
+      "id": 9707,
       "question_number": "5",
       "statement": "5. Todos os vocábulos e expressões abaixo apresentados contribuem para a coesão interfrásica, exceto",
       "question_type": "multiple_choice",
@@ -167,79 +298,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 570,
-          "letter": "A",
-          "text": "a expressão «Além disso» (linha 11).",
-          "isCorrect": false
-        },
-        {
-          "id": 571,
-          "letter": "B",
-          "text": "o vocábulo «Todavia» (linha 2).",
-          "isCorrect": false
-        },
-        {
-          "id": 572,
-          "letter": "C",
-          "text": "a expressão «No entanto» (linha 5).",
-          "isCorrect": false
-        },
-        {
-          "id": 573,
-          "letter": "D",
-          "text": "a expressão «Esta atitude» (linha 18).",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "5\nJustifica a opção do sujeito poético por tornar a pôr a máscara, abordando, adequadamente, \ndois dos tópicos de resposta.\nUtiliza mecanismos de coesão textual que, apesar da eventual ocorrência de falhas, \nasseguram a progressão e o encadeamento das ideias.",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nA beleza pode ser consoladora, perturbadora, sagrada ou profana; pode revigorar, atrair, \ninspirar ou arrepiar. Pode afetar-nos de inúmeras maneiras. Todavia, nunca a olhamos com \nindiferença: a beleza exige visibilidade. Ela fala-nos diretamente, qual voz de um amigo íntimo. \nSe há pessoas indiferentes à beleza, é porque são, certamente, incapazes de a perceber.\nNo entanto, os juízos de beleza dizem respeito a questões de gosto e este pode não ter \num fundamento racional. Mas, se for o caso, como explicar o lugar de relevo que a beleza \nocupa nas nossas vidas e porque lamentamos o facto – se disso se trata – de a beleza estar \na desaparecer do nosso mundo? Será verdade, como sugeriram tantos escritores e artistas \ndesde Baudelaire a Nietzsche, que a beleza e a bondade podem divergir e que uma coisa pode \nser bela precisamente por causa da sua imoralidade?\nAlém disso, uma vez que é natural que os gostos variem, como pode o gosto de uma pessoa \nservir de critério para aferir o de outra? Como é possível dizer, por exemplo, que um certo tipo \nde música é superior ou inferior a outro, se os juízos comparativos refletem apenas o gosto \ndaquele que os faz?\nEste relativismo, hoje familiar, levou algumas pessoas a rejeitarem os juízos de beleza \npor serem puramente «subjetivos». Os gostos não se discutem, argumentam, pois, quando \nse critica um gosto, mais não se faz do que expressar um outro; assim sendo, nenhum \nensinamento ou aprendizagem pode vir de uma «crítica». Esta atitude tem posto em questão \nmuitas das disciplinas que tradicionalmente pertencem às humanidades. Os estudos de arte, \nmúsica, literatura e arquitetura, libertados da disciplina imposta pelo juízo estético, dão a \nsensação de terem perdido a sustentação firme na tradição e na técnica, que tinha levado \nos nossos predecessores a considerarem-nos nucleares ao currículo. Daí a atual «crise das \nhumanidades»: haverá alguma razão para estudar a nossa herança artística e cultural, se o \njuízo acerca da sua beleza é destituído de alicerces racionais? Ou, se resolvermos estudá-la, \nnão deveria esse estudo ser feito com um espírito cético, questionando as suas pretensões ao \nestatuto de autoridade objetiva, desconstruindo a sua pose de transcendência?\nRoger Scruton, Beleza: Uma Muito Breve Introdução, trad. Carlos Marques, Lisboa, Guerra & Paz, 2023, pp. 9-10."
-    },
-    {
-      "id": 354,
-      "question_number": "6",
-      "statement": "6. Todos os constituintes sublinhados desempenham a função sintática de complemento do adjetivo, exceto \nem",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 574,
-          "letter": "A",
-          "text": "«indiferentes à beleza» (linha 4).",
-          "isCorrect": false
-        },
-        {
-          "id": 575,
-          "letter": "B",
-          "text": "«incapazes de a perceber» (linha 4).",
-          "isCorrect": false
-        },
-        {
-          "id": 576,
-          "letter": "C",
-          "text": "«juízos de beleza» (linha 5).",
-          "isCorrect": false
-        },
-        {
-          "id": 577,
-          "letter": "D",
-          "text": "«inferior a outro» (linha 13).",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. .................................................................................................................................................... 13 pontos\nVersão 1 ‒ I, III e V\nVersão 2 ‒ I, II e IV",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -249,7 +309,120 @@
       "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nA beleza pode ser consoladora, perturbadora, sagrada ou profana; pode revigorar, atrair, \ninspirar ou arrepiar. Pode afetar-nos de inúmeras maneiras. Todavia, nunca a olhamos com \nindiferença: a beleza exige visibilidade. Ela fala-nos diretamente, qual voz de um amigo íntimo. \nSe há pessoas indiferentes à beleza, é porque são, certamente, incapazes de a perceber.\nNo entanto, os juízos de beleza dizem respeito a questões de gosto e este pode não ter \num fundamento racional. Mas, se for o caso, como explicar o lugar de relevo que a beleza \nocupa nas nossas vidas e porque lamentamos o facto – se disso se trata – de a beleza estar \na desaparecer do nosso mundo? Será verdade, como sugeriram tantos escritores e artistas \ndesde Baudelaire a Nietzsche, que a beleza e a bondade podem divergir e que uma coisa pode \nser bela precisamente por causa da sua imoralidade?\nAlém disso, uma vez que é natural que os gostos variem, como pode o gosto de uma pessoa \nservir de critério para aferir o de outra? Como é possível dizer, por exemplo, que um certo tipo \nde música é superior ou inferior a outro, se os juízos comparativos refletem apenas o gosto \ndaquele que os faz?\nEste relativismo, hoje familiar, levou algumas pessoas a rejeitarem os juízos de beleza \npor serem puramente «subjetivos». Os gostos não se discutem, argumentam, pois, quando \nse critica um gosto, mais não se faz do que expressar um outro; assim sendo, nenhum \nensinamento ou aprendizagem pode vir de uma «crítica». Esta atitude tem posto em questão \nmuitas das disciplinas que tradicionalmente pertencem às humanidades. Os estudos de arte, \nmúsica, literatura e arquitetura, libertados da disciplina imposta pelo juízo estético, dão a \nsensação de terem perdido a sustentação firme na tradição e na técnica, que tinha levado \nos nossos predecessores a considerarem-nos nucleares ao currículo. Daí a atual «crise das \nhumanidades»: haverá alguma razão para estudar a nossa herança artística e cultural, se o \njuízo acerca da sua beleza é destituído de alicerces racionais? Ou, se resolvermos estudá-la, \nnão deveria esse estudo ser feito com um espírito cético, questionando as suas pretensões ao \nestatuto de autoridade objetiva, desconstruindo a sua pose de transcendência?\nRoger Scruton, Beleza: Uma Muito Breve Introdução, trad. Carlos Marques, Lisboa, Guerra & Paz, 2023, pp. 9-10."
     },
     {
-      "id": 355,
+      "id": 9701,
+      "question_number": "6",
+      "statement": "6. Considere as afirmações seguintes sobre o poema. \nI. O ato de se ver ao espelho sugere o desejo de autoconhecimento por parte do sujeito poético.\nII. O sujeito poético anseia voltar a viver o seu tempo de infância.\nIII. A coexistência de versos longos e de versos curtos contribui para o ritmo do poema.\nIV. O recurso às reticências, no verso 3, indicia a frustração sentida pelo sujeito poético.\nV. No texto, evidenciam-se características da linguagem poética de Álvaro de Campos, como a liberdade \nformal e o uso de anáforas.\nIdentifique as três afirmações verdadeiras.\nEscreva, na folha de respostas, os números que correspondem às afirmações selecionadas.\n\nPARTE C",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19143,
+          "letter": "A",
+          "text": "«indiferentes à beleza» (linha 4).",
+          "isCorrect": false
+        },
+        {
+          "id": 19144,
+          "letter": "B",
+          "text": "«incapazes de a perceber» (linha 4).",
+          "isCorrect": false
+        },
+        {
+          "id": 19145,
+          "letter": "C",
+          "text": "«juízos de beleza» (linha 5).",
+          "isCorrect": false
+        },
+        {
+          "id": 19146,
+          "letter": "D",
+          "text": "«inferior a outro» (linha 13).",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 13 pontos\nVersão 1 ‒ I, III e V\nVersão 2 ‒ I, II e IV",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o texto e as notas.\nTal como em outras obras do século XIX, também na novela Coração, Cabeça e Estômago se caricatura a \nsensibilidade e o modo de vida românticos. No excerto que vai ler, são visíveis as transformações operadas \npelo protagonista com o intuito de se aproximar da imagem de um herói romântico. \n5\n10\n15\n20\n25\n30\nNa minha qualidade de cético, entendi que a desordem dos cabelos devia ser a imagem \nda minha alma. Comecei, pois, por dar à cabeça um ar fatal, que chamasse a atenção, e \naguçasse a curiosidade dum mundo já gasto em admirar cabeças não vulgares. A anarquia \ndos meus cabelos custava-me dinheiro e muito trabalho. Ia, todos os dias, ao cabeleireiro \ncalamistrar1 os longos anéis, que me ondeavam nas espáduas 2; depois desfazia as espirais, \nriçava-as em caprichosas ondulações, dava à fronte o máximo espaço, e sacudia a cabeça \npara desmanchar as torcidas deletreadas3 da madeixa. Como quer, porém, que a testa fosse \nmenos escampada4 que o preciso para significar «desordem e génio», comecei a barbear \na testa, fazendo recuar o domínio do cabelo, a pouco e pouco, até que me criei uma fronte \ndilatada, e umas bossas frontais, como a natureza as não dera a Shakespeare nem a Goethe. \nA minha cara ajeitava-se pouco à expressão dum vivo tormento de alma, em virtude de \nser uma cara sadia, avermelhada, e bem fornida de fibra musculosa. Era-me necessário \nremediar o infortúnio de ter saúde, sem atacar os órgãos essenciais da vida, mediante o uso \nde beberagens. Aconselharam-me os charutos do contrato 5; fumei alguns dias, sem mais \nresultado que uma ameaça de tubérculos 6, uma formal estupidez de espírito, e não sei que \nprofundo dissabor até da farsa em que eu a mim próprio me estava dando em espetáculo. \nA cara mantinha-se na prosa ignóbil do escarlate, mais incendiada ainda pelos acessos \nde tosse, provocados pelo fumo. Um médico da minha íntima amizade receitou-me uma \nessência roixa7 com a qual eu devia pintar o que vulgarmente se diz «olheiras». Ao deitar-me, \ncorria levemente algumas pinceladas sobre a cútis 8, que desce da pálpebra inferior até às \nproeminências malares; ao erguer-me, tinha todo o cuidado em não lavar a porção arroixada \npela tinta, e com uma maçaneta de algodão em rama desbastava a pintura nos pontos em \nque ela estivesse demasiadamente carregada. O artístico amor com que eu fazia isto deu em \nresultado uma tal perfeição no colorido, que até o próprio médico chegou a persuadir-se, de \nlonge, que o pisado dos meus olhos era natural, e eu mesmo também me parece que cheguei \nà persuasão do médico. \nFiz, pois, de mim uma cara entre o sentimental de Antony9 e o trágico de Fausto10. Seria, no \nentanto, mais completa a minha satisfação se à raiz do cabelo, no ponto em que eu barbeava \na cabeça para aumentar a testa, me não aparecesse um diadema 11 azulado. Era a natureza \na vingar-se.\nCamilo Castelo Branco, Coração, Cabeça e Estômago, edição de Cristina Sobral e Ariadne Nunes, \nLisboa, IN-CM, 2019, pp. 39-40.\n\nNOTAS\n1 calamistrar – tornar crespo ou frisado.\n2 espáduas – ombros.\n3 deletreadas – repartidas.\n4 escampada – ampla; larga.\n5 charutos do contrato – referência ao facto de o tabaco ser vendido por particulares através de um contrato estabelecido \ncom a Coroa, que detinha o monopólio deste produto.\n6 tubérculos – nódulos arredondados, nos pulmões, característicos da tuberculose.\n7 roixa – o mesmo que «roxa».\n8 cútis – pele da face.\n9 Antony – personagem de um drama romântico da autoria do romancista francês Alexandre Dumas (1802-1870).\n10 Fausto – protagonista de uma obra de Goethe, escritor romântico alemão (1749-1832).\n11 diadema – faixa semicircular no alto da testa.\n1. Ao referir a «farsa em que eu a mim próprio me estava dando em espetáculo» (linha 16), o protagonista \nrevela a sua intenção de criar uma imagem de si que não corresponde à realidade.\nExplicite em que consiste essa imagem.\n2. O texto constitui um retrato humorístico do herói romântico.\nRefira dois aspetos significativos que evidenciem a dimensão cómica desse retrato.\n3. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a) e b) – e, para cada uma delas, o número que \ncorresponde à opção selecionada.\nNo primeiro parágrafo, o narrador recorre a expressões como «Comecei» (linha 2), «todos os \ndias» (linha 4), «depois» (linha 5), «a pouco e pouco» (linha 9) e «até que» (linha 9) para a) . \nNo final do excerto, ao afirmar «Era a natureza a vingar-se.» (linhas 29 e 30), o narrador b) .\na) b)\n1. ilustrar sumariamente as exigências \nsistemáticas para manter a sua imagem\n2. organizar a sequência narrativa e descritiva, \napresentando os efeitos naturais da \npassagem do tempo\n3. relatar o percurso adotado para concretizar \no seu processo de transformação física"
+    },
+    {
+      "id": 9708,
+      "question_number": "6",
+      "statement": "6. Todos os constituintes sublinhados desempenham a função sintática de complemento do adjetivo, exceto \nem",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nLeia o texto.\n5\n10\n15\n20\n25\nA beleza pode ser consoladora, perturbadora, sagrada ou profana; pode revigorar, atrair, \ninspirar ou arrepiar. Pode afetar-nos de inúmeras maneiras. Todavia, nunca a olhamos com \nindiferença: a beleza exige visibilidade. Ela fala-nos diretamente, qual voz de um amigo íntimo. \nSe há pessoas indiferentes à beleza, é porque são, certamente, incapazes de a perceber.\nNo entanto, os juízos de beleza dizem respeito a questões de gosto e este pode não ter \num fundamento racional. Mas, se for o caso, como explicar o lugar de relevo que a beleza \nocupa nas nossas vidas e porque lamentamos o facto – se disso se trata – de a beleza estar \na desaparecer do nosso mundo? Será verdade, como sugeriram tantos escritores e artistas \ndesde Baudelaire a Nietzsche, que a beleza e a bondade podem divergir e que uma coisa pode \nser bela precisamente por causa da sua imoralidade?\nAlém disso, uma vez que é natural que os gostos variem, como pode o gosto de uma pessoa \nservir de critério para aferir o de outra? Como é possível dizer, por exemplo, que um certo tipo \nde música é superior ou inferior a outro, se os juízos comparativos refletem apenas o gosto \ndaquele que os faz?\nEste relativismo, hoje familiar, levou algumas pessoas a rejeitarem os juízos de beleza \npor serem puramente «subjetivos». Os gostos não se discutem, argumentam, pois, quando \nse critica um gosto, mais não se faz do que expressar um outro; assim sendo, nenhum \nensinamento ou aprendizagem pode vir de uma «crítica». Esta atitude tem posto em questão \nmuitas das disciplinas que tradicionalmente pertencem às humanidades. Os estudos de arte, \nmúsica, literatura e arquitetura, libertados da disciplina imposta pelo juízo estético, dão a \nsensação de terem perdido a sustentação firme na tradição e na técnica, que tinha levado \nos nossos predecessores a considerarem-nos nucleares ao currículo. Daí a atual «crise das \nhumanidades»: haverá alguma razão para estudar a nossa herança artística e cultural, se o \njuízo acerca da sua beleza é destituído de alicerces racionais? Ou, se resolvermos estudá-la, \nnão deveria esse estudo ser feito com um espírito cético, questionando as suas pretensões ao \nestatuto de autoridade objetiva, desconstruindo a sua pose de transcendência?\nRoger Scruton, Beleza: Uma Muito Breve Introdução, trad. Carlos Marques, Lisboa, Guerra & Paz, 2023, pp. 9-10."
+    },
+    {
+      "id": 9702,
+      "question_number": "7",
+      "statement": "7. Nos textos apresentados na Parte A e na Parte B desta prova, o protagonista, no primeiro caso, e o sujeito \npoético, no segundo caso, apresentam uma determinada imagem de si próprios.\nEscreva uma breve exposição na qual compare esses textos quanto às ideias expressas.\nA sua exposição deve incluir:\n•  uma introdução ao tema;\n•  um desenvolvimento no qual explicite um aspeto em que os textos se aproximam e um aspeto em que \nse distinguem quanto à imagem que cada sujeito de enunciação apresenta de si próprio;\n•  uma conclusão adequada ao desenvolvimento do tema.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 19147,
+          "letter": "A",
+          "text": "um pronome, no primeiro caso, e uma conjunção, no segundo caso.",
+          "isCorrect": false
+        },
+        {
+          "id": 19148,
+          "letter": "B",
+          "text": "pronomes, em ambos os casos.",
+          "isCorrect": false
+        },
+        {
+          "id": 19149,
+          "letter": "C",
+          "text": "conjunções, em ambos os casos.",
+          "isCorrect": false
+        },
+        {
+          "id": 19150,
+          "letter": "D",
+          "text": "uma conjunção, no primeiro caso, e um pronome, no segundo caso.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "7. .................................................................................................................................................... 13 pontos\nDevem ser abordados dois dos tópicos seguintes, ou outros igualmente relevantes, um relativo a aspetos \nem que os textos se aproximam e outro relativo a aspetos em que os textos se distiguem.\nOs textos aproximam-se, na medida em que:\n − tanto o narrador-protagonista do texto de Camilo Castelo Branco como o sujeito poético do poema de \nÁlvaro de Campos agem de forma consciente, por vontade própria ‒ no primeiro caso, ao forjar uma \nimagem distinta da verdadeira; no segundo caso, ao retirar a máscara e ao voltar a colocá-la;\n − em ambos os casos, o verdadeiro Eu está oculto ‒ pelas tentativas de transformação, no caso do \nexcerto narrativo; pelo uso da máscara, no caso do poema.\nOs textos distinguem-se, na medida em que:\n − no texto de Camilo Castelo Branco, o narrador-protagonista pretende, com as transformações que \nopera em si mesmo, disfarçar a sua imagem física, enquanto, no poema de Álvaro de Campos, o sujeito \npoético encobre com a máscara uma realidade psicológica que mantém inacessível aos outros;\n − no texto de Camilo Castelo Branco, as artimanhas usadas pelo narrador-protagonista visam criar uma \nimagem falsa de si, enquanto, no poema de Álvaro de Campos, a máscara esconde o Eu original, \nassociado à criança do passado;\n − no excerto narrativo, a imagem criada pelo narrador-protagonista serve o objetivo de parecer aquilo que \nnão é (um homem romântico), enquanto, no poema, existe uma duplicidade, na medida em que o ser \nessencial permanece escondido, por detrás da máscara, ao mesmo tempo que emerge um outro Eu, o \nser social adequado ao convívio e à interação em sociedade, sendo ambos, contudo, constituintes do \nsujeito poético.\n1 Vide Tipologia de erros no âmbito da correção linguística (pp. 2-3).\n\n•  Aspetos de conteúdo (C) .................................................................................... 8 pontos\nNível Descritor de desempenho Pontuação\n4\nCompara os dois textos, explicitando, adequadamente, um aspeto em que se aproximam \ne outro em que se distinguem quanto à imagem que o sujeito da enunciação apresenta \nde si próprio.\n8\n3\nCompara os dois textos, explicitando um aspeto em que se aproximam e outro em que \nse distinguem quanto à imagem que o sujeito da enunciação apresenta de si próprio, \nadequadamente, num dos casos, e com pequenas imprecisões e/ou omissões, no outro \ncaso.\n6\n2\nCompara os dois textos, explicitando um aspeto em que se aproximam e outro em que se \ndistinguem quanto à imagem que o sujeito da enunciação apresenta de si próprio, com \npequenas imprecisões e/ou omissões em ambos os casos.\nOU\nCompara os dois textos, explicitando, adequadamente, apenas um aspeto em que se \naproximam ou apenas um aspeto em que se distinguem quanto à imagem que o sujeito \nda enunciação apresenta de si próprio.\n4\n1\nCompara os dois textos, explicitando, com pequenas imprecisões e/ou omissões, apenas \num aspeto em que se aproximam ou apenas um aspeto em que se distinguem quanto à \nimagem que o sujeito da enunciação apresenta de si próprio.\n2\n•  Aspetos de estruturação do discurso (ED)1 ........................................................ 3 pontos\nNível Descritor de desempenho Pontuação\n3\nEscreve um texto bem estruturado constituído por três partes (introdução, desenvolvimento \ne conclusão), devidamente proporcionadas, e utiliza mecanismos de coesão textual que \nasseguram de modo global a progressão e o encadeamento das ideias.\n3\n2\nEscreve um texto globalmente bem estruturado constituído por três partes (introdução, \ndesenvolvimento e conclusão) com desequilíbrios de proporção e/ou utiliza mecanismos \nde coesão textual com a eventual ocorrência de falhas que não comprometem de modo \nglobal a progressão e o encadeamento das ideias.\n2\n1 Escreve um texto insuficientemente estruturado e/ou utiliza mecanismos de coesão textual \ncom falhas que comprometem de modo global a progressão e o encadeamento das ideias. 1\n1 Os descritores de desempenho definidos para este parâmetro devem ser considerados em articulação com os Critérios \nGerais de Classificação relativos à estruturação do discurso (p. 2).\n\n•  Aspetos de correção linguística (CL)1 ................................................................ 2 pontos\nApós a contabilização dos erros do tipo A e do tipo B, apura-se a classificação neste parâmetro. A tabela \nabaixo apresenta a pontuação a atribuir, de acordo com o número de erros do tipo A e do tipo B identificados. \nCaso o número total de erros seja superior ao número máximo apresentado na tabela, o parâmetro CL é \nclassificado com zero pontos.\nNúmero de erros do \ntipo A\n0 1 2 3\nNúmero de \nerros do\n tipo B\n0 2 2 1 1\n1 1\nGRUPO II\nITEM VERSÃO 1 VERSÃO 2 PONTUAÇÃO",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nPARTE A\nLeia o texto e as notas.\nTal como em outras obras do século XIX, também na novela Coração, Cabeça e Estômago se caricatura a \nsensibilidade e o modo de vida românticos. No excerto que vai ler, são visíveis as transformações operadas \npelo protagonista com o intuito de se aproximar da imagem de um herói romântico. \n5\n10\n15\n20\n25\n30\nNa minha qualidade de cético, entendi que a desordem dos cabelos devia ser a imagem \nda minha alma. Comecei, pois, por dar à cabeça um ar fatal, que chamasse a atenção, e \naguçasse a curiosidade dum mundo já gasto em admirar cabeças não vulgares. A anarquia \ndos meus cabelos custava-me dinheiro e muito trabalho. Ia, todos os dias, ao cabeleireiro \ncalamistrar1 os longos anéis, que me ondeavam nas espáduas 2; depois desfazia as espirais, \nriçava-as em caprichosas ondulações, dava à fronte o máximo espaço, e sacudia a cabeça \npara desmanchar as torcidas deletreadas3 da madeixa. Como quer, porém, que a testa fosse \nmenos escampada4 que o preciso para significar «desordem e génio», comecei a barbear \na testa, fazendo recuar o domínio do cabelo, a pouco e pouco, até que me criei uma fronte \ndilatada, e umas bossas frontais, como a natureza as não dera a Shakespeare nem a Goethe. \nA minha cara ajeitava-se pouco à expressão dum vivo tormento de alma, em virtude de \nser uma cara sadia, avermelhada, e bem fornida de fibra musculosa. Era-me necessário \nremediar o infortúnio de ter saúde, sem atacar os órgãos essenciais da vida, mediante o uso \nde beberagens. Aconselharam-me os charutos do contrato 5; fumei alguns dias, sem mais \nresultado que uma ameaça de tubérculos 6, uma formal estupidez de espírito, e não sei que \nprofundo dissabor até da farsa em que eu a mim próprio me estava dando em espetáculo. \nA cara mantinha-se na prosa ignóbil do escarlate, mais incendiada ainda pelos acessos \nde tosse, provocados pelo fumo. Um médico da minha íntima amizade receitou-me uma \nessência roixa7 com a qual eu devia pintar o que vulgarmente se diz «olheiras». Ao deitar-me, \ncorria levemente algumas pinceladas sobre a cútis 8, que desce da pálpebra inferior até às \nproeminências malares; ao erguer-me, tinha todo o cuidado em não lavar a porção arroixada \npela tinta, e com uma maçaneta de algodão em rama desbastava a pintura nos pontos em \nque ela estivesse demasiadamente carregada. O artístico amor com que eu fazia isto deu em \nresultado uma tal perfeição no colorido, que até o próprio médico chegou a persuadir-se, de \nlonge, que o pisado dos meus olhos era natural, e eu mesmo também me parece que cheguei \nà persuasão do médico. \nFiz, pois, de mim uma cara entre o sentimental de Antony9 e o trágico de Fausto10. Seria, no \nentanto, mais completa a minha satisfação se à raiz do cabelo, no ponto em que eu barbeava \na cabeça para aumentar a testa, me não aparecesse um diadema 11 azulado. Era a natureza \na vingar-se.\nCamilo Castelo Branco, Coração, Cabeça e Estômago, edição de Cristina Sobral e Ariadne Nunes, \nLisboa, IN-CM, 2019, pp. 39-40.\n\nNOTAS\n1 calamistrar – tornar crespo ou frisado.\n2 espáduas – ombros.\n3 deletreadas – repartidas.\n4 escampada – ampla; larga.\n5 charutos do contrato – referência ao facto de o tabaco ser vendido por particulares através de um contrato estabelecido \ncom a Coroa, que detinha o monopólio deste produto.\n6 tubérculos – nódulos arredondados, nos pulmões, característicos da tuberculose.\n7 roixa – o mesmo que «roxa».\n8 cútis – pele da face.\n9 Antony – personagem de um drama romântico da autoria do romancista francês Alexandre Dumas (1802-1870).\n10 Fausto – protagonista de uma obra de Goethe, escritor romântico alemão (1749-1832).\n11 diadema – faixa semicircular no alto da testa.\n1. Ao referir a «farsa em que eu a mim próprio me estava dando em espetáculo» (linha 16), o protagonista \nrevela a sua intenção de criar uma imagem de si que não corresponde à realidade.\nExplicite em que consiste essa imagem.\n2. O texto constitui um retrato humorístico do herói romântico.\nRefira dois aspetos significativos que evidenciem a dimensão cómica desse retrato.\n3. Complete as afirmações abaixo apresentadas, selecionando a opção adequada a cada espaço.\nNa folha de respostas, registe apenas as letras – a) e b) – e, para cada uma delas, o número que \ncorresponde à opção selecionada.\nNo primeiro parágrafo, o narrador recorre a expressões como «Comecei» (linha 2), «todos os \ndias» (linha 4), «depois» (linha 5), «a pouco e pouco» (linha 9) e «até que» (linha 9) para a) . \nNo final do excerto, ao afirmar «Era a natureza a vingar-se.» (linhas 29 e 30), o narrador b) .\na) b)\n1. ilustrar sumariamente as exigências \nsistemáticas para manter a sua imagem\n2. organizar a sequência narrativa e descritiva, \napresentando os efeitos naturais da \npassagem do tempo\n3. relatar o percurso adotado para concretizar \no seu processo de transformação física"
+    },
+    {
+      "id": 9709,
       "question_number": "7",
       "statement": "7. Os vocábulos «que», na linha 12 e na linha 19, são",
       "question_type": "multiple_choice",
@@ -259,33 +432,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 578,
-          "letter": "A",
-          "text": "um pronome, no primeiro caso, e uma conjunção, no segundo caso.",
-          "isCorrect": false
-        },
-        {
-          "id": 579,
-          "letter": "B",
-          "text": "pronomes, em ambos os casos.",
-          "isCorrect": false
-        },
-        {
-          "id": 580,
-          "letter": "C",
-          "text": "conjunções, em ambos os casos.",
-          "isCorrect": false
-        },
-        {
-          "id": 581,
-          "letter": "D",
-          "text": "uma conjunção, no primeiro caso, e um pronome, no segundo caso.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "7 2\nCOTAÇÕES\nAs pontuações obtidas nas respostas \na estes 10 itens da prova contribuem \nobrigatoriamente para a classificação final.\nGrupo\nSubtotalI II III",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,

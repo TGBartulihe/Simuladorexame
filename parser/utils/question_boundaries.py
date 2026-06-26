@@ -35,6 +35,27 @@ cada prova:
   (ou "COTAÇÕES", se "FIM" não existir), ANTES de procurar onde as
   questões começam — assim nenhuma questão chega a "ver" o anexo.
   looks_like_cotacao_table() continua resolvendo (a).
+
+Resolve também um terceiro bug, encontrado processando um exame completo
+de ponta a ponta (não só um grupo isolado): alguns grupos (tipicamente
+em Biologia e Geologia / Física e Química A, quando o grupo descreve uma
+experiência) têm um "Procedimento:" — uma lista numerada de PASSOS da
+experiência, escrita no mesmo formato textual de uma questão ("1. Colocou-
+se uma planta...", "2. Retirou-se..."). Essa lista não é avaliável, é
+parte do contexto/enunciado, mas o parser a confundia com questões reais
+porque usa exatamente o mesmo padrão "N. texto". O efeito prático: a
+numeração das questões REAIS reinicia em "1" depois do procedimento (ex:
+procedimento tem itens 1-10, e a primeira questão real do grupo também
+é "1") — e como o "1" do procedimento e o "1" da primeira questão real
+acabavam tendo o mesmo (exam_id, group_id, question_number), um
+sobrescrevia o outro no banco.
+
+filter_real_questions() resolve isto: dentro de uma sequência de matches
+de um mesmo grupo, se a numeração REINICIA em "1" depois de ter
+avançado (ex: ...9, 10, 1, 2, 3), tudo ANTES do último reinício é
+descartado da lista de questões — é procedimento/contexto, não
+perguntas. Só a sequência a partir do último "1" é mantida como
+questões reais.
 """
 from __future__ import annotations
 
@@ -94,10 +115,46 @@ def looks_like_cotacao_table(block: str) -> bool:
     return many_number_tokens or has_cotacao_header
 
 
+def _find_last_restart_index(matches: list[re.Match]) -> int:
+    """Acha o índice, na lista `matches`, do último ponto em que a
+    numeração reinicia em "1" depois de ter avançado (ex: ...8, 9, 10,
+    1, 2 -> reinicia no índice do segundo "1"). Subitens com ponto
+    (15.1, 15.2) são ignorados para esta detecção — eles não contam
+    como "reinício", são parte da sequência principal. Se a numeração
+    nunca reinicia, devolve 0 (nada a descartar).
+    """
+    last_restart_index = 0
+    prev_number: int | None = None
+
+    for index, match in enumerate(matches):
+        num_str = match.group(1)
+        if "." in num_str:
+            continue  # subitem (15.1, 15.2, ...), não conta para reinício
+
+        num = int(num_str)
+        if prev_number is not None and num == 1 and prev_number != 1:
+            last_restart_index = index
+        prev_number = num
+
+    return last_restart_index
+
+
+def filter_real_questions(matches: list[re.Match]) -> list[re.Match]:
+    """Remove, do início da lista, qualquer bloco de numeração que seja
+    na verdade um procedimento/lista de passos (não questões reais) —
+    ver docstring do módulo, terceiro bug. Mantém apenas os matches a
+    partir do último reinício de numeração em "1".
+    """
+    restart_index = _find_last_restart_index(matches)
+    return matches[restart_index:]
+
+
 def find_question_starts(text: str) -> list[re.Match]:
     """Acha todas as posições de início de questão em `text`, já
     excluindo as que na verdade são tabelas de cotação (heurística
-    aplicada sobre o trecho até o próximo match, ou até o fim do texto).
+    aplicada sobre o trecho até o próximo match, ou até o fim do texto)
+    e qualquer bloco inicial de procedimento numerado (ver
+    filter_real_questions).
 
     IMPORTANTE: isto NÃO substitui truncate_at_exam_end(). Esta função
     só protege contra o caso (a) da docstring do módulo (tabela no
@@ -119,4 +176,4 @@ def find_question_starts(text: str) -> list[re.Match]:
 
         real_matches.append(match)
 
-    return real_matches
+    return filter_real_questions(real_matches)

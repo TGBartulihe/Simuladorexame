@@ -4,26 +4,69 @@
   "subject": "Português",
   "year": 2016,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 267,
+      "id": 1527,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 268,
+      "id": 1528,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 269,
+      "id": 1529,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1952,
+      "id": 10959,
+      "question_number": "1",
+      "statement": "1. Explique o sentido quer das antíteses quer das interrogações retóricas presentes no início do monólogo \nde Matilde (linhas de 1 a 14).",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, o sentido quer das antíteses quer das interrogações retóricas \npresentes nas linhas de 1 a 14. 12\n3 Explica, adequadamente, o sentido de um dos recursos e, com imprecisões ou de forma \nincompleta, o sentido do outro. 9\n2\nExplica, adequadamente, o sentido de apenas um dos recursos.\nOU\nExplica, com imprecisões ou de forma incompleta, o sentido de ambos os recursos.\n6\n1 Explica, com imprecisões ou de forma incompleta, o sentido de apenas um dos recursos. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)1 ............................................................... 4 pontos\nCenário de resposta\nAs antíteses expressam a oposição entre os valores ensinados aos filhos (valentia, justiça, lealdade) e a \nrealidade político-social, na qual vinga quem é cobarde, injusto e desleal. Deste modo, Matilde põe em \nevidência a hipocrisia instalada na sociedade, que aparenta defender determinados valores, mas promove \nquem não os pratica.\nNa sequência da reflexão anterior, Matilde interroga-se ironicamente sobre a necessidade de se ensinar a \nviver em conformidade com a hipocrisia a fim de alcançar a paz e a felicidade, ainda que tal signifique uma \nvida pautada pela alienação, pelo conformismo e pela indignidade.\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\nEstá a falar sozinha. Já \no estava, possivelmente, \nantes de surgir no palco.\nFala com rancor.\nFala com determinação.\nEstá a tentar convencer-se \na si mesma.\nOlha para o uniforme \ndando a entender que \njá não estava a falar do \nfilho, mas do próprio \nGomes Freire.\nMATILDE\nEnsina-se-lhes que sejam valentes, para um dia virem a ser \njulgados por covardes!\nEnsina-se-lhes que sejam justos, para viverem num mundo em \nque reina a injustiça!\nEnsina-se-lhes que sejam leais, para que a lealdade, um dia, os \nleve à forca!\n(Levanta-se)\nNão seria mais humano, mais honesto, ensiná-los, de pequeninos, \na viverem em paz com a hipocrisia do mundo?\n(Pausa)\nQuem é mais feliz: o que luta por uma vida digna e acaba na forca, \nou o que vive em paz com a sua inconsciência e acaba respeitado \npor todos?\n(Encaminha-se para uma cómoda velha\nque surge, iluminada, à sua esquerda.)\nSe o meu filho fosse vivo, havia de fazer dele um homem de bem, \ndesses que vão ao teatro e a tudo assistem, com sorrisos alarves, \nfingindo nada terem a ver com o que se passa em cena!\n(Pausa)\nHavia de lhe ensinar a mentir, a cuidar mais do fato que da \nconsciência e da bolsa do que da alma.\n(Abre uma gaveta da cómoda e tira dela\num uniforme velho de Gomes Freire)\nSe o meu filho fosse vivo… Havia de morrer de velhice e de \ngordura, com a consciência tranquila e o peito a abarrotar de \nmedalhas!\n(Coloca o uniforme de Gomes Freire sobre a cadeira)\nTudo isso o meu homem poderia ter tido…\n(Acaricia o uniforme)\nSe tivesse sido menos homem…\n(Pausa)\nPodíamos estar, agora, aqui, ouvindo os pregões que soam a \ncantigas, lá fora, na rua…\n(Pausa)\nAbríamos a janela ao sol da manhã e aquecíamo-nos os dois…\n(Pausa)\nEle dava-me a mão, eu dava-lhe a minha, e ficávamos, para aqui, \na conversar…\nFalávamos das batalhas em que ele andou…\n5\n10\n15\n20\n25\n30\n35\n40\n\nA partir desta frase \na entoação torna-se \nvigorosa e, até, violenta.\nRelembrávamos o nosso hotel de Paris… os passeios que \ndávamos ao longo do Sena… os dias felizes que passámos juntos… \no tempo em que sonhávamos voltar a esta malfadada terra…\n(Passa a mão pelo uniforme com ternura)\nPodíamos viver aqui esquecidos dessa gente que o odeia.\n(Encaminha-se para a esquerda do palco)\nEra tão fácil… Tão mais fácil que tudo isto…\n(Faz o gesto de fechar uma janela)\nFechávamos as janelas. Trancávamos a porta. Era como se \nestivéssemos outra vez lá fora, longe das intrigas mesquinhas em \nque esta gente se perde e perde a vida…\n(Pausa)\nMas não pôde ser e, agora, estou sozinha. Sozinha e rodeada de \ninimigos numa terra hostil a tudo o que é grande, numa terra onde se \ncortam as árvores para que não façam sombra aos arbustos…\n(Começa a chorar)\nTenho o corpo no Rato e a alma em S. Julião da Barra, mas \nenquanto houver vida nestas pernas cansadas… e força nestas \nmãos que Deus me deu…\n(Endireita-se. Parece crescer no palco)\nEnquanto tiver voz para gritar… Baterei a todas as portas, clamarei \npor toda a parte, mendigarei, se for preciso, a vida daquele a quem \ndevo a minha!\n(Cai de joelhos, com os braços em torno da cadeira e, \nsoluçando, enterra a cabeça no uniforme de Gomes Freire. \nPela esquerda do palco surge António de Sousa Falcão.)\n45\n50\n55\n60\n65\nLuís de Sttau Monteiro, Felizmente Há Luar!, 5.ª ed., Lisboa, Edições Ática, 1963, pp. 92-96"
+    },
+    {
+      "id": 10963,
+      "question_number": "1",
+      "statement": "1. Na atualidade, a associação entre a ciência e a tecnologia caracteriza-se pelo facto de esta última",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    },
+    {
+      "id": 10971,
       "question_number": "1",
       "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2016/).",
       "question_type": "open",
@@ -34,9 +77,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Refere-se, de modo incompleto e com imprecisões, à relação entre o sentido do verso 8 \ne o conteúdo dos dois tercetos. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\nCenário de resposta\nO verso «qualquer grande esperança é grande engano» (v. 8) sugere que, para o sujeito poético, toda a \nesperança acaba por se revelar ilusória. \nEsta ideia concretiza-se nos dois tercetos. O bem desejado é representado como um objetivo que se \npersegue, num caminho em que o sujeito cai e se levanta, até que o próprio bem desejado se perde de \nvista e o desânimo vence.\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -44,9 +87,51 @@
       "contextText": "GRUPO III\n«Ante os múltiplos desafios do futuro, a educação surge como um trunfo indispensável à humanidade na \nsua construção dos ideais da paz, da liberdade e da justiça social.»\nRelatório para a UNESCO da Comissão Internacional sobre Educação para o Século XXI, 1998, p. 11\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a ideia exposta no excerto transcrito.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 1953,
+      "id": 10960,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.\n5 × 20 pontos 100\nII 1. a 10.\n10 × 5 pontos 50\nIII Item único 50\nTOTAL 200",
+      "statement": "2. Entre as linhas 23 e 51, verifica-se uma alteração no estado de espírito de Matilde. \nExplicite essa alteração e relacione-a com as referências ao uniforme de Gomes Freire.",
+      "question_type": "matching",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. Estes descontos são efetuados até ao limite das pontuações indicadas nos critérios específicos.\n\nFatores de desvalorização\n − Correção linguística\nAs desvalorizações no âmbito da correção linguística apresentadas no Quadro 2 aplicam-se aos itens de \nresposta restrita e ao item de resposta extensa.\nQuadro 2 – Desvalorizações no âmbito da correção linguística\nTipo de ocorrências Desvalorização\n(pontos)\n • erro inequívoco de pontuação\n • erro de ortografia (incluindo erro de acentuação, uso indevido de letra minúscula ou de letra \nmaiúscula e erro de translineação)\n • erro de morfologia\n • incumprimento das regras de citação de texto ou de referência a título de uma obra\n1\n • erro de sintaxe\n • impropriedade lexical 2\nA repetição de um erro de ortografia na mesma resposta (incluindo erro de acentuação, uso indevido de letra \nminúscula ou de letra maiúscula e erro de translineação) é contabilizada como uma única ocorrência.\nSe da aplicação deste fator de desvalorização resultar uma classificação inferior a zero pontos, atribui-se zero \npontos à correção linguística.\n − Limites de extensão\nSempre que não sejam respeitados os limites relativos ao número de palavras indicados na instrução do item \nde resposta extensa, desconta-se um ponto por cada palavra (a mais ou a menos), até ao máximo de cinco \n(1 × 5) pontos, depois de aplicados todos os critérios definidos para o item.\nCaso a resposta apresente uma extensão inferior a oitenta palavras, é classificada com zero pontos.\nPara efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, \nmesmo quando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma \núnica palavra, independentemente dos algarismos que o constituam (ex.: /2016/).\nNos casos em que da aplicação deste fator de desvalorização resultar uma classificação inferior a zero \npontos, é atribuída à resposta a classificação de zero pontos.\n\nCRITÉRIOS ESPECÍFICOS DE CLASSIFICAÇÃO\nGRUPO I .................................................................................................................................... 100 pontos\nA",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\nEstá a falar sozinha. Já \no estava, possivelmente, \nantes de surgir no palco.\nFala com rancor.\nFala com determinação.\nEstá a tentar convencer-se \na si mesma.\nOlha para o uniforme \ndando a entender que \njá não estava a falar do \nfilho, mas do próprio \nGomes Freire.\nMATILDE\nEnsina-se-lhes que sejam valentes, para um dia virem a ser \njulgados por covardes!\nEnsina-se-lhes que sejam justos, para viverem num mundo em \nque reina a injustiça!\nEnsina-se-lhes que sejam leais, para que a lealdade, um dia, os \nleve à forca!\n(Levanta-se)\nNão seria mais humano, mais honesto, ensiná-los, de pequeninos, \na viverem em paz com a hipocrisia do mundo?\n(Pausa)\nQuem é mais feliz: o que luta por uma vida digna e acaba na forca, \nou o que vive em paz com a sua inconsciência e acaba respeitado \npor todos?\n(Encaminha-se para uma cómoda velha\nque surge, iluminada, à sua esquerda.)\nSe o meu filho fosse vivo, havia de fazer dele um homem de bem, \ndesses que vão ao teatro e a tudo assistem, com sorrisos alarves, \nfingindo nada terem a ver com o que se passa em cena!\n(Pausa)\nHavia de lhe ensinar a mentir, a cuidar mais do fato que da \nconsciência e da bolsa do que da alma.\n(Abre uma gaveta da cómoda e tira dela\num uniforme velho de Gomes Freire)\nSe o meu filho fosse vivo… Havia de morrer de velhice e de \ngordura, com a consciência tranquila e o peito a abarrotar de \nmedalhas!\n(Coloca o uniforme de Gomes Freire sobre a cadeira)\nTudo isso o meu homem poderia ter tido…\n(Acaricia o uniforme)\nSe tivesse sido menos homem…\n(Pausa)\nPodíamos estar, agora, aqui, ouvindo os pregões que soam a \ncantigas, lá fora, na rua…\n(Pausa)\nAbríamos a janela ao sol da manhã e aquecíamo-nos os dois…\n(Pausa)\nEle dava-me a mão, eu dava-lhe a minha, e ficávamos, para aqui, \na conversar…\nFalávamos das batalhas em que ele andou…\n5\n10\n15\n20\n25\n30\n35\n40\n\nA partir desta frase \na entoação torna-se \nvigorosa e, até, violenta.\nRelembrávamos o nosso hotel de Paris… os passeios que \ndávamos ao longo do Sena… os dias felizes que passámos juntos… \no tempo em que sonhávamos voltar a esta malfadada terra…\n(Passa a mão pelo uniforme com ternura)\nPodíamos viver aqui esquecidos dessa gente que o odeia.\n(Encaminha-se para a esquerda do palco)\nEra tão fácil… Tão mais fácil que tudo isto…\n(Faz o gesto de fechar uma janela)\nFechávamos as janelas. Trancávamos a porta. Era como se \nestivéssemos outra vez lá fora, longe das intrigas mesquinhas em \nque esta gente se perde e perde a vida…\n(Pausa)\nMas não pôde ser e, agora, estou sozinha. Sozinha e rodeada de \ninimigos numa terra hostil a tudo o que é grande, numa terra onde se \ncortam as árvores para que não façam sombra aos arbustos…\n(Começa a chorar)\nTenho o corpo no Rato e a alma em S. Julião da Barra, mas \nenquanto houver vida nestas pernas cansadas… e força nestas \nmãos que Deus me deu…\n(Endireita-se. Parece crescer no palco)\nEnquanto tiver voz para gritar… Baterei a todas as portas, clamarei \npor toda a parte, mendigarei, se for preciso, a vida daquele a quem \ndevo a minha!\n(Cai de joelhos, com os braços em torno da cadeira e, \nsoluçando, enterra a cabeça no uniforme de Gomes Freire. \nPela esquerda do palco surge António de Sousa Falcão.)\n45\n50\n55\n60\n65\nLuís de Sttau Monteiro, Felizmente Há Luar!, 5.ª ed., Lisboa, Edições Ática, 1963, pp. 92-96"
+    },
+    {
+      "id": 10964,
+      "question_number": "2",
+      "statement": "2. Segundo o autor do texto, ao contrário dos erros, os azares",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
+    },
+    {
+      "id": 10972,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +140,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nRelaciona, de modo não totalmente completo e com pequenas imprecisões, o sentido do \nverso 8 com o conteúdo dos dois tercetos.\nOU\nRelaciona, de modo incompleto ou com imprecisões, o sentido do verso 8 com o conteúdo \ndos dois tercetos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +150,53 @@
       "contextText": "GRUPO III\n«Ante os múltiplos desafios do futuro, a educação surge como um trunfo indispensável à humanidade na \nsua construção dos ideais da paz, da liberdade e da justiça social.»\nRelatório para a UNESCO da Comissão Internacional sobre Educação para o Século XXI, 1998, p. 11\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a ideia exposta no excerto transcrito.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 1954,
+      "id": 10961,
+      "question_number": "3",
+      "statement": "3. Interprete as seguintes palavras de Matilde, tendo em consideração o contexto em que são proferidas: \n«numa terra onde se cortam as árvores para que não façam sombra aos arbustos…» (linhas 54 e 55).\n\nB\nLeia o soneto.\n5\n10\nOh! como se me alonga, de ano em ano,\na peregrinação cansada minha!\nComo se encurta, e como ao fim caminha\neste meu breve e vão discurso humano!\nVai-se gastando a idade e cresce o dano;\nperde-se-me um remédio, que inda tinha;\nse por experiência se adivinha,\nqualquer grande esperança é grande engano.\nCorro após este bem que não se alcança;\nno meio do caminho me falece,\nmil vezes caio, e perco a confiança.\nQuando ele foge, eu tardo; e, na tardança,\nse os olhos ergo a ver se inda parece,\nda vista se me perde e da esperança.\nLuís de Camões, Rimas, edição de Álvaro J. da Costa Pimpão, Coimbra, Almedina, 2005, p. 129",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21684,
+          "letter": "A",
+          "text": "é impossível fazer o cálculo do risco de cada situação.",
+          "isCorrect": false
+        },
+        {
+          "id": 21685,
+          "letter": "B",
+          "text": "a perceção do risco tem uma vertente psicológica inquestionável.",
+          "isCorrect": false
+        },
+        {
+          "id": 21686,
+          "letter": "C",
+          "text": "é imprescindível calcular a probabilidade de risco de cada situação.",
+          "isCorrect": false
+        },
+        {
+          "id": 21687,
+          "letter": "D",
+          "text": "o medo resulta diretamente do conhecimento da probabilidade de risco.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Interpreta, adequadamente, as palavras de Matilde, tendo em consideração o contexto \nem que são proferidas. 12\n3 Interpreta, de modo não totalmente completo ou com pequenas imprecisões, as palavras \nde Matilde, tendo em consideração o contexto em que são proferidas. 9\n2\nInterpreta, de modo não totalmente completo e com pequenas imprecisões, as palavras \nde Matilde, tendo em consideração o contexto em que são proferidas.\nOU\nInterpreta, de modo incompleto ou com imprecisões, as palavras de Matilde, tendo em \nconsideração o contexto em que são proferidas.\n6\n1 Refere-se, de modo incompleto e com imprecisões, ao sentido das palavras de Matilde, \ntendo em consideração o contexto em que são proferidas. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)3 ............................................................... 4 pontos\nCenário de resposta\nFace à situação de injustiça de que o general é vítima, Matilde acusa a «terra» onde vive (Portugal) por \nnela se proteger e beneficiar os que são mesquinhos, insignificantes e cobardes – que não passam de \n«arbustos» (linha 55) –, à custa da aniquilação dos melhores, mais dignos e mais justos, como é o caso \nde Gomes Freire – «as árvores» (linha 55).\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nB",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\nEstá a falar sozinha. Já \no estava, possivelmente, \nantes de surgir no palco.\nFala com rancor.\nFala com determinação.\nEstá a tentar convencer-se \na si mesma.\nOlha para o uniforme \ndando a entender que \njá não estava a falar do \nfilho, mas do próprio \nGomes Freire.\nMATILDE\nEnsina-se-lhes que sejam valentes, para um dia virem a ser \njulgados por covardes!\nEnsina-se-lhes que sejam justos, para viverem num mundo em \nque reina a injustiça!\nEnsina-se-lhes que sejam leais, para que a lealdade, um dia, os \nleve à forca!\n(Levanta-se)\nNão seria mais humano, mais honesto, ensiná-los, de pequeninos, \na viverem em paz com a hipocrisia do mundo?\n(Pausa)\nQuem é mais feliz: o que luta por uma vida digna e acaba na forca, \nou o que vive em paz com a sua inconsciência e acaba respeitado \npor todos?\n(Encaminha-se para uma cómoda velha\nque surge, iluminada, à sua esquerda.)\nSe o meu filho fosse vivo, havia de fazer dele um homem de bem, \ndesses que vão ao teatro e a tudo assistem, com sorrisos alarves, \nfingindo nada terem a ver com o que se passa em cena!\n(Pausa)\nHavia de lhe ensinar a mentir, a cuidar mais do fato que da \nconsciência e da bolsa do que da alma.\n(Abre uma gaveta da cómoda e tira dela\num uniforme velho de Gomes Freire)\nSe o meu filho fosse vivo… Havia de morrer de velhice e de \ngordura, com a consciência tranquila e o peito a abarrotar de \nmedalhas!\n(Coloca o uniforme de Gomes Freire sobre a cadeira)\nTudo isso o meu homem poderia ter tido…\n(Acaricia o uniforme)\nSe tivesse sido menos homem…\n(Pausa)\nPodíamos estar, agora, aqui, ouvindo os pregões que soam a \ncantigas, lá fora, na rua…\n(Pausa)\nAbríamos a janela ao sol da manhã e aquecíamo-nos os dois…\n(Pausa)\nEle dava-me a mão, eu dava-lhe a minha, e ficávamos, para aqui, \na conversar…\nFalávamos das batalhas em que ele andou…\n5\n10\n15\n20\n25\n30\n35\n40\n\nA partir desta frase \na entoação torna-se \nvigorosa e, até, violenta.\nRelembrávamos o nosso hotel de Paris… os passeios que \ndávamos ao longo do Sena… os dias felizes que passámos juntos… \no tempo em que sonhávamos voltar a esta malfadada terra…\n(Passa a mão pelo uniforme com ternura)\nPodíamos viver aqui esquecidos dessa gente que o odeia.\n(Encaminha-se para a esquerda do palco)\nEra tão fácil… Tão mais fácil que tudo isto…\n(Faz o gesto de fechar uma janela)\nFechávamos as janelas. Trancávamos a porta. Era como se \nestivéssemos outra vez lá fora, longe das intrigas mesquinhas em \nque esta gente se perde e perde a vida…\n(Pausa)\nMas não pôde ser e, agora, estou sozinha. Sozinha e rodeada de \ninimigos numa terra hostil a tudo o que é grande, numa terra onde se \ncortam as árvores para que não façam sombra aos arbustos…\n(Começa a chorar)\nTenho o corpo no Rato e a alma em S. Julião da Barra, mas \nenquanto houver vida nestas pernas cansadas… e força nestas \nmãos que Deus me deu…\n(Endireita-se. Parece crescer no palco)\nEnquanto tiver voz para gritar… Baterei a todas as portas, clamarei \npor toda a parte, mendigarei, se for preciso, a vida daquele a quem \ndevo a minha!\n(Cai de joelhos, com os braços em torno da cadeira e, \nsoluçando, enterra a cabeça no uniforme de Gomes Freire. \nPela esquerda do palco surge António de Sousa Falcão.)\n45\n50\n55\n60\n65\nLuís de Sttau Monteiro, Felizmente Há Luar!, 5.ª ed., Lisboa, Edições Ática, 1963, pp. 92-96"
+    },
+    {
+      "id": 10965,
       "question_number": "3",
       "statement": "3. O exemplo apresentado no terceiro parágrafo evidencia a ideia de que",
       "question_type": "multiple_choice",
@@ -75,33 +206,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3566,
-          "letter": "A",
-          "text": "é impossível fazer o cálculo do risco de cada situação.",
-          "isCorrect": false
-        },
-        {
-          "id": 3567,
-          "letter": "B",
-          "text": "a perceção do risco tem uma vertente psicológica inquestionável.",
-          "isCorrect": false
-        },
-        {
-          "id": 3568,
-          "letter": "C",
-          "text": "é imprescindível calcular a probabilidade de risco de cada situação.",
-          "isCorrect": false
-        },
-        {
-          "id": 3569,
-          "letter": "D",
-          "text": "o medo resulta diretamente do conhecimento da probabilidade de risco.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3 Relaciona, de modo não totalmente completo ou com pequenas imprecisões, o sentido do \nverso 8 com o conteúdo dos dois tercetos. 9",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -111,7 +217,53 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
     },
     {
-      "id": 1955,
+      "id": 10962,
+      "question_number": "4",
+      "statement": "4. Nas duas quadras, o sujeito poético reflete sobre os efeitos da passagem do tempo na sua vida.\nRefira quatro dos aspetos que integram essa reflexão.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21688,
+          "letter": "A",
+          "text": "da posse do saber científico pelo homem.",
+          "isCorrect": false
+        },
+        {
+          "id": 21689,
+          "letter": "B",
+          "text": "do processo intelectual próprio da ciência.",
+          "isCorrect": false
+        },
+        {
+          "id": 21690,
+          "letter": "C",
+          "text": "do uso dos conhecimentos científicos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21691,
+          "letter": "D",
+          "text": "da excessiva valorização da ciência.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Refere, adequadamente, quatro aspetos que integram a reflexão do sujeito poético sobre \nos efeitos da passagem do tempo na sua vida. 12\n3\nRefere, adequadamente, três aspetos que integram a reflexão do sujeito poético sobre os \nefeitos da passagem do tempo na sua vida.\nOU\nRefere quatro aspetos que integram a reflexão do sujeito poético sobre os efeitos da \npassagem do tempo na sua vida, com imprecisões em um ou em dois desses aspetos.\n9\n2\nRefere, adequadamente, dois aspetos que integram a reflexão do sujeito poético sobre os \nefeitos da passagem do tempo na sua vida.\nOU\nRefere quatro aspetos que integram a reflexão do sujeito poético sobre os efeitos da \npassagem do tempo na sua vida, com imprecisões em três ou em quatro desses aspetos.\nOU\nRefere três aspetos que integram a reflexão do sujeito poético sobre os efeitos da \npassagem do tempo na sua vida, com imprecisões em um ou em dois desses aspetos.\n6\n1\nRefere, adequadamente, um aspeto que integra a reflexão do sujeito poético sobre os \nefeitos da passagem do tempo na sua vida.\nOU\nRefere, com imprecisões, três aspetos que integram a reflexão do sujeito poético sobre os \nefeitos da passagem do tempo na sua vida.\nOU\nRefere dois aspetos que integram a reflexão do sujeito poético sobre os efeitos da \npassagem do tempo na sua vida, com imprecisões em um ou nos dois aspetos.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)4 ............................................................... 4 pontos\nCenário de resposta\nDe acordo com as duas quadras, o sujeito poético:\n– entende a vida como uma experiência longa e cada vez mais penosa;\n– toma consciência da aproximação do termo da sua vida;\n– faz um balanço negativo da existência com base na experiência passada;\n– toma consciência de que a vida vai perdendo qualidade;\n– encara toda a esperança como mera ilusão.\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\nEstá a falar sozinha. Já \no estava, possivelmente, \nantes de surgir no palco.\nFala com rancor.\nFala com determinação.\nEstá a tentar convencer-se \na si mesma.\nOlha para o uniforme \ndando a entender que \njá não estava a falar do \nfilho, mas do próprio \nGomes Freire.\nMATILDE\nEnsina-se-lhes que sejam valentes, para um dia virem a ser \njulgados por covardes!\nEnsina-se-lhes que sejam justos, para viverem num mundo em \nque reina a injustiça!\nEnsina-se-lhes que sejam leais, para que a lealdade, um dia, os \nleve à forca!\n(Levanta-se)\nNão seria mais humano, mais honesto, ensiná-los, de pequeninos, \na viverem em paz com a hipocrisia do mundo?\n(Pausa)\nQuem é mais feliz: o que luta por uma vida digna e acaba na forca, \nou o que vive em paz com a sua inconsciência e acaba respeitado \npor todos?\n(Encaminha-se para uma cómoda velha\nque surge, iluminada, à sua esquerda.)\nSe o meu filho fosse vivo, havia de fazer dele um homem de bem, \ndesses que vão ao teatro e a tudo assistem, com sorrisos alarves, \nfingindo nada terem a ver com o que se passa em cena!\n(Pausa)\nHavia de lhe ensinar a mentir, a cuidar mais do fato que da \nconsciência e da bolsa do que da alma.\n(Abre uma gaveta da cómoda e tira dela\num uniforme velho de Gomes Freire)\nSe o meu filho fosse vivo… Havia de morrer de velhice e de \ngordura, com a consciência tranquila e o peito a abarrotar de \nmedalhas!\n(Coloca o uniforme de Gomes Freire sobre a cadeira)\nTudo isso o meu homem poderia ter tido…\n(Acaricia o uniforme)\nSe tivesse sido menos homem…\n(Pausa)\nPodíamos estar, agora, aqui, ouvindo os pregões que soam a \ncantigas, lá fora, na rua…\n(Pausa)\nAbríamos a janela ao sol da manhã e aquecíamo-nos os dois…\n(Pausa)\nEle dava-me a mão, eu dava-lhe a minha, e ficávamos, para aqui, \na conversar…\nFalávamos das batalhas em que ele andou…\n5\n10\n15\n20\n25\n30\n35\n40\n\nA partir desta frase \na entoação torna-se \nvigorosa e, até, violenta.\nRelembrávamos o nosso hotel de Paris… os passeios que \ndávamos ao longo do Sena… os dias felizes que passámos juntos… \no tempo em que sonhávamos voltar a esta malfadada terra…\n(Passa a mão pelo uniforme com ternura)\nPodíamos viver aqui esquecidos dessa gente que o odeia.\n(Encaminha-se para a esquerda do palco)\nEra tão fácil… Tão mais fácil que tudo isto…\n(Faz o gesto de fechar uma janela)\nFechávamos as janelas. Trancávamos a porta. Era como se \nestivéssemos outra vez lá fora, longe das intrigas mesquinhas em \nque esta gente se perde e perde a vida…\n(Pausa)\nMas não pôde ser e, agora, estou sozinha. Sozinha e rodeada de \ninimigos numa terra hostil a tudo o que é grande, numa terra onde se \ncortam as árvores para que não façam sombra aos arbustos…\n(Começa a chorar)\nTenho o corpo no Rato e a alma em S. Julião da Barra, mas \nenquanto houver vida nestas pernas cansadas… e força nestas \nmãos que Deus me deu…\n(Endireita-se. Parece crescer no palco)\nEnquanto tiver voz para gritar… Baterei a todas as portas, clamarei \npor toda a parte, mendigarei, se for preciso, a vida daquele a quem \ndevo a minha!\n(Cai de joelhos, com os braços em torno da cadeira e, \nsoluçando, enterra a cabeça no uniforme de Gomes Freire. \nPela esquerda do palco surge António de Sousa Falcão.)\n45\n50\n55\n60\n65\nLuís de Sttau Monteiro, Felizmente Há Luar!, 5.ª ed., Lisboa, Edições Ática, 1963, pp. 92-96"
+    },
+    {
+      "id": 10966,
       "question_number": "4",
       "statement": "4. Do ponto de vista do autor, os «perigos da ciência» (linha 30) decorrem",
       "question_type": "multiple_choice",
@@ -121,33 +273,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3570,
-          "letter": "A",
-          "text": "da posse do saber científico pelo homem.",
-          "isCorrect": false
-        },
-        {
-          "id": 3571,
-          "letter": "B",
-          "text": "do processo intelectual próprio da ciência.",
-          "isCorrect": false
-        },
-        {
-          "id": 3572,
-          "letter": "C",
-          "text": "do uso dos conhecimentos científicos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3573,
-          "letter": "D",
-          "text": "da excessiva valorização da ciência.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 Relaciona, adequadamente, o sentido do verso 8 com o conteúdo dos dois tercetos. 12",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -157,7 +284,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
     },
     {
-      "id": 1960,
+      "id": 10967,
       "question_number": "5",
       "statement": "5. Nas expressões «protege-nos dos riscos» (linha 17) e «A ciência traz-nos constantemente novos riscos» \n(linhas 28 e 29), os pronomes pessoais desempenham as funções sintáticas de",
       "question_type": "multiple_choice",
@@ -169,33 +296,33 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3574,
+          "id": 21692,
           "letter": "A",
           "text": "complemento indireto e de complemento direto, respetivamente.",
           "isCorrect": false
         },
         {
-          "id": 3575,
+          "id": 21693,
           "letter": "B",
           "text": "complemento direto e de complemento indireto, respetivamente.",
           "isCorrect": false
         },
         {
-          "id": 3576,
+          "id": 21694,
           "letter": "C",
           "text": "complemento indireto, em ambos os casos.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3577,
+          "id": 21695,
           "letter": "D",
           "text": "complemento direto, em ambos os casos.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "5 4 3 2 1\nC\nLéxico e \nadequação \ndo discurso\n – Mobiliza, com intencionalidade, \nrecursos da língua expressivos \ne adequados (repertório lexical \nvariado e pertinente, figuras de \nretórica e tropos, procedimentos \nde modalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Mobiliza um repertório lexical \nadequado, mas pouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Utiliza vocabulário \nelementar e restrito (muitas \nvezes redundante) ou \nglobalmente inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência do \nregisto adequado ao texto, \nou recorre a um único \nregisto inadequado.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.",
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Relaciona, adequadamente, o sentido do verso 8 com o conteúdo dos dois tercetos. 12\n3 Relaciona, de modo não totalmente completo ou com pequenas imprecisões, o sentido do \nverso 8 com o conteúdo dos dois tercetos. 9\n2\nRelaciona, de modo não totalmente completo e com pequenas imprecisões, o sentido do \nverso 8 com o conteúdo dos dois tercetos.\nOU\nRelaciona, de modo incompleto ou com imprecisões, o sentido do verso 8 com o conteúdo \ndos dois tercetos.\n6\n1 Refere-se, de modo incompleto e com imprecisões, à relação entre o sentido do verso 8 \ne o conteúdo dos dois tercetos. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\nCenário de resposta\nO verso «qualquer grande esperança é grande engano» (v. 8) sugere que, para o sujeito poético, toda a \nesperança acaba por se revelar ilusória. \nEsta ideia concretiza-se nos dois tercetos. O bem desejado é representado como um objetivo que se \npersegue, num caminho em que o sujeito cai e se levanta, até que o próprio bem desejado se perde de \nvista e o desânimo vence.\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
       "officialAnswer": null,
-      "gabaritoDisponivel": false,
+      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -203,7 +330,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
     },
     {
-      "id": 1961,
+      "id": 10968,
       "question_number": "6",
       "statement": "6. O uso das palavras «dele» (linha 28) e «os» (linha 29) contribui para a coesão",
       "question_type": "multiple_choice",
@@ -215,25 +342,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3578,
+          "id": 21696,
           "letter": "A",
           "text": "lexical.",
           "isCorrect": false
         },
         {
-          "id": 3579,
+          "id": 21697,
           "letter": "B",
           "text": "aspeto-temporal.",
           "isCorrect": false
         },
         {
-          "id": 3580,
+          "id": 21698,
           "letter": "C",
           "text": "frásica.",
           "isCorrect": false
         },
         {
-          "id": 3581,
+          "id": 21699,
           "letter": "D",
           "text": "referencial.",
           "isCorrect": false
@@ -249,7 +376,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
     },
     {
-      "id": 1962,
+      "id": 10969,
       "question_number": "7",
       "statement": "7. O último parágrafo do texto é predominantemente",
       "question_type": "multiple_choice",
@@ -261,25 +388,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3582,
+          "id": 21700,
           "letter": "A",
           "text": "narrativo.",
           "isCorrect": false
         },
         {
-          "id": 3583,
+          "id": 21701,
           "letter": "B",
           "text": "expositivo.",
           "isCorrect": false
         },
         {
-          "id": 3584,
+          "id": 21702,
           "letter": "C",
           "text": "descritivo.",
           "isCorrect": false
         },
         {
-          "id": 3585,
+          "id": 21703,
           "letter": "D",
           "text": "argumentativo.",
           "isCorrect": false
@@ -295,7 +422,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\nA ciência tem hoje tantas e tão úteis aplicações nas nossas vidas que a associação mais \nimediata que o cidadão comum faz hoje à ciência não pode deixar de ser a tecnologia. Essa \nassociação, embora não diga o essencial sobre a ciência – que é acima de tudo a descoberta \ndo mundo pelo homem –, não deixa de ser adequada. A tecnologia precedeu a ciência – isto \né, o fazer antecipou o saber – mas, na modernidade, toda a tecnologia passou a derivar da \nciência – o saber passou a ser a única fonte do fazer.\nAs aplicações da ciência não se fazem sem riscos. Aliás, nada na vida humana se faz sem \nrisco. Não existe risco zero: é inevitável que vivamos permanentemente sob ameaças. Há que \ndistinguir, na análise dos riscos, entre aquilo que são azares, eventos naturais desfavoráveis \n(que, nas antigas apólices de seguro, se chamavam «atos de Deus»), e erros, que resultam \nde falhas humanas ( errare humanum est ), que podem ir desde o insuficiente cuidado no \nplaneamento até uma ação dolosa, passando por um acidente involuntário. Se os azares não \npodem ser evitados, os erros podem e devem, tanto quanto possível, ser prevenidos. É decerto \nvirtuosa a aprendizagem que podemos fazer a partir deles. A ocorrência de um certo erro deve \ndespoletar medidas para evitar situações do mesmo tipo. Podemos continuar a errar, mas \nos novos erros serão menores e, sobretudo, diferentes. A ciência, através do seu moderno \nbraço armado que é a tecnologia, protege-nos dos riscos inerentes à natureza e minimiza os \nriscos originados por ações humanas. Se é certo que os avanços da ciência, ao possibilitarem \nnovas intervenções do homem no mundo, geram riscos, não é menos verdade que a ciência, \na aplicação correta do método científico, ainda é o melhor instrumento de que dispomos para \nerrar cada vez menos. \nComo medir o risco? A ciência quantifica normalmente o risco usando a noção de \nprobabilidade. Contudo, a noção de probabilidade não é de fácil apreensão pelo comum das \npessoas. Muitos passageiros, mesmo sabendo do baixo risco de fatalidade (0,0000185 por \ncento), têm medo quando entram num avião. O nosso cérebro tem dificuldade em avaliar \nriscos. \nO risco, correta ou incorretamente percecionado, está por todo o lado nas nossas vidas, \nsendo várias as interrogações que se podem colocar em face dele. A ciência traz-nos \nconstantemente novos riscos, assim como maneiras de os minimizar. \nQual é então o valor da ciência? E quais são os perigos da ciência? De facto, a ciência \ncomo processo intelectual de descoberta do mundo é inofensiva. É melhor saber do que não \nsaber. Mas a atividade que o homem exerce ou pode exercer no mundo, uma vez em posse \ndo conhecimento científico, é sempre arriscada.\nCarlos Fiolhais, «Aprendendo com os erros», XXI, Ter Opinião, Fundação Francisco Manuel dos Santos, \nn.º 5, jul.-dez. 2015 (adaptado)\nNOTAS\ndolosa (linha 12) – fraudulenta; que causa prejuízo conscientemente.\nerrare humanum est (linha 11) – expressão latina que significa errar é humano."
     },
     {
-      "id": 1963,
+      "id": 10970,
       "question_number": "10",
       "statement": "10. Refira a função sintática desempenhada pela oração subordinada presente em «é inevitável que vivamos \npermanentemente sob ameaças» (linha 8).",
       "question_type": "open",
@@ -306,7 +433,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "10 8 6 4 2\nB\nEstrutura e \ncoesão\n – Redige um texto bem \nestruturado, refletindo uma \nplanificação adequada \ne evidenciando um bom \ndomínio dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três partes \n(introdução, desenvolvimento \ne conclusão), \nindividualizadas, devidamente \nproporcionadas e articuladas \nentre si de modo consistente;\n • marca corretamente os \nparágrafos;\n • utiliza, adequadamente, \nconectores diversificados \npara assegurar a articulação \ninterfrásica; \n • mantém, de forma \nsistemática, cadeias de \nreferência através de \nsubstituições nominais e \npronominais adequadas;\n • estabelece conexões \nadequadas entre \ncoordenadas de enunciação \n(pessoa, tempo, espaço) ao \nlongo do texto.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Redige um texto \nsatisfatoriamente estruturado, \nrefletindo uma planificação \ncom algumas insuficiências \ne evidenciando um domínio \nsuficiente dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três \npartes (introdução, \ndesenvolvimento \ne conclusão), nem \nsempre devidamente \narticuladas entre si ou com \ndesequilíbrios de proporção \nmais ou menos notórios;\n • marca parágrafos, mas com \nalgumas falhas;\n • utiliza apenas os conectores \nmais comuns, embora sem \nincorreções graves;\n • mantém, com algumas \ndescontinuidades, cadeias \nde referência;\n • estabelece, com algumas \ndescontinuidades, conexões \nentre as coordenadas de \nenunciação (pessoa, tempo, \nespaço) ao longo do texto.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Redige um texto com \nestruturação muito \ndeficiente e com \ninsuficientes mecanismos \nde coesão textual:\n • apresenta um texto em \nque não se conseguem \nidentificar claramente \ntrês partes (introdução, \ndesenvolvimento e \nconclusão) ou em \nque estas estão \ninsuficientemente \narticuladas;\n • raramente marca \nparágrafos de forma \ncorreta;\n • raramente utiliza \nconectores e mecanismos \nde coesão textual ou \nutiliza-os de forma \ninadequada.\n\nPONTUAÇÃO\nPARÂMETRO\nDESCRITORES DOS NÍVEIS DE DESEMPENHO (ETD)",
+      "criteriaText": "10. Sujeito (ver nota 1) 5\nNota 1 – A ocorrência de erros ortográficos não implica a desvalorização da resposta.\nNota 2 – Além da resposta (valor) explicativo, admitem-se as respostas em que:\n– se classifica a oração como explicativa;\n– se refere, claramente, a existência de uma explicação;\n– se substitui o termo explicativo por apositivo ou não restritivo.\nGRUPO III ................................................................................................................................. 50 pontos\n•  Estruturação temática e discursiva (ETD)*6 ........................................................ 30 pontos\n•  Correção linguística (CL)**7 ................................................................................. 20 pontos\nCenário de resposta\nDada a natureza deste item, não é apresentado cenário de resposta.\n* Vide Critérios gerais (pp. 3-4) e descritores do nível de desempenho relativos à estruturação temática e discursiva \n(pp. 11-12).\n** Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nPONTUAÇÃO\nPARÂMETRO\nDESCRITORES DOS NÍVEIS DE DESEMPENHO (ETD)\n15 12 9 6 3\nA\nTema e \ntipologia\n – Trata, sem desvios, o \ntema proposto.\n – Mobiliza informação ampla \ne diversificada, com eficácia \nargumentativa, de acordo \ncom a tipologia solicitada:\n • produz um discurso coerente \ne sem qualquer tipo de \nambiguidade;\n • define com clareza o seu \nponto de vista;\n • fundamenta a perspetiva \nadotada em, pelo menos, \ndois argumentos, distintos e \npertinentes, cada um deles \nilustrado com, pelo menos, \num exemplo significativo.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Trata o tema proposto, \nembora com alguns desvios.\n – Mobiliza informação suficiente, \nde acordo com a tipologia \nsolicitada, mas nem sempre \ncom eficácia argumentativa:\n • produz um discurso \nglobalmente coerente, \napesar de algumas \nambiguidades;\n • define o seu ponto de vista, \neventualmente com lacunas \nque não afetam, porém, a \ninteligibilidade;\n • fundamenta a perspetiva \nadotada em, pelo \nmenos, dois argumentos \nadequados, apresentando \num único exemplo \nsignificativo (ou dois \nexemplos pouco \nadequados), ou fundamenta \na perspetiva adotada em \napenas um argumento, \nilustrado com, pelo menos, \ndois exemplos significativos.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Aborda lateralmente \no tema proposto.\n – Mobiliza muito pouca \ninformação e com eficácia \nargumentativa reduzida:\n • produz um discurso \ngeralmente inconsistente e, \npor vezes, ininteligível;\n • não define um ponto de \nvista concreto;\n • apresenta um texto em que \ntraços do tipo solicitado se \nmisturam, sem critério, com \nos de outros tipos textuais.\nPONTUAÇÃO\nPARÂMETRO\nDESCRITORES DOS NÍVEIS DE DESEMPENHO (ETD)\n10 8 6 4 2\nB\nEstrutura e \ncoesão\n – Redige um texto bem \nestruturado, refletindo uma \nplanificação adequada \ne evidenciando um bom \ndomínio dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três partes \n(introdução, desenvolvimento \ne conclusão), \nindividualizadas, devidamente \nproporcionadas e articuladas \nentre si de modo consistente;\n • marca corretamente os \nparágrafos;\n • utiliza, adequadamente, \nconectores diversificados \npara assegurar a articulação \ninterfrásica; \n • mantém, de forma \nsistemática, cadeias de \nreferência através de \nsubstituições nominais e \npronominais adequadas;\n • estabelece conexões \nadequadas entre \ncoordenadas de enunciação \n(pessoa, tempo, espaço) ao \nlongo do texto.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Redige um texto \nsatisfatoriamente estruturado, \nrefletindo uma planificação \ncom algumas insuficiências \ne evidenciando um domínio \nsuficiente dos mecanismos \nde coesão textual:\n • apresenta um texto \nconstituído por três \npartes (introdução, \ndesenvolvimento \ne conclusão), nem \nsempre devidamente \narticuladas entre si ou com \ndesequilíbrios de proporção \nmais ou menos notórios;\n • marca parágrafos, mas com \nalgumas falhas;\n • utiliza apenas os conectores \nmais comuns, embora sem \nincorreções graves;\n • mantém, com algumas \ndescontinuidades, cadeias \nde referência;\n • estabelece, com algumas \ndescontinuidades, conexões \nentre as coordenadas de \nenunciação (pessoa, tempo, \nespaço) ao longo do texto.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Redige um texto com \nestruturação muito \ndeficiente e com \ninsuficientes mecanismos \nde coesão textual:\n • apresenta um texto em \nque não se conseguem \nidentificar claramente \ntrês partes (introdução, \ndesenvolvimento e \nconclusão) ou em \nque estas estão \ninsuficientemente \narticuladas;\n • raramente marca \nparágrafos de forma \ncorreta;\n • raramente utiliza \nconectores e mecanismos \nde coesão textual ou \nutiliza-os de forma \ninadequada.\n\nPONTUAÇÃO\nPARÂMETRO\nDESCRITORES DOS NÍVEIS DE DESEMPENHO (ETD)\n5 4 3 2 1\nC\nLéxico e \nadequação \ndo discurso\n – Mobiliza, com intencionalidade, \nrecursos da língua expressivos \ne adequados (repertório lexical \nvariado e pertinente, figuras de \nretórica e tropos, procedimentos \nde modalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Mobiliza um repertório lexical \nadequado, mas pouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Utiliza vocabulário \nelementar e restrito (muitas \nvezes redundante) ou \nglobalmente inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência do \nregisto adequado ao texto, \nou recorre a um único \nregisto inadequado.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.\n5 × 20 pontos 100\nII 1. a 10.\n10 × 5 pontos 50\nIII Item único \n50 pontos 50\nTOTAL 200",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

@@ -4,36 +4,104 @@
   "subject": "Física e Química A",
   "year": 2018,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 199,
+      "id": 1459,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 200,
+      "id": 1460,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 201,
+      "id": 1461,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 202,
+      "id": 1462,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 203,
+      "id": 1463,
       "name": "GRUPO V",
       "order": 4
     }
   ],
   "questions": [
     {
-      "id": 1484,
+      "id": 10537,
+      "question_number": "1",
+      "statement": "1.\n A\n Figura 1 representa um sistema de aquecimento \nde água, constituído por um depósito, um coletor \nsolar plano com cobertura de vidro e um fluido \nque circula num circuito fechado, por convecção \nnatural. Este fluido transfere energia, como calor, \npara a água contida no depósito.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20790,
+          "letter": "A",
+          "text": "as duas soluções têm a mesma concentração.",
+          "isCorrect": false
+        },
+        {
+          "id": 20791,
+          "letter": "B",
+          "text": "a concentração da solução de ácido clorídrico é inferior à concentração da solução de ácido acético.",
+          "isCorrect": false
+        },
+        {
+          "id": 20792,
+          "letter": "C",
+          "text": "a concentração da solução de ácido clorídrico é superior à concentração da solução de ácido acético.",
+          "isCorrect": false
+        },
+        {
+          "id": 20793,
+          "letter": "D",
+          "text": "as duas soluções têm a mesma quantidade de ácido dissolvido.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. Apresentação apenas do resultado final, não incluindo \nos cálculos efetuados nem as justificações ou \nconclusões solicitadas.\nA resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nEm cada local da Terra, a energia solar disponível depende, entre outros fatores, da estação do ano e das \ncondições meteorológicas."
+    },
+    {
+      "id": 10543,
+      "question_number": "1",
+      "statement": "1. Uma esfera, largada de uma certa altura, cai verticalmente até \natingir o solo.\nNa Figura 2, apresenta-se um esboço do gráfico do módulo da \nvelocidade, v, dessa esfera, em função do tempo, t, desde o instante \nem que a esfera é largada até atingir o solo.\nConsidere que a esfera pode ser representada pelo seu centro de \nmassa (modelo da partícula material).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10557,
       "question_number": "1",
       "statement": "1.\n Considere duas soluções, uma de ácido clorídrico e outra de ácido acético, com o mesmo pH, a 25 ºC.\nPode-se concluir que",
       "question_type": "multiple_choice",
@@ -43,43 +111,127 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 6",
+      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0\n1. Na Figura 6, apresenta-se parte de um gráfico das concentrações, c , das três espécies envolvidas na \nreação considerada, a volume constante, em função do tempo, t.\nO sistema, inicialmente em equilíbrio, sofre uma perturbação no instante t1, atingindo um novo estado de \nequilíbrio no instante t2.\nc\n \ntt1\n(1)\n(2)\n(3)\nt2\nFigura 6\n1.1. O gráfico permite concluir que, no instante t1,\n \n(A)\n se removeu uma certa quantidade de um dos componentes do sistema.\n \n(B)\n se introduziu uma certa quantidade de um dos componentes do sistema.\n \n(C)\n se provocou um aumento da temperatura do sistema.\n \n(D)\n se provocou uma diminuição da pressão do sistema.\n1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .\n \n(A)\n (2) ... direta\n \n(B)\n (2) ... inversa\n \n(C)\n (3) ... direta\n \n(D)\n (3) ... inversa\n\n2. Uma mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), em equilíbrio, está contida num recipiente fechado de volume \nvariável, a uma temperatura T.\n2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.\n2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.\n \n(A)\n aumentar ... aumentar\n \n(B)\n aumentar ... diminuir\n \n(C)\n diminuir ... aumentar\n \n(D)\n diminuir ... diminuir\n3.\n Considere \numa amostra de 10 cm3 de uma qualquer mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), nas condições \nnormais de pressão e de temperatura (PTN).\nO número total de moléculas na amostra é\n \n(A)\n ,27 10 23#\n (B) ,27 10 20#\n (C) ,13 10 27#\n (D) ,13 10 24#\n\nGRUPO VI\nO ácido clorídrico, HCl ( aq ), é um ácido forte e o ácido acético, CH3COOH ( aq ), é um ácido fraco."
+    },
+    {
+      "id": 10540,
+      "question_number": "2",
+      "statement": "2.\n Um depósito com 120 kg de água está ligado a um coletor plano de área 4,0 m2, que está exposto à radiação \nsolar, em média, durante 8,0 h por dia. Nas condições de exposição, a potência média da radiação solar \nincidente por unidade de área é ,W m51 1022# - .",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
       "choices": [
         {
-          "id": 2600,
+          "id": 20794,
           "letter": "A",
-          "text": "as duas soluções têm a mesma concentração.",
+          "text": "VV 2B B =I II",
           "isCorrect": false
         },
         {
-          "id": 2601,
+          "id": 20795,
           "letter": "B",
-          "text": "a concentração da solução de ácido clorídrico é inferior à concentração da solução de ácido acético.",
-          "isCorrect": true
+          "text": "V V 8B B =I II",
+          "isCorrect": false
         },
         {
-          "id": 2602,
+          "id": 20796,
           "letter": "C",
-          "text": "a concentração da solução de ácido clorídrico é superior à concentração da solução de ácido acético.",
-          "isCorrect": true
+          "text": "VV 8BB =II I",
+          "isCorrect": false
         },
         {
-          "id": 2603,
+          "id": 20797,
           "letter": "D",
-          "text": "as duas soluções têm a mesma quantidade de ácido dissolvido.",
+          "text": "VV 2BB =II I",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1. Versão 1 – (B); Versão 2 – (C) ................................................................................................. 6 pontos",
+      "criteriaText": "2. Utilização de processos de resolução não previstos \nnos critérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextText": "GRUPO I\nEm cada local da Terra, a energia solar disponível depende, entre outros fatores, da estação do ano e das \ncondições meteorológicas."
     },
     {
-      "id": 1487,
+      "id": 10547,
+      "question_number": "2",
+      "statement": "2. Uma outra esfera é largada de uma altura de 50 m.\nConsidere que a esfera pode ser representada pelo seu centro de massa (modelo da partícula material) \ne considere o solo como nível de referência da energia potencial gravítica.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10552,
+      "question_number": "2",
+      "statement": "2. Considere um feixe muito fino de luz laser (radiação monocromática), que se propaga inicialmente \nnum vidro e que incide na superfície de separação vidro-ar.\nPara a luz laser considerada, o índice de refração desse vidro é 1,51.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10555,
+      "question_number": "2",
+      "statement": "2.\n Explique \ncomo se pode obter a densidade relativa do metal constituinte da amostra a partir das \ndeterminações efetuadas (mA, mB e mC).\nApresente, num texto estruturado e com linguagem científica adequada, a explicação solicitada. No texto, \ndeverá incluir a definição de densidade relativa de um metal.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO IV\nA densidade relativa de um metal foi determinada experimentalmente por picnometria de sólidos. \nO procedimento experimental incluiu as pesagens A, B e C, efetuadas a 20 ºC, que estão representadas na \nFigura 5. \nMassa da amostra do metal \n(mA = 39,076 g)\nMassa da amostra do metal \ne do picnómetro com água até \nao traço de referência (mB)\nMassa do picnómetro com a \namostra do metal e com água \naté ao traço de referência (mC)\nFigura 5\nFez-se a tara da balança, de modo a descontar a massa do vidro de relógio nas pesagens A e B."
+    },
+    {
+      "id": 10558,
       "question_number": "2",
       "statement": "2.\n Uma solução I de HCl ( aq ) tem uma concentração que é o dobro da concentração de uma solução II, do \nmesmo ácido.\nUma amostra da solução I e uma amostra da solução II, de igual volume, foram tituladas com \nNaOH (aq ), de concentrações, respetivamente, cB e 4 cB.\nConsidere que VB I e VB II são os volumes de titulante gastos, respetivamente, até ao ponto de equivalência \nda titulação da amostra da solução I e até ao ponto de equivalência da titulação da amostra da solução II.\nQual é a relação entre VB I e VB II?",
       "question_type": "multiple_choice",
@@ -89,43 +241,39 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2604,
-          "letter": "A",
-          "text": "VV 2B B =I II",
-          "isCorrect": false
-        },
-        {
-          "id": 2605,
-          "letter": "B",
-          "text": "V V 8B B =I II",
-          "isCorrect": true
-        },
-        {
-          "id": 2606,
-          "letter": "C",
-          "text": "VV 8BB =II I",
-          "isCorrect": true
-        },
-        {
-          "id": 2607,
-          "letter": "D",
-          "text": "VV 2BB =II I",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2. Versão 1 – (C); Versão 2 – (B) ................................................................................................. 6 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextTitle": "Figura 6",
+      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0\n1. Na Figura 6, apresenta-se parte de um gráfico das concentrações, c , das três espécies envolvidas na \nreação considerada, a volume constante, em função do tempo, t.\nO sistema, inicialmente em equilíbrio, sofre uma perturbação no instante t1, atingindo um novo estado de \nequilíbrio no instante t2.\nc\n \ntt1\n(1)\n(2)\n(3)\nt2\nFigura 6\n1.1. O gráfico permite concluir que, no instante t1,\n \n(A)\n se removeu uma certa quantidade de um dos componentes do sistema.\n \n(B)\n se introduziu uma certa quantidade de um dos componentes do sistema.\n \n(C)\n se provocou um aumento da temperatura do sistema.\n \n(D)\n se provocou uma diminuição da pressão do sistema.\n1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .\n \n(A)\n (2) ... direta\n \n(B)\n (2) ... inversa\n \n(C)\n (3) ... direta\n \n(D)\n (3) ... inversa\n\n2. Uma mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), em equilíbrio, está contida num recipiente fechado de volume \nvariável, a uma temperatura T.\n2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.\n2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.\n \n(A)\n aumentar ... aumentar\n \n(B)\n aumentar ... diminuir\n \n(C)\n diminuir ... aumentar\n \n(D)\n diminuir ... diminuir\n3.\n Considere \numa amostra de 10 cm3 de uma qualquer mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), nas condições \nnormais de pressão e de temperatura (PTN).\nO número total de moléculas na amostra é\n \n(A)\n ,27 10 23#\n (B) ,27 10 20#\n (C) ,13 10 27#\n (D) ,13 10 24#\n\nGRUPO VI\nO ácido clorídrico, HCl ( aq ), é um ácido forte e o ácido acético, CH3COOH ( aq ), é um ácido fraco."
     },
     {
-      "id": 1503,
+      "id": 10556,
+      "question_number": "3",
+      "statement": "3.\n O valor \nda densidade relativa do metal constituinte da amostra, obtido experimentalmente, foi 12,4. O valor \ntabelado da densidade relativa desse metal é 11,3 (a 20 ºC).\nQual das expressões seguintes permite calcular o erro percentual (erro relativo, em percentagem) que \nafeta o valor experimental da densidade relativa do metal constituinte da amostra?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.\nSe a instrução se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO IV\nA densidade relativa de um metal foi determinada experimentalmente por picnometria de sólidos. \nO procedimento experimental incluiu as pesagens A, B e C, efetuadas a 20 ºC, que estão representadas na \nFigura 5. \nMassa da amostra do metal \n(mA = 39,076 g)\nMassa da amostra do metal \ne do picnómetro com água até \nao traço de referência (mB)\nMassa do picnómetro com a \namostra do metal e com água \naté ao traço de referência (mC)\nFigura 5\nFez-se a tara da balança, de modo a descontar a massa do vidro de relógio nas pesagens A e B."
+    },
+    {
+      "id": 10559,
       "question_number": "3",
       "statement": "3. O vinagre é uma solução aquosa de ácido acético que contém também vestígios de outros componentes.\nO grau de acidez de um vinagre pode ser expresso pela massa de ácido acético, em gramas, dissolvido \nem 100 cm3 do vinagre.",
       "question_type": "open",
@@ -136,17 +284,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. Versão 1 – (B); Versão 2 – (D) ................................................................................................. 6 pontos\n\nGRUPO VI",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextTitle": "Figura 6",
+      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0\n1. Na Figura 6, apresenta-se parte de um gráfico das concentrações, c , das três espécies envolvidas na \nreação considerada, a volume constante, em função do tempo, t.\nO sistema, inicialmente em equilíbrio, sofre uma perturbação no instante t1, atingindo um novo estado de \nequilíbrio no instante t2.\nc\n \ntt1\n(1)\n(2)\n(3)\nt2\nFigura 6\n1.1. O gráfico permite concluir que, no instante t1,\n \n(A)\n se removeu uma certa quantidade de um dos componentes do sistema.\n \n(B)\n se introduziu uma certa quantidade de um dos componentes do sistema.\n \n(C)\n se provocou um aumento da temperatura do sistema.\n \n(D)\n se provocou uma diminuição da pressão do sistema.\n1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .\n \n(A)\n (2) ... direta\n \n(B)\n (2) ... inversa\n \n(C)\n (3) ... direta\n \n(D)\n (3) ... inversa\n\n2. Uma mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), em equilíbrio, está contida num recipiente fechado de volume \nvariável, a uma temperatura T.\n2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.\n2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.\n \n(A)\n aumentar ... aumentar\n \n(B)\n aumentar ... diminuir\n \n(C)\n diminuir ... aumentar\n \n(D)\n diminuir ... diminuir\n3.\n Considere \numa amostra de 10 cm3 de uma qualquer mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), nas condições \nnormais de pressão e de temperatura (PTN).\nO número total de moléculas na amostra é\n \n(A)\n ,27 10 23#\n (B) ,27 10 20#\n (C) ,13 10 27#\n (D) ,13 10 24#\n\nGRUPO VI\nO ácido clorídrico, HCl ( aq ), é um ácido forte e o ácido acético, CH3COOH ( aq ), é um ácido fraco."
     },
     {
-      "id": 1516,
+      "id": 10562,
       "question_number": "4",
       "statement": "4.\n A\n molécula de CH3COOH pode ser representada através da notação de Lewis por\nH — C — C —\n——O\n• •\n• •\nO\n• •\n• • — H\nH\nH— — \nQuantos eletrões de valência ligantes existem, no total, na molécula?",
       "question_type": "multiple_choice",
@@ -158,43 +306,43 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2612,
+          "id": 20802,
           "letter": "A",
           "text": "16",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 2613,
+          "id": 20803,
           "letter": "B",
           "text": "8",
           "isCorrect": false
         },
         {
-          "id": 2614,
+          "id": 20804,
           "letter": "C",
           "text": "24",
           "isCorrect": false
         },
         {
-          "id": 2615,
+          "id": 20805,
           "letter": "D",
           "text": "12",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
-      "criteriaText": "4. Versão 1 – (A); Versão 2 – (D) ................................................................................................. 6 pontos",
+      "criteriaText": "4. Utilização de valores numéricos de outras grandezas \nque não apenas as referidas na prova (no enunciado \ndos itens, na tabela de constantes e na tabela \nperiódica).\nAs etapas em que os valores dessas grandezas forem \nutilizados são pontuadas com zero pontos.\n\nSituação Classificação",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextTitle": "Figura 6",
+      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0\n1. Na Figura 6, apresenta-se parte de um gráfico das concentrações, c , das três espécies envolvidas na \nreação considerada, a volume constante, em função do tempo, t.\nO sistema, inicialmente em equilíbrio, sofre uma perturbação no instante t1, atingindo um novo estado de \nequilíbrio no instante t2.\nc\n \ntt1\n(1)\n(2)\n(3)\nt2\nFigura 6\n1.1. O gráfico permite concluir que, no instante t1,\n \n(A)\n se removeu uma certa quantidade de um dos componentes do sistema.\n \n(B)\n se introduziu uma certa quantidade de um dos componentes do sistema.\n \n(C)\n se provocou um aumento da temperatura do sistema.\n \n(D)\n se provocou uma diminuição da pressão do sistema.\n1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .\n \n(A)\n (2) ... direta\n \n(B)\n (2) ... inversa\n \n(C)\n (3) ... direta\n \n(D)\n (3) ... inversa\n\n2. Uma mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), em equilíbrio, está contida num recipiente fechado de volume \nvariável, a uma temperatura T.\n2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.\n2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.\n \n(A)\n aumentar ... aumentar\n \n(B)\n aumentar ... diminuir\n \n(C)\n diminuir ... aumentar\n \n(D)\n diminuir ... diminuir\n3.\n Considere \numa amostra de 10 cm3 de uma qualquer mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), nas condições \nnormais de pressão e de temperatura (PTN).\nO número total de moléculas na amostra é\n \n(A)\n ,27 10 23#\n (B) ,27 10 20#\n (C) ,13 10 27#\n (D) ,13 10 24#\n\nGRUPO VI\nO ácido clorídrico, HCl ( aq ), é um ácido forte e o ácido acético, CH3COOH ( aq ), é um ácido fraco."
     },
     {
-      "id": 1517,
+      "id": 10563,
       "question_number": "5",
-      "statement": "5. O acetato de prata é um sal que pode ser sintetizado através da reação de ácido acético puro com uma \nsolução aquosa de nitrato de prata.\nNa tabela seguinte, estão registados os valores da solubilidade do acetato de prata, em gramas de sal por \n100 g de água, a diferentes temperaturas.\nTemperatura / oC Solubilidade / g por 100 g de água\n0 0,73\n10 0,89\n20 1,05\n30 1,23\n40 1,43\nDissolveram-se 12,0 g de acetato de prata em 1,0 kg de água, a 40 oC. Esta solução foi depois aquecida \naté se evaporar metade do solvente (admita que o acetato de prata não é volátil) e, em seguida, a solução \nfoi arrefecida até à temperatura de 20 oC.\nCalcule a massa de sal que terá precipitado.\nApresente todas as etapas de resolução.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1.1. 1.2. 2.1. 2.2.\n6 6 6 10 28\nII 1.1. 1.2. 1.3. 2.1. 2.2.1. 2.2.2.\n6 10 6 6 6 10 44\nIII 1.1. 1.2. 2.1. 2.2.\n6 10 6 6 28\nIV 1. 2. 3.\n6 10 6 22\nV 1.1. 1.2. 2.1. 2.2. 3.\n6 6 10 6 6 34\nVI 1. 2. 3.1. 3.2. 4. 5.\n6 6 10 6 6 10 44\nTOTAL 200",
+      "statement": "5. O acetato de prata é um sal que pode ser sintetizado através da reação de ácido acético puro com uma \nsolução aquosa de nitrato de prata.\nNa tabela seguinte, estão registados os valores da solubilidade do acetato de prata, em gramas de sal por \n100 g de água, a diferentes temperaturas.\nTemperatura / oC Solubilidade / g por 100 g de água\n0 0,73\n10 0,89\n20 1,05\n30 1,23\n40 1,43\nDissolveram-se 12,0 g de acetato de prata em 1,0 kg de água, a 40 oC. Esta solução foi depois aquecida \naté se evaporar metade do solvente (admita que o acetato de prata não é volátil) e, em seguida, a solução \nfoi arrefecida até à temperatura de 20 oC.\nCalcule a massa de sal que terá precipitado.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
@@ -203,20 +351,20 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5. .................................................................................................................................................... 10 pontos\nEtapas de resolução:\n• Cálculo da massa de acetato de prata dissolvido na solução saturada a 20 oC\n(m = 5,25 g) ......................................................................................................... 6 pontos\n• Cálculo da massa de sal que terá precipitado (m = 6,8 g) ................................... 4 pontos\nOU\n• Cálculo da massa de acetato de prata que terá precipitado por cada 100 g\nda solução obtida por evaporação (m = 1,35 g) .................................................. 6 pontos\n• Cálculo da massa de sal que terá precipitado (m = 6,8 g) ................................... 4 pontos\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1.1. 1.2. 2.1. 2.2.",
+      "criteriaText": "5. Utilização de valores numéricos diferentes dos forne-\ncidos no enunciado dos itens.\nAs etapas em que esses valores forem utilizados são \npontuadas com zero pontos, salvo se esses valores \nresultarem de erros de transcrição identificáveis, caso em \nque serão considerados erros de tipo 1.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextTitle": "Figura 6",
+      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0\n1. Na Figura 6, apresenta-se parte de um gráfico das concentrações, c , das três espécies envolvidas na \nreação considerada, a volume constante, em função do tempo, t.\nO sistema, inicialmente em equilíbrio, sofre uma perturbação no instante t1, atingindo um novo estado de \nequilíbrio no instante t2.\nc\n \ntt1\n(1)\n(2)\n(3)\nt2\nFigura 6\n1.1. O gráfico permite concluir que, no instante t1,\n \n(A)\n se removeu uma certa quantidade de um dos componentes do sistema.\n \n(B)\n se introduziu uma certa quantidade de um dos componentes do sistema.\n \n(C)\n se provocou um aumento da temperatura do sistema.\n \n(D)\n se provocou uma diminuição da pressão do sistema.\n1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .\n \n(A)\n (2) ... direta\n \n(B)\n (2) ... inversa\n \n(C)\n (3) ... direta\n \n(D)\n (3) ... inversa\n\n2. Uma mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), em equilíbrio, está contida num recipiente fechado de volume \nvariável, a uma temperatura T.\n2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.\n2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.\n \n(A)\n aumentar ... aumentar\n \n(B)\n aumentar ... diminuir\n \n(C)\n diminuir ... aumentar\n \n(D)\n diminuir ... diminuir\n3.\n Considere \numa amostra de 10 cm3 de uma qualquer mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), nas condições \nnormais de pressão e de temperatura (PTN).\nO número total de moléculas na amostra é\n \n(A)\n ,27 10 23#\n (B) ,27 10 20#\n (C) ,13 10 27#\n (D) ,13 10 24#\n\nGRUPO VI\nO ácido clorídrico, HCl ( aq ), é um ácido forte e o ácido acético, CH3COOH ( aq ), é um ácido fraco."
     },
     {
-      "id": 1485,
+      "id": 10538,
       "question_number": "1.1",
-      "statement": "1.1. O gráfico permite concluir que, no instante t1,",
-      "question_type": "multiple_choice",
+      "statement": "1.1.\n Considere \nque existe uma diferença \nsignificativa entre a temperatura da água que \nse encontra na parte inferior do depósito e \na temperatura da água que se encontra na \nparte superior.\nCompare a massa volúmica da água que se \nencontra na parte inferior do depósito com a \nmassa volúmica da água que se encontra na \nparte superior.",
+      "question_type": "open",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -225,43 +373,85 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2584,
+          "id": 20774,
           "letter": "A",
-          "text": "se removeu uma certa quantidade de um dos componentes do sistema.",
-          "isCorrect": true
-        },
-        {
-          "id": 2585,
-          "letter": "B",
-          "text": "se introduziu uma certa quantidade de um dos componentes do sistema.",
-          "isCorrect": true
-        },
-        {
-          "id": 2586,
-          "letter": "C",
-          "text": "se provocou um aumento da temperatura do sistema.",
+          "text": "",
           "isCorrect": false
         },
         {
-          "id": 2587,
+          "id": 20775,
+          "letter": "B",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20776,
+          "letter": "C",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20777,
           "letter": "D",
-          "text": "se provocou uma diminuição da pressão do sistema.",
+          "text": "",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1.1. Versão 1 – (B); Versão 2 – (A) .............................................................................................. 6 pontos",
+      "criteriaText": "1.1. ................................................................................................................................................. 6 pontos\nA massa volúmica da água na parte inferior do depósito é maior do que a massa volúmica \nda água na parte superior.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextText": "GRUPO I\nEm cada local da Terra, a energia solar disponível depende, entre outros fatores, da estação do ano e das \ncondições meteorológicas."
     },
     {
-      "id": 1486,
+      "id": 10544,
+      "question_number": "1.1",
+      "statement": "1.1.\n Qual das \nopções pode representar a velocidade, v, e a aceleração, a, da esfera, num dado instante, \ndurante a queda?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10550,
+      "question_number": "1.1",
+      "statement": "1.1.\n Na Figura 3, \nestá representada, num certo instante, uma determinada região do espaço em que \nse propaga, da esquerda para a direita, um sinal sonoro de período T . As zonas mais escuras \ncorrespondem a zonas de compressão do ar, e as zonas mais claras correspondem a zonas de \nrarefação.\n Na \nfigura, encontra-se ainda representada, pela linha a tracejado, P, uma certa camada de ar naquela \nregião do espaço. \nP\n \nFigura 3\nQual das figuras seguintes pode representar, um período e meio depois, a mesma região do espaço \ne a mesma camada de ar? \nP P\nPP",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10539,
       "question_number": "1.2",
-      "statement": "1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .",
+      "statement": "1.2.\n A\n cobertura de vidro do coletor solar é ___________ à radiação visível incidente e ___________ à maior \nparte da radiação infravermelha emitida no interior do coletor, o que contribui para o aumento da \ntemperatura no interior do coletor.",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -269,43 +459,60 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2588,
-          "letter": "A",
-          "text": "(2) ... direta",
-          "isCorrect": false
-        },
-        {
-          "id": 2589,
-          "letter": "B",
-          "text": "(2) ... inversa",
-          "isCorrect": false
-        },
-        {
-          "id": 2590,
-          "letter": "C",
-          "text": "(3) ... direta",
-          "isCorrect": true
-        },
-        {
-          "id": 2591,
-          "letter": "D",
-          "text": "(3) ... inversa",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "1.2. Versão 1 – (D); Versão 2 – (C) .............................................................................................. 6 pontos",
+      "choices": null,
+      "criteriaText": "1.2. Versão 1 – (A); Versão 2 – (C) .............................................................................................. 6 pontos",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextText": "GRUPO I\nEm cada local da Terra, a energia solar disponível depende, entre outros fatores, da estação do ano e das \ncondições meteorológicas."
     },
     {
-      "id": 1493,
+      "id": 10545,
+      "question_number": "1.2",
+      "statement": "1.2. Conclua se a variação de energia cinética da esfera entre a posição em que é largada e o solo \né maior, menor ou igual ao trabalho realizado pela força gravítica que nela atua, nesse deslocamento.\nApresente, num texto estruturado e com linguagem científica adequada, a fundamentação da \nconclusão solicitada.\nv\n0 t\nFigura 2",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10551,
+      "question_number": "1.2",
+      "statement": "1.2. Um sinal sonoro foi convertido num sinal elétrico e analisado num osciloscópio, cuja base de tempo \nestava regulada para 0,5 ms por divisão.\nNa Figura 4, está representada a imagem obtida no ecrã do osciloscópio.\n1 divisão\n1 divisão\n1 div\n1 div\nFigura 4\nVerificou-se experimentalmente que, em determinadas condições, um pulso do mesmo som demorava \n,s57 81 0 2# - a percorrer uma distância de 20,0 m no ar. \nDetermine o comprimento de onda do som no ar, naquelas condições.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10546,
       "question_number": "1.3",
       "statement": "1.3. Considere o solo como nível de referência da energia potencial gravítica.\nQual \ndas opções pode representar um esboço dos gráficos da energia cinética, Ec , da esfera e da \nenergia potencial gravítica, Epg , do sistema esfera + Terra, em função da altura, h, a que a esfera se \nencontra do solo?\n0 h\nEpg\nE\nE\nE\nE\nEc\nEc\n0 h\nEc\nEpg\n0 h\nEpg\nEc\n0 h\nEpg",
       "question_type": "multiple_choice",
@@ -317,25 +524,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2560,
+          "id": 20766,
           "letter": "A",
           "text": "",
           "isCorrect": true
         },
         {
-          "id": 2561,
+          "id": 20767,
           "letter": "B",
           "text": "",
           "isCorrect": true
         },
         {
-          "id": 2562,
+          "id": 20768,
           "letter": "C",
           "text": "",
           "isCorrect": false
         },
         {
-          "id": 2563,
+          "id": 20769,
           "letter": "D",
           "text": "",
           "isCorrect": false
@@ -351,30 +558,9 @@
       "contextText": null
     },
     {
-      "id": 1488,
+      "id": 10541,
       "question_number": "2.1",
-      "statement": "2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.",
-      "question_type": "calculation",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2.1. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\n• Cálculo da quantidade de SO2 ( g ) introduzida no recipiente (n = 2,500 mol) ... 2 pontos\n• Cálculo da quantidade de SO3 ( g ) presente no equilíbrio (n = 1,818 mol) ...... 2 pontos\n• Identificação da quantidade de SO2 ( g ) que se converteu em SO3 ( g ) com\na quantidade de SO3 ( g ) presente no equilíbrio ............................................... 2 pontos\n• Cálculo da percentagem de SO2 ( g ) que não se converteu em SO3 ( g )\n(27,3%) ............................................................................................................ 4 pontos\nOU\n• Cálculo da quantidade de SO3 ( g ) presente no equilíbrio (n = 1,818 mol) ...... 2 pontos\n • Cálculo da massa de SO2 ( g ) que se converteu em SO3 ( g ) (m = 116,5 g) ..... 4 pontos\n• Cálculo da percentagem de SO2 ( g ) que não se converteu em SO3 ( g )\n(27,3%) ............................................................................................................ 4 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
-    },
-    {
-      "id": 1489,
-      "question_number": "2.2",
-      "statement": "2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.",
+      "statement": "2.1.\n A\n grandeza potência por unidade de área pode também ser expressa em",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -384,41 +570,171 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2592,
+          "id": 20778,
           "letter": "A",
-          "text": "aumentar ... aumentar",
+          "text": "comprimento de onda ... frequência",
           "isCorrect": true
         },
         {
-          "id": 2593,
+          "id": 20779,
           "letter": "B",
-          "text": "aumentar ... diminuir",
-          "isCorrect": false
-        },
-        {
-          "id": 2594,
-          "letter": "C",
-          "text": "diminuir ... aumentar",
-          "isCorrect": false
-        },
-        {
-          "id": 2595,
-          "letter": "D",
-          "text": "diminuir ... diminuir",
+          "text": "comprimento de onda ... velocidade de propagação",
           "isCorrect": true
+        },
+        {
+          "id": 20780,
+          "letter": "C",
+          "text": "período ... frequência",
+          "isCorrect": false
+        },
+        {
+          "id": 20781,
+          "letter": "D",
+          "text": "período ... velocidade de propagação",
+          "isCorrect": false
         }
       ],
-      "criteriaText": "2.2. Versão 1 – (D); Versão 2 – (A) .............................................................................................. 6 pontos",
+      "criteriaText": "2.1. Versão 1 – (B); Versão 2 – (A) .............................................................................................. 6 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextText": "GRUPO I\nEm cada local da Terra, a energia solar disponível depende, entre outros fatores, da estação do ano e das \ncondições meteorológicas."
     },
     {
-      "id": 1514,
+      "id": 10548,
+      "question_number": "2.1",
+      "statement": "2.1.\n Se a força de resistência \ndo ar que atua na esfera durante a queda for desprezável, qual é, em cada \nsegundo, o aumento do módulo da velocidade da esfera?",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10553,
+      "question_number": "2.1",
+      "statement": "2.1.\n Quando \no feixe de luz laser passa do vidro para o ar, mantêm-se constantes o ___________ e \na ___________ da radiação.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10542,
+      "question_number": "2.2",
+      "statement": "2.2. A temperatura da água contida no depósito aumenta, em média, 35 oC, ao fim das 8,0 h diárias \nde exposição do coletor à radiação solar.\nDetermine o rendimento médio do processo de aquecimento considerado.\nApresente todas as etapas de resolução.\nentrada\nde água\nfluido que circula\nno circuito fechado\nsaída\nde água\nágua\ndepósito\ncoletor solar\nFigura 1",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20782,
+          "letter": "A",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20783,
+          "letter": "B",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20784,
+          "letter": "C",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 20785,
+          "letter": "D",
+          "text": "vidro ar",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2.2. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\n• Cálculo da potência média da radiação solar incidente no coletor\n( ,WP 20 41 03#= ) .......................................................................................... 2 pontos\n• Cálculo da energia da radiação solar que, em média, incide no coletor em\n8,0 h diárias de exposição solar ( ,JE 58 81 0 7#= ) ........................................ 2 pontos\n• Cálculo da energia que, em média, é absorvida pela água em 8,0 h diárias\nde exposição solar ( ,JE 17 61 0 7#= ) ................................................................ 3 pontos\n• Cálculo do rendimento médio do processo de aquecimento considerado\n(h = 30%) ........................................................................................................... 3 pontos\nOU\n• Cálculo da potência média da radiação solar incidente no coletor\n( ,WP 20 41 03#= ) .......................................................................................... 2 pontos\n• Cálculo da energia que, em média, é absorvida pela água em 8,0 h diárias\nde exposição solar ( ,JE 17 61 0 7#= ) ................................................................ 3 pontos\n• Cálculo da potência média absorvida pela água ( ,WP 61 11 02#= ) ............... 2 pontos\n• Cálculo do rendimento médio do processo de aquecimento considerado\n(h = 30%) ........................................................................................................... 3 pontos\n\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nEm cada local da Terra, a energia solar disponível depende, entre outros fatores, da estação do ano e das \ncondições meteorológicas."
+    },
+    {
+      "id": 10549,
+      "question_number": "2.2",
+      "statement": "2.2.\n A\n força de resistência do ar que atua na esfera durante a queda não é, contudo, desprezável.\n2.2.1.\n Se a esfera chegar ao \nsolo com velocidade de módulo ms26 1- , a fração de energia dissipada \nna queda será",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10554,
+      "question_number": "2.2",
+      "statement": "2.2.\n Nos esquemas seguintes, está \nrepresentado o trajeto do feixe que incide na superfície de separação \nvidro-ar, segundo um ângulo de incidência de amplitude 30o.\nEm qual dos esquemas estão representados os trajetos dos feixes refletido e refratado na superfície \nde separação vidro-ar?\n41º\n30º\nvidro\nar\n41º\nvidro\nar\nvidro\nar49º 49º\n30º60º\n60º",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10560,
       "question_number": "3.1",
       "statement": "3.1.\n A\n concentração de ácido acético num determinado vinagre comercial é ,m ol dm13 3- .\nDetermine o grau de acidez desse vinagre comercial.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
@@ -435,11 +751,11 @@
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextTitle": "Figura 6",
+      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0\n1. Na Figura 6, apresenta-se parte de um gráfico das concentrações, c , das três espécies envolvidas na \nreação considerada, a volume constante, em função do tempo, t.\nO sistema, inicialmente em equilíbrio, sofre uma perturbação no instante t1, atingindo um novo estado de \nequilíbrio no instante t2.\nc\n \ntt1\n(1)\n(2)\n(3)\nt2\nFigura 6\n1.1. O gráfico permite concluir que, no instante t1,\n \n(A)\n se removeu uma certa quantidade de um dos componentes do sistema.\n \n(B)\n se introduziu uma certa quantidade de um dos componentes do sistema.\n \n(C)\n se provocou um aumento da temperatura do sistema.\n \n(D)\n se provocou uma diminuição da pressão do sistema.\n1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .\n \n(A)\n (2) ... direta\n \n(B)\n (2) ... inversa\n \n(C)\n (3) ... direta\n \n(D)\n (3) ... inversa\n\n2. Uma mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), em equilíbrio, está contida num recipiente fechado de volume \nvariável, a uma temperatura T.\n2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.\n2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.\n \n(A)\n aumentar ... aumentar\n \n(B)\n aumentar ... diminuir\n \n(C)\n diminuir ... aumentar\n \n(D)\n diminuir ... diminuir\n3.\n Considere \numa amostra de 10 cm3 de uma qualquer mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), nas condições \nnormais de pressão e de temperatura (PTN).\nO número total de moléculas na amostra é\n \n(A)\n ,27 10 23#\n (B) ,27 10 20#\n (C) ,13 10 27#\n (D) ,13 10 24#\n\nGRUPO VI\nO ácido clorídrico, HCl ( aq ), é um ácido forte e o ácido acético, CH3COOH ( aq ), é um ácido fraco."
     },
     {
-      "id": 1515,
+      "id": 10561,
       "question_number": "3.2",
       "statement": "3.2. Para determinar a percentagem, em massa, de ácido acético num vinagre, a partir do grau de acidez \ndesse vinagre, tem ainda de ser conhecida",
       "question_type": "multiple_choice",
@@ -451,25 +767,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2608,
+          "id": 20798,
           "letter": "A",
           "text": "a massa volúmica do vinagre.",
           "isCorrect": true
         },
         {
-          "id": 2609,
+          "id": 20799,
           "letter": "B",
           "text": "a massa molar da água.",
           "isCorrect": true
         },
         {
-          "id": 2610,
+          "id": 20800,
           "letter": "C",
           "text": "a massa molar do ácido acético.",
           "isCorrect": false
         },
         {
-          "id": 2611,
+          "id": 20801,
           "letter": "D",
           "text": "a massa de ácido acético em 100 cm3 do vinagre.",
           "isCorrect": false
@@ -481,8 +797,8 @@
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0"
+      "contextTitle": "Figura 6",
+      "contextText": "GRUPO V\nA formação de SO3 ( g ), um dos reagentes utilizados na última etapa da preparação industrial do ácido sulfúrico, \npode ser traduzida por\n2 SO2 ( g ) + O2 ( g ) ? 2 SO3 ( g ) ∆H < 0\n1. Na Figura 6, apresenta-se parte de um gráfico das concentrações, c , das três espécies envolvidas na \nreação considerada, a volume constante, em função do tempo, t.\nO sistema, inicialmente em equilíbrio, sofre uma perturbação no instante t1, atingindo um novo estado de \nequilíbrio no instante t2.\nc\n \ntt1\n(1)\n(2)\n(3)\nt2\nFigura 6\n1.1. O gráfico permite concluir que, no instante t1,\n \n(A)\n se removeu uma certa quantidade de um dos componentes do sistema.\n \n(B)\n se introduziu uma certa quantidade de um dos componentes do sistema.\n \n(C)\n se provocou um aumento da temperatura do sistema.\n \n(D)\n se provocou uma diminuição da pressão do sistema.\n1.2.\n O \ngráfico permite concluir que a curva ___________ corresponde ao SO2 ( g ) e que, no intervalo de \ntempo [t1, t2 ], é favorecida a reação ___________ .\n \n(A)\n (2) ... direta\n \n(B)\n (2) ... inversa\n \n(C)\n (3) ... direta\n \n(D)\n (3) ... inversa\n\n2. Uma mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), em equilíbrio, está contida num recipiente fechado de volume \nvariável, a uma temperatura T.\n2.1.\n Introduziram-se \ninicialmente nesse recipiente 160,15 g de SO2 ( g ) (M = 64,06 g mol-1) e uma certa \nmassa de O2 ( g ). Verificou-se que, mantendo o volume do recipiente igual a 2,00 dm3, a concentração \nde SO3 ( g ), na mistura em equilíbrio, era ,m ldm0 909 3q - . \nDetermine a percentagem de SO2 ( g ) que não se converteu em SO3 ( g ).\nApresente todas as etapas de resolução.\n2.2.\n Para \nalterar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), pode-se variar a temperatura do \nsistema, a pressão constante, ou variar o volume do recipiente, a temperatura constante.\nPara aumentar a percentagem de conversão de SO2 ( g ) em SO3 ( g ), dever-se-á, naquelas condições, \n___________ a temperatura do sistema ou ___________ o volume do recipiente.\n \n(A)\n aumentar ... aumentar\n \n(B)\n aumentar ... diminuir\n \n(C)\n diminuir ... aumentar\n \n(D)\n diminuir ... diminuir\n3.\n Considere \numa amostra de 10 cm3 de uma qualquer mistura de SO2 ( g ), O2 ( g ) e SO3 ( g ), nas condições \nnormais de pressão e de temperatura (PTN).\nO número total de moléculas na amostra é\n \n(A)\n ,27 10 23#\n (B) ,27 10 20#\n (C) ,13 10 27#\n (D) ,13 10 24#\n\nGRUPO VI\nO ácido clorídrico, HCl ( aq ), é um ácido forte e o ácido acético, CH3COOH ( aq ), é um ácido fraco."
     }
   ]
 }

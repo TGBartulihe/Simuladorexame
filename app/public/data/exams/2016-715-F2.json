@@ -4,36 +4,121 @@
   "subject": "Física e Química A",
   "year": 2016,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 258,
+      "id": 1518,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 259,
+      "id": 1519,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 260,
+      "id": 1520,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 261,
+      "id": 1521,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 262,
+      "id": 1522,
       "name": "GRUPO V",
       "order": 4
     }
   ],
   "questions": [
     {
-      "id": 1881,
+      "id": 10896,
+      "question_number": "1",
+      "statement": "1. Para «medir com rigor um determinado volume da solução mais concentrada» (terceira e quarta linhas do \ntexto), utiliza-se",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. Apresentação apenas do resultado final, não incluindo \nos cálculos efetuados nem as justificações ou \nconclusões solicitadas.\nA resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nUm dos procedimentos mais comuns em laboratório é a preparação de soluções aquosas por diluição de \nsoluções mais concentradas, de concentração conhecida, habitualmente designadas por soluções-mãe. \nNa preparação rigorosa de uma solução por diluição, é necessário medir com rigor um determinado volume \nda solução mais concentrada, transferir esse volume de solução para um balão volumétrico (de capacidade \nigual ao volume de solução pretendido) e completar o volume de solução pretendido com água até ao traço \nde referência do balão. Durante a preparação da solução, esta deve ser agitada.\nEm laboratório, é também possível determinar a densidade (massa volúmica) de soluções utilizando \ndiferentes métodos, um dos quais é a picnometria de líquidos. Este método baseia-se na determinação \nda massa de solução contida num picnómetro cuja capacidade foi previamente calibrada, a uma mesma \ntemperatura."
+    },
+    {
+      "id": 10900,
+      "question_number": "1",
+      "statement": "1. A solubilidade do cloreto de potássio, KCl, em água, é 35,54 g de sal por 100 g de água, a 25 °C.\nConsidere uma solução saturada de KCl constituída apenas por este sal e por água.\nDetermine a quantidade de KCl dissolvida em 250 g dessa solução, a 25 °C.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10903,
+      "question_number": "1",
+      "statement": "1. A Figura 1 representa um gráfico teórico da temperatura, T, dessa amostra em função do tempo, t. \nNo traçado do gráfico, admitiu-se um rendimento de 100% para o processo de transferência de energia \nconsiderado.\nT / K\nt / s360\n980\n1044\n273 310\nFigura 1",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
+    },
+    {
+      "id": 10911,
+      "question_number": "1",
+      "statement": "1. A energia de ionização do lítio é 519 kJ mol-1.\nTranscreva e complete o esquema seguinte de modo a obter uma equação química que traduza a ionização \nde 1 mol de átomos de lítio, no estado fundamental, isolados e em fase gasosa, quando lhes é fornecida \numa energia de 519 kJ.\nLi(g) → _____ + _____",
+      "question_type": "completion",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10916,
       "question_number": "1",
       "statement": "1. O comprimento de onda, no vácuo, da radiação utilizada na experiência é ,m65 10 7# - .\nQual é a frequência, em hertz (Hz), dessa radiação eletromagnética?\nApresente o resultado com dois algarismos significativos.",
       "question_type": "open",
@@ -44,19 +129,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ................................................................................................................................................... 5 pontos\n,× Hz46 1014 5 ?\nNota – A apresentação do resultado « ,H z45 1014# 5 ?» não implica qualquer desvalorização.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": null
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\n1. Uma bola de ténis, de massa m, cai verticalmente, depois de abandonada a 1,70 m do solo. A bola colide \ncom o solo e ressalta, atingindo num primeiro ressalto a altura máxima de 0,94 m.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\n1.1. Qual das expressões seguintes permite calcular o trabalho realizado pela força gravítica que atua \nna bola, no deslocamento entre a posição em que a bola é abandonada e a posição em que, após o \nprimeiro ressalto, a bola atinge a altura máxima?\n (A) ,,10 09 41 70m #-- ^h\n (B) ,,m10 09 41 70# -^h\n (C) ,,m10 09 41 70#−+ ^h\n (D) ,,m10 09 41 70# +^h\n1.2. Se a percentagem de energia dissipada for a mesma em todas as colisões com o solo, é de prever \nque, num segundo ressalto, a bola atinja uma altura máxima de\n (A) 0,18 m\n (B) 0,42 m\n (C) 0,52 m\n (D) 0,55 m\n1.3. Durante a colisão da bola com o solo, a força exercida pela bola sobre o solo e a força exercida pelo \nsolo sobre a bola têm, em cada instante,\n (A) o mesmo sentido e intensidades diferentes.\n (B) sentidos opostos e intensidades diferentes.\n (C) o mesmo sentido e a mesma intensidade.\n (D) sentidos opostos e a mesma intensidade.\n\n2. A Figura 2 (que não se encontra à escala) representa uma bola de ténis que passa sobre a rede de um \ncampo de ténis com velocidade horizontal, v→, descrevendo uma trajetória parabólica até embater no solo.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\nTenha em conta o referencial bidimensional representado na Figura 2.\n \n1,35 m\n9,0 m\nsolo\nO\nrede\n→v\ny\nx\nFigura 2\n2.1. Qual é o esboço do gráfico que pode representar a componente escalar x da posição da bola, em \nfunção do tempo, t, desde o instante em que a bola passa sobre a rede até ao instante em que \nembate no solo?\n(A) (B)\n(C) (D)\nx\nt0\nx\nt0\nx\nt0\nx\nt0\n\n2.2. Em qual dos esquemas seguintes o vetor F\n®\n pode representar a resultante das forças que atuam na \nbola, na posição assinalada?\n(A)\n(C)\n(B)\n(D)\n2.3. A bola passa sobre a rede a 1,35 m do solo e embate no solo a 9,0 m da rede, como representado \nna Figura 2. \nCalcule o módulo da velocidade com que a bola atinge o solo.\nApresente todas as etapas de resolução.\n\nGRUPO VI\nUm feixe de radiação monocromática propaga-se no ar e incide numa face de um paralelepípedo de vidro.\nUma parte do feixe é refletida na face do paralelepípedo, enquanto outra parte passa a propagar-se no vidro, \nsendo o ângulo de refração menor do que o ângulo de incidência."
     },
     {
-      "id": 1882,
+      "id": 10897,
       "question_number": "2",
-      "statement": "2. Quando a radiação passa do ar para o vidro, a sua velocidade de propagação _____________ e o seu \ncomprimento de onda _____________ .",
+      "statement": "2. Se pretendesse preparar 250,0 cm3 de uma solução cinco vezes mais diluída do que a solução-mãe, que \nvolume da solução-mãe teria de medir?",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -66,41 +151,125 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3490,
+          "id": 21608,
           "letter": "A",
           "text": "diminui ... diminui",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 3491,
+          "id": 21609,
           "letter": "B",
           "text": "diminui ... aumenta",
           "isCorrect": false
         },
         {
-          "id": 3492,
+          "id": 21610,
           "letter": "C",
           "text": "aumenta ... aumenta",
           "isCorrect": false
         },
         {
-          "id": 3493,
+          "id": 21611,
           "letter": "D",
           "text": "aumenta ... diminui",
-          "isCorrect": true
+          "isCorrect": false
         }
       ],
-      "criteriaText": "2. Versão 1 – (A); Versão 2 – (D) .................................................................................................. 5 pontos",
+      "criteriaText": "2. Utilização de processos de resolução não previstos \nnos critérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nUm dos procedimentos mais comuns em laboratório é a preparação de soluções aquosas por diluição de \nsoluções mais concentradas, de concentração conhecida, habitualmente designadas por soluções-mãe. \nNa preparação rigorosa de uma solução por diluição, é necessário medir com rigor um determinado volume \nda solução mais concentrada, transferir esse volume de solução para um balão volumétrico (de capacidade \nigual ao volume de solução pretendido) e completar o volume de solução pretendido com água até ao traço \nde referência do balão. Durante a preparação da solução, esta deve ser agitada.\nEm laboratório, é também possível determinar a densidade (massa volúmica) de soluções utilizando \ndiferentes métodos, um dos quais é a picnometria de líquidos. Este método baseia-se na determinação \nda massa de solução contida num picnómetro cuja capacidade foi previamente calibrada, a uma mesma \ntemperatura."
+    },
+    {
+      "id": 10901,
+      "question_number": "2",
+      "statement": "2. A variação de entalpia (DH ) associada ao processo de dissolução do KCl em água é positiva.\nPreveja, com base no princípio de Le Châtelier, como variará a solubilidade deste sal em água à medida \nque a temperatura aumenta. Justifique a resposta.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
       "contextTitle": null,
       "contextText": null
     },
     {
-      "id": 1883,
+      "id": 10917,
+      "question_number": "2",
+      "statement": "2. Quando a radiação passa do ar para o vidro, a sua velocidade de propagação _____________ e o seu \ncomprimento de onda _____________ .",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\n1. Uma bola de ténis, de massa m, cai verticalmente, depois de abandonada a 1,70 m do solo. A bola colide \ncom o solo e ressalta, atingindo num primeiro ressalto a altura máxima de 0,94 m.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\n1.1. Qual das expressões seguintes permite calcular o trabalho realizado pela força gravítica que atua \nna bola, no deslocamento entre a posição em que a bola é abandonada e a posição em que, após o \nprimeiro ressalto, a bola atinge a altura máxima?\n (A) ,,10 09 41 70m #-- ^h\n (B) ,,m10 09 41 70# -^h\n (C) ,,m10 09 41 70#−+ ^h\n (D) ,,m10 09 41 70# +^h\n1.2. Se a percentagem de energia dissipada for a mesma em todas as colisões com o solo, é de prever \nque, num segundo ressalto, a bola atinja uma altura máxima de\n (A) 0,18 m\n (B) 0,42 m\n (C) 0,52 m\n (D) 0,55 m\n1.3. Durante a colisão da bola com o solo, a força exercida pela bola sobre o solo e a força exercida pelo \nsolo sobre a bola têm, em cada instante,\n (A) o mesmo sentido e intensidades diferentes.\n (B) sentidos opostos e intensidades diferentes.\n (C) o mesmo sentido e a mesma intensidade.\n (D) sentidos opostos e a mesma intensidade.\n\n2. A Figura 2 (que não se encontra à escala) representa uma bola de ténis que passa sobre a rede de um \ncampo de ténis com velocidade horizontal, v→, descrevendo uma trajetória parabólica até embater no solo.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\nTenha em conta o referencial bidimensional representado na Figura 2.\n \n1,35 m\n9,0 m\nsolo\nO\nrede\n→v\ny\nx\nFigura 2\n2.1. Qual é o esboço do gráfico que pode representar a componente escalar x da posição da bola, em \nfunção do tempo, t, desde o instante em que a bola passa sobre a rede até ao instante em que \nembate no solo?\n(A) (B)\n(C) (D)\nx\nt0\nx\nt0\nx\nt0\nx\nt0\n\n2.2. Em qual dos esquemas seguintes o vetor F\n®\n pode representar a resultante das forças que atuam na \nbola, na posição assinalada?\n(A)\n(C)\n(B)\n(D)\n2.3. A bola passa sobre a rede a 1,35 m do solo e embate no solo a 9,0 m da rede, como representado \nna Figura 2. \nCalcule o módulo da velocidade com que a bola atinge o solo.\nApresente todas as etapas de resolução.\n\nGRUPO VI\nUm feixe de radiação monocromática propaga-se no ar e incide numa face de um paralelepípedo de vidro.\nUma parte do feixe é refletida na face do paralelepípedo, enquanto outra parte passa a propagar-se no vidro, \nsendo o ângulo de refração menor do que o ângulo de incidência."
+    },
+    {
+      "id": 10898,
+      "question_number": "3",
+      "statement": "3. Considere uma solução-mãe de cloreto de potássio, KCl(aq ), que contém ,m ol23 51 0 3# - de KCl por \ncada 1,00 g de solução.\nA massa volúmica desta solução foi determinada por picnometria, tendo sido obtidos, a uma mesma \ntemperatura, os dados apresentados na tabela seguinte.\nCapacidade do picnómetro 98,73 mL\nMassa do picnómetro vazio 31,55 g\nMassa do picnómetro cheio \ncom a solução-mãe de KCl 145,09 g\nAdmita que quer preparar, por diluição dessa solução-mãe, uma solução de KCl de concentração \n0,27 mol dm-3.\nCalcule o fator de diluição a considerar na preparação da solução diluída de KCl.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.\nSe a instrução se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nUm dos procedimentos mais comuns em laboratório é a preparação de soluções aquosas por diluição de \nsoluções mais concentradas, de concentração conhecida, habitualmente designadas por soluções-mãe. \nNa preparação rigorosa de uma solução por diluição, é necessário medir com rigor um determinado volume \nda solução mais concentrada, transferir esse volume de solução para um balão volumétrico (de capacidade \nigual ao volume de solução pretendido) e completar o volume de solução pretendido com água até ao traço \nde referência do balão. Durante a preparação da solução, esta deve ser agitada.\nEm laboratório, é também possível determinar a densidade (massa volúmica) de soluções utilizando \ndiferentes métodos, um dos quais é a picnometria de líquidos. Este método baseia-se na determinação \nda massa de solução contida num picnómetro cuja capacidade foi previamente calibrada, a uma mesma \ntemperatura."
+    },
+    {
+      "id": 10902,
+      "question_number": "3",
+      "statement": "3. O perclorato de potássio, KClO4 , constituído pelos iões K+ e ClO 4- , é um sal bastante menos solúvel em \nágua do que o cloreto de potássio. \nO produto de solubilidade do perclorato de potássio é ,10 51 0 2# - , a 25 °C.\nA solubilidade deste sal em água, a 25 °C, será",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10918,
       "question_number": "3",
       "statement": "3. Para diversos ângulos de incidência na superfície de separação ar-vidro, mediram-se os ângulos de \nreflexão e de refração correspondentes.",
       "question_type": "open",
@@ -111,17 +280,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3 A resposta integra apenas dois dos tópicos de referência com falhas na organização dos \nconteúdos ou na utilização da linguagem científica. 6",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": null
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\n1. Uma bola de ténis, de massa m, cai verticalmente, depois de abandonada a 1,70 m do solo. A bola colide \ncom o solo e ressalta, atingindo num primeiro ressalto a altura máxima de 0,94 m.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\n1.1. Qual das expressões seguintes permite calcular o trabalho realizado pela força gravítica que atua \nna bola, no deslocamento entre a posição em que a bola é abandonada e a posição em que, após o \nprimeiro ressalto, a bola atinge a altura máxima?\n (A) ,,10 09 41 70m #-- ^h\n (B) ,,m10 09 41 70# -^h\n (C) ,,m10 09 41 70#−+ ^h\n (D) ,,m10 09 41 70# +^h\n1.2. Se a percentagem de energia dissipada for a mesma em todas as colisões com o solo, é de prever \nque, num segundo ressalto, a bola atinja uma altura máxima de\n (A) 0,18 m\n (B) 0,42 m\n (C) 0,52 m\n (D) 0,55 m\n1.3. Durante a colisão da bola com o solo, a força exercida pela bola sobre o solo e a força exercida pelo \nsolo sobre a bola têm, em cada instante,\n (A) o mesmo sentido e intensidades diferentes.\n (B) sentidos opostos e intensidades diferentes.\n (C) o mesmo sentido e a mesma intensidade.\n (D) sentidos opostos e a mesma intensidade.\n\n2. A Figura 2 (que não se encontra à escala) representa uma bola de ténis que passa sobre a rede de um \ncampo de ténis com velocidade horizontal, v→, descrevendo uma trajetória parabólica até embater no solo.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\nTenha em conta o referencial bidimensional representado na Figura 2.\n \n1,35 m\n9,0 m\nsolo\nO\nrede\n→v\ny\nx\nFigura 2\n2.1. Qual é o esboço do gráfico que pode representar a componente escalar x da posição da bola, em \nfunção do tempo, t, desde o instante em que a bola passa sobre a rede até ao instante em que \nembate no solo?\n(A) (B)\n(C) (D)\nx\nt0\nx\nt0\nx\nt0\nx\nt0\n\n2.2. Em qual dos esquemas seguintes o vetor F\n®\n pode representar a resultante das forças que atuam na \nbola, na posição assinalada?\n(A)\n(C)\n(B)\n(D)\n2.3. A bola passa sobre a rede a 1,35 m do solo e embate no solo a 9,0 m da rede, como representado \nna Figura 2. \nCalcule o módulo da velocidade com que a bola atinge o solo.\nApresente todas as etapas de resolução.\n\nGRUPO VI\nUm feixe de radiação monocromática propaga-se no ar e incide numa face de um paralelepípedo de vidro.\nUma parte do feixe é refletida na face do paralelepípedo, enquanto outra parte passa a propagar-se no vidro, \nsendo o ângulo de refração menor do que o ângulo de incidência."
     },
     {
-      "id": 1884,
+      "id": 10899,
       "question_number": "4",
       "statement": "4. A picnometria de líquidos permite determinar de forma indireta a massa volúmica de uma solução.\nQue instrumento utilizaria se quisesse determinar de forma direta a massa volúmica de uma solução?",
       "question_type": "open",
@@ -132,7 +301,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4\nA resposta integra os três tópicos de referência com falhas na organização dos conteúdos \nou na utilização da linguagem científica.\nOU\nA resposta integra apenas dois dos tópicos de referência com organização coerente dos \nconteúdos e linguagem científica adequada.",
+      "criteriaText": "4. Utilização de valores numéricos de outras grandezas \nque não apenas as referidas na prova (no enunciado \ndos itens, na tabela de constantes e na tabela \nperiódica).\nAs etapas em que os valores dessas grandezas forem \nutilizados são pontuadas com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -142,9 +311,9 @@
       "contextText": "GRUPO I\nUm dos procedimentos mais comuns em laboratório é a preparação de soluções aquosas por diluição de \nsoluções mais concentradas, de concentração conhecida, habitualmente designadas por soluções-mãe. \nNa preparação rigorosa de uma solução por diluição, é necessário medir com rigor um determinado volume \nda solução mais concentrada, transferir esse volume de solução para um balão volumétrico (de capacidade \nigual ao volume de solução pretendido) e completar o volume de solução pretendido com água até ao traço \nde referência do balão. Durante a preparação da solução, esta deve ser agitada.\nEm laboratório, é também possível determinar a densidade (massa volúmica) de soluções utilizando \ndiferentes métodos, um dos quais é a picnometria de líquidos. Este método baseia-se na determinação \nda massa de solução contida num picnómetro cuja capacidade foi previamente calibrada, a uma mesma \ntemperatura."
     },
     {
-      "id": 1889,
+      "id": 10904,
       "question_number": "1.1",
-      "statement": "1.1. Qual das expressões seguintes permite calcular o trabalho realizado pela força gravítica que atua \nna bola, no deslocamento entre a posição em que a bola é abandonada e a posição em que, após o \nprimeiro ressalto, a bola atinge a altura máxima?",
+      "statement": "1.1. Se a potência da fonte fosse maior,",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -154,89 +323,64 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3470,
+          "id": 21588,
           "letter": "A",
-          "text": ",,10 09 41 70m #-- ^h",
-          "isCorrect": true
+          "text": "seria necessária mais energia para a temperatura da amostra aumentar 1 K.",
+          "isCorrect": false
         },
         {
-          "id": 3471,
+          "id": 21589,
           "letter": "B",
-          "text": ",,m10 09 41 70# -^h",
+          "text": "seria necessária menos energia para fundir completamente a amostra.",
+          "isCorrect": false
+        },
+        {
+          "id": 21590,
+          "letter": "C",
+          "text": "a mesma energia seria transferida num intervalo de tempo menor.",
           "isCorrect": true
         },
         {
-          "id": 3472,
-          "letter": "C",
-          "text": ",,m10 09 41 70#−+ ^h",
-          "isCorrect": false
-        },
-        {
-          "id": 3473,
+          "id": 21591,
           "letter": "D",
-          "text": ",,m10 09 41 70# +^h",
-          "isCorrect": false
+          "text": "a mesma energia provocaria um maior aumento da energia interna do sistema.",
+          "isCorrect": true
         }
       ],
-      "criteriaText": "1.1. Versão 1 – (A); Versão 2 – (B) ............................................................................................... 5 pontos",
+      "criteriaText": "1.1. Versão 1 – (C); Versão 2 – (D) ............................................................................................... 5 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO III",
       "contextTitle": null,
-      "contextText": null
+      "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
     },
     {
-      "id": 1890,
+      "id": 10905,
       "question_number": "1.2",
-      "statement": "1.2. Se a percentagem de energia dissipada for a mesma em todas as colisões com o solo, é de prever \nque, num segundo ressalto, a bola atinja uma altura máxima de",
-      "question_type": "multiple_choice",
+      "statement": "1.2. De acordo com o gráfico, qual será a variação da temperatura da amostra de KCl considerada no \nintervalo de tempo [0; 36] s?",
+      "question_type": "open",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3474,
-          "letter": "A",
-          "text": "0,18 m",
-          "isCorrect": false
-        },
-        {
-          "id": 3475,
-          "letter": "B",
-          "text": "0,42 m",
-          "isCorrect": true
-        },
-        {
-          "id": 3476,
-          "letter": "C",
-          "text": "0,52 m",
-          "isCorrect": true
-        },
-        {
-          "id": 3477,
-          "letter": "D",
-          "text": "0,55 m",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1.2. Versão 1 – (C); Versão 2 – (B) .............................................................................................. 5 pontos",
+      "choices": null,
+      "criteriaText": "1.2. ................................................................................................................................................. 5 pontos\n64 K OU 64 ºC",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO III",
       "contextTitle": null,
-      "contextText": null
+      "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
     },
     {
-      "id": 1891,
+      "id": 10906,
       "question_number": "1.3",
-      "statement": "1.3. Durante a colisão da bola com o solo, a força exercida pela bola sobre o solo e a força exercida pelo \nsolo sobre a bola têm, em cada instante,",
+      "statement": "1.3. Considere os intervalos de tempo [0; 36] s, [36; 273] s e [273; 310] s, e admita que a amostra de \nKCl constitui um sistema fechado.\nA variação da energia interna do sistema",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -246,27 +390,27 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3478,
+          "id": 21592,
           "letter": "A",
-          "text": "o mesmo sentido e intensidades diferentes.",
+          "text": "é nula apenas em dois dos intervalos de tempo considerados.",
           "isCorrect": true
         },
         {
-          "id": 3479,
+          "id": 21593,
           "letter": "B",
-          "text": "sentidos opostos e intensidades diferentes.",
+          "text": "é nula nos três intervalos de tempo considerados.",
           "isCorrect": false
         },
         {
-          "id": 3480,
+          "id": 21594,
           "letter": "C",
-          "text": "o mesmo sentido e a mesma intensidade.",
+          "text": "é diferente de zero apenas em dois dos intervalos de tempo considerados.",
           "isCorrect": false
         },
         {
-          "id": 3481,
+          "id": 21595,
           "letter": "D",
-          "text": "sentidos opostos e a mesma intensidade.",
+          "text": "é diferente de zero nos três intervalos de tempo considerados.",
           "isCorrect": true
         }
       ],
@@ -275,12 +419,12 @@
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO III",
       "contextTitle": null,
-      "contextText": null
+      "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
     },
     {
-      "id": 1892,
+      "id": 10907,
       "question_number": "1.4",
       "statement": "1.4. Calcule a energia necessária para fundir 1,0 kg de KCl que se encontra à temperatura de fusão.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
@@ -301,7 +445,7 @@
       "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
     },
     {
-      "id": 1893,
+      "id": 10908,
       "question_number": "1.5",
       "statement": "1.5. A capacidade térmica mássica do KCl sólido e a capacidade térmica mássica do KCl líquido são \nsemelhantes.\nMostre, com base no gráfico da Figura 1 e sem efetuar cálculos, que esta afirmação é verdadeira.",
       "question_type": "open",
@@ -312,7 +456,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1.5. ................................................................................................................................................. 10 pontos\nA resposta integra os tópicos de referência seguintes ou outros de conteúdo equivalente:\nA) [ O gráfico representado na figura mostra que] a reta correspondente ao aquecimento \nda amostra de KCl sólido e a reta correspondente ao aquecimento da amostra de KCl \nlíquido têm declives semelhantes.\nB) O declive de cada uma dessas retas depende da capacidade térmica mássica do KCl \nsólido e da capacidade térmica mássica do KCl líquido, respetivamente, da potência da \nfonte e da massa da amostra. Como [, na situação considerada,] a potência da fonte e \na massa da amostra são as mesmas, conclui-se que a capacidade térmica mássica do \nKCl sólido e a capacidade térmica mássica do KCl líquido são semelhantes.\nNíveis Descritores do nível de desempenho Pontuação",
+      "criteriaText": "1.5. ................................................................................................................................................. 10 pontos\nA resposta integra os tópicos de referência seguintes ou outros de conteúdo equivalente:\nA) [ O gráfico representado na figura mostra que] a reta correspondente ao aquecimento \nda amostra de KCl sólido e a reta correspondente ao aquecimento da amostra de KCl \nlíquido têm declives semelhantes.\nB) O declive de cada uma dessas retas depende da capacidade térmica mássica do KCl \nsólido e da capacidade térmica mássica do KCl líquido, respetivamente, da potência da \nfonte e da massa da amostra. Como [, na situação considerada,] a potência da fonte e \na massa da amostra são as mesmas, conclui-se que a capacidade térmica mássica do \nKCl sólido e a capacidade térmica mássica do KCl líquido são semelhantes.\nNíveis Descritores do nível de desempenho Pontuação\n4 A resposta integra os dois tópicos de referência com organização coerente dos conteúdos \ne linguagem científica adequada. 10\n3 A resposta integra os dois tópicos de referência com falhas na organização dos conteúdos \nou na utilização da linguagem científica. 8\n2 A resposta integra apenas um dos tópicos de referência com linguagem científica \nadequada. 5\n1 A resposta integra apenas um dos tópicos de referência com falhas na utilização da \nlinguagem científica. 3",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -322,10 +466,10 @@
       "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
     },
     {
-      "id": 1894,
+      "id": 10909,
       "question_number": "2.1",
-      "statement": "2.1. Qual é o esboço do gráfico que pode representar a componente escalar x da posição da bola, em \nfunção do tempo, t, desde o instante em que a bola passa sobre a rede até ao instante em que \nembate no solo?",
-      "question_type": "multiple_choice",
+      "statement": "2.1. A amostra considerada contém 2,68 mol de KCl.\nQuantos iões existem, no total, na amostra?\nApresente o resultado com três algarismos significativos.",
+      "question_type": "open",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -334,43 +478,64 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3482,
+          "id": 21600,
           "letter": "A",
-          "text": "",
+          "text": "ambos os reagentes se esgotem no decurso da reação.",
           "isCorrect": false
         },
         {
-          "id": 3483,
+          "id": 21601,
           "letter": "B",
-          "text": "",
-          "isCorrect": true
-        },
-        {
-          "id": 3484,
-          "letter": "C",
-          "text": "",
+          "text": "a quantidade dos produtos formados seja igual à quantidade inicial dos reagentes.",
           "isCorrect": false
         },
         {
-          "id": 3485,
+          "id": 21602,
+          "letter": "C",
+          "text": "a massa dos produtos formados seja igual à massa inicial dos reagentes.",
+          "isCorrect": false
+        },
+        {
+          "id": 21603,
           "letter": "D",
-          "text": "x t0 x t0 x t0 x t0",
-          "isCorrect": true
+          "text": "pelo menos um dos reagentes se esgote no decurso da reação.",
+          "isCorrect": false
         }
       ],
-      "criteriaText": "2.1. Versão 1 – (B); Versão 2 – (D) ............................................................................................... 5 pontos",
+      "criteriaText": "2.1. ................................................................................................................................................. 5 pontos\n,32 31 0 24# [iões]\nNota – A apresentação do resultado « ,32 21 0 24# [iões]» não implica qualquer desvalorização.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
+    },
+    {
+      "id": 10912,
+      "question_number": "2.1",
+      "statement": "2.1. A reação do lítio com a água é uma reação completa, o que implica que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
       "contextTitle": null,
       "contextText": null
     },
     {
-      "id": 1895,
+      "id": 10910,
       "question_number": "2.2",
-      "statement": "2.2. Em qual dos esquemas seguintes o vetor F\n®\n pode representar a resultante das forças que atuam na \nbola, na posição assinalada?",
+      "statement": "2.2. Os iões K+ e Cl-, no estado fundamental, apresentam",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -380,43 +545,64 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3486,
+          "id": 21604,
           "letter": "A",
-          "text": "",
+          "text": "oxida-se ... redutor",
           "isCorrect": false
         },
         {
-          "id": 3488,
+          "id": 21605,
           "letter": "B",
-          "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 3487,
-          "letter": "C",
-          "text": "",
+          "text": "oxida-se ... oxidante",
           "isCorrect": true
         },
         {
-          "id": 3489,
+          "id": 21606,
+          "letter": "C",
+          "text": "reduz-se ... redutor",
+          "isCorrect": false
+        },
+        {
+          "id": 21607,
           "letter": "D",
-          "text": "",
+          "text": "reduz-se ... oxidante",
           "isCorrect": true
         }
       ],
-      "criteriaText": "2.2. Versão 1 – (D); Versão 2 – (C) .............................................................................................. 5 pontos",
+      "criteriaText": "2.2. Versão 1 – (B); Versão 2 – (D) .............................................................................................. 5 pontos\n\nGRUPO IV",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nConsidere uma amostra pura de 200 g de cloreto de potássio, KCl, inicialmente no estado sólido à temperatura \nde 980 K, à qual é fornecida energia com uma fonte de 300 W."
+    },
+    {
+      "id": 10913,
+      "question_number": "2.2",
+      "statement": "2.2. Na reação considerada, o lítio ___________ , atuando como ___________ .",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
       "contextTitle": null,
       "contextText": null
     },
     {
-      "id": 1899,
+      "id": 10914,
       "question_number": "2.3",
-      "statement": "2.3. A bola passa sobre a rede a 1,35 m do solo e embate no solo a 9,0 m da rede, como representado \nna Figura 2. \nCalcule o módulo da velocidade com que a bola atinge o solo.\nApresente todas as etapas de resolução.\n\nGRUPO VI\nUm feixe de radiação monocromática propaga-se no ar e incide numa face de um paralelepípedo de vidro.\nUma parte do feixe é refletida na face do paralelepípedo, enquanto outra parte passa a propagar-se no vidro, \nsendo o ângulo de refração menor do que o ângulo de incidência.",
+      "statement": "2.3. Numa tina contendo 200 cm3 de água, fez-se reagir um pequeno pedaço de lítio. No final da reação, \nverificou-se que, a 25 ºC, o pH da solução resultante era 13,27.\nDetermine o volume, medido nas condições normais de pressão e de temperatura, de H2(g) que se \nterá formado na reação. \nAdmita que o volume da solução resultante é igual ao volume inicial de água.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
@@ -425,17 +611,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.3. ................................................................................................................................................. 15 pontos\nEtapas de resolução:\nA) Determinação do intervalo de tempo que decorre entre o instante em que\na bola passa sobre a rede e o instante em que a bola atinge o solo\n( ,st 0 520D = ) .................................................................................................. 5 pontos\nB) Determinação do módulo da velocidade com que a bola passa sobre a rede\n(v = 17,3 m s-1) ...................................................................................................... 5 pontos\nC) Determinação do módulo da velocidade com que a bola atinge o solo \n(v = 18 m s-1) ...................................................................................................... 5 pontos\n\nGRUPO VI",
+      "criteriaText": "2.3. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Cálculo da concentração de OH- na solução resultante\n( ,m oldmc 18 61 0 13#= −− ) .............................................................................. 3 pontos\nB) Cálculo da quantidade de OH- na solução resultante ( ,m oln 37 21 0 2#= − ) . . 2 pontos\nC) Cálculo do volume, medido nas condições nomais de pressão e de\ntemperatura, de H2(g) que se terá formado na reação\n( ,d mV 42 10 13#= − ) ........................................................................................... 5 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO IV",
       "contextTitle": null,
       "contextText": null
     },
     {
-      "id": 1900,
+      "id": 10915,
       "question_number": "2.4",
       "statement": "2.4. Explique, com base nas configurações eletrónicas dos respetivos átomos no estado fundamental, \nporque é que o potássio reage mais vigorosamente com a água do que o lítio.",
       "question_type": "essay",
@@ -446,7 +632,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.4. ................................................................................................................................................. 10 pontos\nA resposta integra os tópicos de referência seguintes ou outros de conteúdo equivalente:\nA) O eletrão de valência do átomo de potássio encontra-se num nível energético superior \nao nível energético em que se encontra o eletrão de valência do átomo de lítio.\nB) [Assim, por comparação com o átomo de lítio,] o eletrão de valência do átomo de \npotássio encontra-se mais afastado do respetivo núcleo, sofrendo menor atração por \nparte deste e sendo, por isso, mais facilmente removido.\nC) A reação do lítio e a reação do potássio com a água envolvem a perda do eletrão de \nvalência dos átomos respetivos [, pelo que a reação do potássio com a água será mais \nvigorosa do que a reação do lítio].\nNota – A apresentação das configurações eletrónicas dos átomos de lítio e de potássio no estado \nfundamental não é, por si só, equivalente ao tópico de referência A. Assim, uma resposta \nque apresente exclusivamente aquelas configurações eletrónicas deve ser classificada \ncom zero pontos. No caso em que a resposta integre os tópicos de referência B e/ou C, \na apresentação, no tópico de referência A, apenas daquelas configurações eletrónicas \nconstituirá um fator de desvalorização da resposta, de acordo com os Critérios Gerais de \nClassificação.\n\nNíveis Descritores do nível de desempenho Pontuação",
+      "criteriaText": "2.4. ................................................................................................................................................. 10 pontos\nA resposta integra os tópicos de referência seguintes ou outros de conteúdo equivalente:\nA) O eletrão de valência do átomo de potássio encontra-se num nível energético superior \nao nível energético em que se encontra o eletrão de valência do átomo de lítio.\nB) [Assim, por comparação com o átomo de lítio,] o eletrão de valência do átomo de \npotássio encontra-se mais afastado do respetivo núcleo, sofrendo menor atração por \nparte deste e sendo, por isso, mais facilmente removido.\nC) A reação do lítio e a reação do potássio com a água envolvem a perda do eletrão de \nvalência dos átomos respetivos [, pelo que a reação do potássio com a água será mais \nvigorosa do que a reação do lítio].\nNota – A apresentação das configurações eletrónicas dos átomos de lítio e de potássio no estado \nfundamental não é, por si só, equivalente ao tópico de referência A. Assim, uma resposta \nque apresente exclusivamente aquelas configurações eletrónicas deve ser classificada \ncom zero pontos. No caso em que a resposta integre os tópicos de referência B e/ou C, \na apresentação, no tópico de referência A, apenas daquelas configurações eletrónicas \nconstituirá um fator de desvalorização da resposta, de acordo com os Critérios Gerais de \nClassificação.\n\nNíveis Descritores do nível de desempenho Pontuação\n5 A resposta integra os três tópicos de referência com organização coerente dos conteúdos \ne linguagem científica adequada. 10\n4\nA resposta integra os três tópicos de referência com falhas na organização dos conteúdos \nou na utilização da linguagem científica.\nOU\nA resposta integra apenas dois dos tópicos de referência com organização coerente dos \nconteúdos e linguagem científica adequada.\n8\n3 A resposta integra apenas dois dos tópicos de referência com falhas na organização dos \nconteúdos ou na utilização da linguagem científica. 6\n2 A resposta integra apenas um dos tópicos de referência com linguagem científica \nadequada. 4\n1 A resposta integra apenas um dos tópicos de referência com falhas na utilização da \nlinguagem científica. 2\nGRUPO V",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -456,7 +642,7 @@
       "contextText": null
     },
     {
-      "id": 1912,
+      "id": 10919,
       "question_number": "3.1",
       "statement": "3.1. Os resultados obtidos permitiram traçar o gráfico do ângulo de reflexão, arefl, em função do ângulo \nde incidência, ai.\nQual é o esboço desse gráfico, assumindo a mesma escala nos dois eixos?",
       "question_type": "multiple_choice",
@@ -468,25 +654,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3496,
+          "id": 21614,
           "letter": "A",
           "text": "",
           "isCorrect": true
         },
         {
-          "id": 3494,
+          "id": 21612,
           "letter": "B",
           "text": "",
           "isCorrect": true
         },
         {
-          "id": 3497,
+          "id": 21615,
           "letter": "C",
           "text": "0 arefl ai 0 arefl ai 0 arefl ai 0 arefl ai",
           "isCorrect": false
         },
         {
-          "id": 3495,
+          "id": 21613,
           "letter": "D",
           "text": "",
           "isCorrect": false
@@ -498,13 +684,13 @@
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": null
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\n1. Uma bola de ténis, de massa m, cai verticalmente, depois de abandonada a 1,70 m do solo. A bola colide \ncom o solo e ressalta, atingindo num primeiro ressalto a altura máxima de 0,94 m.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\n1.1. Qual das expressões seguintes permite calcular o trabalho realizado pela força gravítica que atua \nna bola, no deslocamento entre a posição em que a bola é abandonada e a posição em que, após o \nprimeiro ressalto, a bola atinge a altura máxima?\n (A) ,,10 09 41 70m #-- ^h\n (B) ,,m10 09 41 70# -^h\n (C) ,,m10 09 41 70#−+ ^h\n (D) ,,m10 09 41 70# +^h\n1.2. Se a percentagem de energia dissipada for a mesma em todas as colisões com o solo, é de prever \nque, num segundo ressalto, a bola atinja uma altura máxima de\n (A) 0,18 m\n (B) 0,42 m\n (C) 0,52 m\n (D) 0,55 m\n1.3. Durante a colisão da bola com o solo, a força exercida pela bola sobre o solo e a força exercida pelo \nsolo sobre a bola têm, em cada instante,\n (A) o mesmo sentido e intensidades diferentes.\n (B) sentidos opostos e intensidades diferentes.\n (C) o mesmo sentido e a mesma intensidade.\n (D) sentidos opostos e a mesma intensidade.\n\n2. A Figura 2 (que não se encontra à escala) representa uma bola de ténis que passa sobre a rede de um \ncampo de ténis com velocidade horizontal, v→, descrevendo uma trajetória parabólica até embater no solo.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\nTenha em conta o referencial bidimensional representado na Figura 2.\n \n1,35 m\n9,0 m\nsolo\nO\nrede\n→v\ny\nx\nFigura 2\n2.1. Qual é o esboço do gráfico que pode representar a componente escalar x da posição da bola, em \nfunção do tempo, t, desde o instante em que a bola passa sobre a rede até ao instante em que \nembate no solo?\n(A) (B)\n(C) (D)\nx\nt0\nx\nt0\nx\nt0\nx\nt0\n\n2.2. Em qual dos esquemas seguintes o vetor F\n®\n pode representar a resultante das forças que atuam na \nbola, na posição assinalada?\n(A)\n(C)\n(B)\n(D)\n2.3. A bola passa sobre a rede a 1,35 m do solo e embate no solo a 9,0 m da rede, como representado \nna Figura 2. \nCalcule o módulo da velocidade com que a bola atinge o solo.\nApresente todas as etapas de resolução.\n\nGRUPO VI\nUm feixe de radiação monocromática propaga-se no ar e incide numa face de um paralelepípedo de vidro.\nUma parte do feixe é refletida na face do paralelepípedo, enquanto outra parte passa a propagar-se no vidro, \nsendo o ângulo de refração menor do que o ângulo de incidência."
     },
     {
-      "id": 1913,
+      "id": 10920,
       "question_number": "3.2",
-      "statement": "3.2. Na tabela seguinte, estão registados os senos dos ângulos de incidência, sin ai , e os senos dos \ncorrespondentes ângulos de refração, sin arefr .\nsin ai sin arefr\n0,342 0,232\n0,423 0,291\n0,500 0,342\n0,574 0,392\n0,643 0,438\nDetermine, para a radiação considerada, o índice de refração do vidro constituinte do paralelepípedo \nutilizado na experiência.\nNa sua resposta, apresente a equação da reta de ajuste obtida, identificando as grandezas \nconsideradas.\nApresente todas as etapas de resolução.\nnar (índice de refração do ar) = 1,00\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4.\n5 5 15 5 30\nII 1. 2. 3.\n10 10 5 25\nIII 1.1. 1.2. 1.3. 1.4. 1.5. 2.1. 2.2.\n5 5 5 10 10 5 5 45\nIV 1. 2.1. 2.2. 2.3. 2.4.\n5 5 5 10 10 35\nV 1.1. 1.2. 1.3. 2.1. 2.2. 2.3.\n5 5 5 5 5 15 40\nVI 1. 2. 3.1. 3.2.\n5 5 5 10 25\nTOTAL 200",
+      "statement": "3.2. Na tabela seguinte, estão registados os senos dos ângulos de incidência, sin ai , e os senos dos \ncorrespondentes ângulos de refração, sin arefr .\nsin ai sin arefr\n0,342 0,232\n0,423 0,291\n0,500 0,342\n0,574 0,392\n0,643 0,438\nDetermine, para a radiação considerada, o índice de refração do vidro constituinte do paralelepípedo \nutilizado na experiência.\nNa sua resposta, apresente a equação da reta de ajuste obtida, identificando as grandezas \nconsideradas.\nApresente todas as etapas de resolução.\nnar (índice de refração do ar) = 1,00",
       "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
@@ -513,14 +699,14 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.2. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Apresentação, para o gráfico de sin arefr em função de sin ai , da equação \nda reta de ajuste obtida (sin arefr = 0,682 sin ai + 71 0 4# - )\nOU\nApresentação, para o gráfico de sin ai em função de sin arefr , da equação\nda reta de ajuste obtida (sin ai = 1,47 sin arefr - 81 0 4# - ) (ver nota) .............. 5 pontos\nB) Determinação do índice de refração do vidro constituinte do paralelepípedo\nutilizado (n = 1,5) .............................................................................................. 5 pontos\nNota – A não identificação ou a identificação incorreta de, pelo menos, uma das grandezas \nconsideradas implica a pontuação desta etapa com zero pontos.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4.",
+      "criteriaText": "3.2. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Apresentação, para o gráfico de sin arefr em função de sin ai , da equação \nda reta de ajuste obtida (sin arefr = 0,682 sin ai + 71 0 4# - )\nOU\nApresentação, para o gráfico de sin ai em função de sin arefr , da equação\nda reta de ajuste obtida (sin ai = 1,47 sin arefr - 81 0 4# - ) (ver nota) .............. 5 pontos\nB) Determinação do índice de refração do vidro constituinte do paralelepípedo\nutilizado (n = 1,5) .............................................................................................. 5 pontos\nNota – A não identificação ou a identificação incorreta de, pelo menos, uma das grandezas \nconsideradas implica a pontuação desta etapa com zero pontos.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4.\n5 5 15 5 30\nII 1. 2. 3.\n10 10 5 25\nIII 1.1. 1.2. 1.3. 1.4. 1.5. 2.1. 2.2.\n5 5 5 10 10 5 5 45\nIV 1. 2.1. 2.2. 2.3. 2.4.\n5 5 5 10 10 35\nV 1.1. 1.2. 1.3. 2.1. 2.2. 2.3.\n5 5 5 5 5 15 40\nVI 1. 2. 3.1. 3.2.\n5 5 5 10 25\nTOTAL 200",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": null
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO V\n1. Uma bola de ténis, de massa m, cai verticalmente, depois de abandonada a 1,70 m do solo. A bola colide \ncom o solo e ressalta, atingindo num primeiro ressalto a altura máxima de 0,94 m.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\n1.1. Qual das expressões seguintes permite calcular o trabalho realizado pela força gravítica que atua \nna bola, no deslocamento entre a posição em que a bola é abandonada e a posição em que, após o \nprimeiro ressalto, a bola atinge a altura máxima?\n (A) ,,10 09 41 70m #-- ^h\n (B) ,,m10 09 41 70# -^h\n (C) ,,m10 09 41 70#−+ ^h\n (D) ,,m10 09 41 70# +^h\n1.2. Se a percentagem de energia dissipada for a mesma em todas as colisões com o solo, é de prever \nque, num segundo ressalto, a bola atinja uma altura máxima de\n (A) 0,18 m\n (B) 0,42 m\n (C) 0,52 m\n (D) 0,55 m\n1.3. Durante a colisão da bola com o solo, a força exercida pela bola sobre o solo e a força exercida pelo \nsolo sobre a bola têm, em cada instante,\n (A) o mesmo sentido e intensidades diferentes.\n (B) sentidos opostos e intensidades diferentes.\n (C) o mesmo sentido e a mesma intensidade.\n (D) sentidos opostos e a mesma intensidade.\n\n2. A Figura 2 (que não se encontra à escala) representa uma bola de ténis que passa sobre a rede de um \ncampo de ténis com velocidade horizontal, v→, descrevendo uma trajetória parabólica até embater no solo.\nConsidere desprezável a força de resistência do ar, e admita que a bola pode ser representada pelo seu \ncentro de massa (modelo da partícula material).\nTenha em conta o referencial bidimensional representado na Figura 2.\n \n1,35 m\n9,0 m\nsolo\nO\nrede\n→v\ny\nx\nFigura 2\n2.1. Qual é o esboço do gráfico que pode representar a componente escalar x da posição da bola, em \nfunção do tempo, t, desde o instante em que a bola passa sobre a rede até ao instante em que \nembate no solo?\n(A) (B)\n(C) (D)\nx\nt0\nx\nt0\nx\nt0\nx\nt0\n\n2.2. Em qual dos esquemas seguintes o vetor F\n®\n pode representar a resultante das forças que atuam na \nbola, na posição assinalada?\n(A)\n(C)\n(B)\n(D)\n2.3. A bola passa sobre a rede a 1,35 m do solo e embate no solo a 9,0 m da rede, como representado \nna Figura 2. \nCalcule o módulo da velocidade com que a bola atinge o solo.\nApresente todas as etapas de resolução.\n\nGRUPO VI\nUm feixe de radiação monocromática propaga-se no ar e incide numa face de um paralelepípedo de vidro.\nUma parte do feixe é refletida na face do paralelepípedo, enquanto outra parte passa a propagar-se no vidro, \nsendo o ângulo de refração menor do que o ângulo de incidência."
     }
   ]
 }

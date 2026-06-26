@@ -4,36 +4,146 @@
   "subject": "Física e Química A",
   "year": 2016,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 253,
+      "id": 1513,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 254,
+      "id": 1514,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 255,
+      "id": 1515,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 256,
+      "id": 1516,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 257,
+      "id": 1517,
       "name": "GRUPO V",
       "order": 4
     }
   ],
   "questions": [
     {
-      "id": 1851,
+      "id": 10875,
+      "question_number": "1",
+      "statement": "1. Uma bola move-se segundo uma trajetória retilínea.\nConsidere que a bola pode ser representada pelo seu centro de massa (modelo da partícula material).\nAdmita que a componente escalar da posição, x, da bola em relação a um determinado referencial \nunidimensional Ox varia com o tempo, t, de acordo com a equação\n,, ,S Ixt t24 20 06 0 2= −+ ^h",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21564,
+          "letter": "A",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 21565,
+          "letter": "B",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 21566,
+          "letter": "C",
+          "text": "",
+          "isCorrect": false
+        },
+        {
+          "id": 21567,
+          "letter": "D",
+          "text": "",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. Apresentação apenas do resultado final, não incluindo \nos cálculos efetuados nem as justificações ou \nconclusões solicitadas.\nA resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10881,
+      "question_number": "1",
+      "statement": "1. Uma bobina, cujos terminais estão ligados a um osciloscópio, roda numa zona do espaço onde existe um \ncampo magnético uniforme.\nA Figura 2 representa o sinal registado no ecrã do osciloscópio quando este tem a base de tempo regulada \npara 5 ms / div e a escala vertical regulada para 2 V / div.\nFigura 2\nQual das expressões seguintes pode traduzir a tensão, U, desse sinal em função do tempo, t ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10883,
+      "question_number": "1",
+      "statement": "1. Para medir a largura, D x, da tira de cartolina utilizou-se uma régua com uma escala cuja menor divisão é 1 mm.\nQual é a incerteza associada à escala dessa régua?",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO III\nQuando um corpo desliza ao longo de um plano inclinado, ocorre, geralmente, dissipação de parte da \nenergia mecânica do sistema corpo + Terra.\nNuma aula laboratorial de Física, pretendia-se investigar se a energia dissipada e a intensidade da \nresultante das forças de atrito que atuam num corpo que desliza ao longo de um plano inclinado dependem \nda distância percorrida pelo corpo e dos materiais das superfícies em contacto.\nNa Figura 4, está representada uma montagem semelhante à utilizada nessa aula laboratorial.\nParalelepípedo\nTira de cartolina\nD x\nCalha\nCronómetro digital\nCélula\nfotoelétrica\n Figura 4\nNos ensaios efetuados, foi utilizado um paralelepípedo de madeira cujas faces laterais, de igual área, se \nencontravam revestidas por materiais diferentes. Em cada conjunto de ensaios, o paralelepípedo, deslizando \nsobre a calha sempre apoiado numa mesma face, foi abandonado em diversas posições, percorrendo assim \ndistâncias diferentes até passar pela célula fotoelétrica.\nO cronómetro digital ligado à célula fotoelétrica permitiu medir o intervalo de tempo que a tira de cartolina \nfixada no paralelepípedo demorava a passar em frente dessa célula.\nNo tratamento e na interpretação dos resultados experimentais obtidos, considerou-se desprezável a \nresistência do ar."
+    },
+    {
+      "id": 10887,
+      "question_number": "1",
+      "statement": "1. Uma lata contendo uma amostra de um refrigerante sem gás foi exposta à luz solar.\nNa Figura 5, está representado o gráfico da temperatura, i, da amostra em função do tempo, t, de exposição \nda lata à luz solar, no intervalo de tempo em que os dados foram registados.\n \nt / min \n11\n0 76\n27\n/ ºC i\nFigura 5",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10892,
       "question_number": "1",
       "statement": "1. Em qual das opções seguintes está representada na notação de Lewis a molécula de dióxido de carbono?",
       "question_type": "multiple_choice",
@@ -43,45 +153,20 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3426,
-          "letter": "A",
-          "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 3427,
-          "letter": "B",
-          "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 3428,
-          "letter": "C",
-          "text": "",
-          "isCorrect": false
-        },
-        {
-          "id": 3429,
-          "letter": "D",
-          "text": "",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1 A resposta integra apenas um dos tópicos de referência com falhas na utilização \nda linguagem científica. 3\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1.1. 1.2. 1.3. 2.1. 2.2.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
+      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6\n1. Na amostra da água gaseificada, a 25 °C, a concentração inicial de iões H3O+ (aq ) é _____________ a\n,m oldm10 01 0 73# -- e é _____________ à concentração de iões OH- (aq ).\n (A) inferior ... igual\n (B) superior ... superior\n (C) inferior ... superior\n (D) superior ... igual\n2. Qual foi a variação da concentração de iões H3O+ (aq ) na amostra da água gaseificada nos primeiros \n5,0 min do intervalo de tempo em que os dados foram registados?\nApresente o resultado com dois algarismos significativos.\n\n3. O dióxido de carbono reage com a água, dando origem ao ácido carbónico, H2CO3(aq ).\nEsta reação pode ser traduzida por\nCO2(aq ) + H2O ( l ) ? H2CO3(aq ) (1)\nO ácido carbónico, H2CO3(aq ), é um ácido diprótico fraco cuja reação de ionização global em água pode \nser traduzida por\nHC Oa qH Ol223 2+^^ hh ? CO aq HO aq232 3+− +^^ hh (2)\n3.1. Quais das seguintes espécies constituem um par ácido-base conjugado?\n (A) H2O ( l ) e CO aq32-^h\n (B) H2CO3(aq ) e H3O+(aq )\n (C) H3O+(aq ) e H2O ( l )\n (D) H2CO3(aq ) e CO aq32-^h\n3.2. Durante o intervalo de tempo em que os dados foram registados, libertou-se CO2(g).\nJustifique, com base no Princípio de Le Châtelier, o aumento do pH da amostra da água gaseificada \nnesse intervalo de tempo.\nTenha em consideração as reações (1) e (2) acima representadas.\n4. A concentração de iões Ca2+(aq ) na amostra da água gaseificada é ,m oldm25 41 0 33# -- , e o produto de \nsolubilidade do carbonato de cálcio, CaCO3, é ,45 10 9# - , a 25 °C.\nQual é a concentração mínima de iões carbonato, CO aq3\n2- ^h , na amostra da água gaseificada, a 25 °C, \na partir da qual poderá ocorrer a precipitação de CaCO3?\n (A) ,m oldm18 10 63# --\n (B) ,m oldm67 10 53# --\n (C) ,m oldm13 10 33# --\n (D) ,m oldm25 10 33# --\n\nGRUPO VI\nO dióxido de carbono, CO2, reage com o hidrogénio, H2, formando-se monóxido de carbono, CO, e vapor de \nágua. A reação em fase gasosa pode ser traduzida pela equação química\nCO2(g) + H2(g) ? CO(g) + H2O(g)\n1. Nesta reação, a variação do número de oxidação do hidrogénio (H) é\n (A) -1\n (B) +1\n (C) +2\n (D) -2\n2. Num reator com a capacidade de 10,00 L, foi introduzida, à temperatura de 700 °C, uma mistura gasosa \ninicialmente constituída por 0,300 mol de CO(g) e por 0,300 mol de H2O(g).\n2.1. Qual é a quantidade total de átomos existente na mistura gasosa?\n (A) ,m ol15 0\n (B) ,m ol12 0\n (C) ,m ol0 900\n (D) ,m ol0 600\n2.2. Calcule a densidade da mistura gasosa no reator.\nApresente todas as etapas de resolução.\n2.3. Quando o sistema químico atingiu um estado de equilíbrio à temperatura de 700 °C, existia no reator \numa quantidade de CO(g) igual a 42,3% da quantidade inicial deste gás.\nDetermine a constante de equilíbrio, Kc, a 700 °C, da reação traduzida pela equação química acima \napresentada, a partir das concentrações de equilíbrio de cada uma das espécies envolvidas na reação.\nApresente todas as etapas de resolução.\n\nGRUPO VII"
     },
     {
-      "id": 1854,
+      "id": 10878,
       "question_number": "2",
-      "statement": "2. Num reator com a capacidade de 10,00 L, foi introduzida, à temperatura de 700 °C, uma mistura gasosa \ninicialmente constituída por 0,300 mol de CO(g) e por 0,300 mol de H2O(g).",
+      "statement": "2. Uma bola, atada a uma corda, descreve trajetórias circulares num mesmo plano horizontal.\nConsidere que a bola pode ser representada pelo seu centro de massa (modelo da partícula material).",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -89,18 +174,173 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2 A resposta integra apenas um dos tópicos de referência com linguagem científica \nadequada. 5",
+      "choices": [
+        {
+          "id": 21556,
+          "letter": "A",
+          "text": ",, ,,03 40 20 27 03 40 20 5ee##ii+− = +−^ ^ ^ ^h h h h",
+          "isCorrect": false
+        },
+        {
+          "id": 21557,
+          "letter": "B",
+          "text": ",,03 42 70 20 5ee##ii− = −^^ hh",
+          "isCorrect": false
+        },
+        {
+          "id": 21558,
+          "letter": "C",
+          "text": ",, ,,03 40 20 27 03 40 20 5ee##ii+− = −+ −^ ^ ^ ^h h h h",
+          "isCorrect": false
+        },
+        {
+          "id": 21559,
+          "letter": "D",
+          "text": ",,03 42 70 20 5ee##ii− = −−^^ hh",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. Utilização de processos de resolução não previstos \nnos critérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
     },
     {
-      "id": 1861,
+      "id": 10882,
+      "question_number": "2",
+      "statement": "2. Uma outra bobina, formada por 500 espiras quadradas de lado ,m80 10 2# - , está em repouso numa \nzona do espaço onde existe um campo magnético uniforme, B , perpendicular aos planos das espiras.\nAdmita que, num dado intervalo de tempo, a intensidade do campo \nmagnético, B, varia com o tempo, t, de acordo com o gráfico \nrepresentado na Figura 3.\nDetermine o módulo da força eletromotriz induzida nos terminais da \nbobina, no intervalo de tempo ,; ,s00 206@ .\nApresente todas as etapas de resolução.\nB / T\nt / s2,00,0\n0,090\n0,010\nFigura 3",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10884,
+      "question_number": "2",
+      "statement": "2. Num dos ensaios realizados, o paralelepípedo, de massa ,g90 48 , foi abandonado numa determinada \nposição sobre a calha, tendo percorrido 0,870 m até a tira de cartolina passar em frente da célula fotoelétrica. \nNesse deslocamento, a altura a que o paralelepípedo se encontrava em relação a um mesmo nível de \nreferência diminuiu 0,420 m.\nNo ensaio realizado, a tira de cartolina, de largura D x = 1,50 cm, demorou ,s10 81 0 2# - a passar em frente \nda célula fotoelétrica.\nCalcule a intensidade da resultante das forças de atrito que atuaram no paralelepípedo, naquele ensaio. \nAdmita que essa resultante se manteve constante.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO III\nQuando um corpo desliza ao longo de um plano inclinado, ocorre, geralmente, dissipação de parte da \nenergia mecânica do sistema corpo + Terra.\nNuma aula laboratorial de Física, pretendia-se investigar se a energia dissipada e a intensidade da \nresultante das forças de atrito que atuam num corpo que desliza ao longo de um plano inclinado dependem \nda distância percorrida pelo corpo e dos materiais das superfícies em contacto.\nNa Figura 4, está representada uma montagem semelhante à utilizada nessa aula laboratorial.\nParalelepípedo\nTira de cartolina\nD x\nCalha\nCronómetro digital\nCélula\nfotoelétrica\n Figura 4\nNos ensaios efetuados, foi utilizado um paralelepípedo de madeira cujas faces laterais, de igual área, se \nencontravam revestidas por materiais diferentes. Em cada conjunto de ensaios, o paralelepípedo, deslizando \nsobre a calha sempre apoiado numa mesma face, foi abandonado em diversas posições, percorrendo assim \ndistâncias diferentes até passar pela célula fotoelétrica.\nO cronómetro digital ligado à célula fotoelétrica permitiu medir o intervalo de tempo que a tira de cartolina \nfixada no paralelepípedo demorava a passar em frente dessa célula.\nNo tratamento e na interpretação dos resultados experimentais obtidos, considerou-se desprezável a \nresistência do ar."
+    },
+    {
+      "id": 10890,
+      "question_number": "2",
+      "statement": "2. Considere a amostra do refrigerante, de massa 0,34 kg e à temperatura de 27 ºC, e uma outra amostra do \nmesmo refrigerante, de massa 0,20 kg e à temperatura de 5 ºC.\nAdmita que estas amostras foram misturadas num recipiente termicamente isolado e que a transferência \nde energia entre a mistura e o recipiente foi desprezável.\nQual das expressões seguintes permite calcular a temperatura, ei , à qual a mistura atingiu o equilíbrio \ntérmico?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10885,
+      "question_number": "3",
+      "statement": "3. Em qual dos esquemas seguintes está representado um diagrama das forças que atuam no paralelepípedo \nquando este, depois de abandonado, desliza sobre a calha?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21568,
+          "letter": "A",
+          "text": "(2, 2, 1)",
+          "isCorrect": false
+        },
+        {
+          "id": 21569,
+          "letter": "B",
+          "text": "(2, 1, 0)",
+          "isCorrect": false
+        },
+        {
+          "id": 21570,
+          "letter": "C",
+          "text": "(1, 0, 0)",
+          "isCorrect": false
+        },
+        {
+          "id": 21571,
+          "letter": "D",
+          "text": "(1, 1, 0)",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.\nSe a instrução se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO III\nQuando um corpo desliza ao longo de um plano inclinado, ocorre, geralmente, dissipação de parte da \nenergia mecânica do sistema corpo + Terra.\nNuma aula laboratorial de Física, pretendia-se investigar se a energia dissipada e a intensidade da \nresultante das forças de atrito que atuam num corpo que desliza ao longo de um plano inclinado dependem \nda distância percorrida pelo corpo e dos materiais das superfícies em contacto.\nNa Figura 4, está representada uma montagem semelhante à utilizada nessa aula laboratorial.\nParalelepípedo\nTira de cartolina\nD x\nCalha\nCronómetro digital\nCélula\nfotoelétrica\n Figura 4\nNos ensaios efetuados, foi utilizado um paralelepípedo de madeira cujas faces laterais, de igual área, se \nencontravam revestidas por materiais diferentes. Em cada conjunto de ensaios, o paralelepípedo, deslizando \nsobre a calha sempre apoiado numa mesma face, foi abandonado em diversas posições, percorrendo assim \ndistâncias diferentes até passar pela célula fotoelétrica.\nO cronómetro digital ligado à célula fotoelétrica permitiu medir o intervalo de tempo que a tira de cartolina \nfixada no paralelepípedo demorava a passar em frente dessa célula.\nNo tratamento e na interpretação dos resultados experimentais obtidos, considerou-se desprezável a \nresistência do ar."
+    },
+    {
+      "id": 10891,
+      "question_number": "3",
+      "statement": "3. As latas de refrigerantes podem ser feitas de aço ou de uma liga de alumínio.\nNa tabela seguinte, estão registados os valores de duas propriedades físicas do alumínio e de um \ndeterminado aço.\nCapacidade térmica \nmássica / J kg-1 oC-1\nCondutividade \ntérmica / W m-1 oC-1\nAlumínio 897 237\nAço 486 52\nUma chapa de alumínio e uma chapa do aço considerado, de igual área, foram submetidas a uma mesma \ndiferença de temperatura entre as respetivas faces.\nPara que a potência transferida através das chapas seja a mesma, a espessura da chapa de alumínio \ndeverá ser cerca de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10893,
       "question_number": "3",
       "statement": "3. Uma das orbitais de valência do átomo de carbono no estado fundamental pode ser caracterizada pelo \nconjunto de números quânticos",
       "question_type": "multiple_choice",
@@ -110,43 +350,64 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3430,
-          "letter": "A",
-          "text": "(2, 2, 1)",
-          "isCorrect": false
-        },
-        {
-          "id": 3431,
-          "letter": "B",
-          "text": "(2, 1, 0)",
-          "isCorrect": false
-        },
-        {
-          "id": 3432,
-          "letter": "C",
-          "text": "(1, 0, 0)",
-          "isCorrect": false
-        },
-        {
-          "id": 3433,
-          "letter": "D",
-          "text": "(1, 1, 0)",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3 A resposta integra os dois tópicos de referência com falhas na organização dos \nconteúdos ou na utilização da linguagem científica. 8",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
+      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6\n1. Na amostra da água gaseificada, a 25 °C, a concentração inicial de iões H3O+ (aq ) é _____________ a\n,m oldm10 01 0 73# -- e é _____________ à concentração de iões OH- (aq ).\n (A) inferior ... igual\n (B) superior ... superior\n (C) inferior ... superior\n (D) superior ... igual\n2. Qual foi a variação da concentração de iões H3O+ (aq ) na amostra da água gaseificada nos primeiros \n5,0 min do intervalo de tempo em que os dados foram registados?\nApresente o resultado com dois algarismos significativos.\n\n3. O dióxido de carbono reage com a água, dando origem ao ácido carbónico, H2CO3(aq ).\nEsta reação pode ser traduzida por\nCO2(aq ) + H2O ( l ) ? H2CO3(aq ) (1)\nO ácido carbónico, H2CO3(aq ), é um ácido diprótico fraco cuja reação de ionização global em água pode \nser traduzida por\nHC Oa qH Ol223 2+^^ hh ? CO aq HO aq232 3+− +^^ hh (2)\n3.1. Quais das seguintes espécies constituem um par ácido-base conjugado?\n (A) H2O ( l ) e CO aq32-^h\n (B) H2CO3(aq ) e H3O+(aq )\n (C) H3O+(aq ) e H2O ( l )\n (D) H2CO3(aq ) e CO aq32-^h\n3.2. Durante o intervalo de tempo em que os dados foram registados, libertou-se CO2(g).\nJustifique, com base no Princípio de Le Châtelier, o aumento do pH da amostra da água gaseificada \nnesse intervalo de tempo.\nTenha em consideração as reações (1) e (2) acima representadas.\n4. A concentração de iões Ca2+(aq ) na amostra da água gaseificada é ,m oldm25 41 0 33# -- , e o produto de \nsolubilidade do carbonato de cálcio, CaCO3, é ,45 10 9# - , a 25 °C.\nQual é a concentração mínima de iões carbonato, CO aq3\n2- ^h , na amostra da água gaseificada, a 25 °C, \na partir da qual poderá ocorrer a precipitação de CaCO3?\n (A) ,m oldm18 10 63# --\n (B) ,m oldm67 10 53# --\n (C) ,m oldm13 10 33# --\n (D) ,m oldm25 10 33# --\n\nGRUPO VI\nO dióxido de carbono, CO2, reage com o hidrogénio, H2, formando-se monóxido de carbono, CO, e vapor de \nágua. A reação em fase gasosa pode ser traduzida pela equação química\nCO2(g) + H2(g) ? CO(g) + H2O(g)\n1. Nesta reação, a variação do número de oxidação do hidrogénio (H) é\n (A) -1\n (B) +1\n (C) +2\n (D) -2\n2. Num reator com a capacidade de 10,00 L, foi introduzida, à temperatura de 700 °C, uma mistura gasosa \ninicialmente constituída por 0,300 mol de CO(g) e por 0,300 mol de H2O(g).\n2.1. Qual é a quantidade total de átomos existente na mistura gasosa?\n (A) ,m ol15 0\n (B) ,m ol12 0\n (C) ,m ol0 900\n (D) ,m ol0 600\n2.2. Calcule a densidade da mistura gasosa no reator.\nApresente todas as etapas de resolução.\n2.3. Quando o sistema químico atingiu um estado de equilíbrio à temperatura de 700 °C, existia no reator \numa quantidade de CO(g) igual a 42,3% da quantidade inicial deste gás.\nDetermine a constante de equilíbrio, Kc, a 700 °C, da reação traduzida pela equação química acima \napresentada, a partir das concentrações de equilíbrio de cada uma das espécies envolvidas na reação.\nApresente todas as etapas de resolução.\n\nGRUPO VII"
     },
     {
-      "id": 1862,
+      "id": 10886,
+      "question_number": "4",
+      "statement": "4. Num dos conjuntos de ensaios realizados, o paralelepípedo deslizou sobre a calha apoiado numa face \nrevestida por um material X e, noutro conjunto de ensaios, deslizou sobre a calha apoiado numa face \nrevestida por um material Y.\nOs resultados obtidos permitiram representar graficamente, num mesmo sistema de eixos, a energia \ndissipada, Ed, em função da distância percorrida, d, para cada um dos conjuntos de ensaios realizados.\nA partir dos gráficos obtidos foi possível concluir que a intensidade da resultante das forças de atrito que \natuaram no paralelepípedo foi maior quando este deslizou apoiado na face revestida pelo material X.\nQual das opções seguintes poderá representar os esboços dos gráficos obtidos?\nX\nY\nEd\nd\n0\n0\nY\nX\nEd\nd\n0\n0\nEd Y\nX\nd\n0\n0\nX\nY\nEd\nd\n0\n0",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21572,
+          "letter": "A",
+          "text": ",J21 81 0 24# - , sendo o eletrão removido de uma qualquer orbital de valência.",
+          "isCorrect": false
+        },
+        {
+          "id": 21573,
+          "letter": "B",
+          "text": ",J21 81 0 24# - , sendo o eletrão removido de uma orbital 2p.",
+          "isCorrect": false
+        },
+        {
+          "id": 21574,
+          "letter": "C",
+          "text": ",J21 81 0 18# - , sendo o eletrão removido de uma qualquer orbital de valência.",
+          "isCorrect": false
+        },
+        {
+          "id": 21575,
+          "letter": "D",
+          "text": ",J21 81 0 18# - , sendo o eletrão removido de uma orbital 2p.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. Utilização de valores numéricos de outras grandezas \nque não apenas as referidas na prova (no enunciado \ndos itens, na tabela de constantes e na tabela \nperiódica).\nAs etapas em que os valores dessas grandezas forem \nutilizados são pontuadas com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO III\nQuando um corpo desliza ao longo de um plano inclinado, ocorre, geralmente, dissipação de parte da \nenergia mecânica do sistema corpo + Terra.\nNuma aula laboratorial de Física, pretendia-se investigar se a energia dissipada e a intensidade da \nresultante das forças de atrito que atuam num corpo que desliza ao longo de um plano inclinado dependem \nda distância percorrida pelo corpo e dos materiais das superfícies em contacto.\nNa Figura 4, está representada uma montagem semelhante à utilizada nessa aula laboratorial.\nParalelepípedo\nTira de cartolina\nD x\nCalha\nCronómetro digital\nCélula\nfotoelétrica\n Figura 4\nNos ensaios efetuados, foi utilizado um paralelepípedo de madeira cujas faces laterais, de igual área, se \nencontravam revestidas por materiais diferentes. Em cada conjunto de ensaios, o paralelepípedo, deslizando \nsobre a calha sempre apoiado numa mesma face, foi abandonado em diversas posições, percorrendo assim \ndistâncias diferentes até passar pela célula fotoelétrica.\nO cronómetro digital ligado à célula fotoelétrica permitiu medir o intervalo de tempo que a tira de cartolina \nfixada no paralelepípedo demorava a passar em frente dessa célula.\nNo tratamento e na interpretação dos resultados experimentais obtidos, considerou-se desprezável a \nresistência do ar."
+    },
+    {
+      "id": 10894,
       "question_number": "4",
       "statement": "4. A energia de ionização do oxigénio é 13 1,k Jm ol10 31# - .\nA energia mínima necessária para remover um eletrão de um átomo de oxigénio no estado fundamental, \nisolado e em fase gasosa é",
       "question_type": "multiple_choice",
@@ -156,45 +417,20 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3434,
-          "letter": "A",
-          "text": ",J21 81 0 24# - , sendo o eletrão removido de uma qualquer orbital de valência.",
-          "isCorrect": false
-        },
-        {
-          "id": 3435,
-          "letter": "B",
-          "text": ",J21 81 0 24# - , sendo o eletrão removido de uma orbital 2p.",
-          "isCorrect": false
-        },
-        {
-          "id": 3436,
-          "letter": "C",
-          "text": ",J21 81 0 18# - , sendo o eletrão removido de uma qualquer orbital de valência.",
-          "isCorrect": false
-        },
-        {
-          "id": 3437,
-          "letter": "D",
-          "text": ",J21 81 0 18# - , sendo o eletrão removido de uma orbital 2p.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 A resposta integra os dois tópicos de referência com organização coerente dos \nconteúdos e linguagem científica adequada. 10",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
+      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6\n1. Na amostra da água gaseificada, a 25 °C, a concentração inicial de iões H3O+ (aq ) é _____________ a\n,m oldm10 01 0 73# -- e é _____________ à concentração de iões OH- (aq ).\n (A) inferior ... igual\n (B) superior ... superior\n (C) inferior ... superior\n (D) superior ... igual\n2. Qual foi a variação da concentração de iões H3O+ (aq ) na amostra da água gaseificada nos primeiros \n5,0 min do intervalo de tempo em que os dados foram registados?\nApresente o resultado com dois algarismos significativos.\n\n3. O dióxido de carbono reage com a água, dando origem ao ácido carbónico, H2CO3(aq ).\nEsta reação pode ser traduzida por\nCO2(aq ) + H2O ( l ) ? H2CO3(aq ) (1)\nO ácido carbónico, H2CO3(aq ), é um ácido diprótico fraco cuja reação de ionização global em água pode \nser traduzida por\nHC Oa qH Ol223 2+^^ hh ? CO aq HO aq232 3+− +^^ hh (2)\n3.1. Quais das seguintes espécies constituem um par ácido-base conjugado?\n (A) H2O ( l ) e CO aq32-^h\n (B) H2CO3(aq ) e H3O+(aq )\n (C) H3O+(aq ) e H2O ( l )\n (D) H2CO3(aq ) e CO aq32-^h\n3.2. Durante o intervalo de tempo em que os dados foram registados, libertou-se CO2(g).\nJustifique, com base no Princípio de Le Châtelier, o aumento do pH da amostra da água gaseificada \nnesse intervalo de tempo.\nTenha em consideração as reações (1) e (2) acima representadas.\n4. A concentração de iões Ca2+(aq ) na amostra da água gaseificada é ,m oldm25 41 0 33# -- , e o produto de \nsolubilidade do carbonato de cálcio, CaCO3, é ,45 10 9# - , a 25 °C.\nQual é a concentração mínima de iões carbonato, CO aq3\n2- ^h , na amostra da água gaseificada, a 25 °C, \na partir da qual poderá ocorrer a precipitação de CaCO3?\n (A) ,m oldm18 10 63# --\n (B) ,m oldm67 10 53# --\n (C) ,m oldm13 10 33# --\n (D) ,m oldm25 10 33# --\n\nGRUPO VI\nO dióxido de carbono, CO2, reage com o hidrogénio, H2, formando-se monóxido de carbono, CO, e vapor de \nágua. A reação em fase gasosa pode ser traduzida pela equação química\nCO2(g) + H2(g) ? CO(g) + H2O(g)\n1. Nesta reação, a variação do número de oxidação do hidrogénio (H) é\n (A) -1\n (B) +1\n (C) +2\n (D) -2\n2. Num reator com a capacidade de 10,00 L, foi introduzida, à temperatura de 700 °C, uma mistura gasosa \ninicialmente constituída por 0,300 mol de CO(g) e por 0,300 mol de H2O(g).\n2.1. Qual é a quantidade total de átomos existente na mistura gasosa?\n (A) ,m ol15 0\n (B) ,m ol12 0\n (C) ,m ol0 900\n (D) ,m ol0 600\n2.2. Calcule a densidade da mistura gasosa no reator.\nApresente todas as etapas de resolução.\n2.3. Quando o sistema químico atingiu um estado de equilíbrio à temperatura de 700 °C, existia no reator \numa quantidade de CO(g) igual a 42,3% da quantidade inicial deste gás.\nDetermine a constante de equilíbrio, Kc, a 700 °C, da reação traduzida pela equação química acima \napresentada, a partir das concentrações de equilíbrio de cada uma das espécies envolvidas na reação.\nApresente todas as etapas de resolução.\n\nGRUPO VII"
     },
     {
-      "id": 1880,
+      "id": 10895,
       "question_number": "5",
-      "statement": "5. Explique porque é que o raio atómico do oxigénio é menor do que o raio atómico do carbono.\nTenha em consideração as configurações eletrónicas destes átomos no estado fundamental.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1.1. 1.2. 1.3. 2.1. 2.2.\n5 5 10 5 10 35\nII 1. 2.\n5 10 15\nIII 1. 2. 3. 4.\n5 15 5 5 30\nIV 1.1. 1.2. 2. 3.\n5 5 5 5 20\nV 1. 2. 3.1. 3.2. 4.\n5 5 5 15 5 35\nVI 1. 2.1. 2.2. 2.3.\n5 5 10 15 35\nVII 1. 2. 3. 4. 5.\n5 5 5 5 10 30\nTOTAL 200",
+      "statement": "5. Explique porque é que o raio atómico do oxigénio é menor do que o raio atómico do carbono.\nTenha em consideração as configurações eletrónicas destes átomos no estado fundamental.",
       "question_type": "essay",
       "max_points": null,
       "difficulty": null,
@@ -203,17 +439,17 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5. .................................................................................................................................................... 10 pontos\nA resposta integra os tópicos de referência seguintes ou outros de conteúdo equivalente:\nA) Os eletrões de valência dos átomos de carbono e de oxigénio [no estado fundamental] \nencontram-se no mesmo nível de energia.\nB) Sendo a carga nuclear do átomo de oxigénio superior à do átomo de carbono, a força \n[atrativa] exercida pelo núcleo do átomo de oxigénio sobre os seus eletrões [de valência] \né maior [do que a força exercida pelo núcleo do átomo de carbono sobre os seus \neletrões de valência, pelo que o raio atómico do oxigénio é menor do que o raio atómico \ndo carbono].\nNota – A apresentação das configurações eletrónicas dos átomos de carbono e de oxigénio no estado \nfundamental não é, por si só, equivalente ao tópico de referência A. Assim, uma resposta \nque apresente exclusivamente aquelas configurações eletrónicas deve ser classificada com \nzero pontos. No caso em que a resposta integre o tópico de referência B, a apresentação, \nno tópico de referência A, apenas daquelas configurações eletrónicas constituirá um fator de \ndesvalorização da resposta, de acordo com os Critérios Gerais de Classificação.\nNíveis Descritores do nível de desempenho Pontuação",
+      "criteriaText": "5. Utilização de valores numéricos diferentes dos forne-\ncidos no enunciado dos itens.\nAs etapas em que esses valores forem utilizados são \npontuadas com zero pontos, salvo se esses valores \nresultarem de erros de transcrição identificáveis, caso em \nque serão considerados erros de tipo 1.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
+      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6\n1. Na amostra da água gaseificada, a 25 °C, a concentração inicial de iões H3O+ (aq ) é _____________ a\n,m oldm10 01 0 73# -- e é _____________ à concentração de iões OH- (aq ).\n (A) inferior ... igual\n (B) superior ... superior\n (C) inferior ... superior\n (D) superior ... igual\n2. Qual foi a variação da concentração de iões H3O+ (aq ) na amostra da água gaseificada nos primeiros \n5,0 min do intervalo de tempo em que os dados foram registados?\nApresente o resultado com dois algarismos significativos.\n\n3. O dióxido de carbono reage com a água, dando origem ao ácido carbónico, H2CO3(aq ).\nEsta reação pode ser traduzida por\nCO2(aq ) + H2O ( l ) ? H2CO3(aq ) (1)\nO ácido carbónico, H2CO3(aq ), é um ácido diprótico fraco cuja reação de ionização global em água pode \nser traduzida por\nHC Oa qH Ol223 2+^^ hh ? CO aq HO aq232 3+− +^^ hh (2)\n3.1. Quais das seguintes espécies constituem um par ácido-base conjugado?\n (A) H2O ( l ) e CO aq32-^h\n (B) H2CO3(aq ) e H3O+(aq )\n (C) H3O+(aq ) e H2O ( l )\n (D) H2CO3(aq ) e CO aq32-^h\n3.2. Durante o intervalo de tempo em que os dados foram registados, libertou-se CO2(g).\nJustifique, com base no Princípio de Le Châtelier, o aumento do pH da amostra da água gaseificada \nnesse intervalo de tempo.\nTenha em consideração as reações (1) e (2) acima representadas.\n4. A concentração de iões Ca2+(aq ) na amostra da água gaseificada é ,m oldm25 41 0 33# -- , e o produto de \nsolubilidade do carbonato de cálcio, CaCO3, é ,45 10 9# - , a 25 °C.\nQual é a concentração mínima de iões carbonato, CO aq3\n2- ^h , na amostra da água gaseificada, a 25 °C, \na partir da qual poderá ocorrer a precipitação de CaCO3?\n (A) ,m oldm18 10 63# --\n (B) ,m oldm67 10 53# --\n (C) ,m oldm13 10 33# --\n (D) ,m oldm25 10 33# --\n\nGRUPO VI\nO dióxido de carbono, CO2, reage com o hidrogénio, H2, formando-se monóxido de carbono, CO, e vapor de \nágua. A reação em fase gasosa pode ser traduzida pela equação química\nCO2(g) + H2(g) ? CO(g) + H2O(g)\n1. Nesta reação, a variação do número de oxidação do hidrogénio (H) é\n (A) -1\n (B) +1\n (C) +2\n (D) -2\n2. Num reator com a capacidade de 10,00 L, foi introduzida, à temperatura de 700 °C, uma mistura gasosa \ninicialmente constituída por 0,300 mol de CO(g) e por 0,300 mol de H2O(g).\n2.1. Qual é a quantidade total de átomos existente na mistura gasosa?\n (A) ,m ol15 0\n (B) ,m ol12 0\n (C) ,m ol0 900\n (D) ,m ol0 600\n2.2. Calcule a densidade da mistura gasosa no reator.\nApresente todas as etapas de resolução.\n2.3. Quando o sistema químico atingiu um estado de equilíbrio à temperatura de 700 °C, existia no reator \numa quantidade de CO(g) igual a 42,3% da quantidade inicial deste gás.\nDetermine a constante de equilíbrio, Kc, a 700 °C, da reação traduzida pela equação química acima \napresentada, a partir das concentrações de equilíbrio de cada uma das espécies envolvidas na reação.\nApresente todas as etapas de resolução.\n\nGRUPO VII"
     },
     {
-      "id": 1864,
+      "id": 10888,
       "question_number": "1.1",
       "statement": "1.1. Considere que a capacidade térmica mássica do refrigerante é ,J kg C42 10 o31 1# -- e que a massa \nda amostra é 0,34 kg.\nQual foi a variação da energia interna da amostra, no intervalo de tempo ;m in07 65 ? ?",
       "question_type": "open",
@@ -224,7 +460,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1.1. ................................................................................................................................................. 5 pontos\n,J23 10 4# ou equivalente.\nNota – A apresentação do valor solicitado com um arredondamento incorreto ou com um número incorreto de \nalgarismos significativos não implica qualquer desvalorização.",
+      "criteriaText": "1.1. ................................................................................................................................................. 5 pontos\n2,4 m",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -234,9 +470,9 @@
       "contextText": null
     },
     {
-      "id": 1852,
+      "id": 10876,
       "question_number": "1.2",
-      "statement": "1.2. Admita que a potência da radiação incidente na superfície da lata se manteve constante no intervalo \nde tempo em que os dados foram registados. \nNo intervalo de tempo ;m in07 65 ? , terá ocorrido uma diminuição",
+      "statement": "1.2. A componente escalar, segundo o referencial Ox considerado, da velocidade, vx, da bola varia com o \ntempo, t, de acordo com a equação",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -246,33 +482,54 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3398,
+          "id": 21552,
           "letter": "A",
           "text": "da taxa temporal de absorção de energia pela superfície da lata.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
-          "id": 3399,
+          "id": 21553,
           "letter": "B",
           "text": "da taxa temporal de emissão de energia pela superfície da lata.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 3400,
+          "id": 21554,
           "letter": "C",
           "text": "da diferença entre as taxas temporais de absorção e de emissão de energia pela superfície da lata.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
-          "id": 3401,
+          "id": 21555,
           "letter": "D",
           "text": "da soma das taxas temporais de absorção e de emissão de energia pela superfície da lata.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
-      "criteriaText": "1.2. Versão 1 – (C); Versão 2 – (B) .............................................................................................. 5 pontos",
+      "criteriaText": "1.2. Versão 1 – (A); Versão 2 – (D) .............................................................................................. 5 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10889,
+      "question_number": "1.2",
+      "statement": "1.2. Admita que a potência da radiação incidente na superfície da lata se manteve constante no intervalo \nde tempo em que os dados foram registados. \nNo intervalo de tempo ;m in07 65 ? , terá ocorrido uma diminuição",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -280,7 +537,7 @@
       "contextText": null
     },
     {
-      "id": 1853,
+      "id": 10877,
       "question_number": "1.3",
       "statement": "1.3. Determine a distância percorrida pela bola no intervalo de tempo ,; ,s00 306@ , utilizando as \npotencialidades gráficas da calculadora.\nNa sua resposta:\n• apresente um esboço do gráfico da componente escalar da posição, x, da bola em função do \ntempo, t, desde o instante t = 0,0 s até, pelo menos, ao instante t = 3,0 s;\n• indique, no esboço apresentado, os valores de x necessários ao cálculo daquela distância;\n• apresente o valor da distância percorrida pela bola no intervalo de tempo considerado.",
       "question_type": "calculation",
@@ -301,9 +558,9 @@
       "contextText": null
     },
     {
-      "id": 1855,
+      "id": 10879,
       "question_number": "2.1",
-      "statement": "2.1. Qual é a quantidade total de átomos existente na mistura gasosa?",
+      "statement": "2.1. Qual dos esboços de gráfico seguintes pode representar a intensidade da resultante das forças que \natuam na bola, F, em função do módulo da aceleração, a, da bola?",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -313,41 +570,41 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3422,
+          "id": 21540,
           "letter": "A",
-          "text": ",m ol15 0",
+          "text": "",
           "isCorrect": true
         },
         {
-          "id": 3423,
+          "id": 21541,
           "letter": "B",
-          "text": ",m ol12 0",
+          "text": "",
           "isCorrect": false
         },
         {
-          "id": 3424,
+          "id": 21542,
           "letter": "C",
-          "text": ",m ol0 900",
-          "isCorrect": false
+          "text": "",
+          "isCorrect": true
         },
         {
-          "id": 3425,
+          "id": 21543,
           "letter": "D",
-          "text": ",m ol0 600",
-          "isCorrect": true
+          "text": "F a0 F a0 F a0 F a0",
+          "isCorrect": false
         }
       ],
-      "criteriaText": "2.1. Versão 1 – (A); Versão 2 – (D) .............................................................................................. 5 pontos",
+      "criteriaText": "2.1. Versão 1 – (C); Versão 2 – (A) .............................................................................................. 5 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": null
     },
     {
-      "id": 1856,
+      "id": 10880,
       "question_number": "2.2",
       "statement": "2.2. Na Figura 1, está representada uma imagem estroboscópica de um movimento da bola, no qual a \ntrajetória descrita pela bola é uma circunferência de raio 30 cm. Nessa imagem estroboscópica, as \nposições da bola foram registadas a intervalos de tempo de ,s40 10 2# - .\nFigura 1\nDetermine o módulo da aceleração da bola no movimento considerado.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
@@ -358,7 +615,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.2. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Cálculo da massa de CO na mistura gasosa inicial (m = 8,403 g)\nOU\nCálculo da massa de H2O na mistura gasosa inicial (m = 5,406 g) .............. 2 pontos\nB) Cálculo da massa da mistura gasosa (m = 13,809 g) ..................................... 4 pontos\nC) Cálculo da densidade da mistura gasosa no reator ( ,g dm13 8 3t = − ) .......... 4 pontos\nOU\nA) Cálculo do volume molar de um gás, nas condições de pressão e de\n temperatura que se verificam no interior do reator (Vm = 16,67 dm3 mol-1) ... 4 pontos \nB) Cálculo da densidade do monóxido de carbono, CO (g), nas condições de\npressão e de temperatura que se verificam no interior do reator\n( ,g dm1 680 3t = − )\nOU\nCálculo da densidade do vapor de água, H2O (g), nas condições de pressão e\n de temperatura que se verificam no interior do reator ( ,g dm1 081 3t = − ) ... 2 pontos\nC) Cálculo da densidade da mistura gasosa no reator ( ,g dm13 8 3t = − ) .......... 4 pontos",
+      "criteriaText": "2.2. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Cálculo do módulo da velocidade da bola no movimento considerado\n(v = 5,89 m s-1)\nOU\nCálculo do módulo da velocidade angular da bola no movimento considerado\n(~ = 19,6 rad s-1) ........................................................................................... 5 pontos\nB) Cálculo do módulo da aceleração da bola no movimento considerado\n( ,m sa 12 10 22#= − ) ...................................................................................... 5 pontos\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -366,94 +623,6 @@
       "groupName": "GRUPO I",
       "contextTitle": null,
       "contextText": null
-    },
-    {
-      "id": 1876,
-      "question_number": "2.3",
-      "statement": "2.3. Quando o sistema químico atingiu um estado de equilíbrio à temperatura de 700 °C, existia no reator \numa quantidade de CO(g) igual a 42,3% da quantidade inicial deste gás.\nDetermine a constante de equilíbrio, Kc, a 700 °C, da reação traduzida pela equação química acima \napresentada, a partir das concentrações de equilíbrio de cada uma das espécies envolvidas na reação.\nApresente todas as etapas de resolução.\n\nGRUPO VII",
-      "question_type": "calculation",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "2.3. ................................................................................................................................................. 15 pontos\nEtapas de resolução:\nA) Cálculo da quantidade de CO (g) que existia no reator no estado de equilíbrio\n(n = 0,1269 mol) ................................................................................................ 3 pontos\nB) Cálculo da quantidade de CO(g) (ou da quantidade de H2O(g)) que reagiu\n(n = 0,1731 mol) .............................................................................................. 3 pontos\nC) Cálculo das concentrações de equilíbrio de CO(g) e de H2O(g)\n(c = 0,01269 mol dm-3) ................................................................................... 1 ponto\nD) Determinação das concentrações de equilíbrio de CO2(g) e de H2(g)\n(c = 0,01731 mol dm-3) ................................................................................... 4 pontos\nE) Cálculo da constante de equilíbrio da reação considerada, à temperatura de\n 700 °C (Kc = 0,537) ....................................................................................... 4 pontos\n\nGRUPO VII",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
-    },
-    {
-      "id": 1871,
-      "question_number": "3.1",
-      "statement": "3.1. Quais das seguintes espécies constituem um par ácido-base conjugado?",
-      "question_type": "multiple_choice",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3414,
-          "letter": "A",
-          "text": "H2O ( l ) e CO aq32-^h",
-          "isCorrect": true
-        },
-        {
-          "id": 3415,
-          "letter": "B",
-          "text": "H2CO3(aq ) e H3O+(aq )",
-          "isCorrect": false
-        },
-        {
-          "id": 3416,
-          "letter": "C",
-          "text": "H3O+(aq ) e H2O ( l )",
-          "isCorrect": true
-        },
-        {
-          "id": 3417,
-          "letter": "D",
-          "text": "H2CO3(aq ) e CO aq32-^h",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3.1. Versão 1 – (C); Versão 2 – (A) .............................................................................................. 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
-    },
-    {
-      "id": 1872,
-      "question_number": "3.2",
-      "statement": "3.2. Durante o intervalo de tempo em que os dados foram registados, libertou-se CO2(g).\nJustifique, com base no Princípio de Le Châtelier, o aumento do pH da amostra da água gaseificada \nnesse intervalo de tempo.\nTenha em consideração as reações (1) e (2) acima representadas.",
-      "question_type": "essay",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "3.2. ................................................................................................................................................. 15 pontos\nA resposta integra os tópicos de referência seguintes ou outros de conteúdo equivalente:\nA) [Durante o intervalo de tempo em que os dados foram registados] a concentração de \nCO2 [na amostra da água gaseificada] diminuiu, o que determinou [, de acordo com o \nPrincípio de Le Châtelier,] o favorecimento da reação (1) no sentido inverso.\nB) A diminuição da concentração de H2CO3( aq ) [resultante do favorecimento da reação (1) \nno sentido inverso] determinou [, também de acordo com o Princípio de Le Châtelier,] o \nfavorecimento da reação (2) no sentido inverso.\nC) [Assim,] a concentração de H3O+( aq ) [na amostra da água gaseificada] diminuiu [, o \nque implicou um aumento do pH da amostra durante o intervalo de tempo em que os \ndados foram registados]. \n\nNíveis Descritores do nível de desempenho Pontuação",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": "Figura 6",
-      "contextText": "GRUPO V\nAs águas gaseificadas para consumo contêm dióxido de carbono, CO2, dissolvido.\nA Figura 6 mostra a evolução ao longo do tempo, t, do pH, a 25 °C, de uma amostra de uma água gaseificada \nque foi posta em contacto com o ar.\nOs dados foram registados durante um determinado intervalo de tempo, que teve início num instante muito \npróximo daquele em que a amostra, inicialmente fechada, foi posta em contacto com o ar.\n5,10\n5,20 \n \n5,30 \n \n5,40 \n \n5,50 \n \n0,0 2,0 4,0 6,0 8,0 10,0 12,0 14,0 \npH\nt / min \nFigura 6"
     }
   ]
 }

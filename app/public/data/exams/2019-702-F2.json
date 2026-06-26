@@ -4,31 +4,120 @@
   "subject": "Biologia e Geologia",
   "year": 2019,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 169,
+      "id": 1429,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 170,
+      "id": 1430,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 171,
+      "id": 1431,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 172,
+      "id": 1432,
       "name": "GRUPO IV",
       "order": 3
     }
   ],
   "questions": [
     {
-      "id": 1261,
+      "id": 10330,
+      "question_number": "1",
+      "statement": "1. A formação do Pico das Camarinhas está relacionada com um vulcanismo",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20336,
+          "letter": "A",
+          "text": "ligações de certos grupos químicos aos nucleótidos do DNA de células somáticas.",
+          "isCorrect": false
+        },
+        {
+          "id": 20337,
+          "letter": "B",
+          "text": "modificações da sequência de aminoácidos nas histonas de células que originam gâmetas.",
+          "isCorrect": false
+        },
+        {
+          "id": 20338,
+          "letter": "C",
+          "text": "ligações de certos grupos químicos aos nucleótidos do DNA de células que originam gâmetas.",
+          "isCorrect": false
+        },
+        {
+          "id": 20339,
+          "letter": "D",
+          "text": "modificações da sequência de aminoácidos nas histonas de células somáticas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. a 4. ...............................................................(4 × 5 pontos) ....................................................... 20 pontos\nitens 1 2 3 4\nVersão 1 C B B d\nVersão 2 d a d C",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10340,
+      "question_number": "1",
+      "statement": "1. Um dos objetivos do estudo foi",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10348,
+      "question_number": "1",
+      "statement": "1. A existência de gás de shale na Formação de Brenha resulta da atividade de seres que se desenvolveram",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10358,
       "question_number": "1",
       "statement": "1. Os mecanismo s de alteração da expressão do DNA referidos no texto consideram-se hereditários quando \nresultam de",
       "question_type": "multiple_choice",
@@ -38,33 +127,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2130,
-          "letter": "A",
-          "text": "ligações de certos grupos químicos aos nucleótidos do DNA de células somáticas.",
-          "isCorrect": false
-        },
-        {
-          "id": 2131,
-          "letter": "B",
-          "text": "modificações da sequência de aminoácidos nas histonas de células que originam gâmetas.",
-          "isCorrect": false
-        },
-        {
-          "id": 2132,
-          "letter": "C",
-          "text": "ligações de certos grupos químicos aos nucleótidos do DNA de células que originam gâmetas.",
-          "isCorrect": false
-        },
-        {
-          "id": 2133,
-          "letter": "D",
-          "text": "modificações da sequência de aminoácidos nas histonas de células somáticas.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nGrupo item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -74,7 +138,95 @@
       "contextText": "GRUPO IV\nA insulina é uma hormona, codificada por um gene, que controla os níveis de glucose no sangue, \nmantendo-os numa concentração adequada ao bom funcionamento do organismo.\nQuando uma mãe não produz insulina em quantidade suficiente entre duas gravidezes, desenvolve \ndiabetes tipo 2, e o segundo filho irá crescer num ambiente gestacional onde a concentração \nde glucose no plasma ‒ glicemia ‒ é muito elevada. Segundo Guillaume Charpentier, este filho, \nrelativamente ao irmão mais velho, corre um risco quatro vezes maior de se tornar diabético. Aquele \nautor constata ainda que, em células de crianças nascidas de mães diabéticas, se observa a adição \nde um grupo químico a alguns nucleótidos dos genes implicados na regulação da produção de \ninsulina, o que compromete essa regulação.\nEstudos recentes têm demonstrado como os fatores ambientais ‒ alimentação, consumo de \ndrogas, stress, poluição atmosférica e condições climáticas ‒ influenciam a expressão dos genes, \ngerando mudanças nos caracteres sem que, no entanto, ocorram mutações do DNA. Essa influência \nrelaciona-se com o grau de ligação de certos grupos químicos ao DNA ou às histonas (proteínas \nà volta das quais o DNA se enrola para formar a cromatina), podendo conduzir à inativação ou à \nativação da transcrição dos genes. Estes mecanismos de alteração da expressão do DNA podem \nser hereditários.\nAtualmente, um dos objetivos dos cientistas é identificar todos os locais do DNA em que ocorrem \nmodificações químicas semelhantes às descritas.\nBaseado em: C. Bruyère, «Épigenétique: quand notre environnement influence nos gènes»,\nScience & Univers, N.º 29, agosto de 2018."
     },
     {
-      "id": 1262,
+      "id": 10331,
+      "question_number": "2",
+      "statement": "2.\n As escoadas de lava que deram origem ao delta lávico da Ponta da Ferraria",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20340,
+          "letter": "A",
+          "text": "surgem devido à influência de fatores ambientais.",
+          "isCorrect": false
+        },
+        {
+          "id": 20341,
+          "letter": "B",
+          "text": "são selecionadas por influência de fatores ambientais.",
+          "isCorrect": false
+        },
+        {
+          "id": 20342,
+          "letter": "C",
+          "text": "ocorrem na população devido a mutações génicas.",
+          "isCorrect": false
+        },
+        {
+          "id": 20343,
+          "letter": "D",
+          "text": "resultam de alterações no processo de tradução.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10341,
+      "question_number": "2",
+      "statement": "2. Considere as afirmações seguintes, relativas às características do grupo de referência utilizado no estudo.\nDe acordo com os dados apresentados,\nI.\n o grupo de referência inclui tartarugas escolhidas alea\ntoriamente.\nII. o grupo de referência inclui tartarugas que morreram devido ao choque com embarcações.\nIII. o grupo de referência inclui tartarugas de diversas idades.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10349,
+      "question_number": "2",
+      "statement": "2.\n Methanosaeta pelagica é um ser",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10359,
       "question_number": "2",
       "statement": "2.\n De acordo com o texto, as mudanças nos caracteres dos indivíduos",
       "question_type": "multiple_choice",
@@ -84,33 +236,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2134,
-          "letter": "A",
-          "text": "surgem devido à influência de fatores ambientais.",
-          "isCorrect": false
-        },
-        {
-          "id": 2135,
-          "letter": "B",
-          "text": "são selecionadas por influência de fatores ambientais.",
-          "isCorrect": false
-        },
-        {
-          "id": 2136,
-          "letter": "C",
-          "text": "ocorrem na população devido a mutações génicas.",
-          "isCorrect": false
-        },
-        {
-          "id": 2137,
-          "letter": "D",
-          "text": "resultam de alterações no processo de tradução.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2 Explica, com falhas no rigor científico, de que modo o aparecimento da diabetes pode ser \ninterpretado à luz do lamarckismo, apresentando apenas dois dos elementos. 4",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -120,7 +247,95 @@
       "contextText": "GRUPO IV\nA insulina é uma hormona, codificada por um gene, que controla os níveis de glucose no sangue, \nmantendo-os numa concentração adequada ao bom funcionamento do organismo.\nQuando uma mãe não produz insulina em quantidade suficiente entre duas gravidezes, desenvolve \ndiabetes tipo 2, e o segundo filho irá crescer num ambiente gestacional onde a concentração \nde glucose no plasma ‒ glicemia ‒ é muito elevada. Segundo Guillaume Charpentier, este filho, \nrelativamente ao irmão mais velho, corre um risco quatro vezes maior de se tornar diabético. Aquele \nautor constata ainda que, em células de crianças nascidas de mães diabéticas, se observa a adição \nde um grupo químico a alguns nucleótidos dos genes implicados na regulação da produção de \ninsulina, o que compromete essa regulação.\nEstudos recentes têm demonstrado como os fatores ambientais ‒ alimentação, consumo de \ndrogas, stress, poluição atmosférica e condições climáticas ‒ influenciam a expressão dos genes, \ngerando mudanças nos caracteres sem que, no entanto, ocorram mutações do DNA. Essa influência \nrelaciona-se com o grau de ligação de certos grupos químicos ao DNA ou às histonas (proteínas \nà volta das quais o DNA se enrola para formar a cromatina), podendo conduzir à inativação ou à \nativação da transcrição dos genes. Estes mecanismos de alteração da expressão do DNA podem \nser hereditários.\nAtualmente, um dos objetivos dos cientistas é identificar todos os locais do DNA em que ocorrem \nmodificações químicas semelhantes às descritas.\nBaseado em: C. Bruyère, «Épigenétique: quand notre environnement influence nos gènes»,\nScience & Univers, N.º 29, agosto de 2018."
     },
     {
-      "id": 1263,
+      "id": 10332,
+      "question_number": "3",
+      "statement": "3.\n O magma que originou \na rocha que constitui o Pico das Camarinhas, comparado com o que originou a \nrocha que constitui o domo traquítico,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20344,
+          "letter": "A",
+          "text": "replicação conservativa da informação genética.",
+          "isCorrect": false
+        },
+        {
+          "id": 20345,
+          "letter": "B",
+          "text": "transcrição do gene para moléculas de RNA de transferência.",
+          "isCorrect": false
+        },
+        {
+          "id": 20346,
+          "letter": "C",
+          "text": "leitura aleatória do RNA mensageiro no citoplasma.",
+          "isCorrect": false
+        },
+        {
+          "id": 20347,
+          "letter": "D",
+          "text": "tradução da sequência de codões do RNA mensageiro processado.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10342,
+      "question_number": "3",
+      "statement": "3.\n Os resultados do estudo permitem concluir que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10350,
+      "question_number": "3",
+      "statement": "3.\n De \nacordo com o sistema de classificação em três domínios, os organismos incluídos no domínio Archaea \ndistinguem-se dos organismos dos outros domínios por apresentarem",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10360,
       "question_number": "3",
       "statement": "3. A síntese de uma proteína a partir da informação de um gene resulta da",
       "question_type": "multiple_choice",
@@ -130,33 +345,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2138,
-          "letter": "A",
-          "text": "replicação conservativa da informação genética.",
-          "isCorrect": false
-        },
-        {
-          "id": 2139,
-          "letter": "B",
-          "text": "transcrição do gene para moléculas de RNA de transferência.",
-          "isCorrect": false
-        },
-        {
-          "id": 2140,
-          "letter": "C",
-          "text": "leitura aleatória do RNA mensageiro no citoplasma.",
-          "isCorrect": false
-        },
-        {
-          "id": 2141,
-          "letter": "D",
-          "text": "tradução da sequência de codões do RNA mensageiro processado.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3 Explica, com rigor científico, de que modo o aparecimento da diabetes pode ser \ninterpretado à luz do lamarckismo, apresentando apenas dois dos elementos. 6",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -166,7 +356,95 @@
       "contextText": "GRUPO IV\nA insulina é uma hormona, codificada por um gene, que controla os níveis de glucose no sangue, \nmantendo-os numa concentração adequada ao bom funcionamento do organismo.\nQuando uma mãe não produz insulina em quantidade suficiente entre duas gravidezes, desenvolve \ndiabetes tipo 2, e o segundo filho irá crescer num ambiente gestacional onde a concentração \nde glucose no plasma ‒ glicemia ‒ é muito elevada. Segundo Guillaume Charpentier, este filho, \nrelativamente ao irmão mais velho, corre um risco quatro vezes maior de se tornar diabético. Aquele \nautor constata ainda que, em células de crianças nascidas de mães diabéticas, se observa a adição \nde um grupo químico a alguns nucleótidos dos genes implicados na regulação da produção de \ninsulina, o que compromete essa regulação.\nEstudos recentes têm demonstrado como os fatores ambientais ‒ alimentação, consumo de \ndrogas, stress, poluição atmosférica e condições climáticas ‒ influenciam a expressão dos genes, \ngerando mudanças nos caracteres sem que, no entanto, ocorram mutações do DNA. Essa influência \nrelaciona-se com o grau de ligação de certos grupos químicos ao DNA ou às histonas (proteínas \nà volta das quais o DNA se enrola para formar a cromatina), podendo conduzir à inativação ou à \nativação da transcrição dos genes. Estes mecanismos de alteração da expressão do DNA podem \nser hereditários.\nAtualmente, um dos objetivos dos cientistas é identificar todos os locais do DNA em que ocorrem \nmodificações químicas semelhantes às descritas.\nBaseado em: C. Bruyère, «Épigenétique: quand notre environnement influence nos gènes»,\nScience & Univers, N.º 29, agosto de 2018."
     },
     {
-      "id": 1264,
+      "id": 10333,
+      "question_number": "4",
+      "statement": "4.\n Considere as afirmações seguintes, referentes ao complexo vulcânico das Sete Cidades.\nI.\n A\n atividade vulcânica que originou este complexo teve fases alternadamente efusivas e explosivas.\nII. A\n rocha que constitui os xenólitos da Ponta da Ferraria é mais antiga do que a rocha encaixante.\nIII. As rochas que formam o delta lávico da Ponta da Ferraria apresentam uma superfície lisa.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20348,
+          "letter": "A",
+          "text": "a glucose em excesso no organismo é transformada em amido.",
+          "isCorrect": false
+        },
+        {
+          "id": 20349,
+          "letter": "B",
+          "text": "a glucose é degradada em reações que ocorrem em vias anabólicas.",
+          "isCorrect": false
+        },
+        {
+          "id": 20350,
+          "letter": "C",
+          "text": "a oxidação completa da glucose ocorre em condições aeróbias.",
+          "isCorrect": false
+        },
+        {
+          "id": 20351,
+          "letter": "D",
+          "text": "a oxidação completa da glucose implica a produção de ácido láctico.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10343,
+      "question_number": "4",
+      "statement": "4.\n Ao contrário do que ocorre nas tartarugas, na medusa, a digestão ocorre",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10351,
+      "question_number": "4",
+      "statement": "4.\n O gás de \nshale está armazenado em rochas sedimentares",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10361,
       "question_number": "4",
       "statement": "4.\n Na utilização da glucose nas células animais, verifica-se que",
       "question_type": "multiple_choice",
@@ -176,33 +454,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2142,
-          "letter": "A",
-          "text": "a glucose em excesso no organismo é transformada em amido.",
-          "isCorrect": false
-        },
-        {
-          "id": 2143,
-          "letter": "B",
-          "text": "a glucose é degradada em reações que ocorrem em vias anabólicas.",
-          "isCorrect": false
-        },
-        {
-          "id": 2144,
-          "letter": "C",
-          "text": "a oxidação completa da glucose ocorre em condições aeróbias.",
-          "isCorrect": false
-        },
-        {
-          "id": 2145,
-          "letter": "D",
-          "text": "a oxidação completa da glucose implica a produção de ácido láctico.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 Explica, com falhas no rigor científico, de que modo o aparecimento da diabetes pode ser \ninterpretado à luz do lamarckismo, apresentando os três elementos (A, B, C). 8",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -212,7 +465,95 @@
       "contextText": "GRUPO IV\nA insulina é uma hormona, codificada por um gene, que controla os níveis de glucose no sangue, \nmantendo-os numa concentração adequada ao bom funcionamento do organismo.\nQuando uma mãe não produz insulina em quantidade suficiente entre duas gravidezes, desenvolve \ndiabetes tipo 2, e o segundo filho irá crescer num ambiente gestacional onde a concentração \nde glucose no plasma ‒ glicemia ‒ é muito elevada. Segundo Guillaume Charpentier, este filho, \nrelativamente ao irmão mais velho, corre um risco quatro vezes maior de se tornar diabético. Aquele \nautor constata ainda que, em células de crianças nascidas de mães diabéticas, se observa a adição \nde um grupo químico a alguns nucleótidos dos genes implicados na regulação da produção de \ninsulina, o que compromete essa regulação.\nEstudos recentes têm demonstrado como os fatores ambientais ‒ alimentação, consumo de \ndrogas, stress, poluição atmosférica e condições climáticas ‒ influenciam a expressão dos genes, \ngerando mudanças nos caracteres sem que, no entanto, ocorram mutações do DNA. Essa influência \nrelaciona-se com o grau de ligação de certos grupos químicos ao DNA ou às histonas (proteínas \nà volta das quais o DNA se enrola para formar a cromatina), podendo conduzir à inativação ou à \nativação da transcrição dos genes. Estes mecanismos de alteração da expressão do DNA podem \nser hereditários.\nAtualmente, um dos objetivos dos cientistas é identificar todos os locais do DNA em que ocorrem \nmodificações químicas semelhantes às descritas.\nBaseado em: C. Bruyère, «Épigenétique: quand notre environnement influence nos gènes»,\nScience & Univers, N.º 29, agosto de 2018."
     },
     {
-      "id": 1265,
+      "id": 10334,
+      "question_number": "5",
+      "statement": "5.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência cronológica \ndos acontecimentos geológicos relacionados com a formação e a evolução do complexo das Sete Cidades.\nA.\n Formação do Pico das Camarinhas.\nB.\n Formação do delta lávico da Ponta da Ferraria.\nC.\n Formação da superfície de erosão mais antiga da região.\nD.\n Formação do vulcão central das Sete Cidades.\nE. \n Formação de um domo de natureza traquítica.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20352,
+          "letter": "A",
+          "text": "polissacarídeo.",
+          "isCorrect": false
+        },
+        {
+          "id": 20353,
+          "letter": "B",
+          "text": "polipéptido.",
+          "isCorrect": false
+        },
+        {
+          "id": 20354,
+          "letter": "C",
+          "text": "fosfolípido.",
+          "isCorrect": false
+        },
+        {
+          "id": 20355,
+          "letter": "D",
+          "text": "ribonucleótido.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 5 pontos\nVersão 1 – d, C, E, a, B\nVersão 2 – C, a, d, B, E",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10344,
+      "question_number": "5",
+      "statement": "5.\n Observando-se, \nao microscópio, um lote de células extraídas das tartarugas alvo do estudo, em meio de \nmontagem com água retirada do local onde habitam, será de esperar que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10352,
+      "question_number": "5",
+      "statement": "5.\n Na Formação de Brenha, a presença \nde fósseis de amonites, seres contemporâneos dos dinossauros, \npermite inferir,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10362,
       "question_number": "5",
       "statement": "5.\n A\n insulina, quimicamente, é um",
       "question_type": "multiple_choice",
@@ -222,33 +563,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2146,
-          "letter": "A",
-          "text": "polissacarídeo.",
-          "isCorrect": false
-        },
-        {
-          "id": 2147,
-          "letter": "B",
-          "text": "polipéptido.",
-          "isCorrect": false
-        },
-        {
-          "id": 2148,
-          "letter": "C",
-          "text": "fosfolípido.",
-          "isCorrect": false
-        },
-        {
-          "id": 2149,
-          "letter": "D",
-          "text": "ribonucleótido.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5 5 5 5 5 5 5 5 5 10 55\nIV 1. 2. 3. 4. 5. 6. 7.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -258,9 +574,9 @@
       "contextText": "GRUPO IV\nA insulina é uma hormona, codificada por um gene, que controla os níveis de glucose no sangue, \nmantendo-os numa concentração adequada ao bom funcionamento do organismo.\nQuando uma mãe não produz insulina em quantidade suficiente entre duas gravidezes, desenvolve \ndiabetes tipo 2, e o segundo filho irá crescer num ambiente gestacional onde a concentração \nde glucose no plasma ‒ glicemia ‒ é muito elevada. Segundo Guillaume Charpentier, este filho, \nrelativamente ao irmão mais velho, corre um risco quatro vezes maior de se tornar diabético. Aquele \nautor constata ainda que, em células de crianças nascidas de mães diabéticas, se observa a adição \nde um grupo químico a alguns nucleótidos dos genes implicados na regulação da produção de \ninsulina, o que compromete essa regulação.\nEstudos recentes têm demonstrado como os fatores ambientais ‒ alimentação, consumo de \ndrogas, stress, poluição atmosférica e condições climáticas ‒ influenciam a expressão dos genes, \ngerando mudanças nos caracteres sem que, no entanto, ocorram mutações do DNA. Essa influência \nrelaciona-se com o grau de ligação de certos grupos químicos ao DNA ou às histonas (proteínas \nà volta das quais o DNA se enrola para formar a cromatina), podendo conduzir à inativação ou à \nativação da transcrição dos genes. Estes mecanismos de alteração da expressão do DNA podem \nser hereditários.\nAtualmente, um dos objetivos dos cientistas é identificar todos os locais do DNA em que ocorrem \nmodificações químicas semelhantes às descritas.\nBaseado em: C. Bruyère, «Épigenétique: quand notre environnement influence nos gènes»,\nScience & Univers, N.º 29, agosto de 2018."
     },
     {
-      "id": 1266,
+      "id": 10335,
       "question_number": "6",
-      "statement": "6.\n As mutações que ocorrem numa sequência de nucleótidos que codifica uma proteína",
+      "statement": "6. As características da água da nascente termal da Ponta da Ferraria referidas no texto estão relacionadas \ncom",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -270,31 +586,94 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 2150,
+          "id": 20356,
           "letter": "A",
           "text": "podem causar modificações na estrutura dos aminoácidos.",
           "isCorrect": false
         },
         {
-          "id": 2151,
+          "id": 20357,
           "letter": "B",
           "text": "causam alterações nos mecanismos de tradução.",
           "isCorrect": false
         },
         {
-          "id": 2152,
+          "id": 20358,
           "letter": "C",
           "text": "causam alterações nos mecanismos de transcrição.",
           "isCorrect": false
         },
         {
-          "id": 2153,
+          "id": 20359,
           "letter": "D",
           "text": "podem levar à formação de diferentes proteínas.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – C, d, E, a, B\nVersão 2 – d, E, B, a, C",
+      "criteriaText": "6. a 8. ...............................................................(3 × 5 pontos) ....................................................... 15 pontos\nitens 6 7 8\nVersão 1 a a C\nVersão 2 C d B",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10345,
+      "question_number": "6",
+      "statement": "6. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência correta de \nacontecimentos relacionados com o ciclo de vida das tartarugas marinhas. Inicie a sequência pela etapa \nque corresponde à produção de gâmetas.\nA.\n Postura de ovos na praia.\nB.\n Migração para mar aberto.\nC.\n Formação de células haploides.\nD.\n Acasalamento em zonas de reprodução.\nE. \n União de células sexuais.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10353,
+      "question_number": "6",
+      "statement": "6.\n A\n Bacia Lusitaniana formou-se, durante a fraturação da Pangeia, como consequência da formação de \nfalhas",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10363,
+      "question_number": "6",
+      "statement": "6.\n As mutações que ocorrem numa sequência de nucleótidos que codifica uma proteína",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -304,9 +683,30 @@
       "contextText": "GRUPO IV\nA insulina é uma hormona, codificada por um gene, que controla os níveis de glucose no sangue, \nmantendo-os numa concentração adequada ao bom funcionamento do organismo.\nQuando uma mãe não produz insulina em quantidade suficiente entre duas gravidezes, desenvolve \ndiabetes tipo 2, e o segundo filho irá crescer num ambiente gestacional onde a concentração \nde glucose no plasma ‒ glicemia ‒ é muito elevada. Segundo Guillaume Charpentier, este filho, \nrelativamente ao irmão mais velho, corre um risco quatro vezes maior de se tornar diabético. Aquele \nautor constata ainda que, em células de crianças nascidas de mães diabéticas, se observa a adição \nde um grupo químico a alguns nucleótidos dos genes implicados na regulação da produção de \ninsulina, o que compromete essa regulação.\nEstudos recentes têm demonstrado como os fatores ambientais ‒ alimentação, consumo de \ndrogas, stress, poluição atmosférica e condições climáticas ‒ influenciam a expressão dos genes, \ngerando mudanças nos caracteres sem que, no entanto, ocorram mutações do DNA. Essa influência \nrelaciona-se com o grau de ligação de certos grupos químicos ao DNA ou às histonas (proteínas \nà volta das quais o DNA se enrola para formar a cromatina), podendo conduzir à inativação ou à \nativação da transcrição dos genes. Estes mecanismos de alteração da expressão do DNA podem \nser hereditários.\nAtualmente, um dos objetivos dos cientistas é identificar todos os locais do DNA em que ocorrem \nmodificações químicas semelhantes às descritas.\nBaseado em: C. Bruyère, «Épigenétique: quand notre environnement influence nos gènes»,\nScience & Univers, N.º 29, agosto de 2018."
     },
     {
-      "id": 1267,
+      "id": 10336,
       "question_number": "7",
-      "statement": "7.\n A\n adição de um grupo químico a alguns nucleótidos pode conduzir ao aparecimento de doenças.\nExplique de que modo o aparecimento da diabetes, nas condições descritas no texto, pode ser interpretado \nà luz de uma nova abordagem lamarckista da evolução.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.\n5 5 5 5 5 5 5 5 5 10 55\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 10 10 50\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.\n5 5 5 5 5 5 5 5 5 10 55\nIV 1. 2. 3. 4. 5. 6. 7.\n5 5 5 5 5 5 10 40\nTOTAL 200",
+      "statement": "7.\n Os xenólitos incorporados nas lavas da Ponta da Ferraria são provenientes do manto e correspondem a",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "7. .................................................................................................................................................... 10 pontos\nJustifica as diferenças encontradas no Quadro I, comparando o número de crias de tartaruga e o número \nde tartarugas adultas e subadultas que ingeriram plástico (a) e relacionando a localização dos plásticos \ncom a localização e com o modo de locomoção das crias de tartaruga (B).\n(a) A percentagem de indivíduos que ingeriram plástico é maior entre as crias de tartaruga (e entre as \ntartarugas juvenis) do que entre as tartarugas adultas e subadultas.\n(B) Tanto os plásticos como as crias de tartaruga flutuam e deslocam-se ao sabor das correntes marinhas, \no que justifica as diferenças encontradas no Quadro I relativamente à ingestão de plásticos.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n4 Justifica, com rigor científico, as diferenças encontradas no Quadro I, apresentando os \ndois elementos (A, B). 10\n3 Justifica, com falhas no rigor científico, as diferenças encontradas no Quadro I, \napresentando os dois elementos (A, B). 8\n2 Justifica, com rigor científico, as diferenças encontradas no Quadro I, apresentando \napenas o elemento B. 5\n1\nJustifica, com falhas no rigor científico, as diferenças encontradas no Quadro I, \napresentando apenas o elemento B.\nOU\nApresenta, com ou sem falhas no rigor científico, apenas o elemento A.\n3",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10346,
+      "question_number": "7",
+      "statement": "7.\n Justifique \nas diferenças registadas no Quadro I, relativamente à presença de plástico no tubo digestivo dos \ndiversos grupos de tartarugas, tendo em conta os dados fornecidos no texto.",
       "question_type": "essay",
       "max_points": null,
       "difficulty": null,
@@ -315,9 +715,51 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. .................................................................................................................................................... 10 pontos\nExplica de que modo o aparecimento da diabetes pode ser interpretado à luz do lamarckismo, referindo o \npapel do ambiente no aparecimento de novas características (a), a identificação do processo que conduz \nao aparecimento da diabetes (B), e a relação entre a transmissão da característica e a teoria lamarckista \n(C).\n(a) O ambiente (gestacional) conduz ao aparecimento de uma nova característica.\n(B) A adição de grupos químicos em torno de alguns nucleótidos compromete a regulação da produção \nde insulina.\n(C) A característica adquirida pode ser transmitida à descendência.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10354,
+      "question_number": "7",
+      "statement": "7. No processo de fracking, para criar uma zona de alta permeabilidade nas fissuras, os grãos de areia \ndevem ser",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10364,
+      "question_number": "7",
+      "statement": "7.\n A\n adição de um grupo químico a alguns nucleótidos pode conduzir ao aparecimento de doenças.\nExplique de que modo o aparecimento da diabetes, nas condições descritas no texto, pode ser interpretado \nà luz de uma nova abordagem lamarckista da evolução.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -325,7 +767,49 @@
       "contextText": "GRUPO IV\nA insulina é uma hormona, codificada por um gene, que controla os níveis de glucose no sangue, \nmantendo-os numa concentração adequada ao bom funcionamento do organismo.\nQuando uma mãe não produz insulina em quantidade suficiente entre duas gravidezes, desenvolve \ndiabetes tipo 2, e o segundo filho irá crescer num ambiente gestacional onde a concentração \nde glucose no plasma ‒ glicemia ‒ é muito elevada. Segundo Guillaume Charpentier, este filho, \nrelativamente ao irmão mais velho, corre um risco quatro vezes maior de se tornar diabético. Aquele \nautor constata ainda que, em células de crianças nascidas de mães diabéticas, se observa a adição \nde um grupo químico a alguns nucleótidos dos genes implicados na regulação da produção de \ninsulina, o que compromete essa regulação.\nEstudos recentes têm demonstrado como os fatores ambientais ‒ alimentação, consumo de \ndrogas, stress, poluição atmosférica e condições climáticas ‒ influenciam a expressão dos genes, \ngerando mudanças nos caracteres sem que, no entanto, ocorram mutações do DNA. Essa influência \nrelaciona-se com o grau de ligação de certos grupos químicos ao DNA ou às histonas (proteínas \nà volta das quais o DNA se enrola para formar a cromatina), podendo conduzir à inativação ou à \nativação da transcrição dos genes. Estes mecanismos de alteração da expressão do DNA podem \nser hereditários.\nAtualmente, um dos objetivos dos cientistas é identificar todos os locais do DNA em que ocorrem \nmodificações químicas semelhantes às descritas.\nBaseado em: C. Bruyère, «Épigenétique: quand notre environnement influence nos gènes»,\nScience & Univers, N.º 29, agosto de 2018."
     },
     {
-      "id": 1268,
+      "id": 10337,
+      "question_number": "8",
+      "statement": "8.\n Considerando \nque o Pico das Camarinhas e o domo traquítico foram alimentados pela mesma câmara \nmagmática, pode admitir-se que, durante o período de tempo que decorreu entre a formação destas duas \nestruturas,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 10 pontos\nCompara a morfofisiologia e a eficácia dos dois tipos de sistema circulatório, apresentando as respetivas \ncaracterísticas morfológicas (a) e relacionando a fisiologia (B) com a eficácia na obtenção de energia nos \ndois grupos de animais (C).\n(a) O coração das tartarugas tem três cavidades, ao passo que o dos mamíferos tem quatro.\n(B) Nas tartarugas, a mistura parcial entre os sangues arterial e venoso leva a uma menor pressão \nparcial do oxigénio (OU a uma menor quantidade de oxigénio transportado), por comparação com os \nmamíferos.\n(C) Há uma menor eficácia na obtenção de energia ao nível celular nas tartarugas (por comparação com \nos mamíferos).\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5 Compara, com rigor científico, a morfofisiologia e a eficácia dos dois tipos de sistema \ncirculatório, apresentando os três elementos (A, B, C). 10\n4 Compara, com falhas no rigor científico, a morfofisiologia e a eficácia dos dois tipos de \nsistema circulatório, apresentando os três elementos (A, B, C). 8\n3 Compara, com rigor científico, a morfofisiologia e a eficácia dos dois tipos de sistema \ncirculatório, apresentando apenas dois dos elementos. 6\n2 Compara, com falhas no rigor científico, a morfofisiologia e a eficácia dos dois tipos de \nsistema circulatório, apresentando apenas dois dos elementos. 4\n1 Compara, com rigor científico, a morfofisiologia e a eficácia dos dois tipos de sistema \ncirculatório, apresentando apenas um dos elementos. 2\n\nGRUPO III",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10347,
+      "question_number": "8",
+      "statement": "8.\n As \ntartarugas têm um sistema circulatório semelhante ao dos anfíbios e diferente do sistema circulatório \ndos mamíferos.\nCompare as características morfofisiológicas do sistema circulatório das tartarugas e do sistema \ncirculatório dos mamíferos quanto à eficácia na obtenção de energia.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA acumulação de plásticos nos oceanos constitui um problema ambiental que se tem vindo \na agravar. As tartarugas marinhas, nas várias etapas do seu ciclo de vida, correm um risco \nsignificativo de ingestão de detritos de plástico. A ingestão destes materiais pode ter consequências \nletais, em especial nos primeiros anos de vida, em que as tartarugas flutuam e se deslocam ao \nsabor das correntes marinhas em direção a mar aberto. O problema é agravado pelo facto de os \nanimais confundirem os plásticos com os seus alimentos naturais (por exemplo, medusas – animais \nque, tal como a hidra, pertencem ao filo dos Cnidários), por não conseguirem regurgitar e pelo facto \nde a comida permanecer 5 a 23 dias no tubo digestivo de algumas espécies de tartarugas, o que \naumenta o risco de obstrução ou de perfuração do tubo digestivo.\nUm grupo de investigadores levou a cabo um estudo que pretendeu estabelecer a relação entre \na quantidade de plástico ingerido e a probabilidade de morte, por comparação com o número de \nanimais cuja morte ocorreu por causas não relacionadas com a ingestão de plástico (por exemplo, \nchoques com embarcações ou prisão em redes de pesca).\nAtravés da análise dos dados resultantes de 224 necropsias (exame médico para determinar a \ncausa da morte) e da análise dos dados de outros 706 registos de tartarugas mortas que deram à \ncosta, os investigadores descobriram que há 22% de risco de morte para as tartarugas que ingerem \n1 detrito de plástico, enquanto a ingestão de 14 detritos aumenta esse risco para 50%.\nOs dados do Quadro I indicam a percentagem de tartarugas necropsiadas em cujo tubo digestivo \nhavia detritos de plástico.\nQuadro I\nN.º de \ntartarugas \nnecropsiadas\nTartarugas com plástico\nno tubo digestivo\nNúmero Percentagem (%)\nCrias 24 13 54,2\nJuvenis 175 41 23,4\nSubadultas 13 2 15,4\nAdultas 12 2 16,7\nTotal 224 58 25,9\nBaseado em: C. Wilcox et al., «A quantitative analysis linking sea turtle mortality\nand plastic debris ingestion», Scientific Reports, 8, 2018."
+    },
+    {
+      "id": 10355,
       "question_number": "8",
       "statement": "8.\n Ordene \nas expressões identificadas com as letras de A a E, de modo a reconstituir a sequência correta de \nacontecimentos relacionados com a exploração de gás de shale num determinado local.\nA.\n Perfuração horizontal ao longo da camada com interesse económico.\nB.\n A\nvaliação da presença de gás de shale em formações geológicas com potencial interesse.\nC.\n Perfuração vertical das camadas rochosas até atingir a camada de shale.\nD.\n Fraturação hidráulica das rochas a grandes profundidades.\nE. \n Injeção, a elevada pressão, de uma mistura de água, areia e aditivos químicos.",
       "question_type": "ordering",
@@ -336,9 +820,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – B, C, a, E, d\nVersão 2 – d, a, B, C, E",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -346,7 +830,28 @@
       "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
     },
     {
-      "id": 1269,
+      "id": 10338,
+      "question_number": "9",
+      "statement": "9.\n Faça correspo\nnder cada uma das manifestações de vulcanismo, expressas na coluna A, à respetiva \ndesignação, que consta na coluna B.\nCOLUNA A COLUNA B\n(a) Estrutura resultante da consolidação de lavas viscosas na \ncratera.\n(b)\n Estrutura de colapso, que se desenvolve no topo do cone \nvulcânico.\n(c)\n Mistura de material piroclástico e de gases, com eleva\nda \ntemperatura e grande mobilidade.\n(1) Caldeira\n(2)\n Cone adventício\n(3)\n \nDomo\n(4)\n \nEscoada\n(5)\n Nuvem ardente",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. .................................................................................................................................................... 5 pontos\nVersão 1 – (a) – (3); (b) – (1); (c) – (5)\nVersão 2 – (a) – (1); (b) – (5); (c) – (3)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10356,
       "question_number": "9",
       "statement": "9.\n A\n fraturação hidráulica pode aumentar a atividade sísmica na região onde é levada a cabo.\nFaça corresponder cada uma das expressões relacionadas com a atividade sísmica, registadas na \ncoluna A, à respetiva designação, que consta na coluna B.\nCOLUNA A COLUNA B\n(a) Local, em profundidade, onde ocorre libertação de energia.\n(b)\n Registo das vibrações do\n terreno provocadas por um sismo.\n(c)\n Parâmetro que traduz os efeitos de um sismo.\n(1)\n \nEpicentro\n(2) Hipocentro\n(3)\n \nIntensidade\n(4)\n \nMagnitude\n(5)\n \nSismograma",
       "question_type": "open",
@@ -357,9 +862,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 5 pontos\nVersão 1 – (a) – (2); (b) – (5); (c) – (3)\nVersão 2 – (a) – (5); (b) – (3); (c) – (2)",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -367,7 +872,28 @@
       "contextText": "GRUPO III\nO termo anglo-saxónico shale é usado para designar as rochas sedimentares com granularidade \nmuito fina, dominantemente argilíticas, que apresentam fissibilidade, isto é, que se separam em \nfolhas delgadas paralelas à superfície de estratificação. Estas rochas têm, em muitos casos, cor \nescura e podem conter gás metano (CH\n4), também conhecido como gás de shale1. \nA formação do gás de shale está relacionada com a atividade bacteriana. Trata-se de um processo \ncomplexo que envolve várias espécies de organismos unicelulares, como a espécie Methanosaeta \npelagica, um organismo anaeróbio pertencente ao domínio Archaea, presente nos sedimentos \nmarinhos. \nA extração de gás metano a partir de shale só se tornou possível no final do século XX, com \no desenvolvimento do método de fracking (fraturação hidráulica), representado na Figura 2. O \nmétodo consiste em injetar, a alta pressão, grandes volumes de água misturada com areia e aditivos \nquímicos.\nApesar da importância que a exploração do gás de shale pode vir a assumir em termos energéticos, \neconómicos e políticos, várias agências norte-americanas têm advertido para os perigos ambientais \nque podem resultar da utilização do método de fracking. \nEm Portugal, a formação geológica de Brenha é uma das formações com potencial para a \nexploração do gás de shale. Esta formação geológica resultou da deposição de sedimentos em \nambiente marinho profundo, na Bacia Lusitaniana – zona oeste da Península Ibérica.\nNota: \n1 Gás de shale – muitas vezes designado como gás de xisto.\n2100\n1800\n1500\n1200\n900\n600\n300\n0 metros\nCamiões\ncom água\nInjeção de uma mistura\nde areia, água e\nprodutos químicos\nO gás natural flui para o exterior \ndo furo\nA água recuperada é levada\npara estações de tratamento\nTanques de \narmazenamento\nO gás natural é\nlevado através de\ncondutas\nFuro\nA areia mantém\nas fissuras\nabertas\nShale\nFissura\nFuro\nMistura de\n água, areia \ne produtos\nquímicos\nFissuras\nO furo torna-se\nhorizontal\nFraturação do shale devido à pressão\nno interior do furo\nFigura 2 – Fraturação hidráulica\nBaseado em: P. Barrett, «The underground solution», in Bloomberg, Businessweek, 7 de novembro de 2011 \ne em: https://edu.glogster.com (consultado em setembro de 2018)."
     },
     {
-      "id": 1270,
+      "id": 10339,
+      "question_number": "10",
+      "statement": "10. Explique de que modo os valores obtidos nos parâmetros analisados na monitorização periódica da \ncomposição química das águas minerais dos Açores podem ser usados na vigilância da atividade \nvulcânica no arquipélago.\nFundamente a sua resposta com um exemplo de um parâmetro químico analisado.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "10. .................................................................................................................................................. 10 pontos\nExplica de que modo os valores obtidos nos parâmetros analisados podem ser usados na vigilância da \natividade vulcânica, referindo a função da monitorização (a) e as inferências que se poderão fazer a \npartir de alterações na composição das águas (B). Fundamenta, concretizando com um exemplo de um \nparâmetro químico (C).\n(a) A monitorização permite comparar os valores registados com os valores de referência.\n(B) A existência de alterações químicas nas águas analisadas indicia possíveis alterações no sistema \nvulcânico.\n(C) O aumento do teor de CO2 indicia um aumento da atividade vulcânica.\nOU\nO aumento do teor de compostos de enxofre indicia um aumento da atividade vulcânica. \nOU\nO aumento da acidez da água indicia um aumento da atividade vulcânica.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5\nExplica, com rigor científico, de que modo os valores obtidos nos parâmetros analisados \npodem ser usados na vigilância da atividade vulcânica, apresentando os três elementos \n(A, B, C).\n10\n4\nExplica, com falhas no rigor científico, de que modo os valores obtidos nos parâmetros \nanalisados podem ser usados na vigilância da atividade vulcânica, apresentando os três \nelementos (A, B, C).\n8\n3\nExplica, com rigor científico, de que modo os valores obtidos nos parâmetros analisados \npodem ser usados na vigilância da atividade vulcânica, apresentando apenas dois dos \nelementos. \n6\n2\nExplica, com falhas no rigor científico, de que modo os valores obtidos nos parâmetros \nanalisados podem ser usados na vigilância da atividade vulcânica, apresentando apenas \ndois dos elementos.\n4\n1 Apresenta, com rigor científico, apenas um dos elementos. 2\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA ilha de S. Miguel, nos Açores, é constituída por diferentes regiões vulcânicas. O complexo \nvulcânico das Sete Cidades, situado no extremo oeste da ilha, inclui um vulcão central constituído \npor depósitos piroclásticos e por escoadas lávicas. Neste complexo, é possível reconhecer várias \noutras estruturas, como é o caso do Pico das Camarinhas, do delta lávico\n1 basáltico da Ponta da \nFerraria e de um domo traquítico. O domo, composto por uma rocha com um teor em sílica de \naproximadamente 66% (traquito), foi coberto por escórias basálticas durante a formação do Pico \ndas Camarinhas. As estruturas referidas estão representadas esquematicamente na Figura 1.\nNo seio das formações que constituem o delta lávico, surge uma nascente de água mineralizada, \ncloretada sódica, que emerge ao nível do mar, a uma temperatura de cerca de 62 ºC. O estudo das \náguas minerais do arquipélago dos Açores tem revelado que a sua composição química é muito \nestável, o que permitiu estabelecer um conjunto de valores de referência que podem ser usados na \nmonitorização da atividade dos vulcões.\nNota: \n1 Delta lávico – fluxo de lava subaérea que entra em contacto com a água.\nBaseado em: A. Lima, J. Nunes e J. Brilha, «Monitoring of the Visitors Impact at Ponta da Ferraria e Pico das \nCamarinhas Geosite (São Miguel Island, Azores UNESCO Global Geopark, Portugal)», Geoheritage, 2017.\nLava «aa»\nPaleocosta\nXenólitos\nEscórias\nBoca lávica\nDomo\nE\n200\nAltitude\n(metros)\n0\n100\nO\nOceano\n25º53’ O 25º17’ O\nN\n37º53’ N37º41’ N\nBasaltos\nTraquito\nComplexo vulcânico das Sete Cidades\nMateriais do vulcão central das Sete Cidades\nIlha de São Miguel\n Xenólitos 2 – fragmentos de rocha estranha ao seu encaixante.\nDelta lávico da\nPonta da Ferraria\n0 200 m\n0 8 km\nPico das Camarinhas\nMateriais do vulcão \ncentral das Sete \nCidades\n2\nNota:\nFigura 1 – Corte geológico na região da Ponta da Ferraria\nBaseado em: V. Forjaz et al., Vulcão das Sete Cidades. História Natural. Um guia. Açores, \nObservatório Vulcanológico e Geotérmico dos Açores, Ponta Delgada, 2016."
+    },
+    {
+      "id": 10357,
       "question_number": "10",
       "statement": "10.\n A\n exploração intensiva de gás a partir de shale é uma solução energética que apresenta vantagens e \ndesvantagens.\nExplique de que modo a exploração de gás de shale em larga escala poderá contribuir, a médio prazo, \npara problemas ambientais relacionados com os recursos hídricos e com o aquecimento global.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
       "question_type": "essay",
@@ -378,9 +904,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "10. .................................................................................................................................................. 10 pontos\nExplica de que modo a exploração do gás de shale pode contribuir para problemas ambientais, \nrelacionando a utilização da água com o impacte nos recursos hídricos (a) e a libertação de GEE com o \ncontributo para o aquecimento global (B).\n(a) A exploração implica a utilização de grandes volumes de água misturados com aditivos químicos, \ncontribuindo para a diminuição dos recursos hídricos (OU a exploração pode ocasionar acidentes \nque provoquem a contaminação de reservas de água).\n(B) A exploração pode implicar a libertação de gases com efeito de estufa, que contribuem para o \naquecimento global.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",

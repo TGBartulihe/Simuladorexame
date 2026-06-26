@@ -13,6 +13,7 @@ const COMPLETENESS_LABELS = {
   pontuacao_parcial: 'cotações parciais',
   incompleto: 'dados incompletos',
   sem_questoes_extraidas: 'sem questões disponíveis',
+  revisar_extracao: 'extração não verificada',
 }
 
 function ExamOption({ exam, onSelect }) {

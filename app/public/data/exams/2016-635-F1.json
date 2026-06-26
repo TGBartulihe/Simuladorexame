@@ -4,21 +4,43 @@
   "subject": "Matemática A",
   "year": 2016,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 263,
+      "id": 1523,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 264,
+      "id": 1524,
       "name": "GRUPO II",
       "order": 1
     }
   ],
   "questions": [
     {
-      "id": 1914,
+      "id": 10921,
+      "question_number": "1",
+      "statement": "1. Seja W, conjunto finito, o espaço de resultados associado a uma certa experiência aleatória.\nSejam A e B dois acontecimentos (A Ì W e B Ì W).\nSabe-se que:\n• PA 5\n2=^h\n• PB 10\n3=^h\n• PA B 6\n1=`j\nQual é o valor de PA B,`j ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. a 8. ............................................................... (8 × 5 pontos) ....................................................... 40 pontos\nChave:\nItens 1 2 3 4 5 6 7 8\nVersão 1 C B B D D A C B\nVersão 2 D C D B C D A A\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 10928,
       "question_number": "1",
       "statement": "1. Em C, conjunto dos números complexos, considere\ncisz i13\n8\n1\ni= −+\n e cisz 22 i= _i\nDetermine o valor de i pertencente ao intervalo ,0 r 6@ , de modo que zz12# seja um número real.",
       "question_type": "calculation",
@@ -29,9 +51,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1\n+\n− + −+\n−−\nf cc mm p ...................................................... 2 pontos\nObter o valor da ordenada 0^h ................................................... 5 pontos\nConcluir o pretendido .......................................................................................... 1 ponto",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -39,7 +61,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1915,
+      "id": 10922,
       "question_number": "2",
       "statement": "2. Seja X uma variável aleatória com distribuição normal de valor médio 10\nSabe-se que ,PX71 00 311 =^h\nQual é o valor de PX 132^h ?",
       "question_type": "multiple_choice",
@@ -51,31 +73,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3502,
+          "id": 21620,
           "letter": "A",
           "text": "0,1",
           "isCorrect": false
         },
         {
-          "id": 3503,
+          "id": 21621,
           "letter": "B",
           "text": "0,2",
           "isCorrect": false
         },
         {
-          "id": 3504,
+          "id": 21622,
           "letter": "C",
           "text": "0,3",
           "isCorrect": false
         },
         {
-          "id": 3505,
+          "id": 21623,
           "letter": "D",
           "text": "0,4",
           "isCorrect": false
         }
       ],
-      "criteriaText": "2.º Processo\nSeja A o ponto da reta de abcissa a, seja B o ponto da reta de abcissa a− ,\ne seja M o ponto médio do segmento de reta AB6@\nEscrever as coordenadas de A e as coordenadas de B, em função de a ...... 1 pontos\nMostrar que o ponto M é a origem do referencial ............................................. 8 pontos\nObter o valor da abcissa 0^h ...................................................... 1 pontos\nEscrever a ordenada, em função de a\nln lna\na\na\na",
+      "criteriaText": "2.º Processo\nEscrever cis8 i na forma algébrica coss eni88 ii+`j ................................. 1 pontos\nEscrever z1 na forma algébrica\ncos cossen seni23 2 23 2ii ii−+ −−c `j m ........................................... 2 pontos\nEscrever z1 na forma algébrica\ncos cossen seni23 2 23 2ii ii−+ +c `j m .............................................. 1 pontos\n\nEscrever zz12# na forma algébrica coss eni4 3 4 3\nr i r i− − + −e bb ll o ...... 6 pontos\nEscrever a condição sen 3 0r i− =cm .................................................................. 1 pontos\nEscrever a condição ,kk3 Zr ir− = d (ver nota) ........................................ 2 pontos\nObter o valor de i pertencente ao intervalo ,0 3r rcm6@ .................................. 2 pontos\nNota – Se for apresentada apenas a condição 3 0r i− = ou apenas a condição\n,kk3 2 Zr ir− = d , a pontuação a atribuir nesta etapa é 1 ponto.",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -85,7 +107,7 @@
       "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
     },
     {
-      "id": 1924,
+      "id": 10931,
       "question_number": "3",
       "statement": "3. Na Figura 3, está representada, num referencial o.n. Oxyz , uma pirâmide quadrangular regular ABCDV6@\nSabe-se que:\n• a base ABCD6@ da pirâmide é paralela ao\nplano xOy\n• o ponto A tem coordenadas ,,111−^h\n• o ponto C tem coordenadas ,,33 1−^h\n• o plano BCV é definido pela equação\nyz31 00+− =",
       "question_type": "open",
@@ -96,7 +118,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.º Processo\nProvar que a função f é ímpar ........................................................................... 4 pontos\nReferir que os pontos do gráfico de f de abcissas a e a− são simétricos\nrelativamente à origem do referencial ................................................................. 5 pontos\nConcluir o pretendido .......................................................................................... 1 pontos\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 8.",
+      "criteriaText": "3. A escrita de um dos símbolos 1, 2 ou $, em vez de =, implica uma desvalorização \nde 2 pontos nesta etapa.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -106,7 +128,28 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1916,
+      "id": 10923,
+      "question_number": "4",
+      "statement": "4. Seja f uma função de domínio R−\nSabe-se que:\n• lim x\nfx ex 1\nx\nx+− =\n\" 3−\n^h\n• o gráfico de f tem uma assíntota oblíqua.\nQual é o declive dessa assíntota?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 10933,
       "question_number": "4",
       "statement": "4. Num dia de vento, são observadas oscilações no tabuleiro de uma ponte suspensa, construída sobre um \nvale.\nMediu-se a oscilação do tabuleiro da ponte durante um minuto.\nAdmita que, durante esse minuto, a distância de um ponto P do tabuleiro a um ponto fixo do vale é dada, em\nmetros, por\ncoss enh tt t t20 2\n1 22r rr= ++^^ ^hh h (t é medido em minutos e pertence a ,016@ )",
       "question_type": "open",
@@ -117,9 +160,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4=_ bi l ............................................................ 3 pontos\nDeterminar o valor de P X 4 18",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -127,7 +170,28 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1917,
+      "id": 10924,
+      "question_number": "5",
+      "statement": "5. Na Figura 1, estão representados o círculo trigonométrico e um trapézio retângulo OPQR6@\nSabe-se que:\n• o ponto P tem coordenadas ,01^h\n• o ponto R pertence ao quarto quadrante e à \ncircunferência.\nSeja a a amplitude de um ângulo orientado cujo\nlado origem é o semieixo positivo Ox e cujo lado\nextremidade é a semirreta ORo\nQual das expressões seguintes dá a área do\ntrapézio OPQR6@ , em função de a ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 10936,
       "question_number": "5",
       "statement": "5. Seja f uma função, de domínio R, cuja derivada, f ', de domínio R, é dada por\nfx e xx 1x 2= ++'^ `h j\nResolva os itens 5.1. e 5.2. recorrendo a métodos analíticos, sem utilizar a calculadora.",
       "question_type": "open",
@@ -138,9 +202,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5=_ bi l ........................................................... 3 pontos\nDeterminar o valor de P X 8 9",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -148,7 +212,28 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1918,
+      "id": 10925,
+      "question_number": "6",
+      "statement": "6. Seja i um número real pertencente ao intervalo , 2\n3r r :D\nConsidere o número complexo cisz 3 i= −\nA que quadrante pertence a imagem geométrica do complexo z ?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
+    },
+    {
+      "id": 10939,
       "question_number": "6",
       "statement": "6. Considere a função f , de domínio ,, 11 ,33−− +66@@ , definida por lnfx x\nx\n1\n1= +\n−^ dh n\nResolva os itens 6.1. e 6.2. recorrendo a métodos analíticos, sem utilizar a calculadora.",
       "question_type": "open",
@@ -169,7 +254,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1919,
+      "id": 10926,
       "question_number": "7",
       "statement": "7. Na Figura 2, está representado um triângulo isósceles ABC6@\nSabe-se que:\n• AB BC 2= =\n• BA C 75\no\n=t\nQual é o valor do produto escalar .BA BC ?",
       "question_type": "multiple_choice",
@@ -181,31 +266,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3518,
+          "id": 21636,
           "letter": "A",
           "text": "2",
           "isCorrect": false
         },
         {
-          "id": 3519,
+          "id": 21637,
           "letter": "B",
           "text": "22",
           "isCorrect": false
         },
         {
-          "id": 3520,
+          "id": 21638,
           "letter": "C",
           "text": "3",
           "isCorrect": false
         },
         {
-          "id": 3521,
+          "id": 21639,
           "letter": "D",
           "text": "23",
           "isCorrect": false
         }
       ],
-      "criteriaText": "7 pontos. Também são descontados 7 pontos caso seja considerada uma operação \ndiferente da multiplicação. Se, por aplicação deste critério, o valor obtido for negativo, \na pontuação a atribuir nesta etapa é 0 pontos.",
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -215,7 +300,7 @@
       "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
     },
     {
-      "id": 1920,
+      "id": 10927,
       "question_number": "8",
       "statement": "8. Considere as sucessões un_i e vn^h de termos gerais\nu n\nkn\n2\n3\nn = + (k é um número real) e lnv n1 1\nn\nn\n= +bl;E\nSabe-se que lim limuvnn =^^ hh\nQual é o valor de k ?",
       "question_type": "multiple_choice",
@@ -227,31 +312,31 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3522,
+          "id": 21640,
           "letter": "A",
           "text": "1",
           "isCorrect": false
         },
         {
-          "id": 3523,
+          "id": 21641,
           "letter": "B",
           "text": "2",
           "isCorrect": false
         },
         {
-          "id": 3524,
+          "id": 21642,
           "letter": "C",
           "text": "e",
           "isCorrect": false
         },
         {
-          "id": 3525,
+          "id": 21643,
           "letter": "D",
           "text": "2e Figura 2 AC 75° B 2 2 –––––—––––––––––—–—–—–—— Página em branco –––––––––—–—–––—–————–-––",
           "isCorrect": false
         }
       ],
-      "criteriaText": "8 × 5 pontos 40\nII 1. 2.1. 2.2. 3.1. 3.2. 3.3. 4.1. 4.2. 5.1. 5.2. 6.1. 6.2.",
+      "criteriaText": "8. Ocorrência de um erro ocasional num cálculo, na \nresolução de uma etapa.\nÉ subtraído um ponto à pontuação da etapa em que o erro \nocorre.\nAs etapas subsequentes são pontuadas de acordo com os \nefeitos do erro cometido (ver nota 2).",
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -261,7 +346,7 @@
       "contextText": "GRUPO I\nNa resposta aos itens deste grupo, selecione a opção correta. Escreva, na folha de respostas, o número do \nitem e a letra que identifica a opção escolhida."
     },
     {
-      "id": 1922,
+      "id": 10929,
       "question_number": "2.1",
       "statement": "2.1. Colocam-se as nove bolas, que são indistinguíveis ao tato, num saco vazio. Em seguida, retiram-se, \nsimultaneamente e ao acaso, duas bolas desse saco.\nSeja X a variável aleatória: «produto dos números das duas bolas retiradas».\nConstrua a tabela de distribuição de probabilidades da variável X\nApresente as probabilidades na forma de fração irredutível.",
       "question_type": "open",
@@ -272,7 +357,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2.1. ................................................................................................................................................. 15 pontos\nApresentar os valores da variável ....................................................................... 2 pontos\nDeterminar o valor de P X 1 6",
+      "criteriaText": "2.1. ................................................................................................................................................. 15 pontos\nApresentar os valores da variável ....................................................................... 2 pontos\nDeterminar o valor de P X 1 6\n1=_ bi l ............................................................. 3 pontos\nDeterminar o valor de P X 2 9\n4=_ bi l ............................................................ 3 pontos\nDeterminar o valor de P X 4 18\n5=_ bi l ........................................................... 3 pontos\nDeterminar o valor de P X 8 9\n1=` bj l ............................................................. 3 pontos\nApresentar a tabela pedida ................................................................................. 1 pontos\nNota – No cálculo de cada uma das probabilidades, se o número de casos possíveis\nestiver correto ouCA9 2 9 2a k e o número de casos favoráveis estiver incorreto,\na pontuação a atribuir à etapa respetiva é 1 ponto, desde que a fração designe\num número pertencente ao intervalo ,016@\nNota – Se uma ou mais de uma das probabilidades não forem apresentadas na forma \nde fração irredutível, é subtraído 1 ponto à soma das pontuações atribuídas.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -282,7 +367,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1923,
+      "id": 10930,
       "question_number": "2.2",
       "statement": "2.2. Considere agora que se colocam as nove bolas lado a lado, de modo a formar um número com nove \nalgarismos.\nQuantos números ímpares diferentes se podem obter?",
       "question_type": "open",
@@ -303,7 +388,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1925,
+      "id": 10932,
       "question_number": "3.3",
       "statement": "3.3. Seja a o plano perpendicular à reta AC e que passa no ponto ,,P 12 1−−^h\nA intersecção dos planos a e BCV é uma reta.\nEscreva uma equação vetorial dessa reta.",
       "question_type": "open",
@@ -314,7 +399,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.3. ................................................................................................................................................. 15 pontos\nDeterminar as coordenadas do vetor AC ......................................................... 1 pontos\nEscrever a equação xy d22 0−+ + = (ou equivalente) ................................ 2 pontos\nDeterminar o valor de d ....................................................................................... 1 pontos\nEscrever uma equação do plano a .................................................................... 2 pontos\nEscrever o sistema xy\nyz",
+      "criteriaText": "3.3. ................................................................................................................................................. 15 pontos\nDeterminar as coordenadas do vetor AC ......................................................... 1 pontos\nEscrever a equação xy d22 0−+ + = (ou equivalente) ................................ 2 pontos\nDeterminar o valor de d ....................................................................................... 1 pontos\nEscrever uma equação do plano a .................................................................... 2 pontos\nEscrever o sistema xy\nyz\n22 60\n31 00\n−+ + =\n+− =* ............................................................ 3 pontos\nEscrever uma equação vetorial da reta pedida ................................................... 6 pontos\nEscrever \nyx\ny z\n3\n3\n10\n= −\n= −+* ............................................................. 2 pontos\nEscrever xy z3 3\n10− == −\n− ..................................................... 2 pontos\nObter uma equação vetorial\n,o uo utrae quação vetorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m\n,o uu ma equaçã ov etorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m .................................................................... 2 pontos\n\nOU\nEscrever \nxy\nzy\n3\n31 0\n= +\n= −+\n* ............................................................ 2 pontos\nEscrever as coordenadas de um ponto genérico da reta\n,,yy y33 10+− +c`j m ............................................................. 2 pontos\nObter uma equação vetorial\n,o uo utrae quação vetorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m\n,o uu ma equaçã ov etorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m .................................................................... 2 pontos\nOU\nObter as coordenadas de dois pontos da reta ............................. 2 pontos\nObter as coordenadas de um vetor diretor da reta ...................... 2 pontos\nObter uma equação vetorial\n,o uo utrae quação vetorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m\n,o uu ma equaçã ov etorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m .................................................................... 2 pontos\nOU\nEscrever as coordenadas de um vetor u perpendicular ao\nplano BCV .................................................................................. 1 pontos\nDeterminar as coordenadas de um vetor perpendicular aos\nvetores u e AC ....................................................................... 2 pontos\nDeterminar as coordenadas de um ponto da reta ........................ 1 pontos\nObter uma equação vetorial\n,o uo utrae quação vetorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m\n,o uu ma equaçã ov etorialequivalente,, ,, ,,xy zk k30 10 11 3 R!= +−c`` `jj j m .................................................................... 2 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -324,7 +409,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1927,
+      "id": 10934,
       "question_number": "4.1",
       "statement": "4.1. Sejam M e m, respetivamente, o máximo e o mínimo absolutos da função h no intervalo ,016@\nA amplitude A da oscilação do tabuleiro da ponte, neste intervalo, é dada por AM m= −\nDetermine o valor de A, recorrendo a métodos analíticos e utilizando a calculadora apenas para \nefetuar eventuais cálculos numéricos.\nApresente o resultado em metros.\nFigura 3\nz\nx\nyO\nV\nA\nDC\nB",
       "question_type": "calculation",
@@ -345,7 +430,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1928,
+      "id": 10935,
       "question_number": "4.2",
       "statement": "4.2. Em ,016@ , o conjunto solução da inequação ,h t 19 51^h é um intervalo da forma ,ab 6@\nDetermine o valor de ba− arredondado às centésimas, recorrendo à calculadora gráfica, e interprete \no resultado obtido no contexto da situação descrita.\nNa sua resposta:\n – reproduza o gráfico da função h visualizado na calculadora (sugere-se que, na janela de \nvisualização, considere ,y 19 21! 6@ );\n – apresente o valor de a e o valor de b arredondados às milésimas;\n – apresente o valor de ba− arredondado às centésimas;\n – interprete o valor obtido no contexto da situação descrita.",
       "question_type": "calculation",
@@ -356,7 +441,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4.2. ................................................................................................................................................. 15 pontos\nReproduzir o gráfico da função h no intervalo ,016@ (ver nota) ..................... 3 pontos\nApresentar o valor de a ...................................................................................... 3 pontos\nApresentar o valor de b ...................................................................................... 3 pontos\nObter o valor de ,ba 02 7− ^h ......................................................................... 1 pontos\nInterpretar o valor obtido no contexto da situação descrita (No decorrer \nda medição, a distância do ponto P ao ponto fixo do vale foi inferior a",
+      "criteriaText": "4.2. ................................................................................................................................................. 15 pontos\nReproduzir o gráfico da função h no intervalo ,016@ (ver nota) ..................... 3 pontos\nApresentar o valor de a ...................................................................................... 3 pontos\nApresentar o valor de b ...................................................................................... 3 pontos\nObter o valor de ,ba 02 7− ^h ......................................................................... 1 pontos\nInterpretar o valor obtido no contexto da situação descrita (No decorrer \nda medição, a distância do ponto P ao ponto fixo do vale foi inferior a\n19,5 metros durante 0,27 minutos) ................................................................. 5 pontos\nNota – Se for apresentado um gráfico que não respeite a condição ,t 01! 5 ?, a\npontuação a atribuir nesta etapa é desvalorizada em 2 pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -366,7 +451,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1930,
+      "id": 10937,
       "question_number": "5.1",
       "statement": "5.1. Sejam p e q dois números reais tais que\nlimp x\nfx f\n1\n1\nx 1\n= +\n−−\n\"−\n^ ^h h e q p\n1= −\nDetermine o valor de q e interprete geometricamente esse valor.",
       "question_type": "calculation",
@@ -387,7 +472,7 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1931,
+      "id": 10938,
       "question_number": "5.2",
       "statement": "5.2. Estude a função f quanto ao sentido das concavidades do seu gráfico e quanto à existência de \npontos de inflexão.\nNa sua resposta, apresente:\n – o(s) intervalo(s) em que o gráfico de f tem concavidade voltada para baixo;\n – o(s) intervalo(s) em que o gráfico de f tem concavidade voltada para cima;\n – a(s) abcissa(s) do(s) ponto(s) de inflexão do gráfico de f",
       "question_type": "open",
@@ -408,9 +493,9 @@
       "contextText": "GRUPO II\nNa resposta aos itens deste grupo, apresente todos os cálculos que tiver de efetuar e todas as justificações \nnecessárias.\nQuando, para um resultado, não é pedida a aproximação, apresente sempre o valor exato."
     },
     {
-      "id": 1933,
+      "id": 10940,
       "question_number": "6.2",
-      "statement": "6.2. Seja a um número real maior do que 1\nMostre que a reta secante ao gráfico de f nos pontos de abcissas a e a− passa na origem do \nreferencial.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 8.\n8 × 5 pontos 40\nII 1. 2.1. 2.2. 3.1. 3.2. 3.3. 4.1. 4.2. 5.1. 5.2. 6.1. 6.2.\n15 15 15 5 10 15 15 15 15 15 15 10 160\nTOTAL 200\n\nESTA FOLHA NÃO ESTÁ IMPRESSA PROPOSITADAMENTE\n\nProva 635\n1.ª Fase\nVERSÃO 1",
+      "statement": "6.2. Seja a um número real maior do que 1\nMostre que a reta secante ao gráfico de f nos pontos de abcissas a e a− passa na origem do \nreferencial.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,

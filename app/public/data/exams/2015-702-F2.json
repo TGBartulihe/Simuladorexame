@@ -4,51 +4,120 @@
   "subject": "Biologia e Geologia",
   "year": 2015,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 281,
+      "id": 1537,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 282,
+      "id": 1538,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 283,
+      "id": 1539,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 284,
+      "id": 1540,
       "name": "GRUPO IV",
       "order": 3
-    },
-    {
-      "id": 285,
-      "name": "GRUPO I",
-      "order": 4
-    },
-    {
-      "id": 286,
-      "name": "GRUPO II",
-      "order": 5
-    },
-    {
-      "id": 287,
-      "name": "GRUPO III",
-      "order": 6
-    },
-    {
-      "id": 288,
-      "name": "GRUPO IV",
-      "order": 7
     }
   ],
   "questions": [
     {
-      "id": 2015,
+      "id": 11017,
+      "question_number": "1",
+      "statement": "1. As falhas do maciço granítico da Freixiosa apresentam orientação geral _______ e facilitam o processo \nde _______ dos feldspatos.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21892,
+          "letter": "A",
+          "text": "passam para o meio intracelular envolvidas pela membrana plasmática.",
+          "isCorrect": false
+        },
+        {
+          "id": 21893,
+          "letter": "B",
+          "text": "atravessam a membrana plasmática pela bicamada fosfolipídica.",
+          "isCorrect": false
+        },
+        {
+          "id": 21894,
+          "letter": "C",
+          "text": "são transportadas através de proteínas da membrana plasmática.",
+          "isCorrect": true
+        },
+        {
+          "id": 21895,
+          "letter": "D",
+          "text": "ligam-se a glicolípidos, passando para o meio interno por difusão facilitada.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (A)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11027,
+      "question_number": "1",
+      "statement": "1. Da análise dos resultados do primeiro estudo, podemos concluir que a hormona ADH intervém na",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
+    },
+    {
+      "id": 11033,
+      "question_number": "1",
+      "statement": "1. Na região de Aveiro, o cordão de areia progrediu gradualmente para _______, surgindo posteriormente a \noriente um conjunto de ilhotas formadas por depósitos _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
+    },
+    {
+      "id": 11039,
       "question_number": "1",
       "statement": "1. As bactérias captadas pelas amibas",
       "question_type": "multiple_choice",
@@ -58,33 +127,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3774,
-          "letter": "A",
-          "text": "passam para o meio intracelular envolvidas pela membrana plasmática.",
-          "isCorrect": false
-        },
-        {
-          "id": 3775,
-          "letter": "B",
-          "text": "atravessam a membrana plasmática pela bicamada fosfolipídica.",
-          "isCorrect": false
-        },
-        {
-          "id": 3776,
-          "letter": "C",
-          "text": "são transportadas através de proteínas da membrana plasmática.",
-          "isCorrect": false
-        },
-        {
-          "id": 3777,
-          "letter": "D",
-          "text": "ligam-se a glicolípidos, passando para o meio interno por difusão facilitada.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -94,7 +138,74 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2016,
+      "id": 11018,
+      "question_number": "2",
+      "statement": "2. O xisto é uma rocha formada a partir de um _______ e apresenta uma textura _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21896,
+          "letter": "A",
+          "text": "não são produzidas enzimas hidrolíticas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21897,
+          "letter": "B",
+          "text": "os vacúolos digestivos estão ativos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21898,
+          "letter": "C",
+          "text": "não se formam vacúolos digestivos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21899,
+          "letter": "D",
+          "text": "as enzimas hidrolíticas estão inativas.",
+          "isCorrect": true
+        }
+      ],
+      "criteriaText": "2. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (D)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11034,
+      "question_number": "2",
+      "statement": "2. A formação do cordão de areia conduziu ao _______ da linha de costa, tendo _______ o assoreamento \nda laguna.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
+    },
+    {
+      "id": 11040,
       "question_number": "2",
       "statement": "2. De acordo com o texto, as amibas portadoras de bactérias patogénicas podem ser veículos transmissores \nde doenças quando, nas células das amibas,",
       "question_type": "multiple_choice",
@@ -104,33 +215,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3778,
-          "letter": "A",
-          "text": "não são produzidas enzimas hidrolíticas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3779,
-          "letter": "B",
-          "text": "os vacúolos digestivos estão ativos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3780,
-          "letter": "C",
-          "text": "não se formam vacúolos digestivos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3781,
-          "letter": "D",
-          "text": "as enzimas hidrolíticas estão inativas.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -140,7 +226,95 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2017,
+      "id": 11019,
+      "question_number": "3",
+      "statement": "3. Considere as seguintes afirmações referentes a recursos geológicos.\nI. Os minerais que contêm elementos radioativos são considerados recursos energéticos renováveis.\nII. Nas rochas magmáticas ácidas, as concentrações de urânio encontram-se abaixo do seu valor médio \nna crusta terrestre.\nIII. A utilização de urânio na produção de energia elétrica gera resíduos perigosos para a saúde e para o \nambiente.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21900,
+          "letter": "A",
+          "text": "favoráveis … diferentes",
+          "isCorrect": true
+        },
+        {
+          "id": 21901,
+          "letter": "B",
+          "text": "favoráveis … iguais",
+          "isCorrect": false
+        },
+        {
+          "id": 21902,
+          "letter": "C",
+          "text": "desfavoráveis … diferentes",
+          "isCorrect": false
+        },
+        {
+          "id": 21903,
+          "letter": "D",
+          "text": "desfavoráveis … iguais",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (A)\nVersão 2 – Opção (B)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11028,
+      "question_number": "3",
+      "statement": "3. A partir da análise dos resultados do segundo estudo, pode inferir-se que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
+    },
+    {
+      "id": 11035,
+      "question_number": "3",
+      "statement": "3. A construção do molhe norte da barra de Aveiro, no século XX, teve como consequências a _______ da \nsedimentação a norte da barra e a _______ da erosão a sul da barra.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
+    },
+    {
+      "id": 11041,
       "question_number": "3",
       "statement": "3. A multiplicação dos trofozoítos ocorre normalmente quando as condições do meio são _______, \napresentando os descendentes combinações genéticas _______ entre eles.",
       "question_type": "multiple_choice",
@@ -150,33 +324,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3782,
-          "letter": "A",
-          "text": "favoráveis … diferentes",
-          "isCorrect": false
-        },
-        {
-          "id": 3783,
-          "letter": "B",
-          "text": "favoráveis … iguais",
-          "isCorrect": false
-        },
-        {
-          "id": 3784,
-          "letter": "C",
-          "text": "desfavoráveis … diferentes",
-          "isCorrect": false
-        },
-        {
-          "id": 3785,
-          "letter": "D",
-          "text": "desfavoráveis … iguais",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -186,7 +335,95 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2018,
+      "id": 11020,
+      "question_number": "4",
+      "statement": "4. Os minérios metálicos situados em profundidade podem ser localizados pela deteção de anomalias \ngravimétricas _______, o que constitui um método _______ para o estudo do interior da Terra.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21904,
+          "letter": "A",
+          "text": "divisão mitótica do núcleo.",
+          "isCorrect": false
+        },
+        {
+          "id": 21905,
+          "letter": "B",
+          "text": "redução do número de cromossomas.",
+          "isCorrect": true
+        },
+        {
+          "id": 21906,
+          "letter": "C",
+          "text": "citocinese assimétrica.",
+          "isCorrect": false
+        },
+        {
+          "id": 21907,
+          "letter": "D",
+          "text": "replicação do material genético.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (C)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11029,
+      "question_number": "4",
+      "statement": "4. As aquaporinas são proteínas que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
+    },
+    {
+      "id": 11036,
+      "question_number": "4",
+      "statement": "4. Ao longo do seu curso, o rio Vouga perde gradualmente a capacidade de _______, depositando sedimentos \ncada vez mais _______, à medida que se aproxima da foz, em Aveiro.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
+    },
+    {
+      "id": 11042,
       "question_number": "4",
       "statement": "4. Durante o processo de multiplicação dos trofozoítos e das bactérias, verifica-se uma",
       "question_type": "multiple_choice",
@@ -196,33 +433,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3786,
-          "letter": "A",
-          "text": "divisão mitótica do núcleo.",
-          "isCorrect": false
-        },
-        {
-          "id": 3787,
-          "letter": "B",
-          "text": "redução do número de cromossomas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3788,
-          "letter": "C",
-          "text": "citocinese assimétrica.",
-          "isCorrect": false
-        },
-        {
-          "id": 3789,
-          "letter": "D",
-          "text": "replicação do material genético.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -232,7 +444,95 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2019,
+      "id": 11021,
+      "question_number": "5",
+      "statement": "5. A biotite apresenta _______ e é riscada pelo quartzo, pelo que tem dureza _______ a este mineral.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21908,
+          "letter": "A",
+          "text": "I e III são verdadeiras; II é falsa.",
+          "isCorrect": false
+        },
+        {
+          "id": 21909,
+          "letter": "B",
+          "text": "I e II são verdadeiras; III é falsa.",
+          "isCorrect": true
+        },
+        {
+          "id": 21910,
+          "letter": "C",
+          "text": "III é verdadeira; I e II são falsas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21911,
+          "letter": "D",
+          "text": "II é verdadeira; I e III são falsas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (B)\nVersão 2 – Opção (A)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11030,
+      "question_number": "5",
+      "statement": "5. A ingestão excessiva de sal numa refeição conduz",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
+    },
+    {
+      "id": 11037,
+      "question_number": "5",
+      "statement": "5. Os arenitos formam-se a partir das areias, devido a processos de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
+    },
+    {
+      "id": 11043,
       "question_number": "5",
       "statement": "5. As amibas são seres facilmente observáveis ao microscópio ótico composto.\nConsidere as seguintes afirmações, referentes à microscopia ótica.\nI. Quanto maior é a ampliação, maior é o campo de observação.\nII. A imagem é simétrica e invertida em relação ao objeto.\nIII. A primeira focagem deve ser feita utilizando o parafuso micrométrico.",
       "question_type": "multiple_choice",
@@ -242,33 +542,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3790,
-          "letter": "A",
-          "text": "I e III são verdadeiras; II é falsa.",
-          "isCorrect": false
-        },
-        {
-          "id": 3791,
-          "letter": "B",
-          "text": "I e II são verdadeiras; III é falsa.",
-          "isCorrect": false
-        },
-        {
-          "id": 3792,
-          "letter": "C",
-          "text": "III é verdadeira; I e II são falsas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3793,
-          "letter": "D",
-          "text": "II é verdadeira; I e III são falsas.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -278,7 +553,95 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2020,
+      "id": 11022,
+      "question_number": "6",
+      "statement": "6. Os granitos da Freixiosa ter-se-ão formado numa zona de _______ de placas, a partir de magmas ricos \nem sílica e em _______.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21912,
+          "letter": "A",
+          "text": "como microconsumidores e como produtores, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 21913,
+          "letter": "B",
+          "text": "como microconsumidores.",
+          "isCorrect": false
+        },
+        {
+          "id": 21914,
+          "letter": "C",
+          "text": "como produtores e como microconsumidores, respetivamente.",
+          "isCorrect": true
+        },
+        {
+          "id": 21915,
+          "letter": "D",
+          "text": "como produtores.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (C)\nVersão 2 – Opção (D)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11031,
+      "question_number": "6",
+      "statement": "6. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de \nacontecimentos que conduzem à síntese de AQP-2 e à sua posterior inserção na membrana plasmática.\nA. Síntese de proteínas nos ribossomas associados ao retículo endoplasmático.\nB. Fusão de vesículas golgianas com a membrana citoplasmática.\nC. Síntese de uma molécula de RNA pré-mensageiro.\nD. Modificações pós-traducionais ao nível do complexo de Golgi.\nE. Migração de uma molécula de RNA mensageiro para o citoplasma.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
+    },
+    {
+      "id": 11038,
+      "question_number": "6",
+      "statement": "6. A produção de sal e a atividade portuária foram, desde muito cedo, atividades económicas tradicionais \nna região de Aveiro. À medida que o cordão de areia se foi formando, e antes de ser restabelecida a \ncomunicação com o oceano Atlântico em 1808, ocorreu na região uma crise económica e social.\nExplique de que modo a progressiva formação do cordão de areia afetou as atividades referidas.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
+    },
+    {
+      "id": 11044,
       "question_number": "6",
       "statement": "6. Quanto ao tipo de interações num ecossistema, as bactérias heterotróficas e as algas classificam-se",
       "question_type": "multiple_choice",
@@ -288,33 +651,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3794,
-          "letter": "A",
-          "text": "como microconsumidores e como produtores, respetivamente.",
-          "isCorrect": false
-        },
-        {
-          "id": 3795,
-          "letter": "B",
-          "text": "como microconsumidores.",
-          "isCorrect": false
-        },
-        {
-          "id": 3796,
-          "letter": "C",
-          "text": "como produtores e como microconsumidores, respetivamente.",
-          "isCorrect": false
-        },
-        {
-          "id": 3797,
-          "letter": "D",
-          "text": "como produtores.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. ........................................................................................................... 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -324,9 +662,9 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2021,
+      "id": 11023,
       "question_number": "7",
-      "statement": "7. A resistência de algumas bactérias à fagocitose, segundo uma perspetiva darwinista, provavelmente \nresulta da",
+      "statement": "7. O isótopo de urânio 238U tem uma semivida de aproximadamente 4500 Ma, por isso, _______ após a \nformação do granito, ele deverá conter cerca de _______ do teor inicial de 238U.",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -336,31 +674,73 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3798,
+          "id": 21916,
           "letter": "A",
           "text": "adaptação individual.",
           "isCorrect": false
         },
         {
-          "id": 3799,
+          "id": 21917,
           "letter": "B",
           "text": "ocorrência de mutações.",
           "isCorrect": false
         },
         {
-          "id": 3800,
+          "id": 21918,
           "letter": "C",
           "text": "variabilidade intraespecífica.",
           "isCorrect": false
         },
         {
-          "id": 3801,
+          "id": 21919,
           "letter": "D",
           "text": "necessidade de sobrevivência.",
-          "isCorrect": false
+          "isCorrect": true
         }
       ],
-      "criteriaText": "7. ........................................................................................................... 5 pontos",
+      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nVersão 1 – Opção (D)\nVersão 2 – Opção (C)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11032,
+      "question_number": "7",
+      "statement": "7. Explique, tendo em conta os valores de referência das duas linhagens, em que medida os resultados \nobtidos para a linhagem de ratos que não produzem ADH permitem responder ao objetivo do segundo \nestudo.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
+    },
+    {
+      "id": 11045,
+      "question_number": "7",
+      "statement": "7. A resistência de algumas bactérias à fagocitose, segundo uma perspetiva darwinista, provavelmente \nresulta da",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -370,7 +750,28 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2022,
+      "id": 11024,
+      "question_number": "8",
+      "statement": "8. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a história geológica da \nZona Centro-Ibérica onde se encontra a mina da Freixiosa.\nA. Intrusão de magmas ácidos.\nB. Sedimentação marinha em ambiente de baixa profundidade.\nC. Fraturação dos granitos.\nD. Instalação de filões melanocráticos.\nE. Sedimentação marinha em ambiente de talude continental.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nVersão 1 – E, B, A, C, D\nVersão 2 – B, D, C, A, E",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
+    },
+    {
+      "id": 11046,
       "question_number": "8",
       "statement": "8. Faça corresponder, de acordo com o sistema de classificação de Whittaker modificado, cada um dos tipos \nde seres vivos, expressos na coluna A, ao reino em que ele se pode incluir, que consta da coluna B.\nUtilize cada letra e cada número apenas uma vez.\nCOLUNA A COLUNA B\n(a) Eucarionte unicelular fotossintético.\n(b) Ser vivo pluricelular com digestão extracorporal.\n(c) Organismo aeróbio com DNA disperso no \ncitoplasma.\n(1) Animalia\n(2) Fungi\n(3) Monera\n(4) Plantae\n(5) Protista",
       "question_type": "open",
@@ -381,9 +782,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "8. ........................................................................................................... 5 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -391,7 +792,7 @@
       "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     },
     {
-      "id": 2023,
+      "id": 11025,
       "question_number": "9",
       "statement": "9. Explique a elevada concentração de radão existente nos pisos inferiores das habitações, nos distritos da \nGuarda e de Viseu, tendo em conta as propriedades desse gás, as características litológicas da região e o \nestado de conservação das habitações.",
       "question_type": "essay",
@@ -402,7 +803,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. ........................................................................................................... 15 pontos",
+      "criteriaText": "9. .................................................................................................................................................... 15 pontos\nTópicos de resposta:\n•  referência à formação de radão devido à existência de granito (ver notas 1 e 2);\n•  relação entre a fraturação (ou as falhas) do granito e a circulação (ou a difusão, ou a \npropagação, ou a ascensão, ou a dispersão) de radão (ver nota 3);\n•  referência à infiltração de radão nas habitações através das fendas (ou fissuras) nos \npavimentos (ou devido ao mau estado de conservação das habitações) (ver nota 1);\n•  relação entre a elevada densidade do radão e a sua acumulação (nos pisos inferiores das \nhabitações) (ver nota 4).\nNotas:\n1 – Aceita-se a transcrição do texto.\n2 – É considerada falha na utilização da linguagem científica a associação da «formação de radão» apenas ao granito \nutilizado na construção das habitações.\n3 – Se a resposta apresentar o primeiro tópico, poderá estar omissa a referência a «granito». Caso contrário, a omissão \nda referência a «granito» é considerada falha na utilização da linguagem científica.\n4 – O tópico não é considerado caso a referência às três características do radão mencionadas no texto seja utilizada \ncomo justificação para a sua acumulação nos pisos inferiores.\nNíveis Descritores do nível de desempenho Pontuação\n7\nNa resposta, são apresentados os quatro tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n15\n6 Na resposta, são apresentados os quatro tópicos com falhas na organização de conteúdos \nou falhas na utilização da linguagem científica. 13\n5\nNa resposta, são apresentados os quatro tópicos com falhas na organização de conteúdos \ne falhas na utilização da linguagem científica.\nOU\nNa resposta, são apresentados três dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n11\n4 Na resposta, são apresentados três dos tópicos com falhas na organização de conteúdos \nou falhas na utilização da linguagem científica. 9\n3\nNa resposta, são apresentados três dos tópicos com falhas na organização de conteúdos \ne falhas na utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n7\n2 Na resposta, são apresentados dois dos tópicos com falhas na organização de conteúdos \nou falhas na utilização da linguagem científica. 5\n1\nNa resposta, são apresentados dois dos tópicos com falhas na organização de conteúdos \ne falhas na utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.\n3",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -412,10 +813,10 @@
       "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
     },
     {
-      "id": 2024,
+      "id": 11026,
       "question_number": "10",
-      "statement": "10. ......................................................................................................... 10 pontos\n65 pontos",
-      "question_type": "open",
+      "statement": "10. A Orogenia Varisca deu origem a uma cadeia montanhosa, semelhante aos Himalaias, que veio a culminar \nna formação do supercontinente Pangeia.\nExplique, tendo em conta o contexto tectónico descrito, a formação dos magmas que deram origem às \nrochas aflorantes na região da mina da Freixiosa.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -423,7 +824,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "10. ......................................................................................................... 10 pontos",
+      "criteriaText": "10. .................................................................................................................................................. 10 pontos\nTópicos de resposta:\n•  referência à existência de um limite convergente (ou colisão, ou choque) entre duas placas \ncontinentais (ver nota 1);\n•  relação da diminuição da temperatura de fusão das rochas com a presença de água (ou \ncom a libertação da água contida em alguns minerais) (ver nota 2);\n•  relação entre a fusão das rochas da crusta (ou da placa) continental (ou dos granitos, ou de \nrochas ricas em sílica) e a formação de magmas ricos em sílica (ou de magmas ácidos, ou \nde magmas riolíticos, ou de magmas que originam granitos) (ver notas 3 e 4).\nNotas:\n1 – É obrigatória a referência a placas continentais. Não se aceita a subdução para explicar o contexto tectónico.\n2 – Em alternativa ao tópico, aceita-se, com penalização por falha na utilização da linguagem científica, a relação \nentre o aumento de temperatura e a fusão da rocha. O tópico não considerado se for estabelecida a relação entre \no aumento de pressão e a fusão da rocha.\n3 – Se a resposta apresentar o primeiro tópico, poderá estar omissa a referência a «continental». Caso contrário, a \nomissão da referência a «continental» é considerada falha na utilização da linguagem científica.\n4 – Caso a resposta não apresente o termo «fusão», é considerada falha na utilização da linguagem científica.\nNíveis Descritores do nível de desempenho Pontuação\n5\nNa resposta, são apresentados os três tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n10\n4 Na resposta, são apresentados os três tópicos com falhas na organização de conteúdos \nou falhas na utilização da linguagem científica. 8\n3\nNa resposta, são apresentados os três tópicos com falhas na organização de conteúdos \ne falhas na utilização da linguagem científica.\nOU\nNa resposta, são apresentados dois dos tópicos com:\n • organização coerente de conteúdos;\n • linguagem científica adequada.\n6\n2 Na resposta, são apresentados dois dos tópicos com falhas na organização de conteúdos \nou falhas na utilização da linguagem científica. 4\n1\nNa resposta, são apresentados dois dos tópicos com falhas na organização de conteúdos \ne falhas na utilização da linguagem científica.\nOU\nNa resposta, é apresentado um dos tópicos com linguagem científica adequada.\n2\n\nGRUPO II",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -431,69 +832,6 @@
       "groupName": "GRUPO I",
       "contextTitle": "Figura 1",
       "contextText": "GRUPO I\nA Zona Centro-Ibérica (ZCI) faz parte de uma das cinco unidades geoestruturais que constituem a \nPenínsula Ibérica. Nesta zona, individualizam-se três subunidades: o Complexo Xisto-Grauváquico, \nanterior ao Ordovícico, com fácies do tipo flysch 1; os Quartzitos Armoricanos, resultantes de uma \nunidade arenítica do Ordovícico (de 488 a 443 Ma), e os granitos, formados no Paleozoico superior, \ndurante a génese de uma cadeia montanhosa (Orogenia Varisca).\nA mina da Freixiosa, localizada no distrito de Viseu, insere-se na ZCI. O seu enquadramento \ngeológico está representado na Figura 1. Trata-se de uma pequena exploração de urânio subterrânea \ne a céu aberto, que cessou a sua atividade na década de 80 do século XX.\nA mina encontra-se numa zona de granito, muito fraturado, com cerca de 305 a 278 Ma. Este \ntipo de rochas apresenta teores elevados de um isótopo instável de urânio (\n238U) que, após \n14 etapas intermédias de decaimento radioativo, se transforma num átomo estável de chumbo \n(206Pb). Um dos elementos intermédios deste decaimento é o radão ( 222Rn), que é um gás denso, \nincolor e inodoro.\nO radão circula no subsolo e infiltra-se nas casas através de fissuras nos pavimentos.\nNos distritos da Guarda e de Viseu, a concentração de radão no interior das habitações é, muitas \nvezes, mais elevada do que no exterior, sendo, por vezes, superior ao valor permitido na legislação.\n1 Sequências espessas de sedimentos marinhos, depositados num ambiente de talude continental.\nN\n+\nGranito de grão médio, de duas micas, com\nraros megacristais\nGranito biotítico de grão ﬁno e médio\nAluviões e outros depósitos atuais de fundo\nde vale\nFalha provável\nFilão de rocha melanocrática\nÁrea da mina da Freixiosa0 375 750m\nRibeira de\nLudares\nFreixiosa\nFigura 1\nBaseado em C. Gusmão, «Caracterização da radioatividade ambiente e contributo para análise de risco – \nAplicação à área da antiga mina da Freixiosa», FCT-UNL, 2008"
-    },
-    {
-      "id": 2047,
-      "question_number": "16",
-      "statement": "16. ......................................................................................................... 10 pontos\n35 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "16. ......................................................................................................... 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO III",
-      "contextTitle": null,
-      "contextText": "GRUPO III\nA evolução do nível médio do mar e a da linha de costa portuguesa são apenas conhecidas em \ntraços gerais.\nPor volta do ano 900 d.C., Ovar seria um porto de mar, havendo referências à exploração de \nsal. A partir do século X, ter-se-á iniciado a formação de um cordão de areia, que se desenvolveu \ngradualmente, dando origem a uma laguna na região de Aveiro. Ao longo do tempo, os sedimentos, \ntransportados pelos rios que ali desaguavam, foram assoreando a laguna.\nA Figura 3A representa a evolução da linha de costa e do cordão de areia litoral desde o século X.\nEm virtude de a laguna ter ficado isolada do mar, em 1808, procedeu-se à abertura de um canal \nartificial – Barra Nova – que restabeleceu a comunicação com o oceano Atlântico, travando os \nprocessos de assoreamento e de isolamento da laguna.\nA atual barra de Aveiro, com os seus molhes norte e sul, e a zona das dunas de S. Jacinto estão \nrepresentadas, com maior pormenor, na Figura 3B.Rio Vouga\nMira\nOvar\nEstarreja\nAveiro\nEspinho\nN\nLinha de costa do século X\nDuna\nsOceano\nAtlântico\nMolhe norte\nda barra\nMolhe sul\nda barra\n1200\n1500Abertura da\nBarra Nova\n1808 1584\n1643\n1685\n1756\nÁrea urbana\nS. Jacinto\n0 10 km\nFigura 3A Figura 3B\nTexto e Figura 3A baseados em J. Alveirinho Dias et al., «Interações homem-meio em zonas costeiras: o caso de Aveiro,\nPortugal», in M. Rodrigues, S. Pereira (ed.), Baía de Sepetiba: Estado da Arte, Ed. Corbã, Rio de Janeiro, Brasil, 2012\nFigura 3B baseada em www.fem.pt\n(consultado em novembro de 2014)"
-    },
-    {
-      "id": 2046,
-      "question_number": "17",
-      "statement": "17. ......................................................................................................... 15 pontos\n45 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "17. ......................................................................................................... 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": "Figura 2",
-      "contextText": "GRUPO II\nNos mamíferos, a hormona antidiurética, ADH, liga-se a recetores na membrana das células \nepiteliais dos tubos coletores e desencadeia uma sequência de reações intracelulares de regulação \ndas aquaporinas, AQP-2, proteínas membranares que intervêm no transporte da água.\nNo sentido de se perceber o efeito da ADH nas AQP-2, realizaram-se dois estudos.\nEstudo 1\nNo primeiro estudo, pretendeu investigar-se o modo como a ADH intervém na regulação da \npermeabilidade dos tubos coletores.\nMétodos e resultados\n1 – Isolaram-se tubos coletores de um rim de rato.\n2 – Utilizaram-se marcadores para localizar as AQP-2 nas células dos tubos coletores, em diferentes \ncondições – sem ADH e com ADH.\nOs resultados obtidos estão esquematizados na Figura 2.\nSem ADH ComA DH\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nCélulas do tubo\ncoletor\nInterior do tubo\ncoletor\nVesícula\n AQP-2\nFigura 2\nEstudo 2\nNo segundo estudo, pretendeu investigar-se a influência da ADH na quantidade de AQP-2 nas \ncélulas dos tubos coletores.\nMétodos e resultados\n1 – Utilizaram-se duas linhagens de ratos – ratos normais e ratos incapazes de produzir ADH.\n2 – As duas linhagens de ratos foram submetidas a tratamentos com ADH e a tratamentos com \nmoléculas antagonistas dos recetores de ADH (moléculas que bloqueiam o recetor).\n3 – Os valores obtidos, relativos à quantidade de AQP-2 nas células, foram comparados com os \nvalores de referência obtidos em ratos das duas linhagens não submetidos a qualquer tratamento.\nOs resultados estão registados na Tabela 1.\n\nTABELA 1\nQuantidade de AQP-2 nas células \ndos tubos coletores\n(unidades arbitrárias)\nRatos normais Ratos que não \nproduzem ADH\nSem tratamento Valores de referência 1,0 0,5\nCom tratamento\nCom ADH 1,0 1,5\nCom um antagonista \ndo recetor de ADH 0,5 0,5\nBaseado em D. Hillis et al., Principles of Life, Sinauer Associates, Inc., EUA, 2010"
-    },
-    {
-      "id": 2048,
-      "question_number": "19",
-      "statement": "19. ......................................................................................................... 15 pontos\n55 pontos\n TOTAL ......................................... 200 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "19. ......................................................................................................... 15 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO IV",
-      "contextTitle": null,
-      "contextText": "GRUPO IV\nAs amibas são protozoários capazes de colonizar grande variedade de ambientes e, na sua forma \nvegetativa (trofozoíto), multiplicam-se por fissão binária. Alimentam-se por fagocitose de outros \nprotozoários, de fungos, de algas e de bactérias. No entanto, algumas bactérias resistem à ação das \namibas, evitando a inclusão em vesículas fagocíticas (fagossomas), ou, quando incluídas, evitando \na digestão e utilizando-as como hospedeiras. Estas bactérias multiplicam-se num fagossoma da \namiba, que não se funde com os lisossomas, podendo ser libertadas para o meio, quer por lise das \ncélulas hospedeiras, quer através de vesículas.\nA coevolução entre as bactérias e as amibas originou espécies bacterianas que se tornaram \nendossimbiontes obrigatórios e outras que infetam e destroem os protozoários hospedeiros.\nBaseado em R. Costa, «Hospedeiros de Micro-organismos Patogénicos: \nDeteção e Caracterização de Amibas de Vida Livre», FCUL, 2011"
     }
   ]
 }

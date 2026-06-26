@@ -4,31 +4,120 @@
   "subject": "Biologia e Geologia",
   "year": 2019,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 165,
+      "id": 1425,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 166,
+      "id": 1426,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 167,
+      "id": 1427,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 168,
+      "id": 1428,
       "name": "GRUPO IV",
       "order": 3
     }
   ],
   "questions": [
     {
-      "id": 1226,
+      "id": 10295,
+      "question_number": "1",
+      "statement": "1. A placa das Caraíbas move-se, aproximadamente, para",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20236,
+          "letter": "A",
+          "text": "da celulose.",
+          "isCorrect": false
+        },
+        {
+          "id": 20237,
+          "letter": "B",
+          "text": "dos ácidos nucleicos.",
+          "isCorrect": false
+        },
+        {
+          "id": 20238,
+          "letter": "C",
+          "text": "do amido.",
+          "isCorrect": false
+        },
+        {
+          "id": 20239,
+          "letter": "D",
+          "text": "dos ácidos gordos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "1. a 5. ............................................................... (5 × 5 pontos) ....................................................... 25 pontos\nitens 1 2 3 4 5\nV\nersão 1 C d C B a\nV\nersão 2 a C B a d",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10303,
+      "question_number": "1",
+      "statement": "1. As afirmações seguintes dizem respeito à interpretação dos dados apresentados na Figura 2.\nI.\n O número de grãos de pólen depositados \ndiminui com o aumento da percentagem de campo de cultivo \nnum raio de 1 km.\nII. \n Um aumento \nde 10% de campo de cultivo num raio de 1 km aumenta o número de visitas de Bombus \nterrestris.\nIII. \n Se houver 10% de \nhabitats seminaturais, o número de grãos de pólen depositados é maior do que se \nessa percentagem for de 50%.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10311,
+      "question_number": "1",
+      "statement": "1. O estudo de sedimentologia apresentado teve como finalidade",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10321,
       "question_number": "1",
       "statement": "1. De acordo com o texto, o nutriente obtido pelas plantas, através do carnivorismo, entra na constituição",
       "question_type": "multiple_choice",
@@ -38,33 +127,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2030,
-          "letter": "A",
-          "text": "da celulose.",
-          "isCorrect": false
-        },
-        {
-          "id": 2031,
-          "letter": "B",
-          "text": "dos ácidos nucleicos.",
-          "isCorrect": false
-        },
-        {
-          "id": 2032,
-          "letter": "C",
-          "text": "do amido.",
-          "isCorrect": false
-        },
-        {
-          "id": 2033,
-          "letter": "D",
-          "text": "dos ácidos gordos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nGrupo i tem\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -74,7 +138,95 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1227,
+      "id": 10296,
+      "question_number": "2",
+      "statement": "2.\n De acordo com os estudos mais recentes, o sismo ocorrido no Haiti, em 2010, resultou de um campo de \ntensões",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20240,
+          "letter": "A",
+          "text": "intracorporal e extracelular .",
+          "isCorrect": false
+        },
+        {
+          "id": 20241,
+          "letter": "B",
+          "text": "semelhante à digestão que ocorre na hidra.",
+          "isCorrect": false
+        },
+        {
+          "id": 20242,
+          "letter": "C",
+          "text": "extracorporal e extracelular .",
+          "isCorrect": false
+        },
+        {
+          "id": 20243,
+          "letter": "D",
+          "text": "semelhante à digestão que ocorre na planária.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10304,
+      "question_number": "2",
+      "statement": "2. No estudo descrito, uma das variáveis dependentes foi",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10312,
+      "question_number": "2",
+      "statement": "2.\n A\n utilização dos dois crivos permitiu separar",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10322,
       "question_number": "2",
       "statement": "2.\n Nas plantas carnívoras, a digestão é",
       "question_type": "multiple_choice",
@@ -84,33 +236,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2034,
-          "letter": "A",
-          "text": "intracorporal e extracelular .",
-          "isCorrect": false
-        },
-        {
-          "id": 2035,
-          "letter": "B",
-          "text": "semelhante à digestão que ocorre na hidra.",
-          "isCorrect": false
-        },
-        {
-          "id": 2036,
-          "letter": "C",
-          "text": "extracorporal e extracelular .",
-          "isCorrect": false
-        },
-        {
-          "id": 2037,
-          "letter": "D",
-          "text": "semelhante à digestão que ocorre na planária.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "2 Explica, com falhas no rigor científico, a evolução das proteínas digestivas, apresentando \napenas dois dos elementos. 4",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -120,7 +247,95 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1228,
+      "id": 10297,
+      "question_number": "3",
+      "statement": "3.\n Considere \nas afirmações seguintes, referentes ao enquadramento tectónico da ilha La Española, \nrepresentado na Figura 1.\nI.\n Ao longo da falha Setentrional, ocorre, predominante\nmente, deslizamento lateral e manutenção da \nespessura crustal.\nII. \n No movimento entre a placa das Caraíbas e a placa Norte-Americana, \nhá afundamento de litosfera \noceânica da placa Norte-Americana.\nIII. \n Os sismos que ocorrem na zona de subdução \napresentam, tendencialmente, hipocentros mais \nprofundos de sul para norte.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20244,
+          "letter": "A",
+          "text": "estruturas homólogas, em que foram transcritos diferentes genes.",
+          "isCorrect": false
+        },
+        {
+          "id": 20245,
+          "letter": "B",
+          "text": "estruturas análogas, em que foram transcritos os mesmos genes.",
+          "isCorrect": false
+        },
+        {
+          "id": 20246,
+          "letter": "C",
+          "text": "estruturas análogas, em que foram transcritos diferentes genes.",
+          "isCorrect": false
+        },
+        {
+          "id": 20247,
+          "letter": "D",
+          "text": "estruturas homólogas, em que foram transcritos os mesmos genes.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10305,
+      "question_number": "3",
+      "statement": "3.\n O \naumento da variabilidade genética e a conquista do ambiente terrestre pelos seres eucariontes \nautotróficos estão associados ao predomínio da fase",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10313,
+      "question_number": "3",
+      "statement": "3.\n Considere \nas afirmações seguintes, referentes aos sedimentos estudados e à interpretação dos dados \nfornecidos.\nI.\n As piroxenas apresentam maior resistência à ação do \ntransporte do que a andaluzite.\nII. \n Os \ngrãos de turmalina apresentam uma forma compatível com a sua mobilização em mais do que um \nciclo sedimentar.\nIII. A\n forma dos grãos de estaurolite indicia uma origem distante do local de recolha da amostra.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10323,
       "question_number": "3",
       "statement": "3. As folhas carnívoras e as folhas não carnívoras de Cephalotus follicularis constituem",
       "question_type": "multiple_choice",
@@ -130,33 +345,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2038,
-          "letter": "A",
-          "text": "estruturas homólogas, em que foram transcritos diferentes genes.",
-          "isCorrect": false
-        },
-        {
-          "id": 2039,
-          "letter": "B",
-          "text": "estruturas análogas, em que foram transcritos os mesmos genes.",
-          "isCorrect": false
-        },
-        {
-          "id": 2040,
-          "letter": "C",
-          "text": "estruturas análogas, em que foram transcritos diferentes genes.",
-          "isCorrect": false
-        },
-        {
-          "id": 2041,
-          "letter": "D",
-          "text": "estruturas homólogas, em que foram transcritos os mesmos genes.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3 Explica, com rigor científico, a evolução das proteínas digestivas, apresentando apenas \ndois dos elementos. 6",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -166,7 +356,95 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1229,
+      "id": 10298,
+      "question_number": "4",
+      "statement": "4.\n Os contextos tectónicos semelhantes \nao da zona do limite entre a placa Norte-Americana e a placa das \nCaraíbas são ambientes aos quais está tipicamente associada a formação de magmas",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20248,
+          "letter": "A",
+          "text": "o desenvolvimento dos dois tipos de folhas é independente de fatores externos.",
+          "isCorrect": false
+        },
+        {
+          "id": 20249,
+          "letter": "B",
+          "text": "a formação de folhas carnívoras implica a utilização de um código genético diferente.",
+          "isCorrect": false
+        },
+        {
+          "id": 20250,
+          "letter": "C",
+          "text": "as folhas planas têm menor quantidade de clorofila do que as folhas em forma de jarro.",
+          "isCorrect": false
+        },
+        {
+          "id": 20251,
+          "letter": "D",
+          "text": "nas folhas carnívoras, os processos digestivos exigem uma intensa síntese proteica.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10306,
+      "question_number": "4",
+      "statement": "4.\n As abelhas apresentam um sistema circulatório",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10314,
+      "question_number": "4",
+      "statement": "4. A presença de mineralizações com valor económico na Faixa Piritosa Ibérica tem levado à realização de \ntrabalhos de prospeção através de métodos diretos e indiretos, respetivamente",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10324,
       "question_number": "4",
       "statement": "4.\n Em relação às folhas de Cephalotus follicularis, podemos afirmar que",
       "question_type": "multiple_choice",
@@ -176,33 +454,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2042,
-          "letter": "A",
-          "text": "o desenvolvimento dos dois tipos de folhas é independente de fatores externos.",
-          "isCorrect": false
-        },
-        {
-          "id": 2043,
-          "letter": "B",
-          "text": "a formação de folhas carnívoras implica a utilização de um código genético diferente.",
-          "isCorrect": false
-        },
-        {
-          "id": 2044,
-          "letter": "C",
-          "text": "as folhas planas têm menor quantidade de clorofila do que as folhas em forma de jarro.",
-          "isCorrect": false
-        },
-        {
-          "id": 2045,
-          "letter": "D",
-          "text": "nas folhas carnívoras, os processos digestivos exigem uma intensa síntese proteica.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 Explica, com falhas no rigor científico, a evolução das proteínas digestivas, apresentando \nos três elementos (A, B, C). 8",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -212,7 +465,95 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1230,
+      "id": 10299,
+      "question_number": "5",
+      "statement": "5.\n Para um determinado sismo, à medida que a distância ao epicentro aumenta, verifica-se um aumento",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20252,
+          "letter": "A",
+          "text": "ligações peptídicas entre monossacarídeos.",
+          "isCorrect": false
+        },
+        {
+          "id": 20253,
+          "letter": "B",
+          "text": "ligações peptídicas entre aminoácidos.",
+          "isCorrect": false
+        },
+        {
+          "id": 20254,
+          "letter": "C",
+          "text": "ligações glucosídicas entre monossacarídeos.",
+          "isCorrect": false
+        },
+        {
+          "id": 20255,
+          "letter": "D",
+          "text": "ligações glucosídicas entre aminoácidos.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10307,
+      "question_number": "5",
+      "statement": "5.\n Relativamente ao ciclo de vida de Cucurbita maxima, pode afirmar-se que",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10315,
+      "question_number": "5",
+      "statement": "5.\n As \nrochas magmáticas que afloram na região de Serpa são constituídas predominantemente por minerais \nmáficos e",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10325,
       "question_number": "5",
       "statement": "5.\n A\n quitinase atua facilitando a quebra de",
       "question_type": "multiple_choice",
@@ -222,33 +563,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2046,
-          "letter": "A",
-          "text": "ligações peptídicas entre monossacarídeos.",
-          "isCorrect": false
-        },
-        {
-          "id": 2047,
-          "letter": "B",
-          "text": "ligações peptídicas entre aminoácidos.",
-          "isCorrect": false
-        },
-        {
-          "id": 2048,
-          "letter": "C",
-          "text": "ligações glucosídicas entre monossacarídeos.",
-          "isCorrect": false
-        },
-        {
-          "id": 2049,
-          "letter": "D",
-          "text": "ligações glucosídicas entre aminoácidos.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5 5 5 5 5 5 5 5 5 10 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -258,7 +574,95 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1231,
+      "id": 10300,
+      "question_number": "6",
+      "statement": "6. Ordene as expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência de algumas \ndas etapas necessárias para determinar a localização do epicentro de um sismo.\nA.\n Identificação de ondas P\n e de ondas S no sismograma.\nB.\n Registo da chegada de ondas P\n à estação sismográfica.\nC.\n Cruzamento de distâncias epicentrais calculadas em outras estações sismográficas.\nD.\n Determinação da diferença entre o tempo de chegada de ondas S e de ondas P\n.\nE.   Cálculo da distância entre a estação sismográfica e o epicentro.",
+      "question_type": "ordering",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20256,
+          "letter": "A",
+          "text": "convergente, provocada por distintas pressões seletivas.",
+          "isCorrect": false
+        },
+        {
+          "id": 20257,
+          "letter": "B",
+          "text": "condicionada pela existência de insetos ricos em nitrogénio.",
+          "isCorrect": false
+        },
+        {
+          "id": 20258,
+          "letter": "C",
+          "text": "divergente, relacionada com a ocorrência de mutações.",
+          "isCorrect": false
+        },
+        {
+          "id": 20259,
+          "letter": "D",
+          "text": "condicionada pela ocorrência de solos pobres em nutrientes.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nV\nersão 1 – B, \na\n, \nd\n, E, C\nVersão 2 – \nd\n, E, \na\n, B, C",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10308,
+      "question_number": "6",
+      "statement": "6.\n O movimento ascendente da seiva elaborada ocorre quando",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10316,
+      "question_number": "6",
+      "statement": "6.\n O mineral \npesado mais abundante nos sedimentos estudados apresenta clivagem. Corresponde a um \nmineral",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10326,
       "question_number": "6",
       "statement": "6.\n De acordo com \nos dados do texto, a evolução das proteínas digestivas nas plantas carnívoras dos vários \ncontinentes constitui um caso de evolução",
       "question_type": "multiple_choice",
@@ -268,33 +672,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 2050,
-          "letter": "A",
-          "text": "convergente, provocada por distintas pressões seletivas.",
-          "isCorrect": false
-        },
-        {
-          "id": 2051,
-          "letter": "B",
-          "text": "condicionada pela existência de insetos ricos em nitrogénio.",
-          "isCorrect": false
-        },
-        {
-          "id": 2052,
-          "letter": "C",
-          "text": "divergente, relacionada com a ocorrência de mutações.",
-          "isCorrect": false
-        },
-        {
-          "id": 2053,
-          "letter": "D",
-          "text": "condicionada pela ocorrência de solos pobres em nutrientes.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "6. .................................................................................................................................................... 5 pontos\nV\nersão 1 – B, \na\n, \nd\n, E, C\nVersão 2 – \nd\n, E, \na\n, B, C",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -304,7 +683,70 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1232,
+      "id": 10301,
+      "question_number": "7",
+      "statement": "7.\n Faça corresponder \ncada uma das características relativas a zonas da estrutura interna da geosfera, \nexpressas na coluna A, à designação que as identifica, expressa na coluna B.\nCOLUNA A COLUNA B\n(a) Zona atravessada pelas ondas sísmicas internas, onde se \nverifica uma redução da sua velocidade.\n(b)\n Zona delimitada na sua base pela descontinuid\nade de \nGutenberg.\n(c)\n Zona segmentada em pla\ncas tectónicas.\n(1)\n \nAstenosfera\n(2)\n \nCrosta\n(3)\n \nLitosfera\n(4)\n \nMesosfera\n(5)\n Núcleo interno",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nV\nersão 1 – (a) – (1); (b) – (4); (c) – (3)\nVersão 2 – (a) – (3); (b) – (1); (c) – (4)",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10309,
+      "question_number": "7",
+      "statement": "7. Explique de que modo os resultados expressos nos gráficos A e B da Figura 2 validam a Hipótese 1, \napenas para uma das espécies.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10317,
+      "question_number": "7",
+      "statement": "7.\n A\n andaluzite é um mineral estável em condições de baixa pressão e num intervalo relativamente amplo \nde temperaturas, cuja formação está tipicamente associada a processos de metamorfismo. Deste modo, \npoderá admitir-se que os cristais de andaluzite presentes nos sedimentos estudados se formaram como \nresultado de um processo de",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10327,
       "question_number": "7",
       "statement": "7.\n Ordene \nas expressões identificadas pelas letras de A a E, de modo a reconstituir a sequência correta dos \nacontecimentos relacionados com o carnivorismo em Cephalotus follicularis. Considere as relações de \ncausa e efeito entre os acontecimentos.\nA.\n Fusão de vesículas exocíticas com a membrana celular\n.\nB.\n Maturação de proteínas no complexo de Golgi.\nC.\n Absorção de nutrientes.\nD.\n Degradação de substâncias complexas.\nE. \n Transcrição do DNA associado à síntese de enzimas digestivas.",
       "question_type": "ordering",
@@ -315,9 +757,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "7. .................................................................................................................................................... 5 pontos\nV\nersão 1 – E, B, \na\n, \nd\n, C\nVersão 2 – \na\n, C, \nd\n, E, B",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -325,7 +767,70 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1233,
+      "id": 10302,
+      "question_number": "8",
+      "statement": "8.\n Com base em outros estudos \nrealizados, nomeadamente entre 2003 e 2008, os cientistas concluíram que \na zona de falha de Enriquillo-Plantain Garden, no Haiti, poderia dar origem a um sismo de magnitude de \ncerca de 7,2. Os resultados desses estudos foram apresentados em conferências geológicas e publicados \nem 2008.\nExplique por que razão seria expectável, para os cientistas, a ocorrência de um sismo de elevada magnitude \nna zona de falha de Enriquillo-Plantain Garden, considerando o contexto tectónico da região e os dados \nda sismicidade histórica.\n\n–––—––––––––––—–—–—–——— Página em branco ––––––––––—–—–—–————–-––",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "8. .................................................................................................................................................... 10 pontos\nExplica \nporque seria expectável a ocorrência de um sismo de elevada magnitude, relacionando o contexto \ntectónico da região (\na\n) com a acumulação de energia (B) e com aspetos da sismicidade histórica (C).\n(\na\n)\n Na região, existem numerosas falhas ativas.\nOU\nA\n ilha está próxima de um limite convergente de placas.\nOU\nA ilha é atravessada pela falha de Enriquillo-Plantain Garden.\n(B)\n Na região, acumulam-se elevadas tensões.\nOU\nNa região, acumulam-se grandes quantidades de energia.\n(C)\n Desde 1770, não houve libertação de grandes quantidades de energia.\nOU\nDesde 1770, ocorreram apenas sismos de menor (OU de reduzida) magnitude.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5 Explica, com rigor científico, porque seria expectável a ocorrência de um sismo de \nelevada magnitude, apresentando os três elementos (A, B, C). 10\n4 Explica, com falhas no rigor científico, porque seria expectável a ocorrência de um \nsismo de elevada magnitude, apresentando os três elementos (A, B, C). 8\n3 Explica, com rigor científico, porque seria expectável a ocorrência de um sismo de \nelevada magnitude, apresentando apenas dois dos elementos. 6\n2 Explica, com falhas no rigor científico, porque seria expectável a ocorrência de um \nsismo de elevada magnitude, apresentando apenas dois dos elementos. 4\n1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nGRUPO II",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nO Haiti localiza-se na ilha La Española, na zona nordeste (NE) do mar das Caraíbas. Esta ilha, \npróxima do limite em que a placa Norte-Americana é sujeita a subdução relativamente à placa das \nCaraíbas, é atravessada por numerosas falhas ativas, algumas com grande extensão, como a falha \nde Enriquillo-Plantain Garden (EPG). O enquadramento tectónico desta zona está representado, \nesquematicamente, na Figura 1.\nEm 1751, na zona de falha de Enriquillo-Plantain Garden, foi registado um sismo com magnitude \nestimada de 7,5, que foi seguido, em 1770, por outro grande sismo. Ao longo de mais de dois \nséculos, na zona sul do Haiti, apenas ocorreram sismos de menor magnitude, destacando-se os de \n1784, 1860, 1864 e 1953.\nTodavia, a 12 de janeiro de 2010, o Haiti foi atingido por um sismo de magnitude 7, que causou \ncerca de 230 000 mortes. O sismo teve origem a uma profundidade de 10 km a 13 km, e o seu \nepicentro localizou-se 15 km a sudoeste (SO) de Porto Príncipe, a capital do Haiti. Nos meses \nseguintes, ocorreram mais de 50 réplicas de magnitude superior a 4,5.\nDe início, os Serviços Geológicos dos Estados Unidos referiram que a falha de EPG poderia ter \nsido responsável pelo sismo ocorrido no Haiti, em 2010. No entanto, estudos mais recentes indicam \nque, na origem do sismo, estiveram falhas inversas associadas a essa falha.\nBaseado em: J. Bruña et al., «El Terramoto de Haiti», Enseñanza de las Ciencias de la Terra, 2011 \ne em: https://web.ics.purdue.edu (consultado em setembro de 2018).\nRepública \nDominicana\nHaiti\nLa Española\nZona de falha Setentrional\nZona de falha de EPG\nPlaca Norte-Americana\nPlaca das Caraíbas\nPorto Príncipe\nMar das Caraíbas\nOceano Atlântico\nCuba\n0 100 km\n20º N\n72,5º O 70º O\nZona de subdução\nFalha\nEpicentro do terramoto de \n12 janeiro de 2010, no Haiti \nSentido do movimento \nda placa\n17,5º N\nN\n \nFigura 1 – Enquadramento tectónico da ilha La Española\nBaseado em: https://www.agenciasinc.es (consultado em setembro de 2018)."
+    },
+    {
+      "id": 10310,
+      "question_number": "8",
+      "statement": "8.\n Explique \nde que modo, em Apis mellifera , a quantidade de nutrientes e a quantidade de oxigénio que \nchegam aos tecidos podem, ou não, ser afetadas por uma alteração na distribuição do fluido circulante.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nA polinização animal é importante para a produção agrícola, em particular para a produção de \nfrutos e para uma parte significativa das culturas hortícolas. No entanto, a monocultura intensiva \npode ser prejudicial aos insetos, por falta de recursos florais e de locais de refúgio.\nDevido à perda de habitats, ao uso de pesticidas, às alterações climáticas e às doenças, tem-se \nverificado o declínio das populações de abelhas, importantes agentes polinizadores.\nRealizou-se um estudo em campos de cultura intensiva de abóbora para avaliar os efeitos dos \nfatores seguintes na polinização:\n− −disponibilidade de habitats seminaturais (plantas herbáceas não cultivadas e floresta);\n− −visitas de abelhas das espécies Apis mellifera e Bombus terrestris.\nForam testadas algumas hipóteses, de entre as quais se destacam as seguintes:\nHipótese 1 – o número de grãos de pólen depositados nas flores de abóbora está diretamente \nrelacionado com o número de visitas de Apis mellifera e de Bombus terrestris;\nHipótese 2 – o número de visitas de insetos polinizadores é mais elevado em campos adjacentes \na habitats seminaturais do que em campos adjacentes a outros campos de cultura.\nMétodos e condições experimentais\n1 – \n O estudo realizou-se \nem 18 campos de cultura de abóbora, Cucurbita maxima, cada um com \numa área de cerca de 3 ha.\n2 – Os campos \nde abóbora estavam rodeados de paisagens que diferiam na quantidade relativa \nde habitats seminaturais e de campos de cultivo (milho, trigo ou batata), num raio de 1 km.\n3 – A\n temperatura média anual da região é de cerca de 11 ºC, e a precipitação média anual é de \n700 mm.\n4 – Foram feitas observações \ndas visitas de insetos polinizadores e foram recolhidas amostras \nde pólen ao longo de 4 trajetos em cada campo.\n5 – As \nvisitas dos polinizadores foram gravadas em vídeo, ao longo de períodos de 15 minutos, \nem 3 dias de julho, durante a floração, nas horas em que os estigmas 1 estão recetivos e os \ngrãos de pólen estão disponíveis e são viáveis.\n6 – As amostras de pólen depositado foram recolhidas nos estigmas das flores visitadas.\nResultados\nForam observadas 2100 abelhas, das quais 79% pertenciam à espécie Apis mellifera , 14% \npertenciam à espécie Bombus terrestris e 7% pertenciam a outras espécies.\nNa Figura 2, constam outros resultados deste estudo.\nNota:\n1 Estigmas – locais das estruturas reprodutoras femininas onde os grãos de pólen são depositados.\n\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 20 40 60\nNúmero de visitas de Bombus terrestris\nNúmero de grãos de pólen por flor feminina\nA\nC \n0\n50 70 9030\n20\n40\n60\nPercentagem de campo de cultivo \nnum raio de 1 km\nNúmero de visitas de Bombus terrestris\npor flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n0 40 12080\nNúmero de visitas de Apis mellifera\nD \nB\nNúmero de grãos de pólen por flor feminina\n20 000\n16 000\n12 000\n8000\n4000\n0\n50 70 9030\nNúmero de grãos de pólen por flor feminina\nPercentagem de campo de cultivo \nnum raio de 1 km\nFigura 2 – Relação entre as visitas dos polinizadores e a deposição de pólen (A e B); Relação entre a proporção \nde campo de cultivo num raio de 1 km e as visitas de Bombus terrestris (C); Relação entre a proporção \nde campo de cultivo num raio de 1 km e a deposição de pólen pelos diferentes polinizadores (D)\nBaseado em: S. C. Pfister et al., «Dominance of cropland reduces the pollen \ndeposition from bumble bees», Scientific Reports, 2018."
+    },
+    {
+      "id": 10318,
+      "question_number": "8",
+      "statement": "8.\n As rochas micaxisto e quartzito apresentam",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10328,
       "question_number": "8",
       "statement": "8. Faça corresponder cada uma das descrições relativas à síntese de proteínas digestivas, expressas na \ncoluna A, à respetiva molécula, que consta na coluna B.\nCOLUNA A COLUNA B\n(a) Enzima que participa na transcrição da informação genética.\n(b)\n Polímero de ribonucleótidos \ncontendo informação para a \nsíntese de um péptido.\n(c)\n Monómero\n que entra na constituição de péptidos.\n(1)\n \nAminoácido\n(2) DNA polimerase\n(3)\n \nGene\n(4)\n RNA\n mensageiro\n(5)\n RNA\n polimerase",
       "question_type": "open",
@@ -336,9 +841,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "8. .................................................................................................................................................... 5 pontos\nV\nersão 1 – (a) – (5); (b) – (4); (c) – (1)\nVersão 2 – (a) – (4); (b) – (1); (c) – (5)",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -346,9 +851,30 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1250,
+      "id": 10319,
       "question_number": "9",
-      "statement": "9.\n Explique, \nsegundo a perspetiva neodarwinista, a evolução das proteínas digestivas presentes nas plantas \ncarnívoras a partir de proteínas vegetais existentes em plantas não carnívoras.\nFIM\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 10 10 50\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.\n5 5 5 5 5 5 5 5 5 10 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 10 50\nTOTAL 200",
+      "statement": "9. De acordo com os dados do texto, na região do Pulo do Lobo existe uma estrutura geológica que \ncorresponde a uma dobra",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "9. .................................................................................................................................................... 10 pontos\nExplica, \nde acordo com o neodarwinismo, a evolução das proteínas digestivas, referindo a fonte de \nvariabilidade (\na\n), a função do ambiente na seleção natural (B) e a relação entre a reprodução diferencial \ne a alteração das características da população (C).\n(\na\n)\n O \nDNA sofreu mutações que conduziram à produção de proteínas com capacidade digestiva (OU à \nprodução de proteínas distintas).\nOU\nAs recombinações génicas conduziram à produção de proteínas com capacidade digestiva (OU à \nprodução de proteínas distintas).\n(B)\n O \nambiente (OU as pressões seletivas, OU a carência de nitrogénio) conduziu à seleção natural de \nplantas portadoras da nova característica.\nOU\nO ambiente (OU as pressões seletivas, OU a carência de nitrogénio) conduziu à sobrevivência \ndiferencial de plantas portadoras da nova característica.\n(C)\n A\n reprodução diferencial conduziu ao aumento da frequência dos genes responsáveis pela síntese de \nproteínas digestivas na população.\nOU\nA reprodução diferencial provocou a alteração do fundo genético da população.\nOU\nA reprodução diferencial provocou o aumento do número de plantas com estas características na \npopulação.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n5 Explica, com rigor científico, a evolução das proteínas digestivas, apresentando os três \nelementos (A, B, C). 10\n4 Explica, com falhas no rigor científico, a evolução das proteínas digestivas, apresentando \nos três elementos (A, B, C). 8\n3 Explica, com rigor científico, a evolução das proteínas digestivas, apresentando apenas \ndois dos elementos. 6\n2 Explica, com falhas no rigor científico, a evolução das proteínas digestivas, apresentando \napenas dois dos elementos. 4\n1 Apresenta, com rigor científico, apenas um dos elementos. 2\n\nCotaçÕES\nGrupo i tem\nCotação (em pontos)\nI 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 5 10 45\nII 1. 2. 3. 4. 5. 6. 7. 8.\n5 5 5 5 5 5 10 10 50\nIII 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.\n5 5 5 5 5 5 5 5 5 10 55\nIV 1. 2. 3. 4. 5. 6. 7. 8. 9.\n5 5 5 5 5 5 5 5 10 50\nt\notal 200",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nO rio Guadiana nasce em Espanha e desagua no oceano Atlântico, junto a Vila Real de Santo \nAntónio. No seu percurso, entre Serpa e Mértola, atravessa o antiforma do Pulo do Lobo e a Faixa \nPiritosa Ibérica, onde existem várias explorações mineiras.\nNo mapa da Figura 3, estão representadas as formações geológicas da Bacia Hidrográfica \ndo Guadiana (área drenada pelo rio Guadiana e seus afluentes). Os pontos A e B correspondem \na locais onde se recolheram amostras de sedimentos para realizar estudos sedimentológicos e \nmineralógicos, visando a caracterização dos processos sedimentares que ocorreram na área e a \ndeterminação das principais fontes dos sedimentos.\nO tratamento laboratorial das amostras envolveu, entre outros procedimentos, a passagem dos \nsedimentos através de um crivo com rede de 2,000 mm (diâmetro máximo dos grãos de areia) e de \num crivo com rede de 0,063 mm (diâmetro máximo das partículas de silte, cujo diâmetro é superior \nao das argilas). A fração de sedimento retida entre os dois crivos foi sujeita a novo tratamento \npara separar os minerais pesados (com densidade superior a 2,9) dos minerais mais leves, como \no quartzo e os feldspatos. Numa etapa subsequente, procedeu-se à identificação, à descrição e à \ncontagem dos minerais pesados transparentes com o auxílio do microscópio petrográfico, tendo\n-\nse \nverificado que os grãos de piroxenas e de anfíbolas possuíam, em geral, formas angulosas ou \nsubangulosas, enquanto os grãos de turmalina, de andaluzite e de estaurolite tendiam a apresentar \nformas roladas ou subroladas. As abundâncias relativas das diferentes espécies de minerais \npesados transparentes, que apresentam uma percentagem superior a 5% do número total de grãos \ncontados, estão registadas no Quadro I.\nEspanha\nPortugal\nSerpa\nMértola\nVila Real de\nSanto António\nBadajoz\nMérida\nN\nA\nB\nRio Guadiana\n0 100 km\nLimite da bacia do rio Guadiana\nRochas sedimentares do Meso-Cenozoico \nRochas do Paleozoico Superior\n(baixo grau de metamorfismo)\nRochas do pré-Câmbrico e do Paleozoico \n(metamorfismo de grau variável)\nRochas plutónicas (ácidas e básicas)\nGabros do maciço de Beja\nOfiolitos do Paleozoico\n1\n1\nOfiolitos – rochas originalmente constituintes da crosta oceânica. \n+ ++ ++ +\n+++ ++ +\n++\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+\n+++\n+\n++\n+ +\n+\n+\n+ +++\n++ ++\n+\n+\n+\n+\n+\n+\n++\n+\n+\n+\n+\n++ +++\n+\n+++++ ++\n++ ++ +\n+\n+\n+\n+\n+\n+ +\n+\n+\n+ +\n+\n+\n+\n+\n+ +\n++ +\n+ + + +\n+\n+\n+\n+ + +\n+\n+\n+\n++ ++\n++ +\n++\n+\n+\n+ ++\n+ + + +\n++\n++++ +++\n++\n+\n+\n++ +\n++ ++ ++++\n+\n+\n+\n+\n+\n+\n+\n+ ++\n+ + ++\n+\n+\n+\nNota:\nFigura 3 – Geologia da Bacia Hidrográfica do Rio Guadiana\n\nQuadro I\nLocal de recolha A\nLeito do rio Guadiana\nB\nFoz do rio Guadiana\nN.º de amostras 8 11\nFrequência relativa dos minerais \npesados transparentes mais \ncomuns\nAnfíbolas\n \n60,2%\nAndaluzite\n \n14,6%\nPiroxenas\n 12,6%\nGranadas\n \n5,4%\nAnfíbolas\n \n52,4%\nAndaluzite\n \n13,1%\nPiroxenas\n \n5,9%\nTurmalina\n \n20,4%\nBaseado em: J. Cascalho e J. Reis, Os minerais pesados e a proveniência sedimentar: estudo de casos do sudoeste \nda Península Ibérica, Museu Nacional de História Natural e da Ciência da Universidade de Lisboa;\ne em: http://www.lneg.pt (consultado em outubro de 2018)."
+    },
+    {
+      "id": 10329,
+      "question_number": "9",
+      "statement": "9.\n Explique, \nsegundo a perspetiva neodarwinista, a evolução das proteínas digestivas presentes nas plantas \ncarnívoras a partir de proteínas vegetais existentes em plantas não carnívoras.",
       "question_type": "essay",
       "max_points": null,
       "difficulty": null,
@@ -357,9 +883,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "9. .................................................................................................................................................... 10 pontos\nExplica, \nde acordo com o neodarwinismo, a evolução das proteínas digestivas, referindo a fonte de \nvariabilidade (\na\n), a função do ambiente na seleção natural (B) e a relação entre a reprodução diferencial \ne a alteração das características da população (C).\n(\na\n)\n O \nDNA sofreu mutações que conduziram à produção de proteínas com capacidade digestiva (OU à \nprodução de proteínas distintas).\nOU\nAs recombinações génicas conduziram à produção de proteínas com capacidade digestiva (OU à \nprodução de proteínas distintas).\n(B)\n O \nambiente (OU as pressões seletivas, OU a carência de nitrogénio) conduziu à seleção natural de \nplantas portadoras da nova característica.\nOU\nO ambiente (OU as pressões seletivas, OU a carência de nitrogénio) conduziu à sobrevivência \ndiferencial de plantas portadoras da nova característica.\n(C)\n A\n reprodução diferencial conduziu ao aumento da frequência dos genes responsáveis pela síntese de \nproteínas digestivas na população.\nOU\nA reprodução diferencial provocou a alteração do fundo genético da população.\nOU\nA reprodução diferencial provocou o aumento do número de plantas com estas características na \npopulação.\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO IV",
@@ -367,7 +893,7 @@
       "contextText": "GRUPO IV\nAs plantas carnívoras constituem um grupo de plantas que vive, frequentemente, em solos \npobres em nitrogénio. As plantas capturam presas com as suas folhas, digerindo\n-\nas através da \natuação de enzimas, segregadas para o exterior, o que lhes permite suprir a carência de nitrogénio.\nRecentemente, uma equipa de investigadores descobriu que a evolução para o carnivorismo, \nque ocorreu independentemente em três espécies de plantas, uma asiática, uma americana e uma \naustraliana, dependeu de alterações nos mesmos conjuntos de genes.\nNum primeiro momento, foi sequenciado o genoma de Cephalotus follicularis, uma planta da \nAustrália que, como resultado da expressão diferencial de genes, tem folhas carnívoras, em forma \nde jarro, e folhas planas, não carnívoras, especializadas na atividade fotossintética. A comparação \nentre os genes que são transcritos nos dois tipos de folhas permitiu compreender as alterações \nassociadas ao carnivorismo. Percebeu-se, por exemplo, que temperaturas mais elevadas promoviam \no desenvolvimento de folhas carnívoras.\nNum segundo momento, os investigadores compararam a constituição das proteínas digestivas \npresentes nos fluidos digestivos de C. follicularis com a constituição das proteínas presentes em \noutras duas plantas carnívoras (Nepenthes alata, asiática, e Sarracenia purpurea , americana). Os \ninvestigadores verificaram que a substituição de alguns aminoácidos durante a evolução destas \nproteínas originou, de forma independente, enzimas digestivas semelhantes.\nDiversas proteínas vegetais que, nas plantas não carnívoras, constituem, por exemplo, defesas \ncontra fungos ou outras pragas evoluíram para proteínas digestivas, como uma quitinase capaz de \ncatalisar a destruição do polissacarídeo que constitui o exoesqueleto dos insetos.\nBaseado em: K. Fukushima et al., «Genome of the pitcher plant Cephalotus reveals genetic \nchanges associated with carnivory», Nature Ecology & Evolution, Vol. 1, n.º 59, 2017."
     },
     {
-      "id": 1251,
+      "id": 10320,
       "question_number": "10",
       "statement": "10.\n Explique \na possível proveniência das piroxenas que constituem as amostras de sedimentos recolhidas \nno local A.\nNa sua resposta, refira a possível fonte principal daquele mineral, considerando os minerais predominantes \nnas rochas atravessadas pelo rio Guadiana e as características morfológicas dos grãos de piroxenas.",
       "question_type": "essay",
@@ -378,7 +904,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "10. .................................................................................................................................................. 10 pontos\nExplica \na proveniência das piroxenas, relacionando a forma dos clastos com a proximidade do seu local \nde origem (\na\n) e identificando os gabros e/ou os ofiolitos como a fonte daqueles minerais (B).\n(\na\n)\n Os \nclastos (OU os grãos) de piroxenas apresentam-se angulosos ou subangulosos, logo o local de \ncolheita está próximo da fonte (OU a sedimentação ocorreu próximo da fonte, OU os clastos foram \nsujeitos a um curto transporte).\n(B)\n Antes \nde atingir o local de colheita, o rio atravessa gabros, rochas que apresentam piroxenas na sua \ncomposição (OU antes de atingir o local de colheita, o rio atravessa ofiolitos, rochas que apresentam \npiroxenas na sua composição).\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação",
+      "criteriaText": "10. .................................................................................................................................................. 10 pontos\nExplica \na proveniência das piroxenas, relacionando a forma dos clastos com a proximidade do seu local \nde origem (\na\n) e identificando os gabros e/ou os ofiolitos como a fonte daqueles minerais (B).\n(\na\n)\n Os \nclastos (OU os grãos) de piroxenas apresentam-se angulosos ou subangulosos, logo o local de \ncolheita está próximo da fonte (OU a sedimentação ocorreu próximo da fonte, OU os clastos foram \nsujeitos a um curto transporte).\n(B)\n Antes \nde atingir o local de colheita, o rio atravessa gabros, rochas que apresentam piroxenas na sua \ncomposição (OU antes de atingir o local de colheita, o rio atravessa ofiolitos, rochas que apresentam \npiroxenas na sua composição).\nNíveis Descritores de desempenho do conteúdo e do rigor científico Pontuação\n4 Explica, com rigor científico, a proveniência das piroxenas, apresentando os dois \nelementos (A, B). 10\n3 Explica, com falhas no rigor científico, a proveniência das piroxenas, apresentando os \ndois elementos (A, B). 8\n2 Explica, com rigor científico, a proveniência das piroxenas, apresentando apenas um \ndos elementos. 5\n1 Explica, com falhas no rigor científico, a proveniência das piroxenas, apresentando \napenas um dos elementos. 3\nGRUPO IV",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,

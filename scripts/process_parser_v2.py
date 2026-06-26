@@ -33,16 +33,38 @@ def fetch_exams(db: Database):
 
 
 def clear_v2_tables(db: Database):
+    # CORREÇÃO — bug real encontrado rodando isto: a ordem original
+    # deletava `questions` ANTES de `groups_table` e `question_contexts`,
+    # mas `questions.group_id` e `questions.context_id` são FOREIGN KEY
+    # para essas duas tabelas — com PRAGMA foreign_keys=ON (ativado em
+    # Database.__init__), isso falha com IntegrityError, porque o SQLite
+    # não permite apagar o "pai" de uma FK enquanto o "filho" ainda existe
+    # referenciando-o, MAS aqui o problema é o inverso: questions é quem
+    # tem a FK (é o "filho"), então tem que ser apagado ANTES dos pais
+    # (groups_table, question_contexts), não depois.
+    #
+    # Também foram adicionadas duas tabelas que não existiam quando este
+    # script foi escrito originalmente: `mc_answer_extraction_log` e
+    # `llm_extraction_cache` (criadas pelos scripts 01 e 02 da extração de
+    # gabarito) — ambas têm FK para `questions`, e ficavam de fora desta
+    # lista, o que também bloquearia a exclusão de `questions`.
+    #
+    # Ordem geral: tabelas-folha (que têm FK apontando para outras, mas
+    # nada aponta para elas) primeiro; tabelas-raiz (referenciadas por
+    # várias outras, como `questions`, `groups_table`, `question_contexts`)
+    # por último, na ordem inversa de dependência entre si.
     tables = [
         "question_skills",
         "ai_cache",
         "student_answers",
-        "student_attempts",
-        "student_statistics",
+        "mc_answer_extraction_log",
+        "llm_extraction_cache",
         "choices",
         "criteria",
         "images",
         "tables",
+        "student_attempts",
+        "student_statistics",
         "questions",
         "question_contexts",
         "groups_table",

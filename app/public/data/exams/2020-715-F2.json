@@ -4,63 +4,39 @@
   "subject": "Física e Química A",
   "year": 2020,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 143,
+      "id": 1412,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 144,
+      "id": 1413,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 145,
+      "id": 1414,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 146,
+      "id": 1415,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 147,
+      "id": 1416,
       "name": "GRUPO V",
       "order": 4
-    },
-    {
-      "id": 148,
-      "name": "GRUPO I",
-      "order": 5
-    },
-    {
-      "id": 149,
-      "name": "GRUPO II",
-      "order": 6
-    },
-    {
-      "id": 150,
-      "name": "GRUPO III",
-      "order": 7
-    },
-    {
-      "id": 151,
-      "name": "GRUPO IV",
-      "order": 8
-    },
-    {
-      "id": 152,
-      "name": "GRUPO V",
-      "order": 9
     }
   ],
   "questions": [
     {
-      "id": 1121,
+      "id": 10224,
       "question_number": "1",
-      "statement": "1. A formação de H2SO4 (aq ) a partir de SO2 ( g ) pode ser globalmente traduzida por\n2 SO2 ( g ) + 2 H2O ( l ) + O2 ( g ) \" 2 H2SO4 (aq )\nNesta reação, o enxofre",
+      "statement": "1. Na Terra, praticamente todos os átomos de nitrogénio têm número de massa 14 ou 15.\nA massa de um átomo de nitrogénio será, em média, vezes maior do que a massa de um \nátomo de carbono-12, sendo o isótopo mais abundante do nitrogénio o .",
       "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
@@ -70,43 +46,194 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1856,
+          "id": 20081,
           "letter": "A",
           "text": "oxida-se, e o seu número de oxidação aumenta.",
           "isCorrect": false
         },
         {
-          "id": 1857,
+          "id": 20082,
           "letter": "B",
           "text": "oxida-se, e o seu número de oxidação diminui.",
           "isCorrect": false
         },
         {
-          "id": 1858,
+          "id": 20083,
           "letter": "C",
           "text": "reduz-se, e o seu número de oxidação aumenta.",
           "isCorrect": false
         },
         {
-          "id": 1859,
+          "id": 20084,
           "letter": "D",
           "text": "reduz-se, e o seu número de oxidação diminui.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "1. 2. 3.\nCotação (em pontos) 12 x 10 pontos 120\nTOTAL 200",
+      "criteriaText": "1. Apresentação apenas do resultado final. A resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
+    },
+    {
+      "id": 10234,
+      "question_number": "1",
+      "statement": "1. Considere a força F que constitui um par ação-reação com a força normal exercida pela rampa no automóvel.\nA força F está aplicada , sendo a sua intensidade intensidade da força gravítica \nque atua no automóvel.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nUm automóvel encontrava-se estacionado no cimo de uma rampa, como se representa na Figura 1 (que \nnão está à escala), quando, acidentalmente, se destravou. Deslizou ao longo da rampa, com aceleração \nconstante, até colidir com um motociclo que se encontrava parado. \nConsidere que, no movimento considerado, a resultante das forças dissipativas que atuaram no automóvel \nnão foi desprezável, e considere que o automóvel pode ser representado pelo seu centro de massa (modelo \nda partícula material).\nFigura 1"
+    },
+    {
+      "id": 10240,
+      "question_number": "1",
+      "statement": "1. Considere a agulha magnética, em equilíbrio, de uma bússola que se encontra num plano horizontal.\nEm qual dos esquemas seguintes, nos quais o polo norte da agulha está assinalado a cinzento, está \nrepresentada a componente horizontal do campo magnético, B , na posição em que a bússola se encontra?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10245,
+      "question_number": "1",
+      "statement": "1. A aceleração de um satélite no seu movimento de translação em torno de Júpiter",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nIo, Europa, Ganimedes e Calisto são satélites de Júpiter que foram descobertos por Galileu, no início do \nséculo XVII.\nConsidere o movimento de translação destes satélites em torno de Júpiter e admita que as órbitas por eles \ndescritas são aproximadamente circulares."
+    },
+    {
+      "id": 10247,
+      "question_number": "1",
+      "statement": "1. A formação de H2SO4 (aq ) a partir de SO2 ( g ) pode ser globalmente traduzida por\n2 SO2 ( g ) + 2 H2O ( l ) + O2 ( g ) \" 2 H2SO4 (aq )\nNesta reação, o enxofre",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": "Figura 5",
-      "contextText": "GRUPO V\nO nitrogénio, N2 ( g ), e o hidrogénio, H2 ( g ), são utilizados na síntese do amoníaco, NH3 ( g ), traduzida por\nN2 ( g ) + 3 H2 ( g ) ? 2 NH3 ( g )\nConsidere um sistema químico de volume variável que contém apenas estas três substâncias.\nNa Figura 5, apresenta-se o gráfico da quantidade, n, de cada uma das substâncias em função do tempo, t, \na uma temperatura constante, T.\nO sistema químico foi perturbado num instante entre t1 e t2 , tendo-se alterado a quantidade de uma das \nsubstâncias, a pressão constante. O sistema químico foi novamente perturbado num instante entre t3 e t4 .\n0\nN2\nN2\nN2\nH2\nH2\nH2\nNH3\nNH3\nNH3\nn\nt1 t2 t3 t4 t5 t\nFigura 5"
+      "contextText": "GRUPO V\nO nitrogénio, N2 ( g ), e o hidrogénio, H2 ( g ), são utilizados na síntese do amoníaco, NH3 ( g ), traduzida por\nN2 ( g ) + 3 H2 ( g ) ? 2 NH3 ( g )\nConsidere um sistema químico de volume variável que contém apenas estas três substâncias.\nNa Figura 5, apresenta-se o gráfico da quantidade, n, de cada uma das substâncias em função do tempo, t, \na uma temperatura constante, T.\nO sistema químico foi perturbado num instante entre t1 e t2 , tendo-se alterado a quantidade de uma das \nsubstâncias, a pressão constante. O sistema químico foi novamente perturbado num instante entre t3 e t4 .\n0\nN2\nN2\nN2\nH2\nH2\nH2\nNH3\nNH3\nNH3\nn\nt1 t2 t3 t4 t5 t\nFigura 5\n1. Identifique a perturbação aplicada ao sistema químico considerado, no intervalo de tempo ,tt126@ , \nindicando a substância cuja quantidade foi alterada e se essa substância foi introduzida ou removida \ndo sistema.\n2. Conclua, fundamentando, se o quociente da reação no intervalo de tempo ,tt236@ é superior, inferior ou \nigual ao quociente da reação no intervalo de tempo ,tt456@ .\nEscreva um texto estruturado, utilizando linguagem científica adequada.\n\n3. A reação de síntese do amoníaco, sendo uma reação de\n (A) ácido-base, ocorre com transferência de eletrões.\n (B) oxidação-redução, ocorre com transferência de eletrões.\n (C) ácido-base, ocorre com transferência de protões.\n (D) oxidação-redução, ocorre com transferência de protões.\nGRUPO VI\nA emissão de óxidos de enxofre para a atmosfera, entre os quais o dióxido de enxofre, SO2 ( g ), dá origem \nao ácido sulfúrico, H2SO4 (aq ), presente nas chuvas ácidas."
     },
     {
-      "id": 1122,
+      "id": 10225,
       "question_number": "2",
-      "statement": "2. 4. 5.1. 5.2. 6.3. 2. 4.2. 2.\nCotação (em pontos) 8 x 10 pontos 80\nDestes 18 itens, contribuem para a classificação \nfinal da prova os 12 itens cujas respostas obtenham \nmelhor pontuação.",
+      "statement": "2. O raio atómico do oxigénio é menor do que o raio atómico do nitrogénio, uma vez que, comparando \nestes dois átomos, o de oxigénio tem carga nuclear, distribuindo-se os seus eletrões, no \nestado fundamental, número de níveis de energia.",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 20085,
+          "letter": "A",
+          "text": "receber ... H2SO4",
+          "isCorrect": false
+        },
+        {
+          "id": 20086,
+          "letter": "B",
+          "text": "receber ... SO 24-",
+          "isCorrect": false
+        },
+        {
+          "id": 20087,
+          "letter": "C",
+          "text": "ceder ... H2SO4",
+          "isCorrect": false
+        },
+        {
+          "id": 20088,
+          "letter": "D",
+          "text": "ceder ... SO 24-",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. Utilização de processos de resolução não previstos \nnos critérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
+    },
+    {
+      "id": 10235,
+      "question_number": "2",
+      "statement": "2. Para uma mesma distância percorrida sobre a rampa, o trabalho realizado pela força gravítica que atua \nno automóvel",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nUm automóvel encontrava-se estacionado no cimo de uma rampa, como se representa na Figura 1 (que \nnão está à escala), quando, acidentalmente, se destravou. Deslizou ao longo da rampa, com aceleração \nconstante, até colidir com um motociclo que se encontrava parado. \nConsidere que, no movimento considerado, a resultante das forças dissipativas que atuaram no automóvel \nnão foi desprezável, e considere que o automóvel pode ser representado pelo seu centro de massa (modelo \nda partícula material).\nFigura 1"
+    },
+    {
+      "id": 10241,
+      "question_number": "2",
+      "statement": "2. O circuito elétrico representado na Figura 2 é constituído por um gerador ideal \n(um gerador cuja resistência interna pode ser considerada nula), um reóstato T \ne um interruptor. \nConclua como varia a potência dissipada no reóstato T quando a resistência \nelétrica introduzida por esse reóstato aumenta.\nMostre como chegou à conclusão solicitada.\nT\nFigura 2",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -115,19 +242,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. 4. 5.1. 5.2. 6.3. 2. 4.2. 2.\nCotação (em pontos) 8 x 10 pontos 80\nDestes 18 itens, contribuem para a classificação \nfinal da prova os 12 itens cujas respostas obtenham \nmelhor pontuação.\nGrupo I\nSubtotal",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
-      "statementCorrompido": true,
-      "groupName": "GRUPO V",
-      "contextTitle": "Figura 5",
-      "contextText": "GRUPO V\nO nitrogénio, N2 ( g ), e o hidrogénio, H2 ( g ), são utilizados na síntese do amoníaco, NH3 ( g ), traduzida por\nN2 ( g ) + 3 H2 ( g ) ? 2 NH3 ( g )\nConsidere um sistema químico de volume variável que contém apenas estas três substâncias.\nNa Figura 5, apresenta-se o gráfico da quantidade, n, de cada uma das substâncias em função do tempo, t, \na uma temperatura constante, T.\nO sistema químico foi perturbado num instante entre t1 e t2 , tendo-se alterado a quantidade de uma das \nsubstâncias, a pressão constante. O sistema químico foi novamente perturbado num instante entre t3 e t4 .\n0\nN2\nN2\nN2\nH2\nH2\nH2\nNH3\nNH3\nNH3\nn\nt1 t2 t3 t4 t5 t\nFigura 5"
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
     },
     {
-      "id": 1133,
-      "question_number": "3",
-      "statement": "3. A Figura 6 apresenta a curva da titulação de 10,00 cm3 de uma solução de ácido sulfúrico, H2SO4 (aq ), \ncom uma solução padrão de hidróxido de sódio, NaOH (aq ), de concentração ,m oldm50 01 0 23# -- .\nA reação que ocorre pode ser traduzida por\nH2SO4 (aq ) + 2 NaOH (aq ) \" Na2SO4 (aq ) + 2 H2O ( l )\nV / cm3\n0,0\n2,0\n4,0\n6,0\n8,0\n10,0\n12,0\npH\n0,0 5,0 10,0 15,0 20,0\nFigura 6\nDetermine a concentração da solução de ácido sulfúrico.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.\nFIM\n\nCOTAÇÕES\nAs pontuações obtidas nas respostas a estes \n8 itens contribuem obrigatoriamente \npara a classificação final da prova.\nGrupo\nSubtotalI I I I I II II III",
+      "id": 10246,
+      "question_number": "2",
+      "statement": "2. A massa de Júpiter pode ser determinada a partir de uma relação entre os períodos de translação, T, \ndos seus satélites e os raios, r, das órbitas por estes descritas, verificando-se que T 2 varia linearmente \ncom r 3.\nNa tabela seguinte, apresentam-se os valores de r 3 e de T 2 dos satélites de Júpiter descobertos \npor Galileu. \nSatélites r 3 / m 3 T 2 / s 2\nIo ,75 01 0 25# ,23 41 010#\nEuropa ,30 21 0 25# ,94 11 010#\nGanimedes 123 1025# ,38 21 010#\nCalisto 6671 025# 208 1010#\nDetermine a massa de Júpiter.\nNa resposta:\n – deduza a expressão de T 2 em função de r 3, a partir da segunda lei de Newton e da lei da gravitação \nuniversal;\n – apresente a equação da reta de ajuste ao gráfico de T 2 em função de r 3 (despreze a ordenada na origem);\n – calcule o valor solicitado.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.",
       "question_type": "calculation",
       "max_points": null,
       "difficulty": null,
@@ -136,17 +263,122 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. .................................................................................................................................................... 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Calcula a quantidade de NaOH adicionada até ao ponto de equivalência da titulação\n( ,m oln 7 600 10NaOH 4#/g32 /g16 ) (ver nota 1) ............................................................. 5 pontos\n• Calcula a quantidade de H2SO4 presente na solução titulada\n( ,m oln 3 800 10HS O 4",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": null,
+      "contextText": "GRUPO IV\nIo, Europa, Ganimedes e Calisto são satélites de Júpiter que foram descobertos por Galileu, no início do \nséculo XVII.\nConsidere o movimento de translação destes satélites em torno de Júpiter e admita que as órbitas por eles \ndescritas são aproximadamente circulares."
+    },
+    {
+      "id": 10248,
+      "question_number": "2",
+      "statement": "2. O ácido sulfúrico é um ácido diprótico que se ioniza em água em duas etapas sucessivas, traduzidas por\nH2SO4 (aq ) + H2O ( l ) \" HSO 4- (aq ) + H3O+ (aq )\nHSO 4- (aq ) + H2O ( l ) ? SO 2\n4- (aq ) + H3O+ (aq )\nO ião HSO 4- , ao um protão, transforma-se na sua base conjugada, a espécie .",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
       "contextTitle": "Figura 5",
-      "contextText": "GRUPO V\nO nitrogénio, N2 ( g ), e o hidrogénio, H2 ( g ), são utilizados na síntese do amoníaco, NH3 ( g ), traduzida por\nN2 ( g ) + 3 H2 ( g ) ? 2 NH3 ( g )\nConsidere um sistema químico de volume variável que contém apenas estas três substâncias.\nNa Figura 5, apresenta-se o gráfico da quantidade, n, de cada uma das substâncias em função do tempo, t, \na uma temperatura constante, T.\nO sistema químico foi perturbado num instante entre t1 e t2 , tendo-se alterado a quantidade de uma das \nsubstâncias, a pressão constante. O sistema químico foi novamente perturbado num instante entre t3 e t4 .\n0\nN2\nN2\nN2\nH2\nH2\nH2\nNH3\nNH3\nNH3\nn\nt1 t2 t3 t4 t5 t\nFigura 5"
+      "contextText": "GRUPO V\nO nitrogénio, N2 ( g ), e o hidrogénio, H2 ( g ), são utilizados na síntese do amoníaco, NH3 ( g ), traduzida por\nN2 ( g ) + 3 H2 ( g ) ? 2 NH3 ( g )\nConsidere um sistema químico de volume variável que contém apenas estas três substâncias.\nNa Figura 5, apresenta-se o gráfico da quantidade, n, de cada uma das substâncias em função do tempo, t, \na uma temperatura constante, T.\nO sistema químico foi perturbado num instante entre t1 e t2 , tendo-se alterado a quantidade de uma das \nsubstâncias, a pressão constante. O sistema químico foi novamente perturbado num instante entre t3 e t4 .\n0\nN2\nN2\nN2\nH2\nH2\nH2\nNH3\nNH3\nNH3\nn\nt1 t2 t3 t4 t5 t\nFigura 5\n1. Identifique a perturbação aplicada ao sistema químico considerado, no intervalo de tempo ,tt126@ , \nindicando a substância cuja quantidade foi alterada e se essa substância foi introduzida ou removida \ndo sistema.\n2. Conclua, fundamentando, se o quociente da reação no intervalo de tempo ,tt236@ é superior, inferior ou \nigual ao quociente da reação no intervalo de tempo ,tt456@ .\nEscreva um texto estruturado, utilizando linguagem científica adequada.\n\n3. A reação de síntese do amoníaco, sendo uma reação de\n (A) ácido-base, ocorre com transferência de eletrões.\n (B) oxidação-redução, ocorre com transferência de eletrões.\n (C) ácido-base, ocorre com transferência de protões.\n (D) oxidação-redução, ocorre com transferência de protões.\nGRUPO VI\nA emissão de óxidos de enxofre para a atmosfera, entre os quais o dióxido de enxofre, SO2 ( g ), dá origem \nao ácido sulfúrico, H2SO4 (aq ), presente nas chuvas ácidas."
     },
     {
-      "id": 1123,
+      "id": 10236,
+      "question_number": "3",
+      "statement": "3. Nas opções seguintes, apresenta-se o esboço do gráfico da energia potencial gravítica, Epg , do sistema \nautomóvel + Terra (em relação a um determinado nível de referência) em função da distância, d, percorrida \npelo automóvel sobre a rampa.\nEm qual das opções está também representado o esboço do gráfico da energia cinética, Ec , do automóvel \nem função da distância, d, percorrida pelo automóvel sobre a rampa?\nEc\n0 d\nEpg\nEc\nE",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": "Figura 1",
+      "contextText": "GRUPO II\nUm automóvel encontrava-se estacionado no cimo de uma rampa, como se representa na Figura 1 (que \nnão está à escala), quando, acidentalmente, se destravou. Deslizou ao longo da rampa, com aceleração \nconstante, até colidir com um motociclo que se encontrava parado. \nConsidere que, no movimento considerado, a resultante das forças dissipativas que atuaram no automóvel \nnão foi desprezável, e considere que o automóvel pode ser representado pelo seu centro de massa (modelo \nda partícula material).\nFigura 1"
+    },
+    {
+      "id": 10242,
+      "question_number": "3",
+      "statement": "3. As baleias comunicam através de sons que podem ser registados por hidrofones (sensores de pressão) \ne por sismómetros (sensores de velocidade) instalados no fundo do mar.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10249,
+      "question_number": "3",
+      "statement": "3. A Figura 6 apresenta a curva da titulação de 10,00 cm3 de uma solução de ácido sulfúrico, H2SO4 (aq ), \ncom uma solução padrão de hidróxido de sódio, NaOH (aq ), de concentração ,m oldm50 01 0 23# -- .\nA reação que ocorre pode ser traduzida por\nH2SO4 (aq ) + 2 NaOH (aq ) \" Na2SO4 (aq ) + 2 H2O ( l )\nV / cm3\n0,0\n2,0\n4,0\n6,0\n8,0\n10,0\n12,0\npH\n0,0 5,0 10,0 15,0 20,0\nFigura 6\nDetermine a concentração da solução de ácido sulfúrico.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO V\nO nitrogénio, N2 ( g ), e o hidrogénio, H2 ( g ), são utilizados na síntese do amoníaco, NH3 ( g ), traduzida por\nN2 ( g ) + 3 H2 ( g ) ? 2 NH3 ( g )\nConsidere um sistema químico de volume variável que contém apenas estas três substâncias.\nNa Figura 5, apresenta-se o gráfico da quantidade, n, de cada uma das substâncias em função do tempo, t, \na uma temperatura constante, T.\nO sistema químico foi perturbado num instante entre t1 e t2 , tendo-se alterado a quantidade de uma das \nsubstâncias, a pressão constante. O sistema químico foi novamente perturbado num instante entre t3 e t4 .\n0\nN2\nN2\nN2\nH2\nH2\nH2\nNH3\nNH3\nNH3\nn\nt1 t2 t3 t4 t5 t\nFigura 5\n1. Identifique a perturbação aplicada ao sistema químico considerado, no intervalo de tempo ,tt126@ , \nindicando a substância cuja quantidade foi alterada e se essa substância foi introduzida ou removida \ndo sistema.\n2. Conclua, fundamentando, se o quociente da reação no intervalo de tempo ,tt236@ é superior, inferior ou \nigual ao quociente da reação no intervalo de tempo ,tt456@ .\nEscreva um texto estruturado, utilizando linguagem científica adequada.\n\n3. A reação de síntese do amoníaco, sendo uma reação de\n (A) ácido-base, ocorre com transferência de eletrões.\n (B) oxidação-redução, ocorre com transferência de eletrões.\n (C) ácido-base, ocorre com transferência de protões.\n (D) oxidação-redução, ocorre com transferência de protões.\nGRUPO VI\nA emissão de óxidos de enxofre para a atmosfera, entre os quais o dióxido de enxofre, SO2 ( g ), dá origem \nao ácido sulfúrico, H2SO4 (aq ), presente nas chuvas ácidas."
+    },
+    {
+      "id": 10226,
+      "question_number": "4",
+      "statement": "4. Considere uma amostra de ar que contém, no total, 3,0 mol de moléculas. A fração molar de CO2 \nnessa amostra é ,42 10 4# - .\nQuantas moléculas de CO2 existem nessa amostra?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "4. Utilização de valores numéricos não fornecidos no \nenunciado dos itens, na tabela de constantes e na \ntabela periódica.\nAs etapas em que esses valores forem utilizados são \npontuadas com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
+    },
+    {
+      "id": 10237,
       "question_number": "4",
       "statement": "4. O automóvel, de massa ,k g12 10 3# , deslizou 80 m ao longo da rampa até colidir com o motociclo. \nA análise do acidente permitiu determinar que o módulo da velocidade do automóvel no instante da colisão \nera ,m s75 1- .\nConsidere que o desnível entre as posições inicial e final do automóvel era 7,0 m.",
       "question_type": "open",
@@ -157,9 +389,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4\nA resposta:\n • apresenta a fundamentação e a conclusão;\n • é estruturada;\n • apresenta linguagem científica adequada.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -167,7 +399,7 @@
       "contextText": "GRUPO II\nUm automóvel encontrava-se estacionado no cimo de uma rampa, como se representa na Figura 1 (que \nnão está à escala), quando, acidentalmente, se destravou. Deslizou ao longo da rampa, com aceleração \nconstante, até colidir com um motociclo que se encontrava parado. \nConsidere que, no movimento considerado, a resultante das forças dissipativas que atuaram no automóvel \nnão foi desprezável, e considere que o automóvel pode ser representado pelo seu centro de massa (modelo \nda partícula material).\nFigura 1"
     },
     {
-      "id": 1124,
+      "id": 10227,
       "question_number": "5",
       "statement": "5. Considere várias amostras retiradas de uma mesma mistura gasosa constituída apenas por N2 ( g ) e \npor O2 ( g ). As amostras têm massas diferentes, apresentando todas um teor de 21,2%, em volume, de \nO2 ( g ).",
       "question_type": "open",
@@ -188,7 +420,7 @@
       "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
     },
     {
-      "id": 1127,
+      "id": 10230,
       "question_number": "6",
       "statement": "6. A água, presente nos estados sólido, líquido e gasoso na atmosfera terrestre, é uma substância peculiar, \npois as propriedades que a caracterizam, como a variação de entalpia de vaporização e a capacidade \ntérmica mássica, apresentam valores muito diferentes dos que seriam expectáveis.",
       "question_type": "open",
@@ -209,7 +441,7 @@
       "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
     },
     {
-      "id": 1140,
+      "id": 10243,
       "question_number": "3.1",
       "statement": "3.1. Algumas baleias emitem um som com uma frequência \npraticamente constante, designado backbeat.\nNa Figura 3, apresenta-se o registo de um sinal elétrico, \nobtido por um hidrofone, de parte de um backbeat. No eixo \nhorizontal representa-se o tempo em ms.\nA frequência deste backbeat está contida no intervalo",
       "question_type": "multiple_choice",
@@ -221,25 +453,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1844,
+          "id": 20073,
           "letter": "A",
           "text": "[36, 39] Hz",
           "isCorrect": false
         },
         {
-          "id": 1845,
+          "id": 20074,
           "letter": "B",
           "text": "[8, 11] Hz",
           "isCorrect": true
         },
         {
-          "id": 1846,
+          "id": 20075,
           "letter": "C",
           "text": "[53, 56] Hz",
           "isCorrect": false
         },
         {
-          "id": 1847,
+          "id": 20076,
           "letter": "D",
           "text": "[17, 20] Hz",
           "isCorrect": true
@@ -255,7 +487,7 @@
       "contextText": null
     },
     {
-      "id": 1141,
+      "id": 10244,
       "question_number": "3.2",
       "statement": "3.2. As baleias podem ser localizadas a partir da refração dos sons por elas emitidos.\nConsidere um som emitido por uma baleia, que se propaga inicialmente na água do mar e que, \ndepois, se passa a propagar nos sedimentos do fundo do mar.\nNa Figura 4 (que não está à escala), representam-se \nas direções de propagação do som detetado pelo \nsismómetro \nS.\nConsidere que o índice de refração de um meio, para \num som, é\nn v\nk\nmeio\nmeio\n=\nem que k é uma constante e vmeio é o módulo da \nvelocidade de propagação do som no meio considerado: \n1,5 km s-1 na água do mar e 1,8 km s-1 nos sedimentos \nconsiderados.\nDetermine a distância a que a baleia se encontra do sismómetro S. \nExplicite o seu raciocínio, indicando todos os cálculos efetuados.\n200 ms\nFigura 3\n400 ms\nFigura 4\n50o\n4,0 km\nsedimentos\nágua\nS",
       "question_type": "calculation",
@@ -276,7 +508,7 @@
       "contextText": null
     },
     {
-      "id": 1135,
+      "id": 10238,
       "question_number": "4.1",
       "statement": "4.1. Determine o tempo que o automóvel demorou a percorrer aquela distância sobre a rampa, a partir de \num esboço do gráfico do módulo da velocidade do automóvel em função do tempo (apresente esse \nesboço).\nMostre como chegou ao valor solicitado.",
       "question_type": "calculation",
@@ -287,7 +519,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "4.1. ................................................................................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação",
+      "criteriaText": "4.1. ................................................................................................................................................. 10 pontos\nNíveis Descritores de desempenho Pontuação\n4\nApresenta um esboço do gráfico velocidade-tempo. Calcula o tempo que \no automóvel demorou a deslocar-se entre A e B (t = 21 s ), baseando-se na \nidentificação da área sob a curva do gráfico com a distância percorrida entre A e B.\n10\n3\nApresenta o descrito no nível 4, com, pelo menos, uma das seguintes falhas:\n • ausência de identificação dos eixos do gráfico;\n • erro de cálculo numérico;\n • ausência de unidade no resultado final.\n8\n2 Apresenta um esboço do gráfico velocidade-tempo. Identifica a área sob a curva \ndo gráfico com a distância percorrida entre A e B. 5\n1 Identifica a área sob a curva do gráfico com a distância percorrida entre A e B. 2",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -297,7 +529,7 @@
       "contextText": "GRUPO II\nUm automóvel encontrava-se estacionado no cimo de uma rampa, como se representa na Figura 1 (que \nnão está à escala), quando, acidentalmente, se destravou. Deslizou ao longo da rampa, com aceleração \nconstante, até colidir com um motociclo que se encontrava parado. \nConsidere que, no movimento considerado, a resultante das forças dissipativas que atuaram no automóvel \nnão foi desprezável, e considere que o automóvel pode ser representado pelo seu centro de massa (modelo \nda partícula material).\nFigura 1"
     },
     {
-      "id": 1136,
+      "id": 10239,
       "question_number": "4.2",
       "statement": "4.2. Determine, a partir de considerações energéticas, a intensidade da resultante das forças \ndissipativas que atuaram no automóvel paralelamente ao deslocamento.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.",
       "question_type": "calculation",
@@ -318,7 +550,7 @@
       "contextText": "GRUPO II\nUm automóvel encontrava-se estacionado no cimo de uma rampa, como se representa na Figura 1 (que \nnão está à escala), quando, acidentalmente, se destravou. Deslizou ao longo da rampa, com aceleração \nconstante, até colidir com um motociclo que se encontrava parado. \nConsidere que, no movimento considerado, a resultante das forças dissipativas que atuaram no automóvel \nnão foi desprezável, e considere que o automóvel pode ser representado pelo seu centro de massa (modelo \nda partícula material).\nFigura 1"
     },
     {
-      "id": 1125,
+      "id": 10228,
       "question_number": "5.1",
       "statement": "5.1. Admita que as amostras estão nas mesmas condições de pressão e de temperatura.\nQual dos esboços de gráfico pode representar a massa volúmica, t, das amostras em função da \nquantidade de matéria, n, existente nessas amostras?",
       "question_type": "multiple_choice",
@@ -330,25 +562,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1815,
+          "id": 20044,
           "letter": "A",
           "text": "n0 t n0 t n0 t",
           "isCorrect": false
         },
         {
-          "id": 1812,
+          "id": 20041,
           "letter": "B",
           "text": "",
           "isCorrect": false
         },
         {
-          "id": 1814,
+          "id": 20043,
           "letter": "C",
           "text": "n0 t",
           "isCorrect": true
         },
         {
-          "id": 1813,
+          "id": 20042,
           "letter": "D",
           "text": "",
           "isCorrect": true
@@ -364,7 +596,7 @@
       "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
     },
     {
-      "id": 1126,
+      "id": 10229,
       "question_number": "5.2",
       "statement": "5.2. Uma das amostras tem massa 4,0 g.\nDetermine a massa de N2 nessa amostra.\nExplicite o seu raciocínio, indicando todos os cálculos efetuados.",
       "question_type": "calculation",
@@ -375,7 +607,7 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5.2. ................................................................................................................................................. 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Relaciona a percentagem em volume com a percentagem em quantidade\nde um dos componentes da amostra (ou equivalente) ..................................... 3 pontos\n• Determina a quantidade total de moléculas na amostra a partir de uma relação\nequivalente a ,, ,, ,nn0 212 32 00 0 788 28 02 40totalt otal## ##/g14 /g32\n( ,m oln 0 139total= ) \nOU\nDetermina a quantidade de um dos componentes da amostra a partir de uma\nrelação equivalente a , , ,,n n28 02 3 717 32 00 40N\nN",
+      "criteriaText": "5.2. ................................................................................................................................................. 10 pontos\nDetermina o valor solicitado, percorrendo as etapas seguintes:\n• Relaciona a percentagem em volume com a percentagem em quantidade\nde um dos componentes da amostra (ou equivalente) ..................................... 3 pontos\n• Determina a quantidade total de moléculas na amostra a partir de uma relação\nequivalente a ,, ,, ,nn0 212 32 00 0 788 28 02 40totalt otal## ##/g14 /g32\n( ,m oln 0 139total= ) \nOU\nDetermina a quantidade de um dos componentes da amostra a partir de uma\nrelação equivalente a , , ,,n n28 02 3 717 32 00 40N\nN\n2\n2\n## /g14 /g32 ( ,m oln 0 109N 2 = ) ou\nequivalente a ,, ,,nn 3 717 28 02 32 00 40OO22## #/g14 /g32 ( ,m oln 29 41 0O 2\n2 #/g32 /g16 )\nOU\nRelaciona a massa de N2 com a massa de O2\n( ,mm 3 255NO22= ou ,mm 0 3072ON22= ) .......................................................... 5 pontos\n• Calcula a massa de nitrogénio na amostra ( ,gm 31N 2 = ) ................................. 2 pontos",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
@@ -385,7 +617,7 @@
       "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
     },
     {
-      "id": 1128,
+      "id": 10231,
       "question_number": "6.1",
       "statement": "6.1. A condensação de vapor de água envolve de energia, uma vez que ocorre com \n de ligações intermoleculares.",
       "question_type": "multiple_choice",
@@ -397,25 +629,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1816,
+          "id": 20045,
           "letter": "A",
           "text": "libertação ... formação",
           "isCorrect": true
         },
         {
-          "id": 1817,
+          "id": 20046,
           "letter": "B",
           "text": "libertação ... quebra",
           "isCorrect": true
         },
         {
-          "id": 1818,
+          "id": 20047,
           "letter": "C",
           "text": "absorção ... formação",
           "isCorrect": false
         },
         {
-          "id": 1819,
+          "id": 20048,
           "letter": "D",
           "text": "absorção ... quebra",
           "isCorrect": false
@@ -431,7 +663,7 @@
       "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
     },
     {
-      "id": 1129,
+      "id": 10232,
       "question_number": "6.2",
       "statement": "6.2. Para vaporizar uma amostra de água que se encontre à temperatura de ebulição, à pressão \natmosférica normal, é necessário 7,2 vezes mais energia do que para aquecer essa amostra \nde 25 oC até 100 oC.\nA energia envolvida na vaporização de 1,0 g de água que se encontra à temperatura de ebulição será, \naproximadamente,",
       "question_type": "multiple_choice",
@@ -443,25 +675,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1820,
+          "id": 20049,
           "letter": "A",
           "text": ",J30 10 3#",
           "isCorrect": false
         },
         {
-          "id": 1821,
+          "id": 20050,
           "letter": "B",
           "text": ",J23 10 3#",
           "isCorrect": true
         },
         {
-          "id": 1822,
+          "id": 20051,
           "letter": "C",
           "text": ",J30 10 6#",
           "isCorrect": true
         },
         {
-          "id": 1823,
+          "id": 20052,
           "letter": "D",
           "text": ",J23 10 6#",
           "isCorrect": false
@@ -477,7 +709,7 @@
       "contextText": "GRUPO I\nA atmosfera terrestre, constituída maioritariamente por nitrogénio, N2 , e oxigénio, O2 , contém também outros \ngases, como o árgon, Ar, o dióxido de carbono, CO2 , e a água, H2O."
     },
     {
-      "id": 1130,
+      "id": 10233,
       "question_number": "6.3",
       "statement": "6.3. Uma esfera metálica é aquecida e, a seguir, mergulhada em água fria contida num calorímetro. \nAdmita que o sistema esfera + água se comporta como um sistema isolado.\nConsidere que a massa da esfera é igual à massa da água contida no calorímetro e que a \ncapacidade térmica mássica do metal constituinte da esfera é menor do que a capacidade térmica \nmássica da água.\nNum mesmo intervalo de tempo, a energia cedida pela esfera será energia absorvida \npela água, sendo a diminuição da temperatura da esfera do que o aumento \nda temperatura da água.",
       "question_type": "multiple_choice",
@@ -489,25 +721,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 1824,
+          "id": 20053,
           "letter": "A",
           "text": "menor do que a ... maior",
           "isCorrect": true
         },
         {
-          "id": 1825,
+          "id": 20054,
           "letter": "B",
           "text": "menor do que a ... menor",
           "isCorrect": false
         },
         {
-          "id": 1826,
+          "id": 20055,
           "letter": "C",
           "text": "igual à ... maior",
           "isCorrect": true
         },
         {
-          "id": 1827,
+          "id": 20056,
           "letter": "D",
           "text": "igual à ... menor –––––—––––––––––—–—–—–—— Página em branco –––––––––—–—–––—–————–––",
           "isCorrect": false

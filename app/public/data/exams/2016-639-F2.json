@@ -4,26 +4,69 @@
   "subject": "Português",
   "year": 2016,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 270,
+      "id": 1530,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 271,
+      "id": 1531,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 272,
+      "id": 1532,
       "name": "GRUPO III",
       "order": 2
     }
   ],
   "questions": [
     {
-      "id": 1966,
+      "id": 10973,
+      "question_number": "1",
+      "statement": "1. Explicite três traços da filosofia de vida exposta nas quatro primeiras estrofes. Fundamente a resposta com \ntranscrições pertinentes.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explicita, adequadamente, três traços da filosofia de vida exposta nas quatro primeiras \nestrofes, fundamentando a resposta com transcrições pertinentes. 12\n3\nExplicita, adequadamente, dois traços da filosofia de vida exposta nas quatro primeiras \nestrofes, fundamentando a resposta com transcrições pertinentes.\nOU\nExplicita, com pequenas imprecisões, três traços da filosofia de vida exposta nas quatro \nprimeiras estrofes, fundamentando a resposta com transcrições pertinentes.\n9\n2\nExplicita, com pequenas imprecisões, dois traços da filosofia de vida exposta nas quatro \nprimeiras estrofes, fundamentando a resposta com transcrições pertinentes.\nOU\nExplicita, adequadamente, três traços da filosofia de vida exposta nas quatro primeiras \nestrofes, mobilizando informação textual que revela claramente a leitura do poema em \npresença, mas sem fundamentar a resposta com transcrições pertinentes.\n6\n1\nExplicita, adequadamente, um traço da filosofia de vida exposta nas quatro primeiras \nestrofes, fundamentando a resposta com transcrições pertinentes.\nOU\nExplicita, adequadamente, dois traços ou, com pequenas imprecisões, três traços da \nfilosofia de vida exposta nas quatro primeiras estrofes, mobilizando informação textual \nque revela claramente a leitura do poema em presença, mas sem fundamentar a resposta \ncom transcrições pertinentes.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)1 ............................................................... 4 pontos\nCenário de resposta\nNas quatro primeiras estrofes, é exposta uma filosofia de vida que se caracteriza por:\n– um gosto pela fruição estética da natureza – «Só o ter flores pela vista fora / Nas áleas largas dos jardins \nexatos / Basta para podermos / Achar a vida leve.» (vv. 1-4);\n– uma escolha da serenidade, o que conduz a uma atitude contemplativa – «De todo o esforço seguremos \nquedas / As mãos, brincando, pra que nos não tome / Do pulso, e nos arraste.» (vv. 5-7);\n– uma atitude epicurista, que valoriza o prazer moderado – «Buscando o mínimo de dor ou gozo, / Bebendo \na goles os instantes frescos,» (vv. 9-10);\n– uma consciência da brevidade da vida, que conduz ao desejo de fruição do momento presente (carpe \ndiem) – «As rosas breves, os sorrisos vagos, / E as rápidas carícias» (vv. 14-15).\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\nSó o ter flores pela vista fora\nNas áleas largas dos jardins exatos\nBasta para podermos\nAchar a vida leve.\nDe todo o esforço seguremos quedas\nAs mãos, brincando, pra que nos não tome\nDo pulso, e nos arraste.\nE vivamos assim,\nBuscando o mínimo de dor ou gozo,\nBebendo a goles os instantes frescos,\nTranslúcidos como água\nEm taças detalhadas,\nDa vida pálida levando apenas\nAs rosas breves, os sorrisos vagos,\nE as rápidas carícias\nDos instantes volúveis.\nPouco tão pouco pesará nos braços\nCom que, exilados das supernas luzes,\nScolhermos do que fomos\nO melhor pra lembrar\nQuando, acabados pelas Parcas, formos,\nVultos solenes de repente antigos,\nE cada vez mais sombras,\nAo encontro fatal\nDo barco escuro no soturno rio,\nE os nove abraços do horror estígio,\nE o regaço insaciável\nDa pátria de Plutão.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, Lisboa, Assírio & Alvim, 2000, pp. 36-37\nNOTAS\náleas (verso 2) – caminhos ladeados de árvores ou arbustos.\nestígio (verso 26) – relativo ao Estige, rio dos Infernos na mitologia grega.\nParcas (verso 21) – três divindades da mitologia romana que representam o destino: uma preside ao nascimento, outra \nao casamento e a terceira à morte.\nPlutão (verso 28) – deus dos Infernos, na mitologia romana.\nquedas (verso 5) – quietas; imóveis.\nScolhermos (verso 19) – escolhermos.\nsupernas (verso 18) – supremas; superiores."
+    },
+    {
+      "id": 10977,
+      "question_number": "1",
+      "statement": "1. As referências ao relógio parado e à imagem refletida no espelho (linhas 1 a 5)",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nSe alguém me perguntar o que é o tempo, declaro logo a minha ignorância: não sei. Agora \nmesmo ouço o bater do relógio de pêndula, e a resposta parece estar ali. Mas não é verdade. \nQuando a corda se lhe acabar, o maquinismo fica no tempo e não o mede: sofre-o. E se o \nespelho me mostra que não sou já quem era há um ano, nem isso me dirá o que o tempo é. \nSó o que o tempo faz.\nQue me sejam perdoadas estas falsas profundezas. Nada em mim se dispunha a coxear \natrás do Einstein se não fosse aquela notícia de França: no rio Saône toda a fauna se extinguiu \npor ação de produtos tóxicos acidentalmente derramados nele, e cinco anos serão necessários \npara que essa fauna se reconstitua. O mesmo tempo que envelhece, gasta, destrói e mata \n(boas noites, espelho), vai purificar as águas, povoá-las pouco a pouco de criaturas, até que \ncinco anos passados o rio ressuscite da fossa comum dos rios mortos, para glória e triunfo da \nvida. (E depois casaram, e tiveram muitos afluentes.)\nNão iria longe esta crónica se não fosse a providência dos cronistas, a qual é (aqui o \nconfesso) a associação de ideias. Vai levando o rio Saône a sua corrente envenenada, e \né neste momento que uma gota de água se me desenha na memória, como uma enorme \npérola suspensa, que devagar vai engrossando e tarda tanto a cair, e não cai enquanto a olho \nfascinado. Rodeia-me um fantástico amontoado de rochas. Estou no interior do mundo, cercado \nde estalactites, de brancas toalhas de pedra, de formações calcárias que têm a aparência de \nanimais, de cabeças humanas, de secretos órgãos do corpo – mergulhado numa luz que do \nverde ao amarelo se degrada infinitamente.\nA gota de água recebe a luz de um foco lateral e é transparente como o ar, ali suspensa \nsobre uma forma redonda que lembra um bolbo vegetal. Cairá não sei quando, da altura \nde seis centímetros, e vai escorregar na superfície lisa, deixando uma infinitesimal película \ncalcária que tornará mais breve a próxima queda. E porque nós parámos a olhar a gota de \nágua, o guarda de Aracena disse: «Daqui a duzentos anos as duas pedras estarão juntas.»\nÉ esta a paciência do tempo. Na gruta imensa, o tempo está aproximando duas pedras \ninsignificantes e promete a silenciosa união para daqui a duzentos anos. À hora a que escrevo, \npela noite dentro, a caverna está decerto em escuridão profunda. Ouve-se o pingar das águas \nsoltas sobre os lagos sem peixes – enquanto em silêncio a montanha verte a gota vagarosa \nda promessa.\nA paciência do tempo. Duzentos anos a fabricar pedra, a construir uma pequena coluna, um \nmísero toco em que ninguém reparará depois. Duzentos anos de trabalho monótono e aplicado, \nindiferente às maravilhas que cobrem as paredes altíssimas da gruta e fazem rebentar flores \nde pedra do chão. Duzentos anos assim, só porque assim tem de ser. \nFalo do tempo e de pedras, e, contudo, é em homens que penso. Porque são eles a \nverdadeira matéria do tempo, a pedra de cima e a pedra de baixo, a gota de água que é \nsangue e é também suor. Porque são eles a paciente coragem, e a longa espera, e o esforço \nsem limites, a dor aceite e recusada – duzentos anos, se assim tiver de ser.\nJosé Saramago, A Bagagem do Viajante, 8.ª ed., Alfragide, Editorial Caminho, 2010, pp. 223-225"
+    },
+    {
+      "id": 10984,
       "question_number": "1",
       "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2016/).",
       "question_type": "open",
@@ -34,9 +77,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1 Refere-se, de modo incompleto e com imprecisões, à forma como o olhar do narrador \nsobre a personagem feminina se modifica ao longo do segundo e do terceiro parágrafos. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\nCenário de resposta\nInicialmente, o narrador, que estava sentado a uma mesa de esplanada, observa com atenção e curiosidade \numa mulher sentada na mesa ao lado da sua, que:\n– não se enquadrava no ambiente típico de esplanada (apesar do calor, usava um vestido de cerimónia \ne meias);\n– agia de forma enigmática (os óculos escuros que trazia não permitiam saber o que prendia o seu olhar; \nnão parecia interessada no que acontecia à sua volta; tinha um sorriso distante).\nDepois, o narrador percebeu que o seu olhar, fixo e ininterrupto, chamara a atenção da mulher que, não \ndando mostras de incómodo, antes se divertia com a situação. Deste modo, sentiu-se desprotegido, dado \nque tomou consciência de que passara de observador a observado.\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -44,9 +87,30 @@
       "contextText": "GRUPO III\nA passagem do tempo é vivida por cada ser humano em função das circunstâncias em que se encontra.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre o modo como o ser humano vive a passagem do tempo, na atualidade.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 1971,
+      "id": 10978,
       "question_number": "2",
-      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.\n5 × 20 pontos 100\nII 1. a 10.\n10 × 5 pontos 50\nIII Item único 50\nTOTAL 200",
+      "statement": "2. Através do recurso à palavra «coxear» na expressão «coxear atrás do Einstein» (linhas 6 e 7), o autor \nalude à",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. Estes descontos são efetuados até ao limite das pontuações indicadas nos critérios específicos.\n\nFatores de desvalorização\n − Correção linguística\nAs desvalorizações no âmbito da correção linguística apresentadas no Quadro 2 aplicam-se aos itens de \nresposta restrita e ao item de resposta extensa.\nQuadro 2 – Desvalorizações no âmbito da correção linguística\nTipo de ocorrências Desvalorização\n(pontos)\n • erro inequívoco de pontuação\n • erro de ortografia (incluindo erro de acentuação, uso indevido de letra minúscula ou de letra \nmaiúscula e erro de translineação)\n • erro de morfologia\n • incumprimento das regras de citação de texto ou de referência a título de uma obra\n1\n • erro de sintaxe\n • impropriedade lexical 2\nA repetição de um erro de ortografia na mesma resposta (incluindo erro de acentuação, uso indevido de letra \nminúscula ou de letra maiúscula e erro de translineação) é contabilizada como uma única ocorrência.\nSe da aplicação deste fator de desvalorização resultar uma classificação inferior a zero pontos, atribui-se zero \npontos à correção linguística.\n − Limites de extensão\nSempre que não sejam respeitados os limites relativos ao número de palavras indicados na instrução do item \nde resposta extensa, desconta-se um ponto por cada palavra (a mais ou a menos), até ao máximo de cinco \n(1 × 5) pontos, depois de aplicados todos os critérios definidos para o item.\nCaso a resposta apresente uma extensão inferior a oitenta palavras, é classificada com zero pontos.\nPara efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, \nmesmo quando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma \núnica palavra, independentemente dos algarismos que o constituam (ex.: /2016/).\nNos casos em que da aplicação deste fator de desvalorização resultar uma classificação inferior a zero \npontos, é atribuída à resposta a classificação de zero pontos.\n\nCRITÉRIOS ESPECÍFICOS DE CLASSIFICAÇÃO\nGRUPO I .................................................................................................................................... 100 pontos\nA",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nSe alguém me perguntar o que é o tempo, declaro logo a minha ignorância: não sei. Agora \nmesmo ouço o bater do relógio de pêndula, e a resposta parece estar ali. Mas não é verdade. \nQuando a corda se lhe acabar, o maquinismo fica no tempo e não o mede: sofre-o. E se o \nespelho me mostra que não sou já quem era há um ano, nem isso me dirá o que o tempo é. \nSó o que o tempo faz.\nQue me sejam perdoadas estas falsas profundezas. Nada em mim se dispunha a coxear \natrás do Einstein se não fosse aquela notícia de França: no rio Saône toda a fauna se extinguiu \npor ação de produtos tóxicos acidentalmente derramados nele, e cinco anos serão necessários \npara que essa fauna se reconstitua. O mesmo tempo que envelhece, gasta, destrói e mata \n(boas noites, espelho), vai purificar as águas, povoá-las pouco a pouco de criaturas, até que \ncinco anos passados o rio ressuscite da fossa comum dos rios mortos, para glória e triunfo da \nvida. (E depois casaram, e tiveram muitos afluentes.)\nNão iria longe esta crónica se não fosse a providência dos cronistas, a qual é (aqui o \nconfesso) a associação de ideias. Vai levando o rio Saône a sua corrente envenenada, e \né neste momento que uma gota de água se me desenha na memória, como uma enorme \npérola suspensa, que devagar vai engrossando e tarda tanto a cair, e não cai enquanto a olho \nfascinado. Rodeia-me um fantástico amontoado de rochas. Estou no interior do mundo, cercado \nde estalactites, de brancas toalhas de pedra, de formações calcárias que têm a aparência de \nanimais, de cabeças humanas, de secretos órgãos do corpo – mergulhado numa luz que do \nverde ao amarelo se degrada infinitamente.\nA gota de água recebe a luz de um foco lateral e é transparente como o ar, ali suspensa \nsobre uma forma redonda que lembra um bolbo vegetal. Cairá não sei quando, da altura \nde seis centímetros, e vai escorregar na superfície lisa, deixando uma infinitesimal película \ncalcária que tornará mais breve a próxima queda. E porque nós parámos a olhar a gota de \nágua, o guarda de Aracena disse: «Daqui a duzentos anos as duas pedras estarão juntas.»\nÉ esta a paciência do tempo. Na gruta imensa, o tempo está aproximando duas pedras \ninsignificantes e promete a silenciosa união para daqui a duzentos anos. À hora a que escrevo, \npela noite dentro, a caverna está decerto em escuridão profunda. Ouve-se o pingar das águas \nsoltas sobre os lagos sem peixes – enquanto em silêncio a montanha verte a gota vagarosa \nda promessa.\nA paciência do tempo. Duzentos anos a fabricar pedra, a construir uma pequena coluna, um \nmísero toco em que ninguém reparará depois. Duzentos anos de trabalho monótono e aplicado, \nindiferente às maravilhas que cobrem as paredes altíssimas da gruta e fazem rebentar flores \nde pedra do chão. Duzentos anos assim, só porque assim tem de ser. \nFalo do tempo e de pedras, e, contudo, é em homens que penso. Porque são eles a \nverdadeira matéria do tempo, a pedra de cima e a pedra de baixo, a gota de água que é \nsangue e é também suor. Porque são eles a paciente coragem, e a longa espera, e o esforço \nsem limites, a dor aceite e recusada – duzentos anos, se assim tiver de ser.\nJosé Saramago, A Bagagem do Viajante, 8.ª ed., Alfragide, Editorial Caminho, 2010, pp. 223-225"
+    },
+    {
+      "id": 10985,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -55,9 +119,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2\nExplicita, de modo não totalmente completo e com pequenas imprecisões, a forma como \no olhar do narrador sobre a personagem feminina se modifica ao longo do segundo e do \nterceiro parágrafos.\nOU\nExplicita, de modo incompleto ou com imprecisões, a forma como o olhar do narrador \nsobre a personagem feminina se modifica ao longo do segundo e do terceiro parágrafos.",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO III",
@@ -65,7 +129,53 @@
       "contextText": "GRUPO III\nA passagem do tempo é vivida por cada ser humano em função das circunstâncias em que se encontra.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre o modo como o ser humano vive a passagem do tempo, na atualidade.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 1967,
+      "id": 10974,
+      "question_number": "3",
+      "statement": "3. De acordo com o conteúdo das três últimas estrofes, explique o modo como o sujeito poético perspetiva \na morte.\nB\nLeia o texto.\n5\n10\n15\n20\n25\nO verão está frio. É o vento, são as tardes que obrigam à camisola, é o céu que não ajuda. \nOs verões já não são o que eram, diz-se. Os pássaros, agora, metem-se dentro das árvores \ne não saem de lá. A água nasce de onde não se espera – mas é uma água que não serve \npara nada, se mete para dentro da terra e apodrece, subterrânea, sem que ninguém a vá \nbuscar, nem para regas, nem para bebedouros. E quem havia de precisar dessa água? Os \ncampos estão ao deus-dará: os bichos não sabem para onde ir. Escondem-se dos homens; ou \nentão param, no meio da estrada, olham para quem passa, e esperam que façam deles o que \nquiserem, que nem para bichos o mundo serve.\nNo entanto, o verão é sempre o verão em que as coisas acontecem. Lembro-me da \nesplanada em que me sentei, com o calor a subir das pedras e do alcatrão, clientes banais, o \ncriado a trazer as encomendas de má vontade. A mulher sentada na mesa ao lado destoava do \nconjunto. Tinha óculos escuros, um vestido de cerimónia, como se viesse ou fosse para uma \nfesta, e meias nas pernas, o que não se usa numa tarde de verão. Tinha um café em frente \ndela, que devia estar ali desde que ela chegou, e esperava que ela o bebesse, mas eu sabia \nque já não lhe iria tocar. Olhava para as outras mesas com um ar distraído, com um sorriso que \npodia ser de ironia ou de desprezo, como se não esperasse nada do mundo que a rodeava.\nO verão é o tempo de estar nas esplanadas, olhando para parte nenhuma, ou mais \nhabitualmente olhando para quem passa, e procurando encontrar nesses destinos uma \nhipótese de partilha de acasos, que se poderão tornar vocações. Mas a mulher que estava \nsentada na mesa ao lado não parecia interessada em quem subia e descia o passeio; e \ntambém não se sabia o que poderia despertar a sua atenção, que os óculos escuros remetiam \npara um fundo secreto. Apercebi-me, então, de que a fixava há demasiado tempo para que o \nmeu olhar pudesse passar despercebido; e dei-me conta, também, de que ela percebera que \neu a olhava, e que em vez de se aborrecer ou de ficar perturbada com isso se estava a divertir \ncom o meu interesse por ela, o que invertia a situação em que a superioridade está do lado de \nquem olha, e a incomodidade aumenta em quem é vigiado.\nNuno Júdice, «Verão», A Ideia do Amor e Outros Contos, Lisboa, Publicações Dom Quixote, 2002, pp. 43-44",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21712,
+          "letter": "A",
+          "text": "o ciclo natural da água existente no planeta.",
+          "isCorrect": false
+        },
+        {
+          "id": 21713,
+          "letter": "B",
+          "text": "o ritmo do tempo ao transformar o mundo.",
+          "isCorrect": false
+        },
+        {
+          "id": 21714,
+          "letter": "C",
+          "text": "a beleza das formas que a água proporciona.",
+          "isCorrect": false
+        },
+        {
+          "id": 21715,
+          "letter": "D",
+          "text": "a efemeridade da vida humana no planeta.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, o modo como o sujeito poético perspetiva a morte, de acordo \ncom o conteúdo das três últimas estrofes. 12\n3 Explica, de forma não totalmente completa ou com pequenas imprecisões, o modo como \no sujeito poético perspetiva a morte, de acordo com o conteúdo das três últimas estrofes. 9\n2\nExplica, de forma não totalmente completa e com pequenas imprecisões, o modo como \no sujeito poético perspetiva a morte, de acordo com o conteúdo das três últimas estrofes.\nOU\nExplica, de forma incompleta ou com imprecisões, o modo como o sujeito poético \nperspetiva a morte, de acordo com o conteúdo das três últimas estrofes.\n6\n1 Refere-se, de forma incompleta e com imprecisões, ao modo como o sujeito poético \nperspetiva a morte, de acordo com o conteúdo das três últimas estrofes. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)3 ............................................................... 4 pontos\nCenário de resposta\nO sujeito poético perspetiva a morte de acordo com a conceção própria da antiguidade clássica, evidente:\n– na ideia de que a vida humana é comandada pelo Destino, ou pelas Parcas, e de que as almas \natravessam o rio Estige e chegam aos Infernos, à «pátria de Plutão» (vv. 21-28); \n– na aceitação da morte, momento a que se deve chegar sem apego a nada e apenas recordando o que \nfoi agradável, para que o sofrimento não seja tão penoso – atitude estoica (vv. 17-20).\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nB",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\nSó o ter flores pela vista fora\nNas áleas largas dos jardins exatos\nBasta para podermos\nAchar a vida leve.\nDe todo o esforço seguremos quedas\nAs mãos, brincando, pra que nos não tome\nDo pulso, e nos arraste.\nE vivamos assim,\nBuscando o mínimo de dor ou gozo,\nBebendo a goles os instantes frescos,\nTranslúcidos como água\nEm taças detalhadas,\nDa vida pálida levando apenas\nAs rosas breves, os sorrisos vagos,\nE as rápidas carícias\nDos instantes volúveis.\nPouco tão pouco pesará nos braços\nCom que, exilados das supernas luzes,\nScolhermos do que fomos\nO melhor pra lembrar\nQuando, acabados pelas Parcas, formos,\nVultos solenes de repente antigos,\nE cada vez mais sombras,\nAo encontro fatal\nDo barco escuro no soturno rio,\nE os nove abraços do horror estígio,\nE o regaço insaciável\nDa pátria de Plutão.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, Lisboa, Assírio & Alvim, 2000, pp. 36-37\nNOTAS\náleas (verso 2) – caminhos ladeados de árvores ou arbustos.\nestígio (verso 26) – relativo ao Estige, rio dos Infernos na mitologia grega.\nParcas (verso 21) – três divindades da mitologia romana que representam o destino: uma preside ao nascimento, outra \nao casamento e a terceira à morte.\nPlutão (verso 28) – deus dos Infernos, na mitologia romana.\nquedas (verso 5) – quietas; imóveis.\nScolhermos (verso 19) – escolhermos.\nsupernas (verso 18) – supremas; superiores."
+    },
+    {
+      "id": 10979,
       "question_number": "3",
       "statement": "3. A associação de ideias estabelecida, a partir da linha 13, entre a água do rio Saône e a gota de água da \ngruta evidencia",
       "question_type": "multiple_choice",
@@ -75,33 +185,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3594,
-          "letter": "A",
-          "text": "o ciclo natural da água existente no planeta.",
-          "isCorrect": false
-        },
-        {
-          "id": 3595,
-          "letter": "B",
-          "text": "o ritmo do tempo ao transformar o mundo.",
-          "isCorrect": false
-        },
-        {
-          "id": 3596,
-          "letter": "C",
-          "text": "a beleza das formas que a água proporciona.",
-          "isCorrect": false
-        },
-        {
-          "id": 3597,
-          "letter": "D",
-          "text": "a efemeridade da vida humana no planeta.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "3\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, a forma como \no olhar do narrador sobre a personagem feminina se modifica ao longo do segundo e do \nterceiro parágrafos.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -111,7 +196,53 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nSe alguém me perguntar o que é o tempo, declaro logo a minha ignorância: não sei. Agora \nmesmo ouço o bater do relógio de pêndula, e a resposta parece estar ali. Mas não é verdade. \nQuando a corda se lhe acabar, o maquinismo fica no tempo e não o mede: sofre-o. E se o \nespelho me mostra que não sou já quem era há um ano, nem isso me dirá o que o tempo é. \nSó o que o tempo faz.\nQue me sejam perdoadas estas falsas profundezas. Nada em mim se dispunha a coxear \natrás do Einstein se não fosse aquela notícia de França: no rio Saône toda a fauna se extinguiu \npor ação de produtos tóxicos acidentalmente derramados nele, e cinco anos serão necessários \npara que essa fauna se reconstitua. O mesmo tempo que envelhece, gasta, destrói e mata \n(boas noites, espelho), vai purificar as águas, povoá-las pouco a pouco de criaturas, até que \ncinco anos passados o rio ressuscite da fossa comum dos rios mortos, para glória e triunfo da \nvida. (E depois casaram, e tiveram muitos afluentes.)\nNão iria longe esta crónica se não fosse a providência dos cronistas, a qual é (aqui o \nconfesso) a associação de ideias. Vai levando o rio Saône a sua corrente envenenada, e \né neste momento que uma gota de água se me desenha na memória, como uma enorme \npérola suspensa, que devagar vai engrossando e tarda tanto a cair, e não cai enquanto a olho \nfascinado. Rodeia-me um fantástico amontoado de rochas. Estou no interior do mundo, cercado \nde estalactites, de brancas toalhas de pedra, de formações calcárias que têm a aparência de \nanimais, de cabeças humanas, de secretos órgãos do corpo – mergulhado numa luz que do \nverde ao amarelo se degrada infinitamente.\nA gota de água recebe a luz de um foco lateral e é transparente como o ar, ali suspensa \nsobre uma forma redonda que lembra um bolbo vegetal. Cairá não sei quando, da altura \nde seis centímetros, e vai escorregar na superfície lisa, deixando uma infinitesimal película \ncalcária que tornará mais breve a próxima queda. E porque nós parámos a olhar a gota de \nágua, o guarda de Aracena disse: «Daqui a duzentos anos as duas pedras estarão juntas.»\nÉ esta a paciência do tempo. Na gruta imensa, o tempo está aproximando duas pedras \ninsignificantes e promete a silenciosa união para daqui a duzentos anos. À hora a que escrevo, \npela noite dentro, a caverna está decerto em escuridão profunda. Ouve-se o pingar das águas \nsoltas sobre os lagos sem peixes – enquanto em silêncio a montanha verte a gota vagarosa \nda promessa.\nA paciência do tempo. Duzentos anos a fabricar pedra, a construir uma pequena coluna, um \nmísero toco em que ninguém reparará depois. Duzentos anos de trabalho monótono e aplicado, \nindiferente às maravilhas que cobrem as paredes altíssimas da gruta e fazem rebentar flores \nde pedra do chão. Duzentos anos assim, só porque assim tem de ser. \nFalo do tempo e de pedras, e, contudo, é em homens que penso. Porque são eles a \nverdadeira matéria do tempo, a pedra de cima e a pedra de baixo, a gota de água que é \nsangue e é também suor. Porque são eles a paciente coragem, e a longa espera, e o esforço \nsem limites, a dor aceite e recusada – duzentos anos, se assim tiver de ser.\nJosé Saramago, A Bagagem do Viajante, 8.ª ed., Alfragide, Editorial Caminho, 2010, pp. 223-225"
     },
     {
-      "id": 1968,
+      "id": 10975,
+      "question_number": "4",
+      "statement": "4. Sintetize os aspetos em que o verão, tal como é caracterizado no primeiro parágrafo, se revela diferente \ndo esperado.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21716,
+          "letter": "A",
+          "text": "a lentidão que caracteriza a evolução da humanidade.",
+          "isCorrect": false
+        },
+        {
+          "id": 21717,
+          "letter": "B",
+          "text": "a beleza dos processos naturais de criação das rochas.",
+          "isCorrect": false
+        },
+        {
+          "id": 21718,
+          "letter": "C",
+          "text": "a insignificância do homem face à imensidão da natureza.",
+          "isCorrect": false
+        },
+        {
+          "id": 21719,
+          "letter": "D",
+          "text": "a morosidade na formação de novas pedras calcárias.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Sintetiza, adequadamente, os aspetos em que o verão, tal como é caracterizado no \nprimeiro parágrafo, se revela diferente do esperado. 12\n3\nSintetiza, de modo não totalmente completo ou com pequenas imprecisões, os aspetos \nem que o verão, tal como é caracterizado no primeiro parágrafo, se revela diferente do \nesperado.\n9\n2\nSintetiza, de modo não totalmente completo e com pequenas imprecisões, os aspetos \nem que o verão, tal como é caracterizado no primeiro parágrafo, se revela diferente do \nesperado.\nOU\nSintetiza, de modo incompleto ou com imprecisões, os aspetos em que o verão, tal como \né caracterizado no primeiro parágrafo, se revela diferente do esperado.\n6\n1 Refere-se, de modo incompleto e com imprecisões, aos aspetos em que o verão, tal como \né caracterizado no primeiro parágrafo, se revela diferente do esperado. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)4 ............................................................... 4 pontos\nCenário de resposta\nO verão, tal como é caracterizado no primeiro parágrafo, é diferente do esperado, na medida em que:\n– as condições climatéricas são atípicas (faz frio; há vento; a chuva é excessiva…), obrigando ao uso de \nagasalhos;\n– as rotinas dos animais se alteram (os pássaros recolhem-se nas árvores...).\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\nSó o ter flores pela vista fora\nNas áleas largas dos jardins exatos\nBasta para podermos\nAchar a vida leve.\nDe todo o esforço seguremos quedas\nAs mãos, brincando, pra que nos não tome\nDo pulso, e nos arraste.\nE vivamos assim,\nBuscando o mínimo de dor ou gozo,\nBebendo a goles os instantes frescos,\nTranslúcidos como água\nEm taças detalhadas,\nDa vida pálida levando apenas\nAs rosas breves, os sorrisos vagos,\nE as rápidas carícias\nDos instantes volúveis.\nPouco tão pouco pesará nos braços\nCom que, exilados das supernas luzes,\nScolhermos do que fomos\nO melhor pra lembrar\nQuando, acabados pelas Parcas, formos,\nVultos solenes de repente antigos,\nE cada vez mais sombras,\nAo encontro fatal\nDo barco escuro no soturno rio,\nE os nove abraços do horror estígio,\nE o regaço insaciável\nDa pátria de Plutão.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, Lisboa, Assírio & Alvim, 2000, pp. 36-37\nNOTAS\náleas (verso 2) – caminhos ladeados de árvores ou arbustos.\nestígio (verso 26) – relativo ao Estige, rio dos Infernos na mitologia grega.\nParcas (verso 21) – três divindades da mitologia romana que representam o destino: uma preside ao nascimento, outra \nao casamento e a terceira à morte.\nPlutão (verso 28) – deus dos Infernos, na mitologia romana.\nquedas (verso 5) – quietas; imóveis.\nScolhermos (verso 19) – escolhermos.\nsupernas (verso 18) – supremas; superiores."
+    },
+    {
+      "id": 10980,
       "question_number": "4",
       "statement": "4. No último parágrafo do texto, o autor acentua",
       "question_type": "multiple_choice",
@@ -121,33 +252,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3598,
-          "letter": "A",
-          "text": "a lentidão que caracteriza a evolução da humanidade.",
-          "isCorrect": false
-        },
-        {
-          "id": 3599,
-          "letter": "B",
-          "text": "a beleza dos processos naturais de criação das rochas.",
-          "isCorrect": false
-        },
-        {
-          "id": 3600,
-          "letter": "C",
-          "text": "a insignificância do homem face à imensidão da natureza.",
-          "isCorrect": false
-        },
-        {
-          "id": 3601,
-          "letter": "D",
-          "text": "a morosidade na formação de novas pedras calcárias.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4 Explicita, adequadamente, a forma como o olhar do narrador sobre a personagem \nfeminina se modifica ao longo do segundo e do terceiro parágrafos. 12",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -157,7 +263,53 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nSe alguém me perguntar o que é o tempo, declaro logo a minha ignorância: não sei. Agora \nmesmo ouço o bater do relógio de pêndula, e a resposta parece estar ali. Mas não é verdade. \nQuando a corda se lhe acabar, o maquinismo fica no tempo e não o mede: sofre-o. E se o \nespelho me mostra que não sou já quem era há um ano, nem isso me dirá o que o tempo é. \nSó o que o tempo faz.\nQue me sejam perdoadas estas falsas profundezas. Nada em mim se dispunha a coxear \natrás do Einstein se não fosse aquela notícia de França: no rio Saône toda a fauna se extinguiu \npor ação de produtos tóxicos acidentalmente derramados nele, e cinco anos serão necessários \npara que essa fauna se reconstitua. O mesmo tempo que envelhece, gasta, destrói e mata \n(boas noites, espelho), vai purificar as águas, povoá-las pouco a pouco de criaturas, até que \ncinco anos passados o rio ressuscite da fossa comum dos rios mortos, para glória e triunfo da \nvida. (E depois casaram, e tiveram muitos afluentes.)\nNão iria longe esta crónica se não fosse a providência dos cronistas, a qual é (aqui o \nconfesso) a associação de ideias. Vai levando o rio Saône a sua corrente envenenada, e \né neste momento que uma gota de água se me desenha na memória, como uma enorme \npérola suspensa, que devagar vai engrossando e tarda tanto a cair, e não cai enquanto a olho \nfascinado. Rodeia-me um fantástico amontoado de rochas. Estou no interior do mundo, cercado \nde estalactites, de brancas toalhas de pedra, de formações calcárias que têm a aparência de \nanimais, de cabeças humanas, de secretos órgãos do corpo – mergulhado numa luz que do \nverde ao amarelo se degrada infinitamente.\nA gota de água recebe a luz de um foco lateral e é transparente como o ar, ali suspensa \nsobre uma forma redonda que lembra um bolbo vegetal. Cairá não sei quando, da altura \nde seis centímetros, e vai escorregar na superfície lisa, deixando uma infinitesimal película \ncalcária que tornará mais breve a próxima queda. E porque nós parámos a olhar a gota de \nágua, o guarda de Aracena disse: «Daqui a duzentos anos as duas pedras estarão juntas.»\nÉ esta a paciência do tempo. Na gruta imensa, o tempo está aproximando duas pedras \ninsignificantes e promete a silenciosa união para daqui a duzentos anos. À hora a que escrevo, \npela noite dentro, a caverna está decerto em escuridão profunda. Ouve-se o pingar das águas \nsoltas sobre os lagos sem peixes – enquanto em silêncio a montanha verte a gota vagarosa \nda promessa.\nA paciência do tempo. Duzentos anos a fabricar pedra, a construir uma pequena coluna, um \nmísero toco em que ninguém reparará depois. Duzentos anos de trabalho monótono e aplicado, \nindiferente às maravilhas que cobrem as paredes altíssimas da gruta e fazem rebentar flores \nde pedra do chão. Duzentos anos assim, só porque assim tem de ser. \nFalo do tempo e de pedras, e, contudo, é em homens que penso. Porque são eles a \nverdadeira matéria do tempo, a pedra de cima e a pedra de baixo, a gota de água que é \nsangue e é também suor. Porque são eles a paciente coragem, e a longa espera, e o esforço \nsem limites, a dor aceite e recusada – duzentos anos, se assim tiver de ser.\nJosé Saramago, A Bagagem do Viajante, 8.ª ed., Alfragide, Editorial Caminho, 2010, pp. 223-225"
     },
     {
-      "id": 1969,
+      "id": 10976,
+      "question_number": "5",
+      "statement": "5. Ao longo do segundo e do terceiro parágrafos, o olhar do narrador sobre a personagem feminina vai-se \nmodificando.\nExplicite essa modificação.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21720,
+          "letter": "A",
+          "text": "uma conjunção em ambos os casos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21721,
+          "letter": "B",
+          "text": "um pronome em ambos os casos.",
+          "isCorrect": false
+        },
+        {
+          "id": 21722,
+          "letter": "C",
+          "text": "um pronome e uma conjunção, respetivamente.",
+          "isCorrect": false
+        },
+        {
+          "id": 21723,
+          "letter": "D",
+          "text": "uma conjunção e um pronome, respetivamente.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explicita, adequadamente, a forma como o olhar do narrador sobre a personagem \nfeminina se modifica ao longo do segundo e do terceiro parágrafos. 12\n3\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, a forma como \no olhar do narrador sobre a personagem feminina se modifica ao longo do segundo e do \nterceiro parágrafos.\n9\n2\nExplicita, de modo não totalmente completo e com pequenas imprecisões, a forma como \no olhar do narrador sobre a personagem feminina se modifica ao longo do segundo e do \nterceiro parágrafos.\nOU\nExplicita, de modo incompleto ou com imprecisões, a forma como o olhar do narrador \nsobre a personagem feminina se modifica ao longo do segundo e do terceiro parágrafos.\n6\n1 Refere-se, de modo incompleto e com imprecisões, à forma como o olhar do narrador \nsobre a personagem feminina se modifica ao longo do segundo e do terceiro parágrafos. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\nCenário de resposta\nInicialmente, o narrador, que estava sentado a uma mesa de esplanada, observa com atenção e curiosidade \numa mulher sentada na mesa ao lado da sua, que:\n– não se enquadrava no ambiente típico de esplanada (apesar do calor, usava um vestido de cerimónia \ne meias);\n– agia de forma enigmática (os óculos escuros que trazia não permitiam saber o que prendia o seu olhar; \nnão parecia interessada no que acontecia à sua volta; tinha um sorriso distante).\nDepois, o narrador percebeu que o seu olhar, fixo e ininterrupto, chamara a atenção da mulher que, não \ndando mostras de incómodo, antes se divertia com a situação. Deste modo, sentiu-se desprotegido, dado \nque tomou consciência de que passara de observador a observado.\n* Vide Fatores de desvalorização no âmbito da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nChave\nItem Versão 1 Versão 2 Pontuação",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o poema. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\nSó o ter flores pela vista fora\nNas áleas largas dos jardins exatos\nBasta para podermos\nAchar a vida leve.\nDe todo o esforço seguremos quedas\nAs mãos, brincando, pra que nos não tome\nDo pulso, e nos arraste.\nE vivamos assim,\nBuscando o mínimo de dor ou gozo,\nBebendo a goles os instantes frescos,\nTranslúcidos como água\nEm taças detalhadas,\nDa vida pálida levando apenas\nAs rosas breves, os sorrisos vagos,\nE as rápidas carícias\nDos instantes volúveis.\nPouco tão pouco pesará nos braços\nCom que, exilados das supernas luzes,\nScolhermos do que fomos\nO melhor pra lembrar\nQuando, acabados pelas Parcas, formos,\nVultos solenes de repente antigos,\nE cada vez mais sombras,\nAo encontro fatal\nDo barco escuro no soturno rio,\nE os nove abraços do horror estígio,\nE o regaço insaciável\nDa pátria de Plutão.\nRicardo Reis, Poesia, edição de Manuela Parreira da Silva, Lisboa, Assírio & Alvim, 2000, pp. 36-37\nNOTAS\náleas (verso 2) – caminhos ladeados de árvores ou arbustos.\nestígio (verso 26) – relativo ao Estige, rio dos Infernos na mitologia grega.\nParcas (verso 21) – três divindades da mitologia romana que representam o destino: uma preside ao nascimento, outra \nao casamento e a terceira à morte.\nPlutão (verso 28) – deus dos Infernos, na mitologia romana.\nquedas (verso 5) – quietas; imóveis.\nScolhermos (verso 19) – escolhermos.\nsupernas (verso 18) – supremas; superiores."
+    },
+    {
+      "id": 10981,
       "question_number": "5",
       "statement": "5. Nas linhas 13 e 15, a palavra «se» é",
       "question_type": "multiple_choice",
@@ -167,33 +319,8 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3602,
-          "letter": "A",
-          "text": "uma conjunção em ambos os casos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3603,
-          "letter": "B",
-          "text": "um pronome em ambos os casos.",
-          "isCorrect": false
-        },
-        {
-          "id": 3604,
-          "letter": "C",
-          "text": "um pronome e uma conjunção, respetivamente.",
-          "isCorrect": false
-        },
-        {
-          "id": 3605,
-          "letter": "D",
-          "text": "uma conjunção e um pronome, respetivamente.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "5 4 3 2 1\nC\nLéxico e \nadequação \ndo discurso\n – Mobiliza, com intencionalidade, \nrecursos da língua expressivos \ne adequados (repertório lexical \nvariado e pertinente, figuras de \nretórica e tropos, procedimentos \nde modalização, pontuação...).\n – Utiliza o registo de língua \nadequado ao texto, \neventualmente com \nesporádicos afastamentos, \nque se encontram, no \nentanto, justificados pela \nintencionalidade do discurso \ne assinalados graficamente \n(com aspas ou sublinhados).\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Mobiliza um repertório lexical \nadequado, mas pouco variado.\n – Utiliza, em geral, o registo \nde língua adequado ao \ntexto, mas apresentando \nalguns afastamentos que \nafetam pontualmente a \nadequação global.\nN\nÍ\nV\nE\nL\nI\nN\nT\nE\nR\nC\nA\nL\nA\nR\n – Utiliza vocabulário \nelementar e restrito (muitas \nvezes redundante) ou \nglobalmente inadequado.\n – Utiliza indiferenciadamente \nregistos de língua, sem \nmanifestar consciência do \nregisto adequado ao texto, \nou recorre a um único \nregisto inadequado.\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. a 5.",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
@@ -203,7 +330,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nSe alguém me perguntar o que é o tempo, declaro logo a minha ignorância: não sei. Agora \nmesmo ouço o bater do relógio de pêndula, e a resposta parece estar ali. Mas não é verdade. \nQuando a corda se lhe acabar, o maquinismo fica no tempo e não o mede: sofre-o. E se o \nespelho me mostra que não sou já quem era há um ano, nem isso me dirá o que o tempo é. \nSó o que o tempo faz.\nQue me sejam perdoadas estas falsas profundezas. Nada em mim se dispunha a coxear \natrás do Einstein se não fosse aquela notícia de França: no rio Saône toda a fauna se extinguiu \npor ação de produtos tóxicos acidentalmente derramados nele, e cinco anos serão necessários \npara que essa fauna se reconstitua. O mesmo tempo que envelhece, gasta, destrói e mata \n(boas noites, espelho), vai purificar as águas, povoá-las pouco a pouco de criaturas, até que \ncinco anos passados o rio ressuscite da fossa comum dos rios mortos, para glória e triunfo da \nvida. (E depois casaram, e tiveram muitos afluentes.)\nNão iria longe esta crónica se não fosse a providência dos cronistas, a qual é (aqui o \nconfesso) a associação de ideias. Vai levando o rio Saône a sua corrente envenenada, e \né neste momento que uma gota de água se me desenha na memória, como uma enorme \npérola suspensa, que devagar vai engrossando e tarda tanto a cair, e não cai enquanto a olho \nfascinado. Rodeia-me um fantástico amontoado de rochas. Estou no interior do mundo, cercado \nde estalactites, de brancas toalhas de pedra, de formações calcárias que têm a aparência de \nanimais, de cabeças humanas, de secretos órgãos do corpo – mergulhado numa luz que do \nverde ao amarelo se degrada infinitamente.\nA gota de água recebe a luz de um foco lateral e é transparente como o ar, ali suspensa \nsobre uma forma redonda que lembra um bolbo vegetal. Cairá não sei quando, da altura \nde seis centímetros, e vai escorregar na superfície lisa, deixando uma infinitesimal película \ncalcária que tornará mais breve a próxima queda. E porque nós parámos a olhar a gota de \nágua, o guarda de Aracena disse: «Daqui a duzentos anos as duas pedras estarão juntas.»\nÉ esta a paciência do tempo. Na gruta imensa, o tempo está aproximando duas pedras \ninsignificantes e promete a silenciosa união para daqui a duzentos anos. À hora a que escrevo, \npela noite dentro, a caverna está decerto em escuridão profunda. Ouve-se o pingar das águas \nsoltas sobre os lagos sem peixes – enquanto em silêncio a montanha verte a gota vagarosa \nda promessa.\nA paciência do tempo. Duzentos anos a fabricar pedra, a construir uma pequena coluna, um \nmísero toco em que ninguém reparará depois. Duzentos anos de trabalho monótono e aplicado, \nindiferente às maravilhas que cobrem as paredes altíssimas da gruta e fazem rebentar flores \nde pedra do chão. Duzentos anos assim, só porque assim tem de ser. \nFalo do tempo e de pedras, e, contudo, é em homens que penso. Porque são eles a \nverdadeira matéria do tempo, a pedra de cima e a pedra de baixo, a gota de água que é \nsangue e é também suor. Porque são eles a paciente coragem, e a longa espera, e o esforço \nsem limites, a dor aceite e recusada – duzentos anos, se assim tiver de ser.\nJosé Saramago, A Bagagem do Viajante, 8.ª ed., Alfragide, Editorial Caminho, 2010, pp. 223-225"
     },
     {
-      "id": 1975,
+      "id": 10982,
       "question_number": "6",
       "statement": "6. O complexo verbal «está aproximando» (linha 26) tem um valor aspetual",
       "question_type": "multiple_choice",
@@ -215,25 +342,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3606,
+          "id": 21724,
           "letter": "A",
           "text": "genérico.",
           "isCorrect": false
         },
         {
-          "id": 3607,
+          "id": 21725,
           "letter": "B",
           "text": "pontual.",
           "isCorrect": false
         },
         {
-          "id": 3608,
+          "id": 21726,
           "letter": "C",
           "text": "iterativo.",
           "isCorrect": false
         },
         {
-          "id": 3609,
+          "id": 21727,
           "letter": "D",
           "text": "durativo.",
           "isCorrect": false
@@ -249,7 +376,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nSe alguém me perguntar o que é o tempo, declaro logo a minha ignorância: não sei. Agora \nmesmo ouço o bater do relógio de pêndula, e a resposta parece estar ali. Mas não é verdade. \nQuando a corda se lhe acabar, o maquinismo fica no tempo e não o mede: sofre-o. E se o \nespelho me mostra que não sou já quem era há um ano, nem isso me dirá o que o tempo é. \nSó o que o tempo faz.\nQue me sejam perdoadas estas falsas profundezas. Nada em mim se dispunha a coxear \natrás do Einstein se não fosse aquela notícia de França: no rio Saône toda a fauna se extinguiu \npor ação de produtos tóxicos acidentalmente derramados nele, e cinco anos serão necessários \npara que essa fauna se reconstitua. O mesmo tempo que envelhece, gasta, destrói e mata \n(boas noites, espelho), vai purificar as águas, povoá-las pouco a pouco de criaturas, até que \ncinco anos passados o rio ressuscite da fossa comum dos rios mortos, para glória e triunfo da \nvida. (E depois casaram, e tiveram muitos afluentes.)\nNão iria longe esta crónica se não fosse a providência dos cronistas, a qual é (aqui o \nconfesso) a associação de ideias. Vai levando o rio Saône a sua corrente envenenada, e \né neste momento que uma gota de água se me desenha na memória, como uma enorme \npérola suspensa, que devagar vai engrossando e tarda tanto a cair, e não cai enquanto a olho \nfascinado. Rodeia-me um fantástico amontoado de rochas. Estou no interior do mundo, cercado \nde estalactites, de brancas toalhas de pedra, de formações calcárias que têm a aparência de \nanimais, de cabeças humanas, de secretos órgãos do corpo – mergulhado numa luz que do \nverde ao amarelo se degrada infinitamente.\nA gota de água recebe a luz de um foco lateral e é transparente como o ar, ali suspensa \nsobre uma forma redonda que lembra um bolbo vegetal. Cairá não sei quando, da altura \nde seis centímetros, e vai escorregar na superfície lisa, deixando uma infinitesimal película \ncalcária que tornará mais breve a próxima queda. E porque nós parámos a olhar a gota de \nágua, o guarda de Aracena disse: «Daqui a duzentos anos as duas pedras estarão juntas.»\nÉ esta a paciência do tempo. Na gruta imensa, o tempo está aproximando duas pedras \ninsignificantes e promete a silenciosa união para daqui a duzentos anos. À hora a que escrevo, \npela noite dentro, a caverna está decerto em escuridão profunda. Ouve-se o pingar das águas \nsoltas sobre os lagos sem peixes – enquanto em silêncio a montanha verte a gota vagarosa \nda promessa.\nA paciência do tempo. Duzentos anos a fabricar pedra, a construir uma pequena coluna, um \nmísero toco em que ninguém reparará depois. Duzentos anos de trabalho monótono e aplicado, \nindiferente às maravilhas que cobrem as paredes altíssimas da gruta e fazem rebentar flores \nde pedra do chão. Duzentos anos assim, só porque assim tem de ser. \nFalo do tempo e de pedras, e, contudo, é em homens que penso. Porque são eles a \nverdadeira matéria do tempo, a pedra de cima e a pedra de baixo, a gota de água que é \nsangue e é também suor. Porque são eles a paciente coragem, e a longa espera, e o esforço \nsem limites, a dor aceite e recusada – duzentos anos, se assim tiver de ser.\nJosé Saramago, A Bagagem do Viajante, 8.ª ed., Alfragide, Editorial Caminho, 2010, pp. 223-225"
     },
     {
-      "id": 1976,
+      "id": 10983,
       "question_number": "7",
       "statement": "7. No último parágrafo, são utilizados vários recursos estilísticos, entre os quais",
       "question_type": "multiple_choice",
@@ -261,25 +388,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3610,
+          "id": 21728,
           "letter": "A",
           "text": "a sinestesia e a anáfora.",
           "isCorrect": false
         },
         {
-          "id": 3611,
+          "id": 21729,
           "letter": "B",
           "text": "a ironia e a sinestesia.",
           "isCorrect": false
         },
         {
-          "id": 3612,
+          "id": 21730,
           "letter": "C",
           "text": "a anáfora e a hipérbole.",
           "isCorrect": false
         },
         {
-          "id": 3613,
+          "id": 21731,
           "letter": "D",
           "text": "a hipérbole e a ironia.",
           "isCorrect": false

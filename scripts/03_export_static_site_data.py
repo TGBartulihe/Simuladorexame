@@ -95,12 +95,17 @@ def build_catalog_from_exported_exams(out_dir: Path) -> dict:
 
     for exam_file in sorted(exams_dir.glob("*.json")):
         exam = json.loads(exam_file.read_text(encoding="utf-8"))
-        usable_questions = [q for q in exam["questions"] if not q["statementCorrompido"]]
+        # .get(..., False) em vez de [...] — protege contra arquivo .json
+        # de uma versão antiga do script que não tinha este campo (ver
+        # correção em export_all_exams, que agora limpa a pasta antes de
+        # regenerar; isto aqui é uma segunda camada de segurança, não a
+        # correção principal).
+        usable_questions = [q for q in exam["questions"] if not q.get("statementCorrompido", False)]
         total = len(usable_questions)
 
-        mc_questions = [q for q in usable_questions if q["question_type"] == "multiple_choice"]
-        mc_with_answer = sum(1 for q in mc_questions if q["gabaritoDisponivel"])
-        with_points = sum(1 for q in usable_questions if q["pontuacaoDisponivel"])
+        mc_questions = [q for q in usable_questions if q.get("question_type") == "multiple_choice"]
+        mc_with_answer = sum(1 for q in mc_questions if q.get("gabaritoDisponivel", False))
+        with_points = sum(1 for q in usable_questions if q.get("pontuacaoDisponivel", False))
 
         if total == 0:
             completeness = "sem_questoes_extraidas"
@@ -110,6 +115,15 @@ def build_catalog_from_exported_exams(out_dir: Path) -> dict:
                 completeness = "gabarito_parcial"
             if with_points < total:
                 completeness = "pontuacao_parcial" if completeness == "completo" else "incompleto"
+
+        # scripts/triage_exams.py (rodado separadamente) marca exames com
+        # contagem atípica, poucos grupos, ou saltos de numeração grandes
+        # — sinais de possível perda de dados na extração que os outros
+        # critérios de completeness (gabarito/pontuação) não cobrem. Não
+        # sobrescreve "sem_questoes_extraidas" (que já é o pior caso).
+        triage_status = exam.get("triageStatus", "nao_triado")
+        if triage_status == "revisar" and completeness != "sem_questoes_extraidas":
+            completeness = "revisar_extracao"
 
         subject = exam["subject"]
         subjects.setdefault(subject, {"subject": subject, "slug": slugify(subject), "years": {}})
@@ -231,6 +245,7 @@ def export_exam(conn: sqlite3.Connection, exam_row: sqlite3.Row, out_dir: Path) 
         "subject": exam_row["subject"],
         "year": exam_row["year"],
         "phase": exam_row["phase"],
+        "triageStatus": _get_triage_status(cur, exam_id),
         "groups": [
             {"id": gid, "name": g["group_name"], "order": g["display_order"]}
             for gid, g in sorted(groups.items(), key=lambda kv: kv[1]["display_order"])
@@ -245,13 +260,46 @@ def export_exam(conn: sqlite3.Connection, exam_row: sqlite3.Row, out_dir: Path) 
     )
 
 
+def _get_triage_status(cur: sqlite3.Cursor, exam_id: int) -> str:
+    """Lê o status de scripts/triage_exams.py ('bom' ou 'revisar'), se
+    essa triagem já tiver rodado. Se a tabela exam_triage não existir
+    ainda (triagem nunca rodou), devolve 'nao_triado' — a UI trata isso
+    como "bom" por padrão, sem bloquear nada, mas o valor explícito
+    permite diferenciar depois.
+    """
+    try:
+        cur.execute("SELECT status FROM exam_triage WHERE exam_id = ?", (exam_id,))
+        row = cur.fetchone()
+        return row["status"] if row else "nao_triado"
+    except sqlite3.OperationalError:
+        return "nao_triado"
+
+
 def export_all_exams(conn: sqlite3.Connection, out_dir: Path) -> None:
     cur = conn.cursor()
     cur.execute("SELECT id, exam_key, subject, year, phase FROM exams")
     exam_rows = cur.fetchall()
+
+    # CORREÇÃO — bug real: rodar este script mais de uma vez (comum
+    # durante o desenvolvimento/depuração) deixava arquivos .json de
+    # execuções ANTERIORES na pasta exams/, de versões do script que não
+    # tinham os mesmos campos (ex: "statementCorrompido" foi adicionado
+    # numa correção posterior). build_catalog_from_exported_exams() lê
+    # TODOS os .json da pasta, então um arquivo órfão de versão antiga
+    # quebrava o catálogo inteiro com KeyError. Limpar a pasta antes de
+    # gerar de novo garante que ela reflita só a execução atual.
+    exams_dir = out_dir / "exams"
+    if exams_dir.exists():
+        removed = 0
+        for old_file in exams_dir.glob("*.json"):
+            old_file.unlink()
+            removed += 1
+        if removed:
+            print(f"Removidos {removed} arquivo(s) .json antigos de {exams_dir} antes de regenerar.")
+
     for row in exam_rows:
         export_exam(conn, row, out_dir)
-    print(f"{len(exam_rows)} arquivos de exame gerados em {out_dir / 'exams'}")
+    print(f"{len(exam_rows)} arquivos de exame gerados em {exams_dir}")
 
 
 def export_topics(conn: sqlite3.Connection, out_dir: Path) -> None:

@@ -4,43 +4,29 @@
   "subject": "Português",
   "year": 2015,
   "phase": "F1",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 317,
+      "id": 1555,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 318,
+      "id": 1556,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 319,
+      "id": 1557,
       "name": "GRUPO III",
       "order": 2
-    },
-    {
-      "id": 320,
-      "name": "GRUPO I",
-      "order": 3
-    },
-    {
-      "id": 321,
-      "name": "GRUPO II",
-      "order": 4
-    },
-    {
-      "id": 322,
-      "name": "GRUPO III",
-      "order": 5
     }
   ],
   "questions": [
     {
-      "id": 2163,
+      "id": 11140,
       "question_number": "1",
-      "statement": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "1. Explicite o contraste existente no modo como o cravo é transportado, primeiro, até ao portão da quinta e, \ndepois, até à abegoaria.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -49,19 +35,103 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": "1. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explicita, adequadamente, o contraste existente no modo como o cravo é transportado, \nprimeiro, até ao portão da quinta e, depois, até à abegoaria. 12\n3\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, o contraste \nexistente no modo como o cravo é transportado, primeiro, até ao portão da quinta e, \ndepois, até à abegoaria.\n9\n2\nExplicita, de modo não totalmente completo e com pequenas imprecisões, o contraste \nexistente no modo como o cravo é transportado, primeiro, até ao portão da quinta e, \ndepois, até à abegoaria.\nOU\nExplicita, de modo incompleto ou com imprecisões, o contraste existente no modo como o \ncravo é transportado, primeiro, até ao portão da quinta e, depois, até à abegoaria.\n6\n1 Refere-se, de modo incompleto e com imprecisões, ao contraste existente no modo como \no cravo é transportado, primeiro, até ao portão da quinta e, depois, até à abegoaria. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)1 ............................................................... 4 pontos\nCenário de resposta\nDa Rua Nova dos Mercadores até ao portão da quinta, o cravo é carregado por dois homens experientes, \nque usam os processos adequados para, com o seu saber e com os cuidados necessários, levarem a \ncarga até São Sebastião da Pedreira.\nJá do portão até à abegoaria, o transporte é feito por Baltasar e por Blimunda, que, por lhes faltar experiência \nneste tipo de trabalho e por receio de danificar tão frágil instrumento, tiveram muita dificuldade em fazer \nchegar o cravo ao seu destino.\nNota – As respostas em que apenas se refere um dos momentos relativos ao transporte do cravo não cumprem o \nrequerido no item (não evidenciam um contraste). Neste caso, as respostas são classificadas com zero pontos.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nA música é outra coisa. Domenico Scarlatti trouxe para a abegoaria um cravo, não o \ncarregou ele, mas dois mariolas, a pau, corda, chinguiço, e muito suor da testa, desde a \nRua Nova dos Mercadores, onde foi comprado, até S. Sebastião da Pedreira, onde seria \nouvido, veio Baltasar com eles para indicar o caminho, outra ajuda lhe não requereram, que \neste transporte não se faz sem ciência e arte, distribuir o peso, combinar as forças como na \npirâmide da Dança da Bica, aproveitar o molejo das cordas e do pau para ritmar a passada, \nenfim, segredos de ofício que tanto valem como outros, e cuida cada qual que os do seu são \nmáximos. O cravo foi deixado pelos galegos do lado de fora do portão, não faltava mais nada \nverem eles a máquina de voar, e para a abegoaria o levaram, com grande esforço, Baltasar \ne Blimunda, não tanto pelo peso, mas por lhes faltarem arte e ciência, sem contar que as \nvibrações das cordas pareciam queixumes magoados e por causa deles se lhes apertava \no coração, também duvidoso e assustado de tão extrema fragilidade. Nessa mesma tarde \nveio Domenico Scarlatti, ali se sentou a afinar o cravo, enquanto Baltasar entrançava vimes \ne Blimunda cosia velas, trabalhos calados que não perturbavam a obra do músico. E tendo \nconcluído a afinação, ajustado os saltarelos que o transporte havia desacertado, verificado \nas penas de pato uma por uma, Scarlatti pôs-se a tocar, primeiro deixando correr os dedos \nsobre as teclas, como se soltasse as notas das suas prisões, depois organizando os sons em \npequenos segmentos, como se escolhesse entre o certo e o errado, entre a forma repetida \ne a forma perturbada, entre a frase e o seu corte, enfim articulando em discurso novo o que \nparecera antes fragmentário e contraditório. De música sabiam pouco Baltasar e Blimunda, a \nsalmodia dos frades, raramente o estridor operático do Te Deum, toadas populares campestres \ne urbanas, cada qual suas, porém nada que se parecesse com estes sons que o italiano \ntirava do cravo, que tanto pareciam brinquedo infantil como colérica objurgação, tanto parecia \ndivertirem-se anjos como zangar-se Deus.\nAo fim de uma hora levantou-se Scarlatti do cravo, cobriu-o com um pano de vela, e depois \ndisse para Baltasar e Blimunda, que tinham interrompido o trabalho, Se a passarola do padre \nBartolomeu de Gusmão chegar a voar um dia, gostaria de ir nela e tocar no céu, e Blimunda \nrespondeu, Voando a máquina, todo o céu será música, e Baltasar, lembrando-se da guerra, \nSe não for inferno todo o céu. Não sabem, estes dois, ler nem escrever, e contudo dizem coisas \nassim, impossíveis em tal tempo e em tal lugar, se tudo tem a sua explicação, procuremos esta, \nse agora a não encontrarmos, outro dia será. Muitas vezes voltou Scarlatti à quinta do duque \nde Aveiro, nem sempre tocava, mas em certas ocasiões pedia que não se interrompessem \nos trabalhos ruidosos, a forja rugindo, o malho retumbando na bigorna, a água fervendo na \ntina, mal se ouvia o cravo no meio do grande clamor da abegoaria, e no entanto o músico \nencadeava serenamente a sua música, como se o rodeasse o grande silêncio do espaço onde \ndesejara tocar um dia.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 178-180"
     },
     {
-      "id": 2164,
+      "id": 11145,
+      "question_number": "1",
+      "statement": "1. A citação do Livro do Desassossego (linhas 1 e 2) põe em destaque a",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 11154,
+      "question_number": "1",
+      "statement": "1. Para efeitos de contagem, considera-se uma palavra qualquer sequência delimitada por espaços em branco, mesmo \nquando esta integre elementos ligados por hífen (ex.: /dir-se-ia/). Qualquer número conta como uma única palavra, \nindependentemente dos algarismos que o constituam (ex.: /2015/).",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": null,
+      "contextText": "GRUPO III\nQuer no espaço público quer no espaço privado, somos permanentemente sujeitos a estímulos sensoriais \n(visuais, auditivos, olfativos…), por exemplo, através de campanhas publicitárias. Se, por um lado, essa \nexperiência pode ser considerada enriquecedora, pode, por outro lado, ser perspetivada de forma negativa.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a problemática apresentada.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
+    },
+    {
+      "id": 11141,
       "question_number": "2",
-      "statement": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "2. Explique a forma como, ao longo do excerto, a música de Scarlatti se vai articulando com os diferentes \ntrabalhos de Baltasar e de Blimunda na abegoaria.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "2. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explica, adequadamente, a forma como, ao longo do excerto, a música de Scarlatti se vai \narticulando com os diferentes trabalhos de Baltasar e de Blimunda na abegoaria. 12\n3\nExplica, de modo não totalmente completo ou com pequenas imprecisões, a forma como, \nao longo do excerto, a música de Scarlatti se vai articulando com os diferentes trabalhos \nde Baltasar e de Blimunda na abegoaria.\n9\n2\nExplica, de modo não totalmente completo e com pequenas imprecisões, a forma como, \nao longo do excerto, a música de Scarlatti se vai articulando com os diferentes trabalhos \nde Baltasar e de Blimunda na abegoaria.\nOU\nExplica, de modo incompleto ou com imprecisões, a forma como, ao longo do excerto, \na música de Scarlatti se vai articulando com os diferentes trabalhos de Baltasar e de \nBlimunda na abegoaria.\n6\n1\nRefere-se, de modo incompleto e com imprecisões, à forma como, ao longo do excerto, \na música de Scarlatti se vai articulando com os diferentes trabalhos de Baltasar e de \nBlimunda na abegoaria.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)2 ............................................................... 4 pontos\nCenário de resposta\nNo dia da chegada do cravo à abegoaria, Scarlatti procedeu à sua afinação, após o que começou a \ntocar, encadeando os sons de forma progressivamente mais complexa. Entretanto, Baltasar e Blimunda \ndedicavam-se a trabalhos pouco ruidosos (entrançar vimes e coser velas), tarefas que não interferiam com \na música de Scarlatti.\nNas visitas posteriores à quinta, Scarlatti nem sempre pedia que cessassem os trabalhos ruidosos que \ndecorriam na abegoaria; assim, o som do cravo fluía de forma harmoniosa, apesar do rugir da forja, do \nmalho a bater na bigorna ou da água a ferver na tina.\nNota – As respostas em que apenas se refere um dos momentos da articulação da música com os trabalhos na \nabegoaria situam-se, no máximo, no nível 2 de desempenho.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nA música é outra coisa. Domenico Scarlatti trouxe para a abegoaria um cravo, não o \ncarregou ele, mas dois mariolas, a pau, corda, chinguiço, e muito suor da testa, desde a \nRua Nova dos Mercadores, onde foi comprado, até S. Sebastião da Pedreira, onde seria \nouvido, veio Baltasar com eles para indicar o caminho, outra ajuda lhe não requereram, que \neste transporte não se faz sem ciência e arte, distribuir o peso, combinar as forças como na \npirâmide da Dança da Bica, aproveitar o molejo das cordas e do pau para ritmar a passada, \nenfim, segredos de ofício que tanto valem como outros, e cuida cada qual que os do seu são \nmáximos. O cravo foi deixado pelos galegos do lado de fora do portão, não faltava mais nada \nverem eles a máquina de voar, e para a abegoaria o levaram, com grande esforço, Baltasar \ne Blimunda, não tanto pelo peso, mas por lhes faltarem arte e ciência, sem contar que as \nvibrações das cordas pareciam queixumes magoados e por causa deles se lhes apertava \no coração, também duvidoso e assustado de tão extrema fragilidade. Nessa mesma tarde \nveio Domenico Scarlatti, ali se sentou a afinar o cravo, enquanto Baltasar entrançava vimes \ne Blimunda cosia velas, trabalhos calados que não perturbavam a obra do músico. E tendo \nconcluído a afinação, ajustado os saltarelos que o transporte havia desacertado, verificado \nas penas de pato uma por uma, Scarlatti pôs-se a tocar, primeiro deixando correr os dedos \nsobre as teclas, como se soltasse as notas das suas prisões, depois organizando os sons em \npequenos segmentos, como se escolhesse entre o certo e o errado, entre a forma repetida \ne a forma perturbada, entre a frase e o seu corte, enfim articulando em discurso novo o que \nparecera antes fragmentário e contraditório. De música sabiam pouco Baltasar e Blimunda, a \nsalmodia dos frades, raramente o estridor operático do Te Deum, toadas populares campestres \ne urbanas, cada qual suas, porém nada que se parecesse com estes sons que o italiano \ntirava do cravo, que tanto pareciam brinquedo infantil como colérica objurgação, tanto parecia \ndivertirem-se anjos como zangar-se Deus.\nAo fim de uma hora levantou-se Scarlatti do cravo, cobriu-o com um pano de vela, e depois \ndisse para Baltasar e Blimunda, que tinham interrompido o trabalho, Se a passarola do padre \nBartolomeu de Gusmão chegar a voar um dia, gostaria de ir nela e tocar no céu, e Blimunda \nrespondeu, Voando a máquina, todo o céu será música, e Baltasar, lembrando-se da guerra, \nSe não for inferno todo o céu. Não sabem, estes dois, ler nem escrever, e contudo dizem coisas \nassim, impossíveis em tal tempo e em tal lugar, se tudo tem a sua explicação, procuremos esta, \nse agora a não encontrarmos, outro dia será. Muitas vezes voltou Scarlatti à quinta do duque \nde Aveiro, nem sempre tocava, mas em certas ocasiões pedia que não se interrompessem \nos trabalhos ruidosos, a forja rugindo, o malho retumbando na bigorna, a água fervendo na \ntina, mal se ouvia o cravo no meio do grande clamor da abegoaria, e no entanto o músico \nencadeava serenamente a sua música, como se o rodeasse o grande silêncio do espaço onde \ndesejara tocar um dia.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 178-180"
+    },
+    {
+      "id": 11146,
+      "question_number": "2",
+      "statement": "2. O uso de parênteses nas linhas 8 e 9 justifica-se pela introdução de uma",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 11155,
+      "question_number": "2",
+      "statement": "2. Relativamente ao desvio dos limites de extensão indicados – entre duzentas e trezentas palavras –, há que atender \nao seguinte:\n−− um desvio dos limites de extensão indicados implica uma desvalorização parcial (até 5 pontos) do texto produzido;\n−− um texto com extensão inferior a oitenta palavras é classificado com zero pontos.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -70,20 +140,66 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "2. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO I",
+      "groupName": "GRUPO III",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO III\nQuer no espaço público quer no espaço privado, somos permanentemente sujeitos a estímulos sensoriais \n(visuais, auditivos, olfativos…), por exemplo, através de campanhas publicitárias. Se, por um lado, essa \nexperiência pode ser considerada enriquecedora, pode, por outro lado, ser perspetivada de forma negativa.\nNum texto bem estruturado, com um mínimo de duzentas e um máximo de trezentas palavras, defenda um \nponto de vista pessoal sobre a problemática apresentada.\nFundamente o seu ponto de vista recorrendo, no mínimo, a dois argumentos e ilustre cada um deles com, \npelo menos, um exemplo significativo.\nObservações:"
     },
     {
-      "id": 2165,
+      "id": 11142,
       "question_number": "3",
-      "statement": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
-      "question_type": "open",
+      "statement": "3. «Não sabem, estes dois, ler nem escrever, e contudo dizem coisas assim, impossíveis em tal tempo e em \ntal lugar» (linhas 29 e 30).\nJustifique este comentário do narrador, tendo em conta o sentido das palavras de Blimunda e de Baltasar \nque o motivam.\nB\nLeia o poema.\nBACH SEGÓVIA GUITARRA\n5\n10\n15\n20\n25\nA música do ser\nPovoa este deserto\nCom sua guitarra\nOu com harpas de areia\nPalavras silabadas\nVêm uma a uma\nNa voz da guitarra\nA música do ser\nInterior ao silêncio\nCria seu próprio tempo\nQue me dá morada\nPalavras silabadas\nUnidas uma a uma\nÀs paredes da casa\nPor companheira tenho\nA voz da guitarra\nE no silêncio ouvinte\nO canto me reúne\nDe muito longe venho\nPelo canto chamada\nE agora de mim\nNão me separa nada\nQuando oiço cantar\nA música do ser\nNostalgia ordenada\nNum silêncio de areia\nQue não foi pisada\nSophia de Mello Breyner Andresen, Obra Poética, ed. Carlos Mendes de Sousa,\nAlfragide, Caminho, 2010, p. 467",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 22096,
+          "letter": "A",
+          "text": "estabelecem um contraste entre dois universos culturais.",
+          "isCorrect": false
+        },
+        {
+          "id": 22097,
+          "letter": "B",
+          "text": "justificam a importância dada aos odores no mundo ocidental.",
+          "isCorrect": false
+        },
+        {
+          "id": 22098,
+          "letter": "C",
+          "text": "enfatizam o papel dos odores na evocação do passado.",
+          "isCorrect": false
+        },
+        {
+          "id": 22099,
+          "letter": "D",
+          "text": "comprovam a impossibilidade de diferenciar os odores.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Justifica, adequadamente, o comentário do narrador, tendo em conta o sentido das \npalavras de ambas as personagens. 12\n3 Justifica, de modo não totalmente completo ou com pequenas imprecisões, o comentário \ndo narrador, tendo em conta o sentido das palavras de ambas as personagens. 9\n2\nJustifica, adequadamente, o comentário do narrador, tendo em conta o sentido das \npalavras de uma das personagens.\nOU\nJustifica, de modo não totalmente completo e com pequenas imprecisões, o comentário \ndo narrador, tendo em conta o sentido das palavras de ambas as personagens.\n6\n1\nJustifica, de modo não totalmente completo ou com pequenas imprecisões, o comentário \ndo narrador, tendo em conta o sentido das palavras de uma das personagens.\nOU\nRefere-se, de modo incompleto e com imprecisões, ao comentário do narrador, tendo em \nconta o sentido das palavras de ambas as personagens.\nOU\nRefere-se, adequadamente, apenas ao comentário do narrador ou apenas ao sentido das \npalavras de ambas as personagens.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)3 ............................................................... 4 pontos\nCenário de resposta\nO comentário do narrador justifica-se pela surpresa que as palavras de Blimunda e de Baltasar lhe \nprovocam, dado que, sendo eles iletrados, são capazes de verbalizar pensamentos tão complexos e \nelaborados.\nEfetivamente, face à possibilidade de a passarola voar, Blimunda admite que a música se possa integrar \nno voo como expressão de harmonia e de celebração.\nJá Baltasar, levado pelas recordações negativas da guerra, antevê desastres e sofrimento.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).\n\nB",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nA música é outra coisa. Domenico Scarlatti trouxe para a abegoaria um cravo, não o \ncarregou ele, mas dois mariolas, a pau, corda, chinguiço, e muito suor da testa, desde a \nRua Nova dos Mercadores, onde foi comprado, até S. Sebastião da Pedreira, onde seria \nouvido, veio Baltasar com eles para indicar o caminho, outra ajuda lhe não requereram, que \neste transporte não se faz sem ciência e arte, distribuir o peso, combinar as forças como na \npirâmide da Dança da Bica, aproveitar o molejo das cordas e do pau para ritmar a passada, \nenfim, segredos de ofício que tanto valem como outros, e cuida cada qual que os do seu são \nmáximos. O cravo foi deixado pelos galegos do lado de fora do portão, não faltava mais nada \nverem eles a máquina de voar, e para a abegoaria o levaram, com grande esforço, Baltasar \ne Blimunda, não tanto pelo peso, mas por lhes faltarem arte e ciência, sem contar que as \nvibrações das cordas pareciam queixumes magoados e por causa deles se lhes apertava \no coração, também duvidoso e assustado de tão extrema fragilidade. Nessa mesma tarde \nveio Domenico Scarlatti, ali se sentou a afinar o cravo, enquanto Baltasar entrançava vimes \ne Blimunda cosia velas, trabalhos calados que não perturbavam a obra do músico. E tendo \nconcluído a afinação, ajustado os saltarelos que o transporte havia desacertado, verificado \nas penas de pato uma por uma, Scarlatti pôs-se a tocar, primeiro deixando correr os dedos \nsobre as teclas, como se soltasse as notas das suas prisões, depois organizando os sons em \npequenos segmentos, como se escolhesse entre o certo e o errado, entre a forma repetida \ne a forma perturbada, entre a frase e o seu corte, enfim articulando em discurso novo o que \nparecera antes fragmentário e contraditório. De música sabiam pouco Baltasar e Blimunda, a \nsalmodia dos frades, raramente o estridor operático do Te Deum, toadas populares campestres \ne urbanas, cada qual suas, porém nada que se parecesse com estes sons que o italiano \ntirava do cravo, que tanto pareciam brinquedo infantil como colérica objurgação, tanto parecia \ndivertirem-se anjos como zangar-se Deus.\nAo fim de uma hora levantou-se Scarlatti do cravo, cobriu-o com um pano de vela, e depois \ndisse para Baltasar e Blimunda, que tinham interrompido o trabalho, Se a passarola do padre \nBartolomeu de Gusmão chegar a voar um dia, gostaria de ir nela e tocar no céu, e Blimunda \nrespondeu, Voando a máquina, todo o céu será música, e Baltasar, lembrando-se da guerra, \nSe não for inferno todo o céu. Não sabem, estes dois, ler nem escrever, e contudo dizem coisas \nassim, impossíveis em tal tempo e em tal lugar, se tudo tem a sua explicação, procuremos esta, \nse agora a não encontrarmos, outro dia será. Muitas vezes voltou Scarlatti à quinta do duque \nde Aveiro, nem sempre tocava, mas em certas ocasiões pedia que não se interrompessem \nos trabalhos ruidosos, a forja rugindo, o malho retumbando na bigorna, a água fervendo na \ntina, mal se ouvia o cravo no meio do grande clamor da abegoaria, e no entanto o músico \nencadeava serenamente a sua música, como se o rodeasse o grande silêncio do espaço onde \ndesejara tocar um dia.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 178-180"
+    },
+    {
+      "id": 11147,
+      "question_number": "3",
+      "statement": "3. Os exemplos apresentados no terceiro parágrafo",
+      "question_type": "multiple_choice",
       "max_points": null,
       "difficulty": null,
       "bloom_level": null,
@@ -91,19 +207,19 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\nB ................................................................................................................................ 40 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO I",
+      "groupName": "GRUPO II",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
     },
     {
-      "id": 2166,
+      "id": 11143,
       "question_number": "4",
-      "statement": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "statement": "4. Refira dois dos traços que contribuem para a humanização da música nas cinco primeiras estrofes do \npoema, apresentando transcrições que comprovem a sua resposta.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -111,20 +227,66 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "4. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)",
+      "choices": [
+        {
+          "id": 22100,
+          "letter": "A",
+          "text": "comuns e sensuais.",
+          "isCorrect": false
+        },
+        {
+          "id": 22101,
+          "letter": "B",
+          "text": "conhecidas e misteriosas.",
+          "isCorrect": false
+        },
+        {
+          "id": 22102,
+          "letter": "C",
+          "text": "banais e requintadas.",
+          "isCorrect": false
+        },
+        {
+          "id": 22103,
+          "letter": "D",
+          "text": "sugestivas e luxuosas.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "4. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4\nRefere, adequadamente, dois dos traços que contribuem para a humanização da música \nnas cinco primeiras estrofes do poema, apresentando transcrições que comprovam a \nresposta.\n12\n3\nRefere, adequadamente, um dos traços e, com pequenas imprecisões, outro dos traços \nque contribuem para a humanização da música nas cinco primeiras estrofes do poema, \napresentando transcrições que comprovam a resposta.\nOU\nRefere, com pequenas imprecisões, dois dos traços que contribuem para a humanização \nda música nas cinco primeiras estrofes do poema, apresentando transcrições que \ncomprovam a resposta.\n9\n2\nRefere, adequadamente, um dos traços que contribuem para a humanização da música \nnas cinco primeiras estrofes do poema, apresentando transcrições que comprovam a \nresposta.\nOU\nRefere, com imprecisões, dois dos traços que contribuem para a humanização da música \nnas cinco primeiras estrofes do poema, apresentando transcrições que comprovam a \nresposta.\n6\n1\nRefere, com pequenas imprecisões, um dos traços que contribuem para a humanização \nda música nas cinco primeiras estrofes do poema, apresentando transcrições que \ncomprovam a resposta.\nOU\nRefere, adequadamente, dois dos traços que contribuem para a humanização da música \nnas cinco primeiras estrofes do poema, sem apresentar transcrições que comprovem a \nresposta.\n3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)4 ............................................................... 4 pontos\nCenário de resposta\nA humanização da música decorre de vários aspetos, nomeadamente do facto de esta:\n– estar associada a vivências subjetivas do ser humano − «Povoa este deserto» (v. 2);\n– ser indissociável da identidade do ser humano − «A música do ser / Interior ao silêncio / Cria seu próprio \ntempo / Que me dá morada» (vv. 8-11);\n– possuir uma voz que é companheira do «eu» poético − «Palavras silabadas / Vêm uma a uma / Na voz \nda guitarra» (vv. 5-7); «Por companheira tenho / A voz da guitarra» (vv. 15-16).\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nA música é outra coisa. Domenico Scarlatti trouxe para a abegoaria um cravo, não o \ncarregou ele, mas dois mariolas, a pau, corda, chinguiço, e muito suor da testa, desde a \nRua Nova dos Mercadores, onde foi comprado, até S. Sebastião da Pedreira, onde seria \nouvido, veio Baltasar com eles para indicar o caminho, outra ajuda lhe não requereram, que \neste transporte não se faz sem ciência e arte, distribuir o peso, combinar as forças como na \npirâmide da Dança da Bica, aproveitar o molejo das cordas e do pau para ritmar a passada, \nenfim, segredos de ofício que tanto valem como outros, e cuida cada qual que os do seu são \nmáximos. O cravo foi deixado pelos galegos do lado de fora do portão, não faltava mais nada \nverem eles a máquina de voar, e para a abegoaria o levaram, com grande esforço, Baltasar \ne Blimunda, não tanto pelo peso, mas por lhes faltarem arte e ciência, sem contar que as \nvibrações das cordas pareciam queixumes magoados e por causa deles se lhes apertava \no coração, também duvidoso e assustado de tão extrema fragilidade. Nessa mesma tarde \nveio Domenico Scarlatti, ali se sentou a afinar o cravo, enquanto Baltasar entrançava vimes \ne Blimunda cosia velas, trabalhos calados que não perturbavam a obra do músico. E tendo \nconcluído a afinação, ajustado os saltarelos que o transporte havia desacertado, verificado \nas penas de pato uma por uma, Scarlatti pôs-se a tocar, primeiro deixando correr os dedos \nsobre as teclas, como se soltasse as notas das suas prisões, depois organizando os sons em \npequenos segmentos, como se escolhesse entre o certo e o errado, entre a forma repetida \ne a forma perturbada, entre a frase e o seu corte, enfim articulando em discurso novo o que \nparecera antes fragmentário e contraditório. De música sabiam pouco Baltasar e Blimunda, a \nsalmodia dos frades, raramente o estridor operático do Te Deum, toadas populares campestres \ne urbanas, cada qual suas, porém nada que se parecesse com estes sons que o italiano \ntirava do cravo, que tanto pareciam brinquedo infantil como colérica objurgação, tanto parecia \ndivertirem-se anjos como zangar-se Deus.\nAo fim de uma hora levantou-se Scarlatti do cravo, cobriu-o com um pano de vela, e depois \ndisse para Baltasar e Blimunda, que tinham interrompido o trabalho, Se a passarola do padre \nBartolomeu de Gusmão chegar a voar um dia, gostaria de ir nela e tocar no céu, e Blimunda \nrespondeu, Voando a máquina, todo o céu será música, e Baltasar, lembrando-se da guerra, \nSe não for inferno todo o céu. Não sabem, estes dois, ler nem escrever, e contudo dizem coisas \nassim, impossíveis em tal tempo e em tal lugar, se tudo tem a sua explicação, procuremos esta, \nse agora a não encontrarmos, outro dia será. Muitas vezes voltou Scarlatti à quinta do duque \nde Aveiro, nem sempre tocava, mas em certas ocasiões pedia que não se interrompessem \nos trabalhos ruidosos, a forja rugindo, o malho retumbando na bigorna, a água fervendo na \ntina, mal se ouvia o cravo no meio do grande clamor da abegoaria, e no entanto o músico \nencadeava serenamente a sua música, como se o rodeasse o grande silêncio do espaço onde \ndesejara tocar um dia.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 178-180"
     },
     {
-      "id": 2167,
+      "id": 11148,
+      "question_number": "4",
+      "statement": "4. Na expressão «desde as imagens mais triviais às mais sofisticadas» (linha 18), os adjetivos significam, \nrespetivamente,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 11144,
       "question_number": "5",
-      "statement": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos",
+      "statement": "5. Explicite a importância da música na construção da identidade do «eu», de acordo com o conteúdo das \nduas últimas estrofes.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -132,18 +294,64 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "5. ........................................................................................................... 20 pontos\nConteúdo (12 pontos)\nEstruturação do discurso e correção linguística (8 pontos)\n100 pontos\nGRUPO II",
+      "choices": [
+        {
+          "id": 22104,
+          "letter": "A",
+          "text": "o odor natural é intensificado pelo consumo de vários odores artificiais.",
+          "isCorrect": false
+        },
+        {
+          "id": 22105,
+          "letter": "B",
+          "text": "o odor natural exibe a dimensão física que o ser humano quer ocultar.",
+          "isCorrect": false
+        },
+        {
+          "id": 22106,
+          "letter": "C",
+          "text": "o odor artificial é caracterizado enquanto afirmação da individualidade.",
+          "isCorrect": false
+        },
+        {
+          "id": 22107,
+          "letter": "D",
+          "text": "o odor é valorizado na sua vertente natural e na sua vertente artificial.",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "5. .................................................................................................................................................... 20 pontos\n•  Aspetos de conteúdo (C) .................................................................................... 12 pontos\nNíveis Descritores do nível de desempenho Pontuação\n4 Explicita, adequadamente, a importância da música na construção da identidade do «eu», \nde acordo com o conteúdo das duas últimas estrofes. 12\n3\nExplicita, de modo não totalmente completo ou com pequenas imprecisões, a importância \nda música na construção da identidade do «eu», de acordo com o conteúdo das duas \núltimas estrofes.\n9\n2\nExplicita, de modo não totalmente completo e com pequenas imprecisões, a importância \nda música na construção da identidade do «eu», de acordo com o conteúdo das duas \núltimas estrofes.\nOU\nExplicita, de modo incompleto ou com imprecisões, a importância da música na construção \nda identidade do «eu», de acordo com o conteúdo das duas últimas estrofes.\n6\n1 Refere-se, de modo incompleto e com imprecisões, à importância da música na construção \nda identidade do «eu», de acordo com o conteúdo das duas últimas estrofes. 3\n•  Aspetos de estruturação do discurso e correção linguística (F) ......................... 8 pontos\nEstruturação do discurso (E) ........................................................... 4 pontos\nCorreção linguística* (CL)5 ............................................................... 4 pontos\nCenário de resposta\nA música é fundamental na construção da identidade do «eu», na medida em que:\n– tem o poder de conferir unidade ao «eu» poético – «O canto me reúne» (v. 18); «E agora de mim / Não \nme separa nada» (vv. 21-22);\n– potencia o reencontro com um tempo primordial e puro – «De muito longe venho / Pelo canto chamada» \n(vv. 19-20); «Num silêncio de areia / Que não foi pisada» (vv. 26-27).\nNota 1 – Não é obrigatório o recurso a citações, ainda que estas figurem, a título ilustrativo, no cenário de resposta.\nNota 2 – As respostas em que se faz referência a um «nós» podem situar-se, no máximo, no nível 2 de desempenho.\n* Vide Fatores de desvalorização no domínio da correção linguística (p. 4).\n\nGRUPO IIP ................................................................................................................................... 50 pontos\nCritérios específicos de classificação\nChave\nItem Versão 1 Versão 2 Pontuação",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO I\nA ................................................................................................................................ 60 pontos"
+      "contextText": "GRUPO I\nApresente as suas respostas de forma bem estruturada.\nA\nLeia o texto.\n5\n10\n15\n20\n25\n30\n35\nA música é outra coisa. Domenico Scarlatti trouxe para a abegoaria um cravo, não o \ncarregou ele, mas dois mariolas, a pau, corda, chinguiço, e muito suor da testa, desde a \nRua Nova dos Mercadores, onde foi comprado, até S. Sebastião da Pedreira, onde seria \nouvido, veio Baltasar com eles para indicar o caminho, outra ajuda lhe não requereram, que \neste transporte não se faz sem ciência e arte, distribuir o peso, combinar as forças como na \npirâmide da Dança da Bica, aproveitar o molejo das cordas e do pau para ritmar a passada, \nenfim, segredos de ofício que tanto valem como outros, e cuida cada qual que os do seu são \nmáximos. O cravo foi deixado pelos galegos do lado de fora do portão, não faltava mais nada \nverem eles a máquina de voar, e para a abegoaria o levaram, com grande esforço, Baltasar \ne Blimunda, não tanto pelo peso, mas por lhes faltarem arte e ciência, sem contar que as \nvibrações das cordas pareciam queixumes magoados e por causa deles se lhes apertava \no coração, também duvidoso e assustado de tão extrema fragilidade. Nessa mesma tarde \nveio Domenico Scarlatti, ali se sentou a afinar o cravo, enquanto Baltasar entrançava vimes \ne Blimunda cosia velas, trabalhos calados que não perturbavam a obra do músico. E tendo \nconcluído a afinação, ajustado os saltarelos que o transporte havia desacertado, verificado \nas penas de pato uma por uma, Scarlatti pôs-se a tocar, primeiro deixando correr os dedos \nsobre as teclas, como se soltasse as notas das suas prisões, depois organizando os sons em \npequenos segmentos, como se escolhesse entre o certo e o errado, entre a forma repetida \ne a forma perturbada, entre a frase e o seu corte, enfim articulando em discurso novo o que \nparecera antes fragmentário e contraditório. De música sabiam pouco Baltasar e Blimunda, a \nsalmodia dos frades, raramente o estridor operático do Te Deum, toadas populares campestres \ne urbanas, cada qual suas, porém nada que se parecesse com estes sons que o italiano \ntirava do cravo, que tanto pareciam brinquedo infantil como colérica objurgação, tanto parecia \ndivertirem-se anjos como zangar-se Deus.\nAo fim de uma hora levantou-se Scarlatti do cravo, cobriu-o com um pano de vela, e depois \ndisse para Baltasar e Blimunda, que tinham interrompido o trabalho, Se a passarola do padre \nBartolomeu de Gusmão chegar a voar um dia, gostaria de ir nela e tocar no céu, e Blimunda \nrespondeu, Voando a máquina, todo o céu será música, e Baltasar, lembrando-se da guerra, \nSe não for inferno todo o céu. Não sabem, estes dois, ler nem escrever, e contudo dizem coisas \nassim, impossíveis em tal tempo e em tal lugar, se tudo tem a sua explicação, procuremos esta, \nse agora a não encontrarmos, outro dia será. Muitas vezes voltou Scarlatti à quinta do duque \nde Aveiro, nem sempre tocava, mas em certas ocasiões pedia que não se interrompessem \nos trabalhos ruidosos, a forja rugindo, o malho retumbando na bigorna, a água fervendo na \ntina, mal se ouvia o cravo no meio do grande clamor da abegoaria, e no entanto o músico \nencadeava serenamente a sua música, como se o rodeasse o grande silêncio do espaço onde \ndesejara tocar um dia.\nJosé Saramago, Memorial do Convento, 27.ª ed., Lisboa, Editorial Caminho, 1998, pp. 178-180"
     },
     {
-      "id": 2173,
+      "id": 11149,
+      "question_number": "5",
+      "statement": "5. De acordo com os dois últimos parágrafos do texto, na atualidade,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
+    },
+    {
+      "id": 11150,
       "question_number": "6",
       "statement": "6. Na expressão «paisagens olfativas» (linha 27), o autor utiliza",
       "question_type": "multiple_choice",
@@ -155,25 +363,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4010,
+          "id": 22108,
           "letter": "A",
           "text": "uma metonímia.",
           "isCorrect": false
         },
         {
-          "id": 4011,
+          "id": 22109,
           "letter": "B",
           "text": "um eufemismo.",
           "isCorrect": false
         },
         {
-          "id": 4012,
+          "id": 22110,
           "letter": "C",
           "text": "um paradoxo.",
           "isCorrect": false
         },
         {
-          "id": 4013,
+          "id": 22111,
           "letter": "D",
           "text": "uma sinestesia.",
           "isCorrect": false
@@ -189,7 +397,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
     },
     {
-      "id": 2174,
+      "id": 11151,
       "question_number": "7",
       "statement": "7. No contexto em que ocorre, a palavra «Dessas» (linha 15) contribui para a coesão",
       "question_type": "multiple_choice",
@@ -201,25 +409,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 4014,
+          "id": 22112,
           "letter": "A",
           "text": "temporal.",
           "isCorrect": false
         },
         {
-          "id": 4015,
+          "id": 22113,
           "letter": "B",
           "text": "referencial.",
           "isCorrect": false
         },
         {
-          "id": 4016,
+          "id": 22114,
           "letter": "C",
           "text": "frásica.",
           "isCorrect": false
         },
         {
-          "id": 4017,
+          "id": 22115,
           "letter": "D",
           "text": "interfrásica.",
           "isCorrect": false
@@ -235,7 +443,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
     },
     {
-      "id": 2175,
+      "id": 11152,
       "question_number": "8",
       "statement": "8. Identifique o antecedente do pronome pessoal presente na expressão «há cerca de duzentos e cinquenta \ntermos a ela relativos» (linha 17).",
       "question_type": "open",
@@ -256,7 +464,7 @@
       "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
     },
     {
-      "id": 2176,
+      "id": 11153,
       "question_number": "9",
       "statement": "9. Identifique a função sintática desempenhada pela oração subordinada presente na frase «E diz que o \nolfato perdeu importância em favor da visão» (linha 21).",
       "question_type": "open",
@@ -270,27 +478,6 @@
       "criteriaText": null,
       "officialAnswer": null,
       "gabaritoDisponivel": false,
-      "pontuacaoDisponivel": false,
-      "statementCorrompido": false,
-      "groupName": "GRUPO II",
-      "contextTitle": null,
-      "contextText": "GRUPO II\nNas respostas aos itens de escolha múltipla, selecione a opção correta.\nEscreva, na folha de respostas, o número do item e a letra que identifica a opção escolhida.\nLeia o texto. Se necessário, consulte as notas.\n5\n10\n15\n20\n25\n30\n«O olfato é uma vista estranha. Evoca paisagens sentimentais por um desenhar súbito \ndo subconsciente. Tenho sentido isto muitas vezes», confessava Fernando Pessoa, no Livro \ndo Desassossego. Um odor é, de facto, suficiente para desfolhar as páginas de uma história \níntima. Ele mobiliza a nossa subjetividade e a nossa memória. Tem uma longuíssima duração. \nPor vezes, tocados pela sugestão de um odor, os olhos alargam-se num perfeito sorriso ou \nalagam-se numa brusca emoção. Os odores permitem-nos viajar no tempo e dentro de nós. \nSão um instrumento interno de rememoração. E a nossa memória é uma paleta de odores. \nA dificuldade de narrar um odor (é impossível fazê-lo com precisão, apenas com o recurso \na metáforas e comparações lá chegamos) está bem expressa no diálogo perfumado de ironia \ndas Investigações Filosóficas, quando Wittgenstein pergunta: «Procuraste já descrever o \naroma do café sem conseguir?»\nNum ensaio sobre a antropologia do olfato, David Le Breton escreve que as sociedades \nocidentais deixaram de valorizar os odores. E dá dois exemplos: na época de Dürer, existiam \nna língua alemã mais de cento e cinquenta e oito palavras para designar cheiros diferentes. \nDessas, apenas trinta e duas hoje subsistem, e frequentemente como formas dialetais muito \nlocalizadas. Pelo contrário, no mundo árabe-muçulmano, que mantém mais viva a sabedoria \ndos odores, há cerca de duzentos e cinquenta termos a ela relativos. E os odores fornecem \nmetáforas para todos os domínios da vida, desde as imagens mais triviais às mais sofisticadas. \nPara lá, claro, de encherem habitualmente as casas e transbordarem agilmente pelas ruas.\nFreud associa o recuo cultural dos odores ao progresso civilizacional das nossas sociedades. \nE diz que o olfato perdeu importância em favor da visão. O odor está demasiado próximo dos \nestádios primitivos, expõe excessivamente a individualidade, lembra que há uma corporeidade \nque não passa despercebida, como seria conveniente.\nPassou-se a viver numa insegurança em relação às emanações do próprio corpo. A narrativa \npublicitária agudiza essa incerteza em nome da necessidade de vender desodorizantes e \nperfumes. Esforçamo-nos por esconder os odores naturais e levamos a cabo verdadeiras \noperações de recomposição das paisagens olfativas onde nos movemos. Cresce todo um \ncomércio ligado ao olfato ambiental, com aromas para as várias divisões da casa e para o \nautomóvel, líquidos que imitam o odor do pinheiro ou da lavanda, mesmo se os nossos estilos \nde vida nos distanciam cada vez mais da natureza. O nosso olfato capturado pelas diretivas \ndo comércio torna-se mais controlado, mas também mais artificial.\nJosé Tolentino Mendonça, Expresso, «Revista», 27 de setembro de 2014 (adaptado)\nNOTAS\nDavid Le Breton – antropólogo e sociólogo (n. 1953 –).\nDürer – artista plástico (n. 1471 – f. 1528).\nFreud – médico neurologista, fundador da Psicanálise (n. 1856 – f. 1939).\nWittgenstein – filósofo (n. 1889 – f. 1951)."
-    },
-    {
-      "id": 2184,
-      "question_number": "10",
-      "statement": "10. .......................................................................................................... 5 pontos\n50 pontos",
-      "question_type": "open",
-      "max_points": null,
-      "difficulty": null,
-      "bloom_level": null,
-      "topic": null,
-      "subtopic": null,
-      "estimated_minutes": null,
-      "choices": null,
-      "criteriaText": "10. .......................................................................................................... 5 pontos",
-      "officialAnswer": null,
-      "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",

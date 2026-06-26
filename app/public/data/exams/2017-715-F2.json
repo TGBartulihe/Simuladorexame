@@ -4,38 +4,169 @@
   "subject": "Física e Química A",
   "year": 2017,
   "phase": "F2",
+  "triageStatus": "bom",
   "groups": [
     {
-      "id": 230,
+      "id": 1490,
       "name": "GRUPO I",
       "order": 0
     },
     {
-      "id": 231,
+      "id": 1491,
       "name": "GRUPO II",
       "order": 1
     },
     {
-      "id": 232,
+      "id": 1492,
       "name": "GRUPO III",
       "order": 2
     },
     {
-      "id": 233,
+      "id": 1493,
       "name": "GRUPO IV",
       "order": 3
     },
     {
-      "id": 234,
+      "id": 1494,
       "name": "GRUPO V",
       "order": 4
     }
   ],
   "questions": [
     {
-      "id": 1694,
+      "id": 10722,
       "question_number": "1",
-      "statement": "1. Considere uma mistura gasosa constituída por 76,5% (m/m) de nitrogénio, N2 ( g ), e por 23,5% (m/m) de \noxigénio, O2 ( g ). \nNa Figura 5, está representado um gráfico do volume, V, ocupado por um gás ideal (como é o caso da \nmistura gasosa considerada) em função da quantidade, n, de gás, a 20 oC e 1 atm.\n0 \n20 \n40 \n60 \n80 \n100 \n120 \n140 \n160 \n180 \n0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 \nV / dm3\nn / mol\nFigura 5",
+      "statement": "1. O trabalho realizado pelo peso do conjunto A, num percurso nessa pista,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "1. Apresentação apenas do resultado final, não incluindo \nos cálculos efetuados nem as justificações ou \nconclusões solicitadas.\nA resposta é classificada com zero pontos.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nConsidere dois conjuntos, A e B, ambos constituídos por um ciclista e pela respetiva bicicleta. Estes conjuntos \nmovem-se numa pista horizontal.\nAdmita que cada conjunto pode ser representado pelo seu centro de massa (modelo da partícula material)."
+    },
+    {
+      "id": 10730,
+      "question_number": "1",
+      "statement": "1. Admita que uma dessas amostras de gelo se encontrava inicialmente a -10 oC.\nQual foi a variação de temperatura, expressa em kelvin, dessa amostra, até ficar à temperatura de fusão?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10735,
+      "question_number": "1",
+      "statement": "1. Explique, com base no gráfico, como varia a velocidade de propagação da radiação eletromagnética no \nvidro SF10, à medida que o comprimento de onda da radiação, no vazio, aumenta.\nApresente num texto a explicação solicitada.",
+      "question_type": "essay",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa Figura 2, encontra-se representado o gráfico do índice de refração, n, de um vidro SF10, em função do \ncomprimento de onda, m, da radiação eletromagnética, no vazio.\n \n1,728\nn\n588 m / nm\nFigura 2"
+    },
+    {
+      "id": 10723,
+      "question_number": "2",
+      "statement": "2. Considere que vA representa o módulo da velocidade do conjunto A e que vB representa o módulo da \nvelocidade do conjunto B.\nSe a massa do conjunto A for 4\n3 da massa do conjunto B, a energia cinética do conjunto A será igual à \nenergia cinética do conjunto B quando",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21212,
+          "letter": "A",
+          "text": "+ (4 # 945) kJ",
+          "isCorrect": false
+        },
+        {
+          "id": 21213,
+          "letter": "B",
+          "text": "– (4 # 945) kJ",
+          "isCorrect": false
+        },
+        {
+          "id": 21214,
+          "letter": "C",
+          "text": "+ (2 # 945) kJ",
+          "isCorrect": false
+        },
+        {
+          "id": 21215,
+          "letter": "D",
+          "text": "– (2 # 945) kJ",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "2. Utilização de processos de resolução não previstos \nnos critérios específicos de classificação.\nÉ aceite qualquer processo de resolução cientificamente \ncorreto, desde que respeite as instruções dadas.\nOs critérios específicos serão adaptados, em cada caso, \nao processo de resolução apresentado.",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nConsidere dois conjuntos, A e B, ambos constituídos por um ciclista e pela respetiva bicicleta. Estes conjuntos \nmovem-se numa pista horizontal.\nAdmita que cada conjunto pode ser representado pelo seu centro de massa (modelo da partícula material)."
+    },
+    {
+      "id": 10731,
+      "question_number": "2",
+      "statement": "2. Enquanto uma pequena amostra de gelo se funde, a sua energia interna",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10736,
+      "question_number": "2",
+      "statement": "2. A Figura 3 representa um feixe de radiação monocromática, de comprimento de onda 588 nm, no vazio, que, \npropagando-se inicialmente no interior de um paralelepípedo de vidro SF10, incide numa das faces desse \nparalelepípedo. Uma parte desse feixe é refletida nessa face, enquanto outra parte passa a propagar-se \nno ar.\n25\no\nvidro \nar\nFigura 3Figura 3",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -44,17 +175,38 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "1. ..................................................................................................................................................... 5 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g )."
+      "groupName": "GRUPO III",
+      "contextTitle": "Figura 2",
+      "contextText": "GRUPO III\nNa Figura 2, encontra-se representado o gráfico do índice de refração, n, de um vidro SF10, em função do \ncomprimento de onda, m, da radiação eletromagnética, no vazio.\n \n1,728\nn\n588 m / nm\nFigura 2"
     },
     {
-      "id": 1695,
+      "id": 10738,
+      "question_number": "2",
+      "statement": "2. Que volume de solução de NaOH deverá ter sido adicionado à solução de HCl até ao ponto de equivalência \nda titulação?",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO IV\nA reação que ocorre na titulação de uma solução aquosa de ácido clorídrico com uma solução aquosa de \nhidróxido de sódio pode ser traduzida por\nH3O+ (aq ) + OH- (aq ) \" 2 H2O ( l )\nCom o objetivo de obter a curva da titulação ácido-base, um grupo de alunos efetuou a titulação de uma \namostra de uma solução aquosa de ácido clorídrico, \nHCl (aq ), com uma solução aquosa de hidróxido de \nsódio, NaOH (aq ).\nNa Figura 4, está representada uma montagem semelhante à que foi utilizada pelos alunos na referida \ntitulação.\nSuporte\nBureta\nSensor \nde pH\nBarra de \nagitação \nmagnética\nAparelho medidor\nde pH\nFigura 4\nNo início da titulação, o copo continha 50,0 cm 3 de uma solução aquosa de HCl, de concentração \n,m l20 01 0 4# q- por 1,00 cm3 de solução.\nA concentração da solução aquosa de NaOH, utilizada como solução titulante, era 0,400 mol dm-3."
+    },
+    {
+      "id": 10741,
       "question_number": "2",
       "statement": "2. A energia, transferida como calor, necessária para dissociar 1 mol de moléculas de N2 ( g ), a pressão \nconstante, é 945 kJ.\nA variação de entalpia associada à obtenção de 4 mol de átomos de nitrogénio, em fase gasosa, a partir \nde 2 mol de N2 ( g ) é",
       "question_type": "multiple_choice",
@@ -64,43 +216,106 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g ).\n1. Determine a constante de equilíbrio, Kc , da reação considerada, à temperatura T.\nApresente todas as etapas de resolução.\n2. Determine o rendimento da reação, nas condições consideradas.\nApresente todas as etapas de resolução.\n\nGRUPO VI\n1. Considere uma mistura gasosa constituída por 76,5% (m/m) de nitrogénio, N2 ( g ), e por 23,5% (m/m) de \noxigénio, O2 ( g ). \nNa Figura 5, está representado um gráfico do volume, V, ocupado por um gás ideal (como é o caso da \nmistura gasosa considerada) em função da quantidade, n, de gás, a 20 oC e 1 atm.\n0 \n20 \n40 \n60 \n80 \n100 \n120 \n140 \n160 \n180 \n0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 \nV / dm3\nn / mol\nFigura 5\n1.1. Qual é o significado físico do declive da reta representada?\n1.2. Calcule a massa volúmica da mistura gasosa, a 20 oC e 1 atm.\nApresente todas as etapas de resolução.\n\n2. Uma amostra pura de 100 g de N2 ( g ) conterá, no total, cerca de \n (A) 2,15 # 1024 átomos.\n (B) 3,37 # 1023 átomos.\n (C) 4,30 # 1024 átomos.\n (D) 1,69 # 1023 átomos.\n3. O nitrogénio, N2 ( g ), e o oxigénio, O2 ( g ), reagem entre si a temperaturas elevadas, formando-se óxido de \nnitrogénio, NO ( g ), uma substância poluente.\nA reação de formação do NO ( g ) pode ser traduzida por\nNg Og22 +^^ hh ? NO g2 ^h\nNesta reação, o agente redutor é o \n (A) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio +2.\n (B) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio -2.\n (C) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio +2.\n (D) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio -2.\n\nGRUPO VII"
+    },
+    {
+      "id": 10724,
+      "question_number": "3",
+      "statement": "3. Admita que, num determinado intervalo de tempo, os conjuntos A e B se movem paralelamente um ao \noutro, num troço retilíneo da pista horizontal.\nConsidere um referencial unidimensional, Ox, paralelo à trajetória dos conjuntos nesse troço.\nNa Figura 1, encontram-se representados os esboços dos gráficos das componentes escalares da \nvelocidade, vx , dos conjuntos A e B, segundo o referencial Ox , em função do tempo, t , no intervalo de \ntempo considerado.\nvx\n0 t1\nA\nB\nt2 t\nFigura 1",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
       "choices": [
         {
-          "id": 3058,
+          "id": 21216,
           "letter": "A",
-          "text": "+ (4 # 945) kJ",
-          "isCorrect": true
-        },
-        {
-          "id": 3059,
-          "letter": "B",
-          "text": "– (4 # 945) kJ",
+          "text": "duas orbitais, uma das quais apresenta menor energia do que a outra.",
           "isCorrect": false
         },
         {
-          "id": 3060,
-          "letter": "C",
-          "text": "+ (2 # 945) kJ",
-          "isCorrect": true
+          "id": 21217,
+          "letter": "B",
+          "text": "quatro orbitais, uma das quais apresenta menor energia do que as outras.",
+          "isCorrect": false
         },
         {
-          "id": 3061,
+          "id": 21218,
+          "letter": "C",
+          "text": "quatro orbitais, apresentando todas a mesma energia.",
+          "isCorrect": false
+        },
+        {
+          "id": 21219,
           "letter": "D",
-          "text": "– (2 # 945) kJ",
+          "text": "duas orbitais, apresentando ambas a mesma energia.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "2. Versão 1 – (C); Versão 2 – (A) ................................................................................................. 5 pontos",
+      "criteriaText": "3. Utilização de processos de resolução que não \nrespeitem as instruções dadas.\nSe a instrução dada se referir apenas a uma etapa de \nresolução, essa etapa é pontuada com zero pontos.\nSe a instrução se referir ao processo global de resolução \ndo item, a resposta é classificada com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g )."
+      "contextText": "GRUPO I\nConsidere dois conjuntos, A e B, ambos constituídos por um ciclista e pela respetiva bicicleta. Estes conjuntos \nmovem-se numa pista horizontal.\nAdmita que cada conjunto pode ser representado pelo seu centro de massa (modelo da partícula material)."
     },
     {
-      "id": 1696,
+      "id": 10732,
+      "question_number": "3",
+      "statement": "3. Num recipiente, introduz-se uma amostra de 150 g de gelo, à temperatura de 0,0 oC, e uma amostra de \nágua, à temperatura de 20,0 oC.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO II",
+      "contextTitle": null,
+      "contextText": null
+    },
+    {
+      "id": 10739,
+      "question_number": "3",
+      "statement": "3. No ponto de equivalência da titulação,",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO IV\nA reação que ocorre na titulação de uma solução aquosa de ácido clorídrico com uma solução aquosa de \nhidróxido de sódio pode ser traduzida por\nH3O+ (aq ) + OH- (aq ) \" 2 H2O ( l )\nCom o objetivo de obter a curva da titulação ácido-base, um grupo de alunos efetuou a titulação de uma \namostra de uma solução aquosa de ácido clorídrico, \nHCl (aq ), com uma solução aquosa de hidróxido de \nsódio, NaOH (aq ).\nNa Figura 4, está representada uma montagem semelhante à que foi utilizada pelos alunos na referida \ntitulação.\nSuporte\nBureta\nSensor \nde pH\nBarra de \nagitação \nmagnética\nAparelho medidor\nde pH\nFigura 4\nNo início da titulação, o copo continha 50,0 cm 3 de uma solução aquosa de HCl, de concentração \n,m l20 01 0 4# q- por 1,00 cm3 de solução.\nA concentração da solução aquosa de NaOH, utilizada como solução titulante, era 0,400 mol dm-3."
+    },
+    {
+      "id": 10742,
       "question_number": "3",
       "statement": "3. Os eletrões de valência do átomo de nitrogénio, no estado fundamental, encontram-se distribuídos por",
       "question_type": "multiple_choice",
@@ -110,43 +325,85 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g ).\n1. Determine a constante de equilíbrio, Kc , da reação considerada, à temperatura T.\nApresente todas as etapas de resolução.\n2. Determine o rendimento da reação, nas condições consideradas.\nApresente todas as etapas de resolução.\n\nGRUPO VI\n1. Considere uma mistura gasosa constituída por 76,5% (m/m) de nitrogénio, N2 ( g ), e por 23,5% (m/m) de \noxigénio, O2 ( g ). \nNa Figura 5, está representado um gráfico do volume, V, ocupado por um gás ideal (como é o caso da \nmistura gasosa considerada) em função da quantidade, n, de gás, a 20 oC e 1 atm.\n0 \n20 \n40 \n60 \n80 \n100 \n120 \n140 \n160 \n180 \n0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 \nV / dm3\nn / mol\nFigura 5\n1.1. Qual é o significado físico do declive da reta representada?\n1.2. Calcule a massa volúmica da mistura gasosa, a 20 oC e 1 atm.\nApresente todas as etapas de resolução.\n\n2. Uma amostra pura de 100 g de N2 ( g ) conterá, no total, cerca de \n (A) 2,15 # 1024 átomos.\n (B) 3,37 # 1023 átomos.\n (C) 4,30 # 1024 átomos.\n (D) 1,69 # 1023 átomos.\n3. O nitrogénio, N2 ( g ), e o oxigénio, O2 ( g ), reagem entre si a temperaturas elevadas, formando-se óxido de \nnitrogénio, NO ( g ), uma substância poluente.\nA reação de formação do NO ( g ) pode ser traduzida por\nNg Og22 +^^ hh ? NO g2 ^h\nNesta reação, o agente redutor é o \n (A) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio +2.\n (B) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio -2.\n (C) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio +2.\n (D) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio -2.\n\nGRUPO VII"
+    },
+    {
+      "id": 10728,
+      "question_number": "4",
+      "statement": "4. Considere que um dos conjuntos, de massa 80 kg e inicialmente com uma velocidade de módulo \n6,0 m s -1, percorre, num outro troço retilíneo da pista, 100 m em 20 s , sob a ação de uma força de \ntravagem constante.\nDetermine a intensidade da resultante das forças que atuam no conjunto, no intervalo de tempo considerado. \nAdmita que essa resultante se mantém constante.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
       "choices": [
         {
-          "id": 3062,
+          "id": 21220,
           "letter": "A",
-          "text": "duas orbitais, uma das quais apresenta menor energia do que a outra.",
-          "isCorrect": true
-        },
-        {
-          "id": 3063,
-          "letter": "B",
-          "text": "quatro orbitais, uma das quais apresenta menor energia do que as outras.",
-          "isCorrect": true
-        },
-        {
-          "id": 3064,
-          "letter": "C",
-          "text": "quatro orbitais, apresentando todas a mesma energia.",
+          "text": "7 neutrões.",
           "isCorrect": false
         },
         {
-          "id": 3065,
+          "id": 21221,
+          "letter": "B",
+          "text": "8 neutrões.",
+          "isCorrect": false
+        },
+        {
+          "id": 21222,
+          "letter": "C",
+          "text": "14 neutrões.",
+          "isCorrect": false
+        },
+        {
+          "id": 21223,
           "letter": "D",
-          "text": "duas orbitais, apresentando ambas a mesma energia.",
+          "text": "15 neutrões.",
           "isCorrect": false
         }
       ],
-      "criteriaText": "3. Versão 1 – (B); Versão 2 – (A) ................................................................................................. 5 pontos",
+      "criteriaText": "4. Utilização de valores numéricos de outras grandezas \nque não apenas as referidas na prova (no enunciado \ndos itens, na tabela de constantes e na tabela \nperiódica).\nAs etapas em que os valores dessas grandezas forem \nutilizados são pontuadas com zero pontos.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g )."
+      "contextText": "GRUPO I\nConsidere dois conjuntos, A e B, ambos constituídos por um ciclista e pela respetiva bicicleta. Estes conjuntos \nmovem-se numa pista horizontal.\nAdmita que cada conjunto pode ser representado pelo seu centro de massa (modelo da partícula material)."
     },
     {
-      "id": 1700,
+      "id": 10740,
+      "question_number": "4",
+      "statement": "4. Para obter a curva de titulação, é necessário continuar a adicionar a solução titulante depois de atingido o \nponto de equivalência da titulação.\nConsidere que, à solução inicial de HCl, foi adicionado um volume total de 40,0 cm3 de solução de NaOH, \nadmitindo-se, assim, que o volume total da solução resultante era 90,0 cm3.\nDetermine o pH, a 25 oC, da solução resultante.\nApresente todas as etapas de resolução.",
+      "question_type": "calculation",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO IV",
+      "contextTitle": "Figura 4",
+      "contextText": "GRUPO IV\nA reação que ocorre na titulação de uma solução aquosa de ácido clorídrico com uma solução aquosa de \nhidróxido de sódio pode ser traduzida por\nH3O+ (aq ) + OH- (aq ) \" 2 H2O ( l )\nCom o objetivo de obter a curva da titulação ácido-base, um grupo de alunos efetuou a titulação de uma \namostra de uma solução aquosa de ácido clorídrico, \nHCl (aq ), com uma solução aquosa de hidróxido de \nsódio, NaOH (aq ).\nNa Figura 4, está representada uma montagem semelhante à que foi utilizada pelos alunos na referida \ntitulação.\nSuporte\nBureta\nSensor \nde pH\nBarra de \nagitação \nmagnética\nAparelho medidor\nde pH\nFigura 4\nNo início da titulação, o copo continha 50,0 cm 3 de uma solução aquosa de HCl, de concentração \n,m l20 01 0 4# q- por 1,00 cm3 de solução.\nA concentração da solução aquosa de NaOH, utilizada como solução titulante, era 0,400 mol dm-3."
+    },
+    {
+      "id": 10743,
       "question_number": "4",
       "statement": "4. Um dos dois isótopos naturais do nitrogénio tem número de massa 15.\nQuantos neutrões existem, no total, no núcleo de um átomo desse isótopo?",
       "question_type": "multiple_choice",
@@ -156,45 +413,20 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3066,
-          "letter": "A",
-          "text": "7 neutrões.",
-          "isCorrect": false
-        },
-        {
-          "id": 3067,
-          "letter": "B",
-          "text": "8 neutrões.",
-          "isCorrect": true
-        },
-        {
-          "id": 3068,
-          "letter": "C",
-          "text": "14 neutrões.",
-          "isCorrect": true
-        },
-        {
-          "id": 3069,
-          "letter": "D",
-          "text": "15 neutrões.",
-          "isCorrect": false
-        }
-      ],
-      "criteriaText": "4. Versão 1 – (B); Versão 2 – (C) ................................................................................................. 5 pontos",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO V",
-      "contextTitle": null,
-      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g )."
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g ).\n1. Determine a constante de equilíbrio, Kc , da reação considerada, à temperatura T.\nApresente todas as etapas de resolução.\n2. Determine o rendimento da reação, nas condições consideradas.\nApresente todas as etapas de resolução.\n\nGRUPO VI\n1. Considere uma mistura gasosa constituída por 76,5% (m/m) de nitrogénio, N2 ( g ), e por 23,5% (m/m) de \noxigénio, O2 ( g ). \nNa Figura 5, está representado um gráfico do volume, V, ocupado por um gás ideal (como é o caso da \nmistura gasosa considerada) em função da quantidade, n, de gás, a 20 oC e 1 atm.\n0 \n20 \n40 \n60 \n80 \n100 \n120 \n140 \n160 \n180 \n0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 \nV / dm3\nn / mol\nFigura 5\n1.1. Qual é o significado físico do declive da reta representada?\n1.2. Calcule a massa volúmica da mistura gasosa, a 20 oC e 1 atm.\nApresente todas as etapas de resolução.\n\n2. Uma amostra pura de 100 g de N2 ( g ) conterá, no total, cerca de \n (A) 2,15 # 1024 átomos.\n (B) 3,37 # 1023 átomos.\n (C) 4,30 # 1024 átomos.\n (D) 1,69 # 1023 átomos.\n3. O nitrogénio, N2 ( g ), e o oxigénio, O2 ( g ), reagem entre si a temperaturas elevadas, formando-se óxido de \nnitrogénio, NO ( g ), uma substância poluente.\nA reação de formação do NO ( g ) pode ser traduzida por\nNg Og22 +^^ hh ? NO g2 ^h\nNesta reação, o agente redutor é o \n (A) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio +2.\n (B) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio -2.\n (C) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio +2.\n (D) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio -2.\n\nGRUPO VII"
     },
     {
-      "id": 1701,
+      "id": 10729,
       "question_number": "5",
-      "statement": "5. Qual é o elemento do 2.º período da tabela periódica cujos átomos, no estado fundamental, apresentam \nmenor raio atómico?\nFIM\n\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3.1. 3.2. 3.3. 4. 5.\n5 5 5 15 5 10 10 55\nII 1. 2. 3.1. 3.2.\n5 5 10 5 25\nIII 1. 2.1. 2.2.\n10 5 5 20\nIV 1. 2. 3. 4.\n5 5 5 15 30\nV 1. 2.\n10 10 20\nVI 1.1. 1.2. 2. 3.\n5 10 5 5 25\nVII 1. 2. 3. 4. 5.\n5 5 5 5 5 25\nTOTAL 200\n\nProva 715\n2.ª Fase\nVERSÃO 1",
+      "statement": "5. Um dos conjuntos descreve, num outro intervalo de tempo, um arco de circunferência, com velocidade de \nmódulo constante.\nConclua, com base na caracterização do vetor velocidade, relativamente à trajetória descrita, se a \naceleração do conjunto é, ou não, nula, no intervalo de tempo considerado.\nApresente num texto a fundamentação da conclusão solicitada.",
       "question_type": "open",
       "max_points": null,
       "difficulty": null,
@@ -203,17 +435,38 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "5. ..................................................................................................................................................... 5 pontos\nNéon ou Ne\nCOTAÇÕES\nGrupo Item\nCotação (em pontos)\nI 1. 2. 3.1. 3.2. 3.3. 4. 5.",
+      "criteriaText": "5. Utilização de valores numéricos diferentes dos forne-\ncidos no enunciado dos itens.\nAs etapas em que esses valores forem utilizados são \npontuadas com zero pontos, salvo se esses valores \nresultarem de erros de transcrição identificáveis, caso em \nque serão considerados erros de tipo 1.",
       "officialAnswer": null,
       "gabaritoDisponivel": true,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
-      "groupName": "GRUPO V",
+      "groupName": "GRUPO I",
       "contextTitle": null,
-      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g )."
+      "contextText": "GRUPO I\nConsidere dois conjuntos, A e B, ambos constituídos por um ciclista e pela respetiva bicicleta. Estes conjuntos \nmovem-se numa pista horizontal.\nAdmita que cada conjunto pode ser representado pelo seu centro de massa (modelo da partícula material)."
     },
     {
-      "id": 1709,
+      "id": 10744,
+      "question_number": "5",
+      "statement": "5. Qual é o elemento do 2.º período da tabela periódica cujos átomos, no estado fundamental, apresentam \nmenor raio atómico?",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": null,
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO V",
+      "contextTitle": "Figura 5",
+      "contextText": "GRUPO V\nConsidere que, num reator com a capacidade de 1,00 L, se misturaram 0,80 mol de um reagente A ( g ) com \n1,30 mol de um outro reagente B ( g ), que reagiram entre si, formando-se os produtos C ( g ) e D ( g ). Esta \nreação pode ser traduzida por\nA ( g ) + 2 B ( g ) ? C ( g ) + D ( g )\nDepois de atingido o equilíbrio, à temperatura T, verificou-se que existiam no reator 0,45 mol de C ( g ).\n1. Determine a constante de equilíbrio, Kc , da reação considerada, à temperatura T.\nApresente todas as etapas de resolução.\n2. Determine o rendimento da reação, nas condições consideradas.\nApresente todas as etapas de resolução.\n\nGRUPO VI\n1. Considere uma mistura gasosa constituída por 76,5% (m/m) de nitrogénio, N2 ( g ), e por 23,5% (m/m) de \noxigénio, O2 ( g ). \nNa Figura 5, está representado um gráfico do volume, V, ocupado por um gás ideal (como é o caso da \nmistura gasosa considerada) em função da quantidade, n, de gás, a 20 oC e 1 atm.\n0 \n20 \n40 \n60 \n80 \n100 \n120 \n140 \n160 \n180 \n0,0 1,0 2,0 3,0 4,0 5,0 6,0 7,0 8,0 \nV / dm3\nn / mol\nFigura 5\n1.1. Qual é o significado físico do declive da reta representada?\n1.2. Calcule a massa volúmica da mistura gasosa, a 20 oC e 1 atm.\nApresente todas as etapas de resolução.\n\n2. Uma amostra pura de 100 g de N2 ( g ) conterá, no total, cerca de \n (A) 2,15 # 1024 átomos.\n (B) 3,37 # 1023 átomos.\n (C) 4,30 # 1024 átomos.\n (D) 1,69 # 1023 átomos.\n3. O nitrogénio, N2 ( g ), e o oxigénio, O2 ( g ), reagem entre si a temperaturas elevadas, formando-se óxido de \nnitrogénio, NO ( g ), uma substância poluente.\nA reação de formação do NO ( g ) pode ser traduzida por\nNg Og22 +^^ hh ? NO g2 ^h\nNesta reação, o agente redutor é o \n (A) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio +2.\n (B) N2 ( g ), sendo a variação do número de oxidação do átomo de nitrogénio -2.\n (C) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio +2.\n (D) O2 ( g ), sendo a variação do número de oxidação do átomo de oxigénio -2.\n\nGRUPO VII"
+    },
+    {
+      "id": 10737,
       "question_number": "2.2",
       "statement": "2.2. Qual é o ângulo de incidência a partir do qual o feixe será totalmente refletido na face do paralelepípedo?",
       "question_type": "multiple_choice",
@@ -225,25 +478,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3038,
+          "id": 21200,
           "letter": "A",
           "text": "35,4o",
           "isCorrect": true
         },
         {
-          "id": 3039,
+          "id": 21201,
           "letter": "B",
           "text": "42,8o",
           "isCorrect": true
         },
         {
-          "id": 3040,
+          "id": 21202,
           "letter": "C",
           "text": "46,7o",
           "isCorrect": false
         },
         {
-          "id": 3041,
+          "id": 21203,
           "letter": "D",
           "text": "90,0o",
           "isCorrect": false
@@ -259,7 +512,28 @@
       "contextText": "GRUPO III\nNa Figura 2, encontra-se representado o gráfico do índice de refração, n, de um vidro SF10, em função do \ncomprimento de onda, m, da radiação eletromagnética, no vazio.\n \n1,728\nn\n588 m / nm\nFigura 2"
     },
     {
-      "id": 1697,
+      "id": 10725,
+      "question_number": "3.1",
+      "statement": "3.1. De acordo com o gráfico, no intervalo de tempo [0, t2 ], os conjuntos A e B",
+      "question_type": "multiple_choice",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": null,
+      "criteriaText": "3.1. Versão 1 – (B); Versão 2 – (C) .............................................................................................. 5 pontos",
+      "officialAnswer": null,
+      "gabaritoDisponivel": false,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nConsidere dois conjuntos, A e B, ambos constituídos por um ciclista e pela respetiva bicicleta. Estes conjuntos \nmovem-se numa pista horizontal.\nAdmita que cada conjunto pode ser representado pelo seu centro de massa (modelo da partícula material)."
+    },
+    {
+      "id": 10733,
       "question_number": "3.1",
       "statement": "3.1. Determine a massa mínima de água, a 20,0 oC, que será necessário adicionar à amostra de gelo para \nque esta apenas se funda, ficando a mistura em equilíbrio térmico à temperatura de 0,0 oC. Admita \nque não há trocas de energia entre a mistura obtida e a sua vizinhança.\nA energia necessária à fusão de 1,0 kg de gelo é 3,34 #105 J.\nApresente todas as etapas de resolução.",
       "question_type": "calculation",
@@ -270,9 +544,9 @@
       "subtopic": null,
       "estimated_minutes": null,
       "choices": null,
-      "criteriaText": "3.1. ................................................................................................................................................. 10 pontos\nEtapas de resolução:\nA) Cálculo da energia necessária à fusão do gelo ( ,JE 50 11 0 4#= ) ................ 5 pontos\nB) Cálculo da massa mínima de água que será necessário adicionar à amostra\nde gelo (m = 0,60 kg) ....................................................................................... 5 pontos",
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -280,7 +554,53 @@
       "contextText": null
     },
     {
-      "id": 1698,
+      "id": 10726,
+      "question_number": "3.2",
+      "statement": "3.2. Conclua se a soma dos trabalhos realizados pelas forças não conservativas que atuam no conjunto A, \nno intervalo de tempo [0, t2 ], é positiva ou negativa. \nApresente num texto a fundamentação da conclusão solicitada.",
+      "question_type": "open",
+      "max_points": null,
+      "difficulty": null,
+      "bloom_level": null,
+      "topic": null,
+      "subtopic": null,
+      "estimated_minutes": null,
+      "choices": [
+        {
+          "id": 21196,
+          "letter": "A",
+          "text": "37%",
+          "isCorrect": false
+        },
+        {
+          "id": 21197,
+          "letter": "B",
+          "text": "62%",
+          "isCorrect": false
+        },
+        {
+          "id": 21198,
+          "letter": "C",
+          "text": "2,7%",
+          "isCorrect": false
+        },
+        {
+          "id": 21199,
+          "letter": "D",
+          "text": "70%",
+          "isCorrect": false
+        }
+      ],
+      "criteriaText": "3.2. ................................................................................................................................................. 15 pontos\nA resposta integra os tópicos de referência seguintes ou outros de conteúdo equivalente:\nA) A soma dos trabalhos realizados pelas forças não conservativas [que atuam no \nconjunto A] é igual à soma da variação da energia cinética [do conjunto] e da variação \nda energia potencial gravítica [do sistema conjunto + Terra].\nB) [No intervalo de tempo considerado,] a variação da energia cinética [do conjunto] é \npositiva, uma vez que o módulo da velocidade [daquele conjunto] aumenta.\nC) [No intervalo de tempo considerado,] a variação da energia potencial gravítica [do \nsistema conjunto + Terra] é nula, uma vez que o conjunto se move sobre uma superfície \nhorizontal.\nD) [Consequentemente, no intervalo de tempo considerado,] a soma dos trabalhos \nrealizados pelas forças não conservativas que atuam no conjunto [, sendo igual à \nvariação da energia cinética do conjunto, no mesmo intervalo de tempo,] é positiva.\nOU\nA) A soma dos trabalhos realizados pelas forças conservativas e pelas forças não \nconservativas [que atuam no conjunto A] é igual à variação da energia cinética \n[desse conjunto].\nB) [ No intervalo de tempo considerado,] a variação da energia cinética [do conjunto] \né positiva, uma vez que o módulo da velocidade [daquele conjunto] aumenta.\nC) [ No intervalo de tempo considerado,] o trabalho realizado pelo peso do conjunto \n[(a única força conservativa que atua nesse conjunto)] é nulo, uma vez que o peso é \numa força perpendicular ao deslocamento.\nD) [Consequentemente, no intervalo de tempo considerado,] a soma dos trabalhos \nrealizados pelas forças não conservativas que atuam no conjunto [, sendo igual à \nvariação da energia cinética do conjunto, no mesmo intervalo de tempo,] é positiva.\nOU\nA) [No intervalo de tempo considerado,] a aceleração do conjunto A (ou a resultante das \nforças que atuam no conjunto A) tem o sentido do movimento, uma vez que o módulo \nda velocidade aumenta.\n\nB) O trabalho realizado pela resultante das forças [que atuam no conjunto] é positivo, uma \nvez que essa resultante tem o sentido do deslocamento (ou uma vez que o módulo da \nvelocidade aumenta).\nC) [ No intervalo de tempo considerado,] o trabalho realizado pelo peso do conjunto \n[(a única força conservativa que atua nesse conjunto)] é nulo, uma vez que o peso é \numa força perpendicular ao deslocamento.\nD) [Consequentemente, no intervalo de tempo considerado,] a soma dos trabalhos \nrealizados pelas forças não conservativas que atuam no conjunto [, sendo igual \nao trabalho realizado pela resultante das forças que atuam no conjunto, no mesmo \nintervalo de tempo,] é positiva.\nOU\nA) [Deslocando-se o conjunto A sobre uma superfície horizontal,] as forças [conservativas \nou não conservativas] que realizem trabalho [não nulo] serão as forças responsáveis \npela variação do módulo da velocidade do conjunto.\nB) [No intervalo de tempo considerado,] o trabalho realizado pelo peso do conjunto \n[(a única força conservativa que atua nesse conjunto)] é nulo, uma vez que o peso é \numa força perpendicular ao deslocamento.\nC) Assim, o aumento do módulo da velocidade do conjunto [, no intervalo de tempo \nconsiderado,] resulta do trabalho realizado pelas (ou da ação das) forças não \nconservativas que atuam no conjunto.\nD) [Consequentemente, no intervalo de tempo considerado,] a soma dos trabalhos \nrealizados pelas forças não conservativas que atuam no conjunto é positiva.\nNíveis Descritores de desempenho Pontuação\n6 A resposta integra os quatro tópicos de referência com organização coerente dos \nconteúdos e linguagem científica adequada. 15\n5\nA resposta integra os quatro tópicos de referência com falhas na organização dos \nconteúdos ou na utilização da linguagem científica.\nOU\nA resposta integra apenas os tópicos de referência A, B e C com organização \ncoerente dos conteúdos e linguagem científica adequada.\n13\n4 A resposta integra apenas os tópicos de referência A, B e C com falhas na \norganização dos conteúdos ou na utilização da linguagem científica. 11\n3\nA resposta integra apenas os tópicos de referência A e B ou apenas os tópicos \nde referência A e C ou apenas os tópicos de referência B e C com organização \ncoerente dos conteúdos e linguagem científica adequada.\n8\n2\nA resposta integra apenas os tópicos de referência A e B ou apenas os tópicos \nde referência A e C ou apenas os tópicos de referência B e C com falhas na \norganização dos conteúdos ou na utilização da linguagem científica.\n6\n1 A resposta integra apenas o tópico de referência A ou apenas o tópico de referência \nB ou apenas o tópico de referência C com linguagem científica adequada. 4",
+      "officialAnswer": null,
+      "gabaritoDisponivel": true,
+      "pontuacaoDisponivel": false,
+      "statementCorrompido": false,
+      "groupName": "GRUPO I",
+      "contextTitle": null,
+      "contextText": "GRUPO I\nConsidere dois conjuntos, A e B, ambos constituídos por um ciclista e pela respetiva bicicleta. Estes conjuntos \nmovem-se numa pista horizontal.\nAdmita que cada conjunto pode ser representado pelo seu centro de massa (modelo da partícula material)."
+    },
+    {
+      "id": 10734,
       "question_number": "3.2",
       "statement": "3.2. Para que a amostra de água adicionada ao gelo ficasse à temperatura de 20,0 oC, forneceu-se-lhe \nenergia com uma fonte de 250 W, durante 1,5 minutos. Neste processo, a energia interna da água \naumentou ,J14 10 4# .\nQual foi o rendimento do processo de aquecimento da água?",
       "question_type": "multiple_choice",
@@ -290,35 +610,10 @@
       "topic": null,
       "subtopic": null,
       "estimated_minutes": null,
-      "choices": [
-        {
-          "id": 3034,
-          "letter": "A",
-          "text": "37%",
-          "isCorrect": false
-        },
-        {
-          "id": 3035,
-          "letter": "B",
-          "text": "62%",
-          "isCorrect": true
-        },
-        {
-          "id": 3036,
-          "letter": "C",
-          "text": "2,7%",
-          "isCorrect": false
-        },
-        {
-          "id": 3037,
-          "letter": "D",
-          "text": "70%",
-          "isCorrect": true
-        }
-      ],
-      "criteriaText": "3.2. Versão 1 – (B); Versão 2 – (D) .............................................................................................. 5 pontos\nGRUPO III",
+      "choices": null,
+      "criteriaText": null,
       "officialAnswer": null,
-      "gabaritoDisponivel": true,
+      "gabaritoDisponivel": false,
       "pontuacaoDisponivel": false,
       "statementCorrompido": false,
       "groupName": "GRUPO II",
@@ -326,7 +621,7 @@
       "contextText": null
     },
     {
-      "id": 1699,
+      "id": 10727,
       "question_number": "3.3",
       "statement": "3.3. Nos esquemas seguintes, está representado o conjunto B, que se move da esquerda para a direita.\nEm qual dos esquemas se encontram representados o vetor resultante das forças, F , que atuam \nnesse conjunto e o vetor aceleração, a , no intervalo de tempo [0, t2 ]?",
       "question_type": "multiple_choice",
@@ -338,25 +633,25 @@
       "estimated_minutes": null,
       "choices": [
         {
-          "id": 3022,
+          "id": 21184,
           "letter": "A",
           "text": "",
           "isCorrect": false
         },
         {
-          "id": 3023,
+          "id": 21185,
           "letter": "B",
           "text": "",
           "isCorrect": true
         },
         {
-          "id": 3024,
+          "id": 21186,
           "letter": "C",
           "text": "",
           "isCorrect": false
         },
         {
-          "id": 3025,
+          "id": 21187,
           "letter": "D",
           "text": "F a F a F F a a",
           "isCorrect": true
